@@ -9,7 +9,7 @@ cache:
 python:
   - "3.6"
 install:
-  - pip install ucca
+  - pip install -U ucca
 env:
   global:
     - secure: "XQ/QyaVW/J2pDdG7aTGLn3rVGlAFkNNYRwfjLQR4Bk9OFOn0rKhGNqDgbWc/VBINtpvTqfeg/jS1lF08BdSbOBUOO5DqpjzWUAyZucJm0w7lpu4st1DSE4cACtZYL2WGPYbV84rDGyCEodhIXqoU8WjCsp+JYiF8UoMwPD3NfLCKKxS391b2Wd92DPrukBOHu+knPSErje1+3iBQSsSgalQfRLVtIApHHAy3GI0yDVhG10f/EOPb+iGxDNlQL02n3BX6Cuds065cadm7UAMuwV0YqG/DBNao+0dKJ1NpTqaLoxaB62muNUjtfranwwJCz7FW7SbhexTOWJo7KBLcq1e3MYLZWlgUMdG1w027olO55EffotXsp5JJg/NyONUjrXxsHVqCGRmwur10sF+qwqmoGOcIgHLsyaw8WFLR4Dtlgtcc2BAa5vGYOttpxpHS6DaI2+ku3odWSBC2C5jMdanZnZx6cmn2bVZyM5z+m/bjrXNwdz0GeMIpjDZmhfCQtGesffFmqhgLyWIxGTXzha0XnqD87opxfk+XU/I3iFb6VFTd1WZSymeLYrZr7X8KW8n/pV6UhmN7H6FJ8Bluk6qeWSGnvJeBISLJ2Guk7h8tyTFeU4kEpQsR5GsbP27peCicNiawKMzPXRH4uQPd8d+YSAAjAN8oxbekx2/+l0Y="
