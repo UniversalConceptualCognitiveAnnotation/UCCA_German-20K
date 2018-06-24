@@ -1,0 +1,56 @@
+#BOS 25717006
+;	Punctuation	--	Terminal	500
+sie	Word	--	Terminal	501
+gehören	Word	--	Terminal	502
+zwar	Word	--	Terminal	503
+zu	Word	--	Terminal	504
+den	Word	--	Terminal	505
+Knorpelfischen	Word	--	Terminal	506
+,	Punctuation	--	Terminal	507
+sind	Word	--	Terminal	508
+aber	Word	--	Terminal	509
+schmackhaft	Word	--	Terminal	510
+und	Word	--	Terminal	511
+werden	Word	--	Terminal	512
+frisch	Word	--	Terminal	513
+,	Punctuation	--	Terminal	514
+getrocknet	Word	--	Terminal	515
+,	Punctuation	--	Terminal	516
+mariniert	Word	--	Terminal	517
+oder	Word	--	Terminal	518
+gesalzen	Word	--	Terminal	519
+gegessen	Word	--	Terminal	520
+.	Punctuation	--	Terminal	521
+#500	PNCT	--	U	527
+#501	FN	--	A	530	A*	527	A*	522	A*	523	A*	529	A*	515	A*	524
+#502	FN	--	S	530
+#503	FN	--	L	531
+#504	FN	--	R	525
+#505	FN	--	E	525
+#506	FN	--	C	525
+#507	PNCT	--	U	531
+#508	FN	--	F	526
+#509	FN	--	L	531
+#510	FN	--	S	526
+#511	FN	--	L	531
+#512	FN	--	F	527
+#513	FN	--	S	524
+#514	PNCT	--	U	531
+#515	FN	--	A	522
+#516	PNCT	--	U	531
+#517	FN	--	D	523
+#518	FN	--	L	531
+#519	FN	--	S	528
+#520	FN	--	P	529	P*	527	P*	522	P*	523
+#521	PNCT	--	U	527
+#522	FN	--	H	531
+#523	FN	--	H	531
+#524	FN	--	A	527
+#525	FN	--	A	530
+#526	FN	--	H	531
+#527	FN	--	H	531
+#528	FN	--	D	529
+#529	FN	--	H	531
+#530	FN	--	H	531
+#531	FN	--	--	0
+#EOS 25717006
