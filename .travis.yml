@@ -20,6 +20,8 @@ jobs:
       env: FORMAT=visualize-1
     - script: curl $SCRIPTS/visualize.sh | bash -s "25[7-9]"
       env: FORMAT=visualize-2
+    - script: curl $SCRIPTS/sentences_to_xml.sh | bash
+      env: FORMAT=xml
     - script: curl $SCRIPTS/convert.sh | bash -s $FORMAT
       env: FORMAT=sdp
     - script: curl $SCRIPTS/convert.sh | bash -s $FORMAT
