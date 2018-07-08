@@ -16,7 +16,9 @@ jobs:
     - stage: split
       script: curl $SCRIPTS/split_to_sentences.sh | bash
     - stage: convert
-      script: curl $SCRIPTS/visualize.sh | bash -s "25[0-6]"
+      script: curl $SCRIPTS/validate_sentences.sh | bash
+      env: FORMAT=validate
+    - script: curl $SCRIPTS/visualize.sh | bash -s "25[0-6]"
       env: FORMAT=visualize-1
     - script: curl $SCRIPTS/visualize.sh | bash -s "25[7-9]"
       env: FORMAT=visualize-2
