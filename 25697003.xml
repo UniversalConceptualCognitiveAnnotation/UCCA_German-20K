@@ -122,6 +122,15 @@
       <edge toID="1.26" type="D">
         <attributes />
       </edge>
+      <edge toID="1.27" type="A">
+        <attributes />
+      </edge>
+      <edge toID="1.28" type="P">
+        <attributes />
+      </edge>
+      <edge toID="1.29" type="D">
+        <attributes />
+      </edge>
     </node>
     <node ID="1.5" type="PNCT">
       <attributes />
@@ -280,6 +289,15 @@
       </edge>
     </node>
     <node ID="1.26" type="FN">
+      <attributes implicit="True" />
+    </node>
+    <node ID="1.27" type="FN">
+      <attributes implicit="True" />
+    </node>
+    <node ID="1.28" type="FN">
+      <attributes implicit="True" />
+    </node>
+    <node ID="1.29" type="FN">
       <attributes />
       <edge toID="0.1" type="Terminal">
         <attributes />

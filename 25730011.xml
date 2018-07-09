@@ -63,11 +63,23 @@
     </node>
     <node ID="1.6" type="FN">
       <attributes />
-      <edge toID="1.7" type="D">
+      <edge toID="1.7" type="A">
+        <attributes />
+      </edge>
+      <edge toID="1.8" type="S">
+        <attributes />
+      </edge>
+      <edge toID="1.9" type="D">
         <attributes />
       </edge>
     </node>
     <node ID="1.7" type="FN">
+      <attributes implicit="True" />
+    </node>
+    <node ID="1.8" type="FN">
+      <attributes implicit="True" />
+    </node>
+    <node ID="1.9" type="FN">
       <attributes />
       <edge toID="0.3" type="Terminal">
         <attributes />

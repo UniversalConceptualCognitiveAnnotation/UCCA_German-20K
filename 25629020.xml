@@ -32,7 +32,10 @@
     </node>
     <node ID="1.2" type="FN">
       <attributes />
-      <edge toID="1.5" type="S">
+      <edge toID="1.5" type="A">
+        <attributes />
+      </edge>
+      <edge toID="1.6" type="S">
         <attributes />
       </edge>
     </node>
@@ -49,6 +52,9 @@
       </edge>
     </node>
     <node ID="1.5" type="FN">
+      <attributes implicit="True" />
+    </node>
+    <node ID="1.6" type="FN">
       <attributes />
       <edge toID="0.1" type="Terminal">
         <attributes />
