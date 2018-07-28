@@ -1,0 +1,42 @@
+# ::id 25769008
+# ::tok Das Wetter war hell , die Atmosphäre ziemlich rein , die Kälte strenge , 12 Grad unter Null ; aber da der Wind sich gelegt hatte , schien diese Temperatur nicht zu unerträglich .
+(v1 / label
+    :H (v2 / label
+           :A (v9 / label
+                  :E (v22 / label)
+                  :C (v23 / label))
+           :S (v10 / label))
+    :H (v3 / label
+           :A (v11 / label
+                   :E (v24 / label)
+                   :C (v25 / label))
+           :D (v12 / label)
+           :S (v13 / label))
+    :H (v4 / label
+           :A (v14 / label
+                   :E (v26 / label)
+                   :C (v27 / label))
+           :S (v15 / label)
+           :A (v16 / label
+                   :E (v28 / label
+                           :E (v37 / label)
+                           :C (v38 / label))
+                   :R (v29 / label)
+                   :C (v30 / label)))
+    :L (v5 / label)
+    :L (v6 / label)
+    :H (v7 / label
+           :A (v17 / label
+                   :E (v31 / label)
+                   :C (v32 / label))
+           :P (v18 / label))
+    :H (v8 / label
+           :A (v19 / label)
+           :S (v20 / label)
+           :A (v21 / label
+                   :A (v33 / label
+                           :E (v39 / label)
+                           :C (v40 / label))
+                   :D (v34 / label)
+                   :D (v35 / label)
+                   :S (v36 / label))))

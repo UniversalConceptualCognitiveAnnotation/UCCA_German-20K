@@ -1,0 +1,14 @@
+# ::id 25820001
+# ::tok »Nennen Sie s , wie Sie wollen.«
+(v1 / label
+    :H (v2 / label
+           :P (v3 / label)
+           :A (v4 / label
+                  :P (v5 / label)
+                  :A (v6 / label)
+                  :A (v7 / label)
+                  :A (v8 / label
+                         :P v5
+                         :R (v9 / label)
+                         :A (v10 / label)
+                         :D (v11 / label)))))

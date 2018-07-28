@@ -1,0 +1,36 @@
+# ::id 25748015
+# ::tok Ich erwog alle diese Gründe , überlegte sie in meinem Geist hin und her , besprach sie mit Conseil , der ebenso verlegen war wie ich .
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label)
+           :P (v6 / label)
+           :A (v7 / label
+                  :E (v15 / label)
+                  :E (v16 / label)
+                  :C (v17 / label)))
+    :H (v3 / label
+           :P (v8 / label)
+           :A (v9 / label)
+           :A (v10 / label
+                   :R (v18 / label)
+                   :E (v19 / label)
+                   :C (v20 / label))
+           :D (v11 / label)
+           :A v5)
+    :H (v4 / label
+           :P (v12 / label)
+           :A (v13 / label)
+           :A (v14 / label
+                   :E (v21 / label
+                           :R (v24 / label)
+                           :H (v25 / label
+                                   :D (v27 / label)
+                                   :S (v28 / label)
+                                   :A (v23 / label))
+                           :H (v26 / label
+                                   :R (v29 / label)
+                                   :A (v30 / label)
+                                   :S v28))
+                   :R (v22 / label)
+                   :C v23)
+           :A v5))

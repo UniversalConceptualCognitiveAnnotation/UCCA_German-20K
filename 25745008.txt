@@ -1,0 +1,21 @@
+# ::id 25745008
+# ::tok Wir genossen ein wahres Vergnügen , uns auf den feinen Sand hinzustrecken .
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :P (v4 / label)
+           :A (v5 / label
+                  :C (v6 / label
+                         :S (v8 / label
+                                :E (v13 / label)
+                                :C (v12 / label))
+                         :D (v9 / label))
+                  :E (v7 / label
+                         :A v3
+                         :P (v10 / label)
+                         :A (v11 / label
+                                 :R (v14 / label)
+                                 :E (v15 / label)
+                                 :E (v16 / label)
+                                 :C (v17 / label))
+                         :A v12))))

@@ -1,0 +1,27 @@
+# ::id 25730010
+# ::tok Er fragte mich sehr höflich , ob ich mich von dem Wachen in der vorigen Nacht ermüdet fühle .
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :P (v4 / label)
+           :A (v5 / label)
+           :D (v6 / label
+                  :E (v8 / label)
+                  :C (v9 / label))
+           :A (v7 / label
+                  :R (v10 / label)
+                  :A (v11 / label)
+                  :S (v12 / label)
+                  :A (v13 / label
+                          :R (v15 / label)
+                          :P (v16 / label
+                                  :E (v19 / label)
+                                  :C (v20 / label))
+                          :A (v17 / label
+                                  :R (v21 / label)
+                                  :E (v22 / label)
+                                  :E (v23 / label)
+                                  :C (v24 / label)))
+                  :A (v14 / label
+                          :A v11
+                          :S (v18 / label)))))

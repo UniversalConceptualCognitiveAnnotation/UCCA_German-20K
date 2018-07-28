@@ -1,0 +1,26 @@
+# ::id 25746022
+# ::tok Jedermann weiß , daß darin eine große Strömung warmen Wassers ist , bekannt unter dem Namen Golfstrom .
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label)
+           :P (v5 / label)
+           :A (v6 / label
+                  :R (v10 / label)
+                  :A (v11 / label)
+                  :A (v12 / label
+                          :E (v17 / label
+                                  :E (v22 / label)
+                                  :C (v23 / label))
+                          :E (v18 / label)
+                          :E (v19 / label)
+                          :C (v9 / label))
+                  :S (v13 / label)))
+    :H (v3 / label
+           :S (v7 / label)
+           :A (v8 / label
+                  :R (v14 / label)
+                  :E (v15 / label
+                          :E (v20 / label)
+                          :C (v21 / label))
+                  :C (v16 / label))
+           :A v9))

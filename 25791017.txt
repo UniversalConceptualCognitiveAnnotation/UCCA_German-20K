@@ -1,0 +1,20 @@
+# ::id 25791017
+# ::tok Um sie fortzuschaffen , hätte man Gefäße mit kaustischem Kali füllen und beständig rütteln müssen .
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :A (v5 / label)
+           :P (v6 / label))
+    :H (v4 / label
+           :A (v7 / label)
+           :A (v8 / label)
+           :A (v9 / label
+                  :R (v13 / label)
+                  :E (v14 / label)
+                  :C (v15 / label))
+           :P (v10 / label
+                   :C (v16 / label)
+                   :N (v17 / label)
+                   :C (v18 / label))
+           :D (v11 / label)
+           :D (v12 / label)))

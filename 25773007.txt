@@ -1,0 +1,37 @@
+# ::id 25773007
+# ::tok Als ich wieder zu Kapitän Nemo kam , fand ich ihn schweigend gegen einen Felsblock gelehnt und den Blick zum Himmel gerichtet .
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :A (v5 / label)
+           :D (v6 / label)
+           :A (v7 / label
+                  :R (v13 / label)
+                  :E (v14 / label)
+                  :C (v15 / label))
+           :P (v8 / label))
+    :H (v4 / label
+           :P (v9 / label)
+           :A (v10 / label)
+           :A (v11 / label)
+           :A (v12 / label
+                   :H (v16 / label
+                           :S (v20 / label)
+                           :A v15)
+                   :H (v17 / label
+                           :A (v21 / label
+                                   :R (v26 / label)
+                                   :E (v27 / label)
+                                   :C (v28 / label))
+                           :S (v22 / label)
+                           :A v15)
+                   :L (v18 / label)
+                   :H (v19 / label
+                           :A (v23 / label
+                                   :E (v29 / label)
+                                   :C (v30 / label))
+                           :A (v24 / label
+                                   :R (v31 / label)
+                                   :C (v32 / label))
+                           :P (v25 / label)
+                           :A v15))))

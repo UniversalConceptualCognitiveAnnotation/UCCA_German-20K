@@ -1,0 +1,23 @@
+# ::id 25805000
+# ::tok Auf diese Weise fing man einige Cacuanen , die einen Meter lang waren und 200 Kilo wogen .
+(v1 / label
+    :H (v2 / label
+           :D (v3 / label)
+           :P (v4 / label)
+           :A (v5 / label)
+           :A (v6 / label
+                  :E (v7 / label
+                         :C (v10 / label
+                                 :R (v13 / label)
+                                 :A (v14 / label
+                                         :E (v18 / label)
+                                         :C (v19 / label))
+                                 :S (v15 / label)
+                                 :A (v9 / label))
+                         :N (v11 / label)
+                         :C (v12 / label
+                                 :A (v16 / label)
+                                 :S (v17 / label)
+                                 :A v9))
+                  :E (v8 / label)
+                  :C v9)))

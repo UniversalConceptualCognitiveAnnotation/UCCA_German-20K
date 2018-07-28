@@ -1,0 +1,31 @@
+# ::id 25782003
+# ::tok Ich stützte mich seitwärts an die Wände und drückte mich durch die Gänge bis zu dem Salon , der vom Plafond herab erleuchtet war .
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label)
+           :P (v6 / label)
+           :D (v7 / label)
+           :A (v8 / label
+                  :R (v12 / label)
+                  :E (v13 / label)
+                  :C (v14 / label)))
+    :L (v3 / label)
+    :H (v4 / label
+           :P (v9 / label)
+           :A (v10 / label
+                   :R (v15 / label)
+                   :E (v16 / label)
+                   :C (v17 / label))
+           :A (v11 / label
+                   :R (v18 / label)
+                   :E (v19 / label
+                           :R (v23 / label)
+                           :A (v24 / label
+                                   :R (v27 / label)
+                                   :C (v28 / label))
+                           :D (v25 / label)
+                           :S (v26 / label)
+                           :A (v22 / label))
+                   :R (v20 / label)
+                   :E (v21 / label)
+                   :C v22)))

@@ -1,0 +1,29 @@
+# ::id 25769003
+# ::tok Und Ned Land begab sich wieder in seine Kabine , »um nicht ein Unglück anzurichten« , wie er beim Weggehen sagte .
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :A (v6 / label)
+           :P (v7 / label)
+           :D (v8 / label)
+           :A (v9 / label
+                  :R (v15 / label)
+                  :E (v16 / label)
+                  :C (v17 / label)))
+    :H (v4 / label
+           :A (v10 / label
+                   :R (v18 / label)
+                   :D (v19 / label)
+                   :A (v20 / label
+                           :E (v24 / label)
+                           :C (v25 / label))
+                   :P (v21 / label)
+                   :A v6)
+           :R (v11 / label)
+           :A (v12 / label)
+           :P (v13 / label))
+    :H (v5 / label
+           :P (v14 / label
+                   :R (v22 / label)
+                   :C (v23 / label))
+           :A v12))

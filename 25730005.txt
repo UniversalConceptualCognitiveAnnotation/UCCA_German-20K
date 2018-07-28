@@ -1,0 +1,54 @@
+# ::id 25730005
+# ::tok Als ich eine Stunde nachher auf die Karte sah , bemerkte ich , daß die Lage der Nautilus darauf eingetragen war mit 16° 17 ? Länge und 33° 22 ? Breite , 150 Lieue von der nächsten Küste entfernt .
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :A (v5 / label)
+           :T (v6 / label
+                  :E (v12 / label)
+                  :C (v13 / label)
+                  :R (v14 / label))
+           :A (v7 / label
+                  :R (v15 / label)
+                  :E (v16 / label)
+                  :C (v17 / label))
+           :P (v8 / label))
+    :H (v4 / label
+           :P (v9 / label)
+           :A (v10 / label)
+           :A (v11 / label
+                   :R (v18 / label)
+                   :H (v19 / label
+                           :A (v24 / label
+                                   :E (v34 / label
+                                           :A (v36 / label)
+                                           :S (v47 / label
+                                                   :E (v50 / label)
+                                                   :C (v51 / label)))
+                                   :R (v35 / label)
+                                   :C v36)
+                           :A (v25 / label)
+                           :P (v26 / label))
+                   :H (v20 / label
+                           :S (v27 / label)
+                           :A (v28 / label
+                                   :R (v37 / label)
+                                   :E (v38 / label)
+                                   :C (v39 / label)))
+                   :L (v21 / label)
+                   :H (v22 / label
+                           :S (v29 / label)
+                           :A (v30 / label
+                                   :E (v40 / label)
+                                   :C (v41 / label)))
+                   :H (v23 / label
+                           :A (v31 / label
+                                   :E (v42 / label)
+                                   :C (v43 / label))
+                           :A (v32 / label
+                                   :R (v44 / label)
+                                   :E (v45 / label
+                                           :E (v48 / label)
+                                           :C (v49 / label))
+                                   :C (v46 / label))
+                           :S (v33 / label)))))

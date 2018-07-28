@@ -1,0 +1,19 @@
+# ::id 25822011
+# ::tok Es war wohl ein Dampfer der Linie zwischen New York und Liverpool oder Havre .
+(v1 / label
+    :H (v2 / label
+           :S (v3 / label)
+           :D (v4 / label)
+           :A (v5 / label
+                  :E (v6 / label
+                         :E (v9 / label
+                                :N (v12 / label)
+                                :C (v13 / label)
+                                :N (v14 / label)
+                                :C (v15 / label)
+                                :N (v16 / label)
+                                :C (v17 / label))
+                         :R (v10 / label)
+                         :C (v11 / label))
+                  :E (v7 / label)
+                  :C (v8 / label))))

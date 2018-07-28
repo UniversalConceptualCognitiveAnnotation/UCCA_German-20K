@@ -1,0 +1,23 @@
+# ::id 25722008
+# ::tok Konnte ich die Verantwortlichkeit übernehmen , aus persönlichem Interesse die Zukunft meiner Gefährten zu beeinträchtigen ?
+(v1 / label
+    :H (v2 / label
+           :D (v3 / label)
+           :A (v4 / label)
+           :A (v5 / label
+                  :E (v7 / label
+                         :A v4
+                         :A (v10 / label
+                                 :R (v13 / label)
+                                 :E (v14 / label)
+                                 :C (v15 / label))
+                         :A (v11 / label
+                                 :E (v16 / label
+                                         :R (v19 / label)
+                                         :C (v20 / label))
+                                 :E (v17 / label)
+                                 :C (v18 / label))
+                         :P (v12 / label))
+                  :E (v8 / label)
+                  :C (v9 / label))
+           :S (v6 / label)))

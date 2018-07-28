@@ -1,0 +1,29 @@
+# ::id 25761021
+# ::tok Aber sein Zorn legte sich beim Anblick eines Walfisches , der den Zähnen der Pottfische nicht hatte entrinnen können .
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :A (v5 / label
+                  :E (v9 / label)
+                  :C (v10 / label))
+           :P (v6 / label))
+    :H (v4 / label
+           :P (v7 / label
+                  :R (v11 / label)
+                  :C (v12 / label))
+           :A (v8 / label
+                  :E (v13 / label
+                          :R (v16 / label)
+                          :A (v17 / label
+                                  :E (v21 / label
+                                          :R (v24 / label)
+                                          :C (v25 / label))
+                                  :E (v22 / label)
+                                  :C (v23 / label))
+                          :D (v18 / label)
+                          :P (v19 / label)
+                          :D (v20 / label)
+                          :A (v15 / label))
+                  :R (v14 / label)
+                  :C v15)
+           :A v9))

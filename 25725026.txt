@@ -1,0 +1,21 @@
+# ::id 25725026
+# ::tok Sollte dieses Anhalten das Vorhaben Ned Lands begünstigen oder stören ?
+(v1 / label
+    :H (v2 / label
+           :D (v5 / label)
+           :A (v6 / label
+                  :A (v11 / label)
+                  :P (v12 / label
+                          :E (v15 / label)
+                          :C (v10 / label)))
+           :A (v7 / label
+                  :P (v13 / label
+                          :E (v16 / label)
+                          :C (v17 / label))
+                  :A (v14 / label))
+           :P (v8 / label))
+    :L (v3 / label)
+    :H (v4 / label
+           :P (v9 / label)
+           :D v5
+           :A v10))

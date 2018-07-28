@@ -1,0 +1,26 @@
+# ::id 25761004
+# ::tok Man fühlte , wie sie sich an unser Fahrzeug klammerten , wie Hunde , die einen Keiler packen .
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :S (v4 / label)
+           :A (v5 / label
+                  :H (v6 / label
+                         :R (v8 / label)
+                         :A (v9 / label)
+                         :P (v10 / label)
+                         :A (v11 / label
+                                 :R (v14 / label)
+                                 :E (v15 / label)
+                                 :C (v16 / label)))
+                  :H (v7 / label
+                         :R (v12 / label)
+                         :A (v13 / label
+                                 :C (v17 / label)
+                                 :E (v18 / label
+                                         :A v17
+                                         :R (v19 / label)
+                                         :A (v20 / label
+                                                 :E (v22 / label)
+                                                 :C (v23 / label))
+                                         :P (v21 / label)))))))

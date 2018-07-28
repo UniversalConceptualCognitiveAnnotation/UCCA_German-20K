@@ -1,0 +1,36 @@
+# ::id 25717006
+# ::tok ; sie gehören zwar zu den Knorpelfischen , sind aber schmackhaft und werden frisch , getrocknet , mariniert oder gesalzen gegessen .
+(v1 / label
+    :H (v2 / label
+           :A (v12 / label)
+           :S (v13 / label)
+           :A (v14 / label
+                   :R (v21 / label)
+                   :E (v22 / label)
+                   :C (v23 / label)))
+    :L (v3 / label)
+    :H (v4 / label
+           :S (v15 / label))
+    :L (v5 / label)
+    :L (v6 / label)
+    :H (v7 / label
+           :P (v16 / label)
+           :A (v17 / label
+                   :S (v24 / label)
+                   :A v12)
+           :A v12)
+    :H (v8 / label
+           :P v16
+           :A (v18 / label
+                   :A v12)
+           :A v12)
+    :H (v9 / label
+           :P v16
+           :D (v19 / label)
+           :A v12)
+    :L (v10 / label)
+    :H (v11 / label
+            :D (v20 / label
+                    :S (v25 / label))
+            :P v16
+            :A v12))

@@ -1,0 +1,37 @@
+# ::id 25700021
+# ::tok Gegen die Seiten des Boots gelehnt plauderten wir von diesem und jenem , als Ned Land mit der Hand auf einen Punkt wies und sagte :
+(v1 / label
+    :H (v2 / label
+           :A (v8 / label)
+           :A (v9 / label
+                  :R (v18 / label)
+                  :E (v19 / label
+                          :R (v32 / label)
+                          :C (v33 / label))
+                  :E (v20 / label)
+                  :C (v21 / label))
+           :S (v10 / label))
+    :H (v3 / label
+           :P (v11 / label)
+           :A v8
+           :A (v12 / label
+                   :R (v22 / label)
+                   :C (v23 / label)
+                   :N (v24 / label)
+                   :C (v25 / label)))
+    :L (v4 / label)
+    :H (v5 / label
+           :A (v13 / label)
+           :A (v14 / label
+                   :R (v26 / label)
+                   :E (v27 / label)
+                   :C (v28 / label))
+           :A (v15 / label
+                   :R (v29 / label)
+                   :E (v30 / label)
+                   :C (v31 / label))
+           :P (v16 / label))
+    :L (v6 / label)
+    :H (v7 / label
+           :P (v17 / label)
+           :A v13))

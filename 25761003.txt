@@ -1,0 +1,18 @@
+# ::id 25761003
+# ::tok Ned Land , der außer sich war , drohte ihnen , höhnte sie .
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label
+                  :C (v9 / label)
+                  :E (v10 / label
+                          :A v9
+                          :R (v11 / label)
+                          :S (v12 / label
+                                  :E (v13 / label)
+                                  :C (v14 / label))))
+           :P (v5 / label)
+           :A (v6 / label))
+    :H (v3 / label
+           :P (v7 / label)
+           :A (v8 / label)
+           :A v9))

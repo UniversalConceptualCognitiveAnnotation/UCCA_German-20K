@@ -1,0 +1,25 @@
+# ::id 25755002
+# ::tok Ich ließ Conseil nicht seinen Satz ausreden , denn ich sah wohl , wo hinaus er damit wollte .
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label)
+           :S (v6 / label)
+           :A (v7 / label)
+           :D (v8 / label)
+           :A (v9 / label
+                  :A v7
+                  :A (v14 / label
+                          :E (v21 / label)
+                          :C (v22 / label))
+                  :P (v15 / label)))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v10 / label)
+           :P (v11 / label)
+           :D (v12 / label)
+           :A (v13 / label
+                   :A (v16 / label)
+                   :S (v17 / label)
+                   :A (v18 / label)
+                   :A (v19 / label)
+                   :D (v20 / label))))

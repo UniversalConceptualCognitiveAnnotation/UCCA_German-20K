@@ -1,0 +1,15 @@
+# ::id 25793028
+# ::tok In einigen Minuten hatte dieses Wasser 100 Grad Hitze erreicht .
+(v1 / label
+    :H (v2 / label
+           :T (v3 / label
+                  :R (v7 / label)
+                  :E (v8 / label)
+                  :C (v9 / label))
+           :A (v4 / label
+                  :E (v10 / label)
+                  :C (v11 / label))
+           :A (v5 / label
+                  :C (v12 / label)
+                  :E (v13 / label))
+           :P (v6 / label)))

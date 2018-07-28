@@ -1,0 +1,29 @@
+# ::id 25708022
+# ::tok »Ja , just diese Nacht , in einigen Minuten sind wir durch diesen Isthmus gefahren.«
+(v1 / label
+    :H (v2 / label
+           :P (v3 / label)
+           :A (v4 / label)
+           :A (v5 / label
+                  :H (v6 / label
+                         :P (v9 / label)
+                         :A (v10 / label)
+                         :D (v11 / label))
+                  :H (v7 / label
+                         :P (v12 / label)
+                         :A (v13 / label)
+                         :D (v14 / label)
+                         :A (v15 / label
+                                 :E (v19 / label)
+                                 :C v10))
+                  :H (v8 / label
+                         :T (v16 / label
+                                 :R (v20 / label)
+                                 :E (v21 / label)
+                                 :C (v22 / label))
+                         :A (v17 / label)
+                         :A (v18 / label
+                                 :R (v23 / label)
+                                 :E (v24 / label)
+                                 :C (v25 / label))
+                         :P v9))))

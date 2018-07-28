@@ -1,0 +1,26 @@
+# ::id 25781010
+# ::tok Das Thermometer zeigte 12 Grad unter Null , und wenn frischer Wind wehte , verursachte er stechenden Schmerz .
+(v1 / label
+    :H (v2 / label
+           :A (v7 / label
+                  :E (v15 / label)
+                  :C (v16 / label))
+           :S (v8 / label)
+           :A (v9 / label
+                  :C (v17 / label)
+                  :E (v18 / label
+                          :R (v23 / label)
+                          :C (v24 / label))))
+    :L (v3 / label)
+    :L (v4 / label)
+    :H (v5 / label
+           :A (v10 / label
+                   :E (v19 / label)
+                   :C (v20 / label))
+           :P (v11 / label))
+    :H (v6 / label
+           :P (v12 / label)
+           :A (v13 / label)
+           :A (v14 / label
+                   :E (v21 / label)
+                   :C (v22 / label))))

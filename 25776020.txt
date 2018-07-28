@@ -1,0 +1,36 @@
+# ::id 25776020
+# ::tok Als wir auf dem höchsten Kamm des Vorgebirges ankamen , sahen wir auf eine ausgedehnte weiße Ebene , die mit Walrossen bedeckt war , die sich miteinander vergnügten .
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :A (v5 / label)
+           :A (v6 / label
+                  :R (v11 / label)
+                  :E (v12 / label
+                          :R (v22 / label)
+                          :C (v23 / label))
+                  :E (v13 / label)
+                  :E (v14 / label)
+                  :C (v15 / label))
+           :P (v7 / label))
+    :H (v4 / label
+           :P (v8 / label)
+           :A (v9 / label)
+           :A (v10 / label
+                   :R (v16 / label)
+                   :E (v17 / label
+                           :R (v24 / label)
+                           :A (v25 / label
+                                   :R (v27 / label)
+                                   :C (v28 / label)
+                                   :E (v29 / label
+                                           :A v28
+                                           :R (v30 / label)
+                                           :P (v31 / label)
+                                           :D (v32 / label)))
+                           :S (v26 / label)
+                           :A (v21 / label))
+                   :E (v18 / label)
+                   :E (v19 / label)
+                   :E (v20 / label)
+                   :C v21)))

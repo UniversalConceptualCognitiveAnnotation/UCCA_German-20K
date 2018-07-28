@@ -1,0 +1,53 @@
+# ::id 25769015
+# ::tok Die Temperatur des Wassers , die an der Oberfläche 12 Grad betragen hatte , sank schon um 1 Grad herab , bald schon um 2 . Es versteht sich , daß in der Nautilus die Temperatur durch die Heizung bedeutend höher war .
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label
+                  :E (v15 / label
+                          :R (v29 / label)
+                          :C (v30 / label))
+                  :E (v16 / label
+                          :R (v31 / label)
+                          :A (v32 / label
+                                  :R (v42 / label)
+                                  :E (v43 / label)
+                                  :C (v44 / label))
+                          :A (v33 / label
+                                  :E (v45 / label)
+                                  :C (v46 / label))
+                          :S (v34 / label)
+                          :A (v12 / label))
+                  :E (v17 / label)
+                  :C v12)
+           :P (v6 / label)
+           :D (v7 / label)
+           :A (v8 / label
+                  :R (v18 / label)
+                  :E (v19 / label)
+                  :C (v20 / label)))
+    :H (v3 / label
+           :D (v9 / label)
+           :D (v10 / label)
+           :A (v11 / label
+                   :R (v21 / label)
+                   :C (v22 / label))
+           :A v12)
+    :H (v4 / label
+           :S (v13 / label)
+           :A (v14 / label
+                   :R (v23 / label)
+                   :A (v24 / label
+                           :R (v35 / label)
+                           :E (v36 / label)
+                           :C (v37 / label))
+                   :A (v25 / label
+                           :E (v38 / label)
+                           :C (v39 / label))
+                   :A (v26 / label
+                           :A (v40 / label)
+                           :P (v41 / label
+                                   :R (v47 / label)
+                                   :E (v48 / label)
+                                   :C (v49 / label)))
+                   :D (v27 / label)
+                   :S (v28 / label))))

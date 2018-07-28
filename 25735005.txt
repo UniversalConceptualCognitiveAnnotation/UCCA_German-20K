@@ -1,0 +1,28 @@
+# ::id 25735005
+# ::tok Aber er schüttelte den Kopf und zeigte auf den höchsten Gipfel des Berges , als wolle er sagen :
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :A (v8 / label)
+           :P (v9 / label)
+           :A (v10 / label
+                   :E (v16 / label)
+                   :C (v17 / label)))
+    :L (v4 / label)
+    :H (v5 / label
+           :P (v11 / label)
+           :A (v12 / label
+                   :E (v18 / label
+                           :R (v22 / label)
+                           :C (v23 / label))
+                   :R (v19 / label)
+                   :E (v20 / label
+                           :E (v24 / label)
+                           :C (v25 / label))
+                   :C (v21 / label))
+           :A v8)
+    :L (v6 / label)
+    :H (v7 / label
+           :D (v13 / label)
+           :A (v14 / label)
+           :P (v15 / label)))

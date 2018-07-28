@@ -1,0 +1,26 @@
+# ::id 25773010
+# ::tok Der kühne und mächtige Mann konnte der Sonne nicht so gebieten wie dem Meer .
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label
+                  :A (v13 / label
+                          :E (v19 / label)
+                          :C (v12 / label))
+                  :S (v14 / label
+                          :C (v20 / label)
+                          :N (v21 / label)
+                          :C (v22 / label)))
+           :D (v5 / label)
+           :A (v6 / label
+                  :R (v15 / label)
+                  :C (v16 / label))
+           :D (v7 / label)
+           :D (v8 / label)
+           :P (v9 / label))
+    :H (v3 / label
+           :R (v10 / label)
+           :A (v11 / label
+                   :R (v17 / label)
+                   :C (v18 / label))
+           :P v9
+           :A v12))

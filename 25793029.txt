@@ -1,0 +1,21 @@
+# ::id 25793029
+# ::tok Es wurde zu den Pumpen geleitet , während es durch frisches Wasser nach Verhältnis ersetzt wurde .
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label)
+           :A (v6 / label
+                  :R (v12 / label)
+                  :E (v13 / label)
+                  :C (v14 / label))
+           :P (v7 / label))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v8 / label)
+           :A (v9 / label
+                  :R (v15 / label)
+                  :E (v16 / label)
+                  :C (v17 / label))
+           :A (v10 / label
+                   :R (v18 / label)
+                   :C (v19 / label))
+           :P (v11 / label)))

@@ -1,0 +1,27 @@
+# ::id 25766011
+# ::tok »Ich meine , wir können weder vor- noch rückwärts und auch nicht seitwärts.«
+(v1 / label
+    :H (v2 / label
+           :P (v3 / label)
+           :A (v4 / label)
+           :A (v5 / label
+                  :A (v6 / label)
+                  :P (v7 / label)
+                  :A (v8 / label
+                         :H (v9 / label
+                                :A (v13 / label)
+                                :D (v14 / label)
+                                :D (v15 / label)
+                                :S (v16 / label))
+                         :H (v10 / label
+                                 :D (v17 / label)
+                                 :S (v18 / label)
+                                 :A v13
+                                 :D v14)
+                         :L (v11 / label)
+                         :H (v12 / label
+                                 :D (v19 / label)
+                                 :D (v20 / label)
+                                 :S (v21 / label)
+                                 :A v13
+                                 :D v14)))))

@@ -1,0 +1,23 @@
+# ::id 25717010
+# ::tok Sie schwammen im Triangel , wie manche Zugvögel fliegen , denen sie an Schnelligkeit gleichkommen .
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label)
+           :P (v5 / label)
+           :D (v6 / label
+                  :R (v10 / label)
+                  :C (v11 / label)))
+    :H (v3 / label
+           :D (v7 / label)
+           :A (v8 / label
+                  :E (v12 / label
+                          :R (v15 / label)
+                          :A (v16 / label)
+                          :A (v17 / label
+                                  :R (v19 / label)
+                                  :C (v20 / label))
+                          :S (v18 / label)
+                          :A (v14 / label))
+                  :E (v13 / label)
+                  :C v14)
+           :P (v9 / label)))

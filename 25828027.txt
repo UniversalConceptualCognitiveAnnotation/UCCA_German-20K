@@ -1,0 +1,33 @@
+# ::id 25828027
+# ::tok Als ich die Masse achtsam betrachtete , glaubte ich , etwas verdickt , die Formen eines Schiffs ohne Masten zu erkennen , das vorlängst untergesunken war .
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :A (v5 / label)
+           :A (v6 / label
+                  :E (v13 / label)
+                  :C (v14 / label))
+           :D (v7 / label)
+           :P (v8 / label))
+    :H (v4 / label
+           :D (v9 / label)
+           :A (v10 / label)
+           :A (v11 / label
+                   :E (v15 / label
+                           :A (v18 / label)
+                           :D (v19 / label)
+                           :S (v20 / label))
+                   :E (v16 / label
+                           :E (v21 / label
+                                   :R (v25 / label)
+                                   :D (v26 / label)
+                                   :P (v27 / label)
+                                   :A (v24 / label))
+                           :E (v22 / label
+                                   :E (v28 / label)
+                                   :C (v29 / label))
+                           :R (v23 / label)
+                           :C v24)
+                   :E (v17 / label)
+                   :C v18)
+           :P (v12 / label)))

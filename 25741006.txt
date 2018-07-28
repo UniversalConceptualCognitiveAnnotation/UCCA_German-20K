@@ -1,0 +1,20 @@
+# ::id 25741006
+# ::tok Ich lud sie ein , mir zu folgen , ohne ihnen zu sagen , wo sie sich befanden .
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label)
+           :P (v5 / label)
+           :A (v6 / label)
+           :A (v7 / label
+                  :A v6
+                  :A (v12 / label)
+                  :P (v13 / label)))
+    :H (v3 / label
+           :D (v8 / label)
+           :A (v9 / label)
+           :P (v10 / label)
+           :A (v11 / label
+                   :A (v14 / label)
+                   :A (v15 / label)
+                   :S (v16 / label))
+           :A v4))

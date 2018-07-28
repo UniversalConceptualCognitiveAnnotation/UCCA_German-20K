@@ -1,0 +1,20 @@
+# ::id 25766023
+# ::tok Es fiel mir ein , Kapitän Nemo zu befragen , ob er den Pol bereits entdeckt habe .
+(v1 / label
+    :H (v2 / label
+           :P (v3 / label)
+           :A (v4 / label)
+           :A (v5 / label
+                  :A v4
+                  :A (v6 / label
+                         :E (v9 / label)
+                         :C (v10 / label))
+                  :P (v7 / label)
+                  :A (v8 / label
+                         :R (v11 / label)
+                         :A (v12 / label)
+                         :A (v13 / label
+                                 :E (v16 / label)
+                                 :C (v17 / label))
+                         :D (v14 / label)
+                         :P (v15 / label)))))

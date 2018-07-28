@@ -1,0 +1,23 @@
+# ::id 25840022
+# ::tok Kapitän Nemo befand sich in dem Saal , durch den ich kommen mußte , um zu entfliehen .
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v6 / label)
+                  :C (v7 / label))
+           :S (v4 / label)
+           :A (v5 / label
+                  :R (v8 / label)
+                  :E (v9 / label
+                         :R (v12 / label)
+                         :A (v13 / label)
+                         :A (v14 / label)
+                         :P (v15 / label)
+                         :D (v16 / label)
+                         :A (v17 / label
+                                 :A v14
+                                 :R (v18 / label)
+                                 :P (v19 / label))
+                         :A (v11 / label))
+                  :E (v10 / label)
+                  :C v11)))

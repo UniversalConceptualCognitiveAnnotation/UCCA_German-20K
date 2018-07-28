@@ -1,0 +1,15 @@
+# ::id 25770011
+# ::tok Sollten wir schon zur freien Luft des Pols auftauchen ?
+(v1 / label
+    :H (v2 / label
+           :D (v3 / label)
+           :A (v4 / label)
+           :D (v5 / label)
+           :A (v6 / label
+                  :E (v8 / label
+                         :R (v12 / label)
+                         :C (v13 / label))
+                  :R (v9 / label)
+                  :E (v10 / label)
+                  :C (v11 / label))
+           :P (v7 / label)))

@@ -1,0 +1,30 @@
+# ::id 25825007
+# ::tok Von da an richtete sie ihre Fahrt östlich , als wollte sie der telegrafischen Hochfläche folgen , worauf das Kabel ruht .
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label
+                  :R (v14 / label)
+                  :C (v15 / label)
+                  :R (v16 / label))
+           :S (v5 / label)
+           :A (v6 / label)
+           :A (v7 / label
+                  :E (v17 / label)
+                  :C (v18 / label))
+           :D (v8 / label))
+    :H (v3 / label
+           :R (v9 / label)
+           :D (v10 / label)
+           :A (v11 / label)
+           :A (v12 / label
+                   :R (v19 / label)
+                   :E (v20 / label
+                           :R (v23 / label)
+                           :A (v24 / label
+                                   :E (v26 / label)
+                                   :C (v27 / label))
+                           :S (v25 / label)
+                           :A (v22 / label))
+                   :E (v21 / label)
+                   :C v22)
+           :P (v13 / label)))

@@ -1,0 +1,12 @@
+# ::id 25737026
+# ::tok Ich schloß mich ihm an in ichthyologischen Untersuchungen .
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :P (v4 / label)
+           :A (v5 / label)
+           :A (v6 / label
+                  :A v3
+                  :R (v7 / label)
+                  :D (v8 / label)
+                  :P (v9 / label))))

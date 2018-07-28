@@ -1,0 +1,25 @@
+# ::id 25843011
+# ::tok Ich muß daher die Vorüberfahrt des Dampfboots abwarten , das alle 2 Monate nach dem Nordkap fährt .
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :D (v4 / label)
+           :A (v5 / label)
+           :A (v6 / label
+                  :P (v8 / label
+                         :E (v10 / label)
+                         :C (v11 / label))
+                  :A (v9 / label
+                         :E (v12 / label
+                                 :R (v15 / label)
+                                 :A (v16 / label
+                                         :E (v19 / label)
+                                         :C (v20 / label))
+                                 :A (v17 / label
+                                         :R (v21 / label)
+                                         :E (v22 / label)
+                                         :C (v23 / label))
+                                 :P (v18 / label))
+                         :R (v13 / label)
+                         :C (v14 / label)))
+           :P (v7 / label)))

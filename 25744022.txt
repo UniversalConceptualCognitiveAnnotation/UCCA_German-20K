@@ -1,0 +1,33 @@
+# ::id 25744022
+# ::tok Er versuchte durch Steine das Blei zu ersetzen , und es gelang ihm auch , nach einigen fruchtlosen Versuchen , eins der prächtigen Tiere zu verwunden .
+(v1 / label
+    :H (v2 / label
+           :A (v6 / label)
+           :D (v7 / label)
+           :A (v8 / label
+                  :R (v18 / label)
+                  :C (v19 / label))
+           :A (v9 / label
+                  :E (v20 / label)
+                  :C (v21 / label))
+           :P (v10 / label))
+    :L (v3 / label)
+    :H (v4 / label
+           :P (v11 / label)
+           :A (v12 / label)
+           :D (v13 / label)
+           :A (v14 / label
+                   :A (v22 / label
+                           :E (v26 / label)
+                           :R (v27 / label)
+                           :E (v28 / label)
+                           :C (v29 / label))
+                   :P (v23 / label)
+                   :A v6))
+    :H (v5 / label
+           :R (v15 / label)
+           :P (v16 / label
+                   :E (v24 / label)
+                   :C (v25 / label))
+           :D (v17 / label)
+           :A v6))

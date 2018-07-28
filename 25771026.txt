@@ -1,0 +1,34 @@
+# ::id 25771026
+# ::tok Seinen Berechnungen nach bildet die Eismasse , die den Südpol umgibt , eine große Kappe , die bis 4.000 Kilometer breit sein müsse .
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label)
+           :P (v5 / label
+                  :E (v9 / label)
+                  :C (v10 / label)
+                  :R (v11 / label)))
+    :H (v3 / label
+           :S (v6 / label)
+           :A (v7 / label
+                  :E (v12 / label
+                          :R (v19 / label)
+                          :A (v20 / label
+                                  :E (v26 / label)
+                                  :C (v27 / label))
+                          :S (v21 / label)
+                          :A (v14 / label))
+                  :E (v13 / label)
+                  :C v14)
+           :A (v8 / label
+                  :E (v15 / label
+                          :R (v22 / label)
+                          :A (v23 / label
+                                  :R (v28 / label)
+                                  :E (v29 / label)
+                                  :C (v30 / label))
+                          :S (v24 / label)
+                          :D (v25 / label)
+                          :A (v18 / label))
+                  :E (v16 / label)
+                  :E (v17 / label)
+                  :C v18)))

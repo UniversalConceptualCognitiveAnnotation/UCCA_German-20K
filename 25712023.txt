@@ -1,0 +1,48 @@
+# ::id 25712023
+# ::tok Sodann zog meine Aufmerksamkeit sich auf den sogenannten Hemmfisch , ein kleiner Fisch , von dem die Alten sagten , er könne , wenn er sich an den Kiel eines Schiffs anhängt , dessen Lauf hemmen .
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :P (v5 / label)
+           :A (v6 / label
+                  :E (v10 / label)
+                  :C (v11 / label))
+           :A (v7 / label
+                  :R (v12 / label)
+                  :E (v13 / label)
+                  :E (v14 / label)
+                  :C (v15 / label)))
+    :H (v4 / label
+           :S (v8 / label)
+           :A (v9 / label
+                  :E (v16 / label
+                          :R (v20 / label
+                                  :R (v24 / label)
+                                  :C (v25 / label))
+                          :A (v21 / label
+                                  :E (v26 / label)
+                                  :C (v27 / label))
+                          :P (v22 / label)
+                          :A (v23 / label
+                                  :H (v28 / label
+                                          :A (v31 / label)
+                                          :D (v32 / label)
+                                          :A (v33 / label
+                                                  :E (v38 / label)
+                                                  :C (v39 / label))
+                                          :P (v34 / label))
+                                  :L (v29 / label)
+                                  :H (v30 / label
+                                          :A (v35 / label)
+                                          :P (v36 / label)
+                                          :A (v37 / label
+                                                  :E (v40 / label
+                                                          :R (v44 / label)
+                                                          :C (v45 / label))
+                                                  :R (v41 / label)
+                                                  :E (v42 / label)
+                                                  :C (v43 / label))))
+                          :A (v19 / label))
+                  :E (v17 / label)
+                  :E (v18 / label)
+                  :C v19)))

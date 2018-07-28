@@ -1,0 +1,13 @@
+# ::id 25706010
+# ::tok Ich drehte mich um und erkannte den Kapitän .
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label)
+           :P (v6 / label))
+    :L (v3 / label)
+    :H (v4 / label
+           :S (v7 / label)
+           :A (v8 / label
+                  :E (v9 / label)
+                  :C (v10 / label))
+           :A v5))

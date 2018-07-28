@@ -1,0 +1,33 @@
+# ::id 25764015
+# ::tok Es waren nicht nur Blöcke und Eisfelder , die hemmten , sondern eine endlose , unverrückbare Schranke von aneinandergereihten Eisbergen .
+(v1 / label
+    :H (v2 / label
+           :S (v5 / label)
+           :D (v6 / label)
+           :A (v7 / label
+                  :C (v10 / label
+                          :C (v16 / label)
+                          :N (v17 / label)
+                          :C (v18 / label))
+                  :E (v11 / label
+                          :R (v19 / label)
+                          :P (v9 / label)
+                          :A v16
+                          :A v18)))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v8 / label
+                  :E (v12 / label
+                          :R (v20 / label)
+                          :E (v21 / label
+                                  :A (v22 / label)
+                                  :S (v24 / label))
+                          :C v22)
+                  :E (v13 / label
+                          :S (v23 / label
+                                  :C (v25 / label)
+                                  :C (v26 / label))
+                          :A (v15 / label))
+                  :E (v14 / label)
+                  :C v15)
+           :P v9))

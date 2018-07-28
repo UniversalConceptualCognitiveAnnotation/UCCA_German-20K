@@ -1,0 +1,31 @@
+# ::id 25794000
+# ::tok Die Arbeit der Pumpen begann , und nach 3 Stunden zeigte das Thermometer außen 6 Grad unter Null ; 2 Stunden später nur noch 4 .
+(v1 / label
+    :H (v2 / label
+           :P (v6 / label
+                  :E (v16 / label)
+                  :C (v17 / label))
+           :A (v7 / label
+                  :R (v18 / label)
+                  :C (v19 / label))
+           :D (v8 / label))
+    :L (v3 / label)
+    :H (v4 / label
+           :T (v9 / label
+                  :E (v20 / label)
+                  :C (v21 / label))
+           :P (v10 / label)
+           :A (v11 / label
+                   :E (v22 / label)
+                   :C (v23 / label))
+           :A (v12 / label)
+           :A (v13 / label))
+    :H (v5 / label
+           :T (v14 / label
+                   :C (v24 / label)
+                   :E (v25 / label))
+           :A (v15 / label
+                   :E (v26 / label)
+                   :E (v27 / label)
+                   :C (v28 / label))
+           :P v10))

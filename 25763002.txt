@@ -1,0 +1,22 @@
+# ::id 25763002
+# ::tok Das Thermometer zeigte in der äußeren Luft 2 bis 3 Grad unter Null .
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v7 / label)
+                  :C (v8 / label))
+           :P (v4 / label)
+           :A (v5 / label
+                  :R (v9 / label)
+                  :E (v10 / label)
+                  :E (v11 / label)
+                  :C (v12 / label))
+           :A (v6 / label
+                  :E (v13 / label
+                          :R (v16 / label)
+                          :C (v17 / label))
+                  :E (v14 / label
+                          :C (v18 / label)
+                          :R (v19 / label)
+                          :C (v20 / label))
+                  :C (v15 / label))))

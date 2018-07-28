@@ -1,0 +1,44 @@
+# ::id 25764012
+# ::tok Nach Hansten liegt dieser Pol in Wirklichkeit fast unter 70° Breite und 130° Länge und nach den Beobachtungen Duperreys unter 135° Länge und 70° 30 ? Breite .
+(v1 / label
+    :H (v2 / label
+           :S (v7 / label)
+           :R (v8 / label)
+           :A (v9 / label))
+    :H (v3 / label
+           :S (v10 / label)
+           :A (v11 / label
+                   :E (v20 / label)
+                   :C (v19 / label))
+           :D (v12 / label
+                   :R (v21 / label)
+                   :C (v22 / label))
+           :D (v13 / label)
+           :A (v14 / label
+                   :R (v23 / label)
+                   :C (v24 / label
+                           :E (v33 / label)
+                           :C (v34 / label))
+                   :N (v25 / label)
+                   :C (v26 / label
+                           :E (v35 / label)
+                           :C (v36 / label))))
+    :L (v4 / label)
+    :H (v5 / label
+           :R (v15 / label)
+           :P (v16 / label
+                   :E (v27 / label)
+                   :C (v28 / label))
+           :A (v17 / label))
+    :H (v6 / label
+           :A (v18 / label
+                   :R (v29 / label)
+                   :C (v30 / label
+                           :E (v37 / label)
+                           :C (v38 / label))
+                   :N (v31 / label)
+                   :C (v32 / label
+                           :E (v39 / label)
+                           :C (v40 / label)))
+           :S v10
+           :A v19))

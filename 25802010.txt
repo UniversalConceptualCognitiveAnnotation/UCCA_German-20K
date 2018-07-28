@@ -1,0 +1,37 @@
+# ::id 25802010
+# ::tok Er war oben weiß , unten rötlich mit großen tiefblauen , schwarz gerandeten Flecken , hatte eine sehr glatte Haut und eine zweilappige Flosse .
+(v1 / label
+    :H (v2 / label
+           :A (v7 / label)
+           :A (v8 / label)
+           :S (v9 / label))
+    :H (v3 / label
+           :D (v10 / label)
+           :S (v11 / label)
+           :A (v12 / label
+                   :R (v18 / label)
+                   :E (v19 / label
+                           :C (v26 / label)
+                           :C (v27 / label)
+                           :C (v28 / label
+                                   :C (v31 / label)
+                                   :E (v32 / label)))
+                   :C (v20 / label))
+           :A v7)
+    :H (v4 / label
+           :S (v13 / label)
+           :A (v14 / label
+                   :E (v21 / label)
+                   :E (v22 / label
+                           :E (v29 / label)
+                           :C (v30 / label))
+                   :C (v23 / label))
+           :A v7)
+    :L (v5 / label)
+    :H (v6 / label
+           :S (v15 / label)
+           :A (v16 / label
+                   :E (v24 / label)
+                   :C (v25 / label))
+           :D (v17 / label)
+           :A v7))

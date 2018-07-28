@@ -1,0 +1,34 @@
+# ::id 25792008
+# ::tok Ich rührte ihn mit der Hand an , und zeigte auf die Wände unseres Kerkers , dessen linke Wand sich nun der Nautilus fast 4 Meter genähert hatte .
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label)
+           :P (v6 / label)
+           :A (v7 / label)
+           :A (v8 / label
+                  :R (v11 / label)
+                  :E (v12 / label)
+                  :C (v13 / label)))
+    :L (v3 / label)
+    :H (v4 / label
+           :P (v9 / label)
+           :A (v10 / label
+                   :R (v14 / label)
+                   :E (v15 / label
+                           :R (v18 / label)
+                           :C (v19 / label)
+                           :E (v20 / label
+                                   :A v19
+                                   :R (v21 / label)
+                                   :A (v22 / label
+                                           :E (v28 / label)
+                                           :C (v29 / label))
+                                   :P (v23 / label)
+                                   :D (v24 / label)
+                                   :A (v25 / label
+                                           :E (v30 / label)
+                                           :C (v31 / label))
+                                   :D (v26 / label)
+                                   :A (v27 / label)))
+                   :E (v16 / label)
+                   :C (v17 / label))))

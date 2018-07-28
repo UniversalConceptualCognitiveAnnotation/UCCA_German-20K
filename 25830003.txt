@@ -1,0 +1,27 @@
+# ::id 25830003
+# ::tok Bald meldete mir der Kanadier , das Schiff sei ein großes Kriegsschiff mit Schnabel , ein gepanzerter Zweidecker .
+(v1 / label
+    :H (v2 / label
+           :T (v3 / label)
+           :P (v4 / label)
+           :A (v5 / label)
+           :A (v6 / label
+                  :E (v8 / label)
+                  :C (v9 / label))
+           :A (v7 / label
+                  :A (v10 / label
+                          :E (v14 / label)
+                          :C (v15 / label))
+                  :S (v11 / label)
+                  :A (v12 / label
+                          :E (v16 / label
+                                  :R (v22 / label)
+                                  :C (v23 / label))
+                          :E (v17 / label)
+                          :E (v18 / label)
+                          :C (v19 / label))
+                  :A (v13 / label
+                          :A (v20 / label
+                                  :E (v24 / label)
+                                  :C (v25 / label))
+                          :S (v21 / label)))))

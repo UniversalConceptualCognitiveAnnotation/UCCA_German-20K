@@ -1,0 +1,23 @@
+# ::id 25769020
+# ::tok Von 69° 30 ? bis zu 90° waren noch 22° 30 ? an Breite zu durchlaufen , d.h . etwas über 500 Lieue .
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label
+                  :R (v11 / label)
+                  :C (v12 / label)
+                  :R (v13 / label)
+                  :C (v14 / label))
+           :D (v5 / label)
+           :D (v6 / label)
+           :A (v7 / label
+                  :C (v15 / label)
+                  :R (v16 / label)
+                  :E (v17 / label))
+           :P (v8 / label))
+    :H (v3 / label
+           :D (v9 / label)
+           :A (v10 / label
+                   :R (v18 / label)
+                   :E (v19 / label)
+                   :C (v20 / label))
+           :P v8))

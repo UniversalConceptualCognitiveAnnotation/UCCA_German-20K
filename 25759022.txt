@@ -1,0 +1,49 @@
+# ::id 25759022
+# ::tok Er ist besser bewehrt als der Walfisch , dessen Oberkiefer nur mit Barten besetzt ist , hat 25 starke , 20 Zentimeter hohe , walzenförmige , zugespitzte , 2 Pfund schwere Zähne .
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label)
+           :D (v6 / label)
+           :S (v7 / label))
+    :H (v3 / label
+           :R (v8 / label)
+           :A (v9 / label
+                  :E (v12 / label
+                          :R (v22 / label)
+                          :A (v23 / label)
+                          :D (v24 / label)
+                          :A (v25 / label
+                                  :R (v34 / label)
+                                  :C (v35 / label))
+                          :S (v26 / label)
+                          :A (v14 / label))
+                  :E (v13 / label)
+                  :C v14)
+           :S v7)
+    :H (v4 / label
+           :S (v10 / label)
+           :A (v11 / label
+                   :E (v15 / label
+                           :S (v27 / label)
+                           :A (v21 / label))
+                   :E (v16 / label
+                           :A (v28 / label
+                                   :E (v36 / label)
+                                   :C (v37 / label))
+                           :S (v29 / label)
+                           :A v21)
+                   :E (v17 / label
+                           :S (v30 / label)
+                           :A v21)
+                   :E (v18 / label
+                           :S (v31 / label)
+                           :A v21)
+                   :E (v19 / label
+                           :A (v32 / label
+                                   :E (v38 / label)
+                                   :C (v39 / label))
+                           :S (v33 / label)
+                           :A v21)
+                   :E (v20 / label)
+                   :C v21)
+           :A v5))

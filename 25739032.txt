@@ -1,0 +1,31 @@
+# ::id 25739032
+# ::tok Die hohen Wände wölbten sich oben und bildeten einen ungeheuren umgekehrten Trichter von 5 bis 6 Meter Höhe .
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label
+                  :E (v11 / label)
+                  :E (v12 / label)
+                  :C (v10 / label))
+           :P (v6 / label)
+           :D (v7 / label))
+    :L (v3 / label)
+    :H (v4 / label
+           :P (v8 / label)
+           :A (v9 / label
+                  :A (v13 / label
+                          :E (v16 / label
+                                  :S (v22 / label
+                                          :C (v26 / label)
+                                          :C (v27 / label))
+                                  :A (v18 / label))
+                          :E (v17 / label)
+                          :C v18)
+                  :A (v14 / label
+                          :R (v19 / label)
+                          :E (v20 / label
+                                  :C (v23 / label)
+                                  :N (v24 / label)
+                                  :C (v25 / label))
+                          :C (v21 / label))
+                  :S (v15 / label))
+           :A v10))

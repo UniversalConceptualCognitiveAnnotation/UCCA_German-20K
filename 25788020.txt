@@ -1,0 +1,23 @@
+# ::id 25788020
+# ::tok Der unbegreifliche Mann sprach wie ein Professor der Mathematik , der einen Satz demonstriert .
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v6 / label)
+                  :E (v7 / label)
+                  :C (v8 / label))
+           :P (v4 / label)
+           :A (v5 / label
+                  :R (v9 / label)
+                  :E (v10 / label
+                          :R (v14 / label)
+                          :A (v15 / label
+                                  :E (v19 / label)
+                                  :C (v20 / label))
+                          :P (v16 / label)
+                          :A (v13 / label))
+                  :E (v11 / label
+                          :R (v17 / label)
+                          :C (v18 / label))
+                  :E (v12 / label)
+                  :C v13)))

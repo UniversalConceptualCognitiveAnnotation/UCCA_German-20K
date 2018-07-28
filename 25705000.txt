@@ -1,0 +1,42 @@
+# ::id 25705000
+# ::tok Das Boot konnte den Stoß nicht aushalten , schöpfte einige Tonnen Wasser , das man wieder ausleeren mußte ; aber Dank der Geschicklichkeit des Boots führers schlug es nicht um .
+(v1 / label
+    :H (v2 / label
+           :A (v7 / label
+                  :E (v20 / label)
+                  :C (v14 / label))
+           :D (v8 / label)
+           :A (v9 / label
+                  :E (v21 / label)
+                  :C (v22 / label))
+           :D (v10 / label)
+           :S (v11 / label))
+    :H (v3 / label
+           :P (v12 / label)
+           :A (v13 / label
+                   :E (v23 / label
+                           :C (v32 / label)
+                           :E (v33 / label
+                                   :A v32
+                                   :R (v34 / label)
+                                   :A (v35 / label)
+                                   :D (v36 / label)
+                                   :P (v37 / label)
+                                   :D (v38 / label)))
+                   :E (v24 / label)
+                   :C (v25 / label))
+           :A v14)
+    :L (v4 / label)
+    :H (v5 / label
+           :S (v15 / label
+                   :R (v26 / label)
+                   :E (v27 / label)
+                   :C (v28 / label))
+           :A (v16 / label
+                   :R (v29 / label)
+                   :E (v30 / label)
+                   :C (v31 / label)))
+    :H (v6 / label
+           :P (v17 / label)
+           :A (v18 / label)
+           :D (v19 / label)))

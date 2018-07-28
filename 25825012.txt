@@ -1,0 +1,35 @@
+# ::id 25825012
+# ::tok Im Jahr 1863 verfertigten die Ingenieure ein neues Kabel in der Länge von 3.400 Kilometer und 3.400 Kilogramm schwerer , das auf der Great Eastern eingeschifft wurde .
+(v1 / label
+    :H (v2 / label
+           :T (v3 / label
+                  :R (v7 / label)
+                  :C (v8 / label))
+           :P (v4 / label)
+           :A (v5 / label
+                  :E (v9 / label)
+                  :C (v10 / label))
+           :A (v6 / label
+                  :E (v11 / label
+                          :R (v16 / label)
+                          :C (v17 / label
+                                  :E (v23 / label
+                                          :E (v30 / label)
+                                          :C (v31 / label)
+                                          :R (v32 / label))
+                                  :C (v24 / label))
+                          :N (v18 / label)
+                          :C (v19 / label
+                                  :C (v25 / label)
+                                  :E (v26 / label)))
+                  :E (v12 / label
+                          :R (v20 / label)
+                          :A (v21 / label
+                                  :R (v27 / label)
+                                  :E (v28 / label)
+                                  :C (v29 / label))
+                          :P (v22 / label)
+                          :A (v15 / label))
+                  :E (v13 / label)
+                  :E (v14 / label)
+                  :C v15)))

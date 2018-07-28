@@ -1,0 +1,18 @@
+# ::id 25836005
+# ::tok Ich wartete , horchte , ich lebte nur noch durchs Gehör !
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label)
+           :P (v6 / label))
+    :H (v3 / label
+           :P (v7 / label)
+           :A v5)
+    :H (v4 / label
+           :A (v8 / label)
+           :P (v9 / label)
+           :D (v10 / label
+                   :E (v12 / label)
+                   :C (v13 / label))
+           :A (v11 / label
+                   :R (v14 / label)
+                   :C (v15 / label))))

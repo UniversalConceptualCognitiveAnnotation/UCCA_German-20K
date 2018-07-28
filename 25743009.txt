@@ -1,0 +1,28 @@
+# ::id 25743009
+# ::tok In einer Höhe von etwa 30 Meter änderte sich die Beschaffenheit des Bodens , ohne daß er darum bequemer zu passieren wurde .
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label
+                  :R (v12 / label)
+                  :E (v13 / label
+                          :E (v21 / label)
+                          :E (v22 / label)
+                          :C (v23 / label))
+                  :R (v14 / label)
+                  :E (v15 / label)
+                  :C (v16 / label))
+           :P (v6 / label)
+           :A (v7 / label
+                  :E (v17 / label
+                          :R (v24 / label)
+                          :C (v25 / label))
+                  :E (v18 / label)
+                  :C (v19 / label)))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v8 / label)
+           :A (v9 / label)
+           :S (v10 / label)
+           :A (v11 / label
+                   :A v8
+                   :P (v20 / label))))

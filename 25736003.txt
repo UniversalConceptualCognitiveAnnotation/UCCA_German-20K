@@ -1,0 +1,32 @@
+# ::id 25736003
+# ::tok Darauf hob er ein Stückchen kreideartigen Gesteins auf , trat an einen schwarzen Basaltfelsen und schrieb darauf nur das einzige Wort :
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :P (v7 / label)
+           :A (v8 / label)
+           :A (v9 / label
+                  :E (v16 / label
+                          :E (v25 / label)
+                          :C (v26 / label))
+                  :E (v17 / label)
+                  :C (v18 / label)))
+    :H (v4 / label
+           :P (v10 / label)
+           :A (v11 / label
+                   :R (v19 / label)
+                   :E (v20 / label)
+                   :E (v21 / label)
+                   :C (v22 / label))
+           :A v8)
+    :L (v5 / label)
+    :H (v6 / label
+           :P (v12 / label)
+           :A (v13 / label)
+           :D (v14 / label)
+           :A (v15 / label
+                   :E (v23 / label
+                           :E (v27 / label)
+                           :C (v28 / label))
+                   :C (v24 / label))
+           :A v8))

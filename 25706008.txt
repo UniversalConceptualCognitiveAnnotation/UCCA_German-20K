@@ -1,0 +1,30 @@
+# ::id 25706008
+# ::tok Bald gewahrte ich im Dunkeln ein blasses , vom Nebel halb ersticktes Licht 1 Meile weit von uns .
+(v1 / label
+    :H (v2 / label
+           :T (v3 / label)
+           :P (v4 / label)
+           :A (v5 / label)
+           :A (v6 / label
+                  :R (v8 / label)
+                  :C (v9 / label))
+           :A (v7 / label
+                  :E (v10 / label
+                          :A (v15 / label
+                                  :E (v21 / label)
+                                  :C (v22 / label))
+                          :S (v16 / label)
+                          :A (v17 / label
+                                  :R (v23 / label)
+                                  :C (v24 / label))
+                          :A (v14 / label))
+                  :E (v11 / label)
+                  :E (v12 / label)
+                  :E (v13 / label
+                          :A v14
+                          :A (v18 / label
+                                  :R (v25 / label)
+                                  :C (v26 / label))
+                          :D (v19 / label)
+                          :S (v20 / label))
+                  :C v14)))

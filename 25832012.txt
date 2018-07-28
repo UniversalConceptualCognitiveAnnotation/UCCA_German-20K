@@ -1,0 +1,39 @@
+# ::id 25832012
+# ::tok In dem Moment schlug eine Kugel schief auf den Rumpf der Nautilus , ohne einzudringen , prallte neben dem Kapitän ab und sprang weiter ins Meer .
+(v1 / label
+    :H (v2 / label
+           :T (v8 / label
+                  :R (v21 / label)
+                  :E (v22 / label)
+                  :C (v23 / label))
+           :P (v9 / label)
+           :A (v10 / label
+                   :E (v24 / label)
+                   :C (v14 / label))
+           :D (v11 / label)
+           :A (v12 / label
+                   :R (v25 / label)
+                   :E (v26 / label
+                           :R (v33 / label)
+                           :C (v34 / label))
+                   :E (v27 / label)
+                   :C (v28 / label)))
+    :L (v3 / label)
+    :H (v4 / label
+           :P (v13 / label)
+           :A v14)
+    :H (v5 / label
+           :P (v15 / label)
+           :D (v16 / label)
+           :A (v17 / label
+                   :E (v29 / label)
+                   :C (v30 / label))
+           :A v14)
+    :L (v6 / label)
+    :H (v7 / label
+           :P (v18 / label)
+           :D (v19 / label)
+           :A (v20 / label
+                   :R (v31 / label)
+                   :C (v32 / label))
+           :A v14))

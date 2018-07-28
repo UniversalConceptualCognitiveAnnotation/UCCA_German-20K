@@ -1,0 +1,14 @@
+# ::id 25729025
+# ::tok Sobald ich angekleidet war , begab ich mich in den Salon .
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :A (v5 / label)
+           :S (v6 / label))
+    :H (v4 / label
+           :P (v7 / label)
+           :A (v8 / label)
+           :A (v9 / label
+                  :R (v10 / label)
+                  :E (v11 / label)
+                  :C (v12 / label))))

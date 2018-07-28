@@ -1,0 +1,26 @@
+# ::id 25791016
+# ::tok Aber wozu half es , da die durch unser Atmen erzeugte Kohlensäure alle Teile des Schiffs durchdrungen hatte .
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :A (v6 / label)
+           :P (v7 / label))
+    :L (v4 / label)
+    :H (v5 / label
+           :A (v8 / label
+                  :E (v11 / label
+                          :R (v17 / label)
+                          :A (v18 / label
+                                  :E (v22 / label)
+                                  :C (v23 / label))
+                          :P (v19 / label)
+                          :A (v13 / label))
+                  :E (v12 / label)
+                  :C v13)
+           :A (v9 / label
+                  :E (v14 / label
+                          :R (v20 / label)
+                          :C (v21 / label))
+                  :E (v15 / label)
+                  :C (v16 / label))
+           :P (v10 / label)))

@@ -1,0 +1,19 @@
+# ::id 25725003
+# ::tok Hatte er in den letzten politischen oder sozialen Bewegungen dieses Jahrhunderts eine Rolle gespielt ?
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :A (v4 / label
+                  :R (v6 / label)
+                  :A (v7 / label
+                         :E (v11 / label)
+                         :C (v12 / label))
+                  :S (v8 / label)
+                  :D (v9 / label
+                         :C (v13 / label)
+                         :N (v14 / label)
+                         :C (v15 / label))
+                  :T (v10 / label
+                          :R (v16 / label)
+                          :C (v17 / label)))
+           :P (v5 / label)))

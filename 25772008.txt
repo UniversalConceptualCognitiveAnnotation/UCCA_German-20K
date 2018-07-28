@@ -1,0 +1,23 @@
+# ::id 25772008
+# ::tok Nach 5 Minuten solcher Gemütserhebung wendete er sich zu uns und rief mir zu :
+(v1 / label
+    :H (v2 / label
+           :A (v6 / label)
+           :T (v7 / label
+                  :R (v13 / label)
+                  :E (v14 / label)
+                  :C (v15 / label))
+           :S (v8 / label
+                  :R (v16 / label)
+                  :C (v17 / label)))
+    :H (v3 / label
+           :P (v9 / label)
+           :A v6
+           :A (v10 / label
+                   :R (v18 / label)
+                   :C (v19 / label)))
+    :L (v4 / label)
+    :H (v5 / label
+           :P (v11 / label)
+           :A (v12 / label)
+           :A v6))

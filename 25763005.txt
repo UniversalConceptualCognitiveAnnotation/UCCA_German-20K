@@ -1,0 +1,26 @@
+# ::id 25763005
+# ::tok Auch brauchte sie nur einige Meter tief unter die Wellen zu tauchen , um da eine erträgliche Temperatur zu finden .
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :D (v5 / label)
+           :A (v6 / label)
+           :D (v7 / label)
+           :A (v8 / label
+                  :E (v16 / label)
+                  :C (v17 / label))
+           :D (v9 / label)
+           :A (v10 / label
+                   :R (v18 / label)
+                   :E (v19 / label)
+                   :C (v20 / label))
+           :P (v11 / label))
+    :H (v4 / label
+           :R (v12 / label)
+           :A (v13 / label)
+           :A (v14 / label
+                   :E (v21 / label)
+                   :E (v22 / label)
+                   :C (v23 / label))
+           :P (v15 / label)
+           :A v6))

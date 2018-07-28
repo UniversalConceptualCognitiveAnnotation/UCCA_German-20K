@@ -1,0 +1,36 @@
+# ::id 25713003
+# ::tok Ich wendete mich zum Kapitän und rief mit bewegtem Gemüt : »Ein Mann ! Ein Schiff brüchiger ! Den müssen wir retten ! «
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label)
+           :P (v6 / label)
+           :A (v7 / label
+                  :R (v11 / label)
+                  :C (v12 / label)))
+    :L (v3 / label)
+    :H (v4 / label
+           :P (v8 / label)
+           :A (v9 / label
+                  :E (v13 / label
+                          :S (v19 / label)
+                          :A (v15 / label))
+                  :R (v14 / label)
+                  :C v15)
+           :A (v10 / label
+                   :H (v16 / label
+                           :S (v20 / label)
+                           :A (v21 / label
+                                   :E (v28 / label)
+                                   :C (v29 / label)))
+                   :H (v17 / label
+                           :S (v22 / label)
+                           :A (v23 / label
+                                   :E (v30 / label)
+                                   :E (v31 / label)
+                                   :C (v32 / label)))
+                   :H (v18 / label
+                           :A (v24 / label)
+                           :D (v25 / label)
+                           :A (v26 / label)
+                           :P (v27 / label)))
+           :A v5))
