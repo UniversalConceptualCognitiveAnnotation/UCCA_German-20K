@@ -1,9 +1,26 @@
 # ::id 25669015
 # ::tok Ich glaubte , dies Boot gehörte der Linie an , welche die Fahrten von Ceylon nach Sidney macht .
-(label :H label
-       :A label
-       :P label
-       :E label
-       :C label
-       :R label
-       :N label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :P (v4 / label)
+           :A (v5 / label
+                  :A (v6 / label
+                         :E (v9 / label)
+                         :C (v10 / label))
+                  :P (v7 / label)
+                  :A (v8 / label
+                         :E (v11 / label
+                                 :R (v14 / label)
+                                 :A (v15 / label
+                                         :E (v17 / label
+                                                 :R (v20 / label)
+                                                 :C (v21 / label)
+                                                 :N (v22 / label)
+                                                 :C (v23 / label))
+                                         :E (v18 / label)
+                                         :C (v19 / label))
+                                 :P (v16 / label)
+                                 :A (v13 / label))
+                         :E (v12 / label)
+                         :C v13))))

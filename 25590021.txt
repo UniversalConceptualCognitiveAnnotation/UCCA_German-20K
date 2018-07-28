@@ -1,8 +1,13 @@
 # ::id 25590021
 # ::tok Solche Wunder zu erzählen mangelt der Ausdruck .
-(label :H label
-       :A label
-       :P label
-       :E label
-       :C label
-       :S label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v6 / label)
+                  :C (v7 / label))
+           :P (v4 / label)
+           :A (v5 / label
+                  :S (v8 / label)
+                  :A (v9 / label
+                         :E (v10 / label)
+                         :C (v11 / label)))))

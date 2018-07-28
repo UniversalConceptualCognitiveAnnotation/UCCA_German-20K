@@ -1,11 +1,41 @@
 # ::id 25670006
 # ::tok Von ihren acht Fühl fäden schwammen sechs lange und feine oben auf dem Wasser , während die beiden andern blattförmig zusammengerollt wie ein leichtes Segel im Wind aufgespannt waren .
-(label :H label
-       :L label
-       :A label
-       :P label
-       :D label
-       :R label
-       :E label
-       :C label
-       :N label)
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label
+                  :R (v12 / label)
+                  :E (v13 / label)
+                  :E (v14 / label)
+                  :E (v15 / label)
+                  :C (v16 / label))
+           :P (v6 / label)
+           :A (v7 / label
+                  :E (v17 / label)
+                  :C (v18 / label
+                          :C (v26 / label)
+                          :N (v27 / label)
+                          :C (v28 / label)))
+           :D (v8 / label)
+           :A (v9 / label
+                  :R (v19 / label)
+                  :E (v20 / label)
+                  :C (v21 / label)))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v10 / label
+                   :E (v22 / label
+                           :D (v29 / label)
+                           :P (v30 / label)
+                           :R (v31 / label)
+                           :A (v32 / label
+                                   :E (v34 / label)
+                                   :E (v35 / label)
+                                   :C (v36 / label))
+                           :A (v33 / label
+                                   :R (v37 / label)
+                                   :C (v38 / label))
+                           :A (v25 / label))
+                   :E (v23 / label)
+                   :E (v24 / label)
+                   :C v25)
+           :P (v11 / label)))

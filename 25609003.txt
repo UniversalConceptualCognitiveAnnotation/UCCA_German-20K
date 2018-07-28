@@ -1,11 +1,48 @@
 # ::id 25609003
 # ::tok Am 25 . Dezember schiffte die " Nautilus " mitten durch den Archipel der Neu-Hebriden , die 1606 von Quirot entdeckt , 1768 von Bougainville erforscht wurden und von Cook 1773 ihren jetzigen Namen bekamen .
-(label :H label
-       :T label
-       :P label
-       :A label
-       :D label
-       :E label
-       :C label
-       :N label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :T (v3 / label
+                  :E (v8 / label)
+                  :C (v9 / label))
+           :P (v4 / label)
+           :A (v5 / label
+                  :E (v10 / label)
+                  :C (v11 / label))
+           :D (v6 / label
+                  :E (v12 / label)
+                  :C (v13 / label))
+           :A (v7 / label
+                  :E (v14 / label
+                          :C (v17 / label
+                                  :R (v24 / label)
+                                  :T (v25 / label)
+                                  :A (v26 / label
+                                          :R (v35 / label)
+                                          :C (v36 / label))
+                                  :P (v27 / label)
+                                  :A (v16 / label))
+                          :C (v18 / label
+                                  :T (v28 / label)
+                                  :A (v29 / label
+                                          :R (v37 / label)
+                                          :C (v38 / label))
+                                  :P (v30 / label)
+                                  :A v16)
+                          :N (v19 / label)
+                          :C (v20 / label
+                                  :A (v31 / label
+                                          :R (v39 / label)
+                                          :C (v40 / label))
+                                  :T (v32 / label)
+                                  :A (v33 / label
+                                          :E (v41 / label)
+                                          :E (v42 / label)
+                                          :C (v43 / label))
+                                  :P (v34 / label)
+                                  :A v16))
+                  :E (v15 / label
+                          :E (v21 / label)
+                          :C (v22 / label)
+                          :R (v23 / label))
+                  :C v16)))

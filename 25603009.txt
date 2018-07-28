@@ -1,12 +1,34 @@
 # ::id 25603009
 # ::tok Fast täglich öffneten sich einige Stunden lang die Läden des Salons , und unsere Augen konnten sich nicht satt sehen an den Geheimnissen der unterseeischen Welt .
-(label :H label
-       :L label
-       :D label
-       :T label
-       :P label
-       :A label
-       :E label
-       :C label
-       :R label
-       :S label)
+(v1 / label
+    :H (v2 / label
+           :D (v5 / label)
+           :T (v6 / label)
+           :P (v7 / label)
+           :T (v8 / label
+                  :E (v15 / label)
+                  :C (v16 / label)
+                  :E (v17 / label))
+           :A (v9 / label
+                  :E (v18 / label
+                          :R (v26 / label)
+                          :C (v27 / label))
+                  :E (v19 / label)
+                  :C (v20 / label)))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v10 / label
+                   :E (v21 / label)
+                   :C (v22 / label))
+           :D (v11 / label)
+           :P (v12 / label)
+           :D (v13 / label)
+           :A (v14 / label
+                   :R (v23 / label)
+                   :S (v24 / label
+                           :E (v28 / label)
+                           :C (v29 / label))
+                   :A (v25 / label
+                           :R (v30 / label)
+                           :E (v31 / label)
+                           :C (v32 / label)))))

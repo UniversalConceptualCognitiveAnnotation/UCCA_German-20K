@@ -1,9 +1,35 @@
 # ::id 25517013
 # ::tok Die Pumpen der ›Nautilus‹ haben eine wunderbare Kraft , deren Wirkung Sie gespürt haben , als ihre Wasser säulen wie ein reißender Strom auf die ›Abraham Lincoln‹ stürzten .
-(label :H label
-       :L label
-       :A label
-       :P label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label
+                  :E (v14 / label
+                          :R (v32 / label)
+                          :C (v33 / label))
+                  :E (v15 / label)
+                  :C (v16 / label))
+           :A (v6 / label
+                  :E (v17 / label)
+                  :E (v18 / label)
+                  :C (v19 / label))
+           :A (v7 / label
+                  :R (v20 / label)
+                  :C (v21 / label))
+           :A (v8 / label)
+           :P (v9 / label))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v10 / label
+                   :E (v22 / label)
+                   :E (v23 / label)
+                   :C (v24 / label))
+           :A (v11 / label
+                   :R (v25 / label)
+                   :E (v26 / label)
+                   :E (v27 / label)
+                   :C (v28 / label))
+           :A (v12 / label
+                   :R (v29 / label)
+                   :E (v30 / label)
+                   :C (v31 / label))
+           :P (v13 / label)))

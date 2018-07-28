@@ -1,11 +1,31 @@
 # ::id 25594001
 # ::tok Keines von den Kräutern des Bodens , keiner von den Zweigen der Gebüsche rankte , bog sich oder wuchs in horizontaler Richtung .
-(label :H label
-       :L label
-       :D label
-       :A label
-       :S label
-       :P label
-       :R label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :D (v6 / label)
+           :A (v7 / label
+                  :R (v14 / label)
+                  :E (v15 / label
+                          :R (v25 / label)
+                          :C (v26 / label))
+                  :E (v16 / label)
+                  :C (v17 / label))
+           :D (v8 / label)
+           :A (v9 / label
+                  :R (v18 / label)
+                  :E (v19 / label
+                          :R (v27 / label)
+                          :C (v28 / label))
+                  :E (v20 / label)
+                  :C (v21 / label))
+           :S (v10 / label))
+    :H (v3 / label
+           :S (v11 / label)
+           :A v6)
+    :L (v4 / label)
+    :H (v5 / label
+           :P (v12 / label)
+           :A (v13 / label
+                   :R (v22 / label)
+                   :E (v23 / label)
+                   :C (v24 / label))))

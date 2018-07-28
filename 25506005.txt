@@ -1,8 +1,18 @@
 # ::id 25506005
 # ::tok Eine gleiche Sammlung von See produkten findet sich in keinem Museum Europas .
-(label :H label
-       :A label
-       :S label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v6 / label
+                         :R (v14 / label)
+                         :E (v15 / label)
+                         :C (v16 / label))
+                  :E (v7 / label)
+                  :E (v8 / label)
+                  :C (v9 / label))
+           :S (v4 / label)
+           :A (v5 / label
+                  :R (v10 / label)
+                  :E (v11 / label)
+                  :C (v12 / label)
+                  :E (v13 / label))))

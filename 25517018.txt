@@ -1,12 +1,65 @@
 # ::id 25517018
 # ::tok Aber ich kann die ›Nautilus‹ auch in vertikaler Richtung , von unten nach oben und umgekehrt , in Bewegung setzen vermittels zweier geneigter Flächen , die an seinen Seiten auf dem Zentrum seiner Wasser tracht angebracht beweglich und alle Lagen anzunehmen geeignet sind und von innen durch kräftige Hebel in Bewegung gebracht werden .
-(label :L label
-       :H label
-       :A label
-       :D label
-       :P label
-       :E label
-       :C label
-       :R label
-       :N label
-       :S label)
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :A (v6 / label)
+           :D (v7 / label)
+           :A (v8 / label
+                  :E (v16 / label)
+                  :C (v17 / label))
+           :D (v9 / label)
+           :A (v10 / label
+                   :R (v18 / label)
+                   :E (v19 / label
+                           :C (v32 / label
+                                   :N (v40 / label)
+                                   :C (v41 / label)
+                                   :N (v42 / label)
+                                   :C (v43 / label))
+                           :N (v33 / label)
+                           :C (v34 / label))
+                   :E (v20 / label)
+                   :C (v21 / label))
+           :P (v11 / label)
+           :A (v12 / label
+                   :R (v22 / label)
+                   :E (v23 / label
+                           :R (v35 / label)
+                           :A (v36 / label
+                                   :R (v44 / label)
+                                   :E (v45 / label)
+                                   :C (v46 / label))
+                           :A (v37 / label
+                                   :R (v47 / label)
+                                   :E (v48 / label
+                                           :R (v54 / label)
+                                           :E (v55 / label)
+                                           :C (v56 / label))
+                                   :E (v49 / label)
+                                   :C (v50 / label))
+                           :S (v38 / label)
+                           :A (v39 / label
+                                   :C (v51 / label)
+                                   :N (v52 / label)
+                                   :C (v53 / label
+                                           :A (v57 / label
+                                                   :E (v60 / label)
+                                                   :C (v61 / label))
+                                           :P (v58 / label)
+                                           :D (v59 / label)
+                                           :A (v26 / label)))
+                           :A v26)
+                   :E (v24 / label)
+                   :E (v25 / label)
+                   :C v26))
+    :L (v4 / label)
+    :H (v5 / label
+           :A (v13 / label
+                   :R (v27 / label)
+                   :C (v28 / label))
+           :A (v14 / label
+                   :R (v29 / label)
+                   :E (v30 / label)
+                   :C (v31 / label))
+           :P (v15 / label)))

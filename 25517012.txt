@@ -1,9 +1,22 @@
 # ::id 25517012
 # ::tok »Ich sage Ihnen nochmals , mein Herr , die dynamische Wirkung meiner Maschinen ist fast unbeschränkt .
-(label :H label
-       :A label
-       :P label
-       :D label
-       :S label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label)
+           :P (v5 / label)
+           :A (v6 / label)
+           :D (v7 / label)
+           :A (v8 / label
+                  :E (v13 / label)
+                  :C (v14 / label)))
+    :H (v3 / label
+           :A (v9 / label
+                  :E (v15 / label
+                          :E (v19 / label)
+                          :C (v20 / label))
+                  :E (v16 / label)
+                  :E (v17 / label)
+                  :C (v18 / label))
+           :S (v10 / label)
+           :D (v11 / label)
+           :D (v12 / label)))

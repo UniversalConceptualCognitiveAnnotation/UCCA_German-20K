@@ -1,10 +1,23 @@
 # ::id 25684003
 # ::tok Manche waren mit grünlichen , von oben herablaufenden Streifen geziert ; sie gehörten jungen Austern .
-(label :H label
-       :A label
-       :P label
-       :S label
-       :R label
-       :E label
-       :C label
-       :D label)
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label)
+           :A (v5 / label)
+           :A (v6 / label
+                  :R (v11 / label)
+                  :E (v12 / label)
+                  :E (v13 / label
+                          :A (v14 / label)
+                          :D (v17 / label
+                                  :R (v19 / label)
+                                  :C (v20 / label))
+                          :P (v18 / label))
+                  :C v14)
+           :P (v7 / label))
+    :H (v3 / label
+           :A (v8 / label)
+           :S (v9 / label)
+           :A (v10 / label
+                   :E (v15 / label)
+                   :C (v16 / label))))

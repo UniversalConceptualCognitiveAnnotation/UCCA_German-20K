@@ -1,11 +1,30 @@
 # ::id 25651001
 # ::tok Die äußeren Teile des Körpers wurden schon kalt , und ich sah den Tod herannahen , ohne daß es möglich schien , ihn zu hemmen .
-(label :H label
-       :L label
-       :A label
-       :D label
-       :S label
-       :P label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v8 / label
+                  :E (v19 / label
+                          :R (v25 / label)
+                          :C (v26 / label))
+                  :E (v20 / label)
+                  :E (v21 / label)
+                  :C (v22 / label))
+           :D (v9 / label)
+           :S (v10 / label))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v11 / label)
+           :P (v12 / label)
+           :A (v13 / label
+                   :A (v23 / label
+                           :E (v27 / label)
+                           :C (v28 / label))
+                   :P (v24 / label)))
+    :L (v5 / label)
+    :H (v6 / label
+           :A (v14 / label)
+           :S (v15 / label)
+           :D (v16 / label))
+    :H (v7 / label
+           :A (v17 / label)
+           :P (v18 / label)))

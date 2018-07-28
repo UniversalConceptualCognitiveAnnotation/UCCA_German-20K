@@ -1,10 +1,75 @@
 # ::id 25409008
 # ::tok Als diese Nachrichten Schlag auf Schlag eintrafen , machten neue an Bord des Pereira gemachte Beobachtungen , ein Zusammenstoßen des Aetna mit dem Ungeheuer , ein von den Officieren der französischen Fregatte La Normandie vorgenommenes Protokoll , eine sehr ernste , vom Generalstab des Commodore Fitz-James an Bord des Lord Clyde gemachte Aufnahme – auf die öffentliche Meinung den tiefsten Eindruck .
-(label :L label
-       :H label
-       :A label
-       :D label
-       :P label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :A (v5 / label
+                  :E (v15 / label)
+                  :C (v16 / label))
+           :D (v6 / label)
+           :P (v7 / label))
+    :H (v4 / label
+           :P (v8 / label)
+           :A (v9 / label
+                  :A (v17 / label
+                          :E (v34 / label)
+                          :C (v35 / label))
+                  :A (v18 / label
+                          :R (v36 / label)
+                          :C (v37 / label)
+                          :E (v38 / label
+                                  :E (v62 / label)
+                                  :C (v63 / label)))
+                  :P (v19 / label))
+           :A (v10 / label
+                   :P (v20 / label
+                           :E (v39 / label)
+                           :C (v40 / label))
+                   :A (v21 / label
+                           :E (v41 / label)
+                           :C (v42 / label))
+                   :A (v22 / label
+                           :R (v43 / label)
+                           :E (v44 / label)
+                           :C (v45 / label)))
+           :A (v11 / label
+                   :A (v23 / label
+                           :E (v46 / label)
+                           :C (v47 / label))
+                   :A (v24 / label
+                           :R (v48 / label)
+                           :E (v49 / label
+                                   :R (v64 / label)
+                                   :E (v65 / label
+                                           :E (v72 / label)
+                                           :C (v73 / label))
+                                   :C (v66 / label))
+                           :E (v50 / label)
+                           :C (v51 / label))
+                   :P (v25 / label))
+           :A (v12 / label
+                   :A (v26 / label
+                           :E (v52 / label)
+                           :E (v53 / label)
+                           :E (v54 / label)
+                           :C (v55 / label))
+                   :A (v27 / label
+                           :R (v56 / label)
+                           :E (v57 / label
+                                   :C (v67 / label)
+                                   :R (v68 / label))
+                           :E (v58 / label)
+                           :C (v59 / label))
+                   :A (v28 / label
+                           :E (v60 / label
+                                   :R (v69 / label)
+                                   :C (v70 / label)
+                                   :R (v71 / label))
+                           :C (v61 / label))
+                   :P (v29 / label))
+           :A (v13 / label
+                   :R (v30 / label)
+                   :E (v31 / label)
+                   :E (v32 / label)
+                   :C (v33 / label))
+           :D (v14 / label)))

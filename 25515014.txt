@@ -1,9 +1,21 @@
 # ::id 25515014
 # ::tok Diese beiden Rümpfe sind aus Stahl platten gefertigt , deren Dichte im Verhältnis zum Wasser 7 bis 8 Zehntel beträgt .
-(label :H label
-       :A label
-       :P label
-       :E label
-       :C label
-       :R label
-       :S label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v6 / label)
+                  :E (v7 / label)
+                  :C (v8 / label))
+           :A (v4 / label
+                  :R (v9 / label)
+                  :E (v10 / label
+                          :R (v13 / label)
+                          :A (v14 / label)
+                          :A (v15 / label
+                                  :R (v18 / label)
+                                  :C (v19 / label))
+                          :A (v16 / label)
+                          :S (v17 / label))
+                  :E (v11 / label)
+                  :C (v12 / label))
+           :P (v5 / label)))

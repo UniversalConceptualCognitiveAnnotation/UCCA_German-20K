@@ -1,6 +1,11 @@
 # ::id 25638011
 # ::tok »Kapitän« , sagte ich , »ich zweifle nicht ...«
-(label :H label
-       :A label
-       :P label
-       :D label)
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label)
+           :P (v5 / label)
+           :A (v6 / label))
+    :H (v3 / label
+           :A (v7 / label)
+           :P (v8 / label)
+           :D (v9 / label)))

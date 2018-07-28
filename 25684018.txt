@@ -1,8 +1,25 @@
 # ::id 25684018
 # ::tok Nachdem wir einen ziemlich steilen Abhang hinabgestiegen waren , betraten wir den Boden einer Art kreisrunden Schachts .
-(label :L label
-       :H label
-       :A label
-       :P label
-       :E label
-       :C label)
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :A (v5 / label)
+           :A (v6 / label
+                  :E (v12 / label)
+                  :E (v13 / label
+                          :E (v20 / label)
+                          :C (v21 / label))
+                  :C (v14 / label))
+           :P (v7 / label))
+    :H (v4 / label
+           :P (v8 / label)
+           :A (v9 / label)
+           :A (v10 / label
+                   :E (v15 / label)
+                   :C (v16 / label))
+           :A (v11 / label
+                   :E (v17 / label
+                           :E (v22 / label)
+                           :C (v23 / label))
+                   :E (v18 / label)
+                   :C (v19 / label))))

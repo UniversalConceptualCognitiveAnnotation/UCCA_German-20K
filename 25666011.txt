@@ -1,9 +1,24 @@
 # ::id 25666011
 # ::tok Dieser leere Raum sparte auch die Graphit spitzen , zwischen denen die Licht strömung sich entwickelt .
-(label :H label
-       :A label
-       :P label
-       :D label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v7 / label)
+                  :E (v8 / label)
+                  :C (v9 / label))
+           :P (v4 / label)
+           :D (v5 / label)
+           :A (v6 / label
+                  :E (v10 / label
+                          :A (v14 / label
+                                  :R (v17 / label)
+                                  :C (v18 / label))
+                          :A (v15 / label
+                                  :E (v19 / label)
+                                  :E (v20 / label)
+                                  :C (v21 / label))
+                          :P (v16 / label)
+                          :A (v13 / label))
+                  :E (v11 / label)
+                  :E (v12 / label)
+                  :C v13)))

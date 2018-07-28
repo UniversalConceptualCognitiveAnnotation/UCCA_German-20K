@@ -1,9 +1,25 @@
 # ::id 25602005
 # ::tok Das Leben tritt im Ozean innerlich stärker auf , üppiger strömend , unbegrenzter nach allen Richtungen sich verbreitend .
-(label :H label
-       :A label
-       :P label
-       :D label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label
+                  :E (v15 / label)
+                  :C (v11 / label))
+           :P (v6 / label)
+           :A (v7 / label
+                  :R (v16 / label)
+                  :C (v17 / label))
+           :D (v8 / label
+                  :E (v18 / label)
+                  :C (v19 / label)))
+    :H (v3 / label
+           :D (v9 / label)
+           :P (v10 / label)
+           :A v11)
+    :H (v4 / label
+           :D (v12 / label)
+           :A (v13 / label
+                   :R (v20 / label)
+                   :E (v21 / label)
+                   :C (v22 / label))
+           :P (v14 / label)))

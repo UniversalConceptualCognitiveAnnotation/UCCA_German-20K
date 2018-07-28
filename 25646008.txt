@@ -1,9 +1,21 @@
 # ::id 25646008
 # ::tok In dem Augenblick regte der Leutnant von neuem die Aufmerksamkeit des Kapitäns an .
-(label :H label
-       :A label
-       :P label
-       :D label
-       :R label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :R (v8 / label)
+                  :E (v9 / label)
+                  :C (v10 / label))
+           :P (v4 / label)
+           :A (v5 / label
+                  :E (v11 / label)
+                  :C (v12 / label))
+           :D (v6 / label
+                  :R (v13 / label)
+                  :C (v14 / label))
+           :A (v7 / label
+                  :E (v15 / label
+                          :R (v18 / label)
+                          :C (v19 / label))
+                  :E (v16 / label)
+                  :C (v17 / label))))

@@ -1,12 +1,44 @@
 # ::id 25671010
 # ::tok »Man nennt das ein Milch meer « , sagte ich , »weiße Meeres wellen in weitem Umfang , wie man  s häufig an den Küsten von Amboina und in diesen Gegenden zu sehen bekommt.«
-(label :H label
-       :A label
-       :P label
-       :L label
-       :S label
-       :D label
-       :E label
-       :C label
-       :R label
-       :N label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :H (v6 / label
+                         :A (v10 / label)
+                         :P (v11 / label)
+                         :A (v12 / label)
+                         :A (v13 / label
+                                 :E (v22 / label)
+                                 :E (v23 / label)
+                                 :C (v24 / label)))
+                  :H (v7 / label
+                         :A (v14 / label
+                                 :E (v25 / label)
+                                 :E (v26 / label)
+                                 :C (v27 / label))
+                         :S (v15 / label
+                                 :R (v28 / label)
+                                 :E (v29 / label)
+                                 :C (v30 / label)))
+                  :L (v8 / label)
+                  :H (v9 / label
+                         :A (v16 / label)
+                         :A (v17 / label)
+                         :D (v18 / label)
+                         :A (v19 / label
+                                 :C (v31 / label
+                                         :R (v34 / label)
+                                         :E (v35 / label
+                                                 :E (v41 / label)
+                                                 :C (v42 / label))
+                                         :R (v36 / label)
+                                         :C (v37 / label))
+                                 :N (v32 / label)
+                                 :C (v33 / label
+                                         :R (v38 / label)
+                                         :E (v39 / label)
+                                         :C (v40 / label)))
+                         :P (v20 / label)
+                         :D (v21 / label)))
+           :P (v4 / label)
+           :A (v5 / label)))

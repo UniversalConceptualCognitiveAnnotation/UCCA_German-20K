@@ -1,11 +1,24 @@
 # ::id 25590007
 # ::tok Conseil und ich taten dasselbe , während der Kanadier uns ironisch »Glück zu der Jagd« wünschte .
-(label :H label
-       :L label
-       :A label
-       :P label
-       :D label
-       :C label
-       :N label
-       :E label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label
+                  :C (v13 / label)
+                  :N (v14 / label)
+                  :C (v15 / label))
+           :P (v6 / label)
+           :D (v7 / label))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v8 / label
+                  :E (v16 / label)
+                  :C (v17 / label))
+           :A (v9 / label)
+           :D (v10 / label)
+           :A (v11 / label
+                   :C (v18 / label)
+                   :E (v19 / label
+                           :R (v20 / label)
+                           :E (v21 / label)
+                           :C (v22 / label)))
+           :P (v12 / label)))

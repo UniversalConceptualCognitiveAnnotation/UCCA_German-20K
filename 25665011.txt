@@ -1,10 +1,14 @@
 # ::id 25665011
 # ::tok Übrigens sind wir durch nichts an Kapitän Nemo gebunden .
-(label :H label
-       :G label
-       :A label
-       :D label
-       :S label
-       :R label
-       :C label
-       :E label)
+(v1 / label
+    :H (v2 / label
+           :G (v3 / label)
+           :A (v4 / label)
+           :D (v5 / label
+                  :R (v8 / label)
+                  :C (v9 / label))
+           :A (v6 / label
+                  :R (v10 / label)
+                  :E (v11 / label)
+                  :C (v12 / label))
+           :S (v7 / label)))

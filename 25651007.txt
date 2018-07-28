@@ -1,5 +1,10 @@
 # ::id 25651007
 # ::tok Ich nahm Anstand mich auszusprechen .
-(label :H label
-       :A label
-       :P label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :P (v4 / label)
+           :A (v5 / label)
+           :A (v6 / label
+                  :A (v7 / label)
+                  :P (v8 / label))))

@@ -1,8 +1,9 @@
 # ::id 25597006
 # ::tok Es begann also der Rückweg .
-(label :H label
-       :P label
-       :D label
-       :A label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :P (v3 / label)
+           :D (v4 / label)
+           :A (v5 / label
+                  :E (v6 / label)
+                  :C (v7 / label))))

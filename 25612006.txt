@@ -1,10 +1,34 @@
 # ::id 25612006
 # ::tok Dort lagen 3 bis 4 Klafter tief , zwischen den Riffen Pacou und Vanou , Anker , Kanonen , Blöcke , Eisen und Blei , von Kalk stein masse umgeben .
-(label :H label
-       :A label
-       :S label
-       :D label
-       :C label
-       :E label
-       :R label
-       :N label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :S (v4 / label)
+           :D (v5 / label
+                  :C (v8 / label)
+                  :E (v9 / label))
+           :A (v6 / label
+                  :R (v10 / label)
+                  :E (v11 / label
+                          :E (v15 / label)
+                          :C (v16 / label))
+                  :C (v12 / label
+                          :C (v17 / label)
+                          :N (v18 / label)
+                          :C (v19 / label)))
+           :A (v7 / label
+                  :C (v13 / label
+                          :C (v20 / label)
+                          :C (v21 / label)
+                          :C (v22 / label)
+                          :C (v23 / label)
+                          :N (v24 / label)
+                          :C (v25 / label))
+                  :E (v14 / label
+                          :A v13
+                          :A (v26 / label
+                                  :R (v28 / label)
+                                  :E (v29 / label)
+                                  :E (v30 / label)
+                                  :C (v31 / label))
+                          :S (v27 / label)))))

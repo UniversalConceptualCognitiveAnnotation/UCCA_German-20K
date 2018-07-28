@@ -1,11 +1,32 @@
 # ::id 25620006
 # ::tok »Wenn mein Herr es wagen will« , sagte Conseil , »so werden wir wissen , woran wir uns zu halten haben in Hinsicht der Liebenswürdigkeit des Kapitäns.«
-(label :L label
-       :H label
-       :A label
-       :P label
-       :S label
-       :D label
-       :R label
-       :E label
-       :C label)
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :A (v7 / label
+                  :A (v16 / label
+                          :E (v23 / label)
+                          :C (v24 / label))
+                  :A (v17 / label)
+                  :P (v18 / label)
+                  :D (v19 / label))
+           :P (v8 / label)
+           :A (v9 / label))
+    :L (v4 / label)
+    :H (v5 / label
+           :A (v10 / label)
+           :S (v11 / label))
+    :H (v6 / label
+           :A (v12 / label)
+           :A (v13 / label)
+           :P (v14 / label)
+           :A (v15 / label
+                   :R (v20 / label
+                           :R (v25 / label)
+                           :C (v26 / label))
+                   :S (v21 / label
+                           :R (v27 / label)
+                           :C (v28 / label))
+                   :A (v22 / label
+                           :R (v29 / label)
+                           :C (v30 / label)))))

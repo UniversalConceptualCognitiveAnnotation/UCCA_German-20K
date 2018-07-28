@@ -1,12 +1,23 @@
 # ::id 25581009
 # ::tok Früher bereitete man daraus schöne Zeuge , Strümpfe , Handschuhe , denn sie waren zugleich kernhaft und sehr warm .
-(label :H label
-       :L label
-       :T label
-       :P label
-       :A label
-       :D label
-       :S label
-       :C label
-       :N label
-       :E label)
+(v1 / label
+    :H (v2 / label
+           :T (v5 / label)
+           :P (v6 / label)
+           :A (v7 / label)
+           :A (v8 / label)
+           :A (v9 / label
+                  :C (v14 / label
+                          :E (v20 / label)
+                          :C (v21 / label))
+                  :C (v15 / label)
+                  :C (v16 / label)))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v10 / label)
+           :D (v11 / label)
+           :S (v12 / label
+                   :C (v17 / label)
+                   :N (v18 / label)
+                   :C (v19 / label))
+           :D (v13 / label)))

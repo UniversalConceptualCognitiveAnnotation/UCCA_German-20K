@@ -1,11 +1,28 @@
 # ::id 25582007
 # ::tok Der Himmel zeigte sich bedeckt , das Meer grau , doch ruhig ; kaum eine Bewegung der Wellen .
-(label :H label
-       :L label
-       :A label
-       :P label
-       :D label
-       :S label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v7 / label
+                  :E (v17 / label)
+                  :C (v18 / label))
+           :P (v8 / label)
+           :D (v9 / label))
+    :H (v3 / label
+           :A (v10 / label
+                   :E (v19 / label)
+                   :C (v13 / label))
+           :D (v11 / label)
+           :P v8)
+    :L (v4 / label)
+    :H (v5 / label
+           :S (v12 / label)
+           :A v13)
+    :H (v6 / label
+           :S (v14 / label)
+           :D (v15 / label)
+           :A (v16 / label
+                   :E (v20 / label
+                           :R (v23 / label)
+                           :C (v24 / label))
+                   :E (v21 / label)
+                   :C (v22 / label))))

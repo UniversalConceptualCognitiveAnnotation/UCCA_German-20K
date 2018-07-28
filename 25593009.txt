@@ -1,11 +1,22 @@
 # ::id 25593009
 # ::tok Aber mein Skaphander kleid war so beschaffen , daß dieser Druck mir in keiner Weise nachteilig war .
-(label :L label
-       :H label
-       :A label
-       :D label
-       :P label
-       :E label
-       :C label
-       :R label
-       :S label)
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :A (v4 / label
+                  :E (v8 / label)
+                  :E (v9 / label)
+                  :C (v10 / label))
+           :D (v5 / label)
+           :P (v6 / label)
+           :A (v7 / label
+                  :R (v11 / label)
+                  :A (v12 / label
+                          :E (v16 / label)
+                          :C (v17 / label))
+                  :A (v13 / label)
+                  :D (v14 / label
+                          :R (v18 / label)
+                          :E (v19 / label)
+                          :C (v20 / label))
+                  :S (v15 / label))))

@@ -1,10 +1,60 @@
 # ::id 25611005
 # ::tok Hier sammelte er zahlreiche Reste des Schiff bruchs , eiserne Geräte , Anker , Steinböller , eine 18pfündige Kugel , Trümmer von astronomischen Instrumenten , eine bronzene Glocke mit der Inschrift : »Bazin hat mich verfertigt« , die das Kennzeichen der Gießerei des Arsenals zu Brest um 1785 war .
-(label :H label
-       :A label
-       :P label
-       :E label
-       :C label
-       :R label
-       :S label
-       :T label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :P (v4 / label)
+           :A (v5 / label)
+           :A (v6 / label
+                  :E (v7 / label
+                         :C (v11 / label
+                                 :E (v20 / label)
+                                 :C (v21 / label))
+                         :C (v12 / label)
+                         :C (v13 / label)
+                         :C (v14 / label
+                                 :E (v22 / label)
+                                 :E (v23 / label)
+                                 :C (v24 / label))
+                         :C (v15 / label
+                                 :C (v25 / label)
+                                 :E (v26 / label
+                                         :R (v31 / label)
+                                         :E (v32 / label)
+                                         :C (v33 / label)))
+                         :C (v16 / label
+                                 :E (v27 / label
+                                         :R (v34 / label)
+                                         :E (v35 / label)
+                                         :C (v36 / label)
+                                         :E (v37 / label
+                                                 :A (v39 / label)
+                                                 :A (v40 / label)
+                                                 :P (v41 / label))
+                                         :E (v38 / label
+                                                 :A v36
+                                                 :R (v42 / label)
+                                                 :S (v43 / label
+                                                         :E (v47 / label)
+                                                         :C (v48 / label))
+                                                 :A (v44 / label
+                                                         :R (v49 / label)
+                                                         :C (v50 / label))
+                                                 :A (v45 / label
+                                                         :R (v51 / label)
+                                                         :C (v52 / label)
+                                                         :E (v53 / label
+                                                                 :R (v56 / label)
+                                                                 :C (v57 / label)))
+                                                 :T (v46 / label
+                                                         :E (v54 / label)
+                                                         :C (v55 / label))))
+                                 :E (v28 / label)
+                                 :E (v29 / label)
+                                 :C (v30 / label)))
+                  :E (v8 / label
+                         :R (v17 / label)
+                         :E (v18 / label)
+                         :C (v19 / label))
+                  :E (v9 / label)
+                  :C (v10 / label))))

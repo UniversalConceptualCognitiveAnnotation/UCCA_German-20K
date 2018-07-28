@@ -1,9 +1,23 @@
 # ::id 25529013
 # ::tok »Ah , Freund Conseil , Sie haben das Beste bis zuletzt aufgehoben.« »Ja , wackerer Ned« , erwiderte Conseil .
-(label :H label
-       :A label
-       :D label
-       :P label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label)
+           :A (v5 / label
+                  :E (v14 / label)
+                  :C (v15 / label))
+           :A (v6 / label)
+           :A (v7 / label
+                  :E (v16 / label)
+                  :C (v17 / label))
+           :D (v8 / label
+                  :R (v18 / label)
+                  :C (v19 / label))
+           :P (v9 / label))
+    :H (v3 / label
+           :A (v10 / label)
+           :A (v11 / label
+                   :E (v20 / label)
+                   :C (v21 / label))
+           :P (v12 / label)
+           :A (v13 / label)))

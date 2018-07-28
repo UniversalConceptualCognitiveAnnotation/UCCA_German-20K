@@ -1,11 +1,19 @@
 # ::id 25596001
 # ::tok Bisher hatte ich nicht daran gedacht , und ich beschloß auf meiner Hut zu sein .
-(label :H label
-       :L label
-       :D label
-       :A label
-       :P label
-       :S label
-       :R label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :D (v5 / label)
+           :A (v6 / label)
+           :D (v7 / label)
+           :A (v8 / label)
+           :P (v9 / label))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v10 / label)
+           :P (v11 / label)
+           :A (v12 / label
+                   :A (v13 / label
+                           :R (v15 / label)
+                           :E (v16 / label)
+                           :C (v17 / label))
+                   :S (v14 / label))))

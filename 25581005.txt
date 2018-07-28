@@ -1,12 +1,27 @@
 # ::id 25581005
 # ::tok Die Abwesenheit von Kapitän Nemo während unserer gestrigen Unterhaltung machte mir Gedanken , und ich hoffte ihn heute wiederzusehen .
-(label :H label
-       :L label
-       :S label
-       :A label
-       :T label
-       :P label
-       :D label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :S (v8 / label
+                  :E (v21 / label)
+                  :C (v22 / label))
+           :A (v9 / label
+                  :R (v23 / label)
+                  :E (v24 / label)
+                  :C (v25 / label)))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v10 / label)
+           :T (v11 / label)
+           :P (v12 / label))
+    :H (v5 / label
+           :P (v13 / label)
+           :A (v14 / label)
+           :A (v15 / label))
+    :L (v6 / label)
+    :H (v7 / label
+           :A (v16 / label)
+           :D (v17 / label)
+           :A (v18 / label)
+           :T (v19 / label)
+           :P (v20 / label)))

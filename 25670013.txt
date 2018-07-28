@@ -1,11 +1,29 @@
 # ::id 25670013
 # ::tok Am folgenden Tag , dem 26 , Januar , durchschnitten wir unterm 82 . Meridian den Äquator und kamen wieder auf die nördliche Hemisphäre .
-(label :H label
-       :L label
-       :T label
-       :P label
-       :A label
-       :D label
-       :E label
-       :R label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :T (v5 / label
+                  :E (v13 / label
+                          :E (v25 / label)
+                          :C (v26 / label))
+                  :R (v14 / label)
+                  :E (v15 / label)
+                  :C (v16 / label))
+           :P (v6 / label)
+           :A (v7 / label)
+           :A (v8 / label
+                  :R (v17 / label)
+                  :C (v18 / label))
+           :A (v9 / label
+                  :E (v19 / label)
+                  :C (v20 / label)))
+    :L (v3 / label)
+    :H (v4 / label
+           :P (v10 / label)
+           :D (v11 / label)
+           :A (v12 / label
+                   :R (v21 / label)
+                   :E (v22 / label)
+                   :E (v23 / label)
+                   :C (v24 / label))
+           :A v7))

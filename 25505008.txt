@@ -1,11 +1,77 @@
 # ::id 25505008
 # ::tok Mitten im Salon sah man in elektrischer Beleuchtung einen Spring brunnen mit einem Becken aus einer einzigen Muschel von einer der größten Mollusken arten , deren fein verzierter Rand 6 Meter Umfang hatte und die demnach größer war als die Riesen weihkessel in der Kirche St . Sulpice zu Paris , die einst die Republik Venedig dem König Franz I . zum Geschenk machte .
-(label :H label
-       :L label
-       :A label
-       :P label
-       :R label
-       :D label
-       :S label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label
+                  :E (v14 / label
+                          :C (v29 / label)
+                          :R (v30 / label))
+                  :C (v15 / label))
+           :P (v6 / label)
+           :A (v7 / label)
+           :A (v8 / label
+                  :R (v16 / label)
+                  :E (v17 / label)
+                  :C (v18 / label))
+           :A (v9 / label
+                  :E (v19 / label
+                          :S (v31 / label)
+                          :R (v32 / label)
+                          :A (v33 / label
+                                  :E (v44 / label)
+                                  :C (v45 / label))
+                          :A (v34 / label
+                                  :R (v46 / label)
+                                  :E (v47 / label)
+                                  :E (v48 / label)
+                                  :C (v49 / label)
+                                  :E (v50 / label
+                                          :R (v58 / label)
+                                          :E (v59 / label
+                                                  :E (v66 / label)
+                                                  :E (v67 / label)
+                                                  :C (v68 / label))
+                                          :C (v60 / label)
+                                          :E (v61 / label))
+                                  :E (v51 / label
+                                          :R (v62 / label)
+                                          :A (v63 / label
+                                                  :E (v69 / label)
+                                                  :E (v70 / label)
+                                                  :C (v71 / label))
+                                          :A (v64 / label
+                                                  :C (v72 / label)
+                                                  :E (v73 / label))
+                                          :S (v65 / label)
+                                          :A v60)))
+                  :E (v20 / label)
+                  :E (v21 / label)
+                  :C (v22 / label)))
+    :L (v3 / label)
+    :H (v4 / label
+           :R (v10 / label)
+           :D (v11 / label)
+           :S (v12 / label)
+           :A (v13 / label
+                   :R (v23 / label)
+                   :E (v24 / label
+                           :R (v35 / label)
+                           :E (v36 / label
+                                   :R (v52 / label)
+                                   :C (v53 / label))
+                           :E (v37 / label)
+                           :C (v38 / label))
+                   :E (v25 / label
+                           :R (v39 / label)
+                           :D (v40 / label)
+                           :A (v41 / label
+                                   :E (v54 / label)
+                                   :C (v55 / label))
+                           :A (v42 / label
+                                   :R (v56 / label)
+                                   :C (v57 / label))
+                           :P (v43 / label)
+                           :A (v28 / label))
+                   :E (v26 / label)
+                   :E (v27 / label)
+                   :C v28)))

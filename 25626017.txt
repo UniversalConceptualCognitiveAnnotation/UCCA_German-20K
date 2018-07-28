@@ -1,10 +1,23 @@
 # ::id 25626017
 # ::tok Dieses Mehl , Sago genannt , ist eßbar und dient den Einwohnern als ein Haupt nahrungsmittel .
-(label :H label
-       :L label
-       :A label
-       :S label
-       :P label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label
+                  :E (v10 / label)
+                  :C (v11 / label)
+                  :E (v12 / label
+                          :A v11
+                          :A (v19 / label)
+                          :S (v20 / label)))
+           :S (v6 / label))
+    :L (v3 / label)
+    :H (v4 / label
+           :P (v7 / label)
+           :A (v8 / label
+                  :E (v13 / label)
+                  :C (v14 / label))
+           :A (v9 / label
+                  :R (v15 / label)
+                  :E (v16 / label)
+                  :E (v17 / label)
+                  :C (v18 / label))))

@@ -1,8 +1,11 @@
 # ::id 25587002
 # ::tok »Nun habe ich keinen Einwand mehr .
-(label :H label
-       :D label
-       :S label
-       :A label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :D (v3 / label)
+           :S (v4 / label)
+           :A (v5 / label)
+           :A (v6 / label
+                  :E (v8 / label)
+                  :C (v9 / label))
+           :D (v7 / label)))

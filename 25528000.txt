@@ -1,9 +1,20 @@
 # ::id 25528000
 # ::tok Freund Ned , Sie sind ein sehr geschickter Fischer , verstehen diese Tiere zu töten .
-(label :H label
-       :A label
-       :S label
-       :D label
-       :P label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label
+                  :E (v11 / label)
+                  :C (v12 / label))
+           :A (v5 / label)
+           :S (v6 / label)
+           :A (v7 / label
+                  :E (v13 / label)
+                  :E (v14 / label)
+                  :E (v15 / label)
+                  :C (v16 / label)))
+    :H (v3 / label
+           :D (v8 / label)
+           :A (v9 / label
+                  :E (v17 / label)
+                  :C (v18 / label))
+           :P (v10 / label)))

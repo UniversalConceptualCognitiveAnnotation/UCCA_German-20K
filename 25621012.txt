@@ -1,9 +1,19 @@
 # ::id 25621012
 # ::tok »Leckermund ! « erwiderte Conseil , »er macht , daß mir auch der Mund danach wässert.«
-(label :H label
-       :A label
-       :P label
-       :R label
-       :D label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label)
+           :P (v5 / label)
+           :A (v6 / label))
+    :H (v3 / label
+           :A (v7 / label)
+           :P (v8 / label)
+           :A (v9 / label
+                  :R (v10 / label)
+                  :A (v11 / label)
+                  :D (v12 / label)
+                  :A (v13 / label
+                          :E (v16 / label)
+                          :C (v17 / label))
+                  :A (v14 / label)
+                  :P (v15 / label))))

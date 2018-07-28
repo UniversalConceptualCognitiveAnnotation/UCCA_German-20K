@@ -1,8 +1,22 @@
 # ::id 25582013
 # ::tok Das in der Höhe zerstreute Gewölk färbte sich in wunderbarer Schattierung der Töne .
-(label :H label
-       :A label
-       :P label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v7 / label
+                         :A (v15 / label
+                                 :R (v17 / label)
+                                 :E (v18 / label)
+                                 :C (v19 / label))
+                         :P (v16 / label)
+                         :A (v9 / label))
+                  :E (v8 / label)
+                  :C v9)
+           :P (v4 / label)
+           :A (v5 / label
+                  :R (v10 / label)
+                  :E (v11 / label)
+                  :C (v12 / label))
+           :A (v6 / label
+                  :R (v13 / label)
+                  :C (v14 / label))))

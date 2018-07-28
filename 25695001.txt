@@ -1,10 +1,28 @@
 # ::id 25695001
 # ::tok Ich belehrte Conseil , daß diese Schwämme auf zwei Arten gefischt würden , mit dem Kratzgarn und mit der Hand .
-(label :H label
-       :A label
-       :P label
-       :R label
-       :D label
-       :E label
-       :C label
-       :N label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :P (v4 / label)
+           :A (v5 / label)
+           :A (v6 / label
+                  :R (v7 / label)
+                  :A (v8 / label
+                         :E (v13 / label)
+                         :C (v14 / label))
+                  :A (v9 / label
+                         :R (v15 / label)
+                         :E (v16 / label)
+                         :C (v17 / label))
+                  :P (v10 / label)
+                  :D (v11 / label)
+                  :A (v12 / label
+                          :C (v18 / label
+                                  :R (v21 / label)
+                                  :E (v22 / label)
+                                  :C (v23 / label))
+                          :N (v19 / label)
+                          :C (v20 / label
+                                  :R (v24 / label)
+                                  :E (v25 / label)
+                                  :C (v26 / label))))))

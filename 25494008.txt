@@ -1,10 +1,31 @@
 # ::id 25494008
 # ::tok »Sie begreifen also , mein Herr« , fuhr der Unbekannte fort , »daß ich Sie als Feinde zu behandeln berechtigt bin.« »Ich blieb die Antwort schuldig .
-(label :H label
-       :A label
-       :P label
-       :G label
-       :E label
-       :C label
-       :R label
-       :S label)
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label
+                  :A (v10 / label)
+                  :P (v11 / label)
+                  :G (v12 / label
+                          :E (v18 / label)
+                          :C (v19 / label))
+                  :A (v13 / label
+                          :R (v20 / label)
+                          :A (v21 / label)
+                          :A (v22 / label
+                                  :A v21
+                                  :A (v24 / label)
+                                  :A (v25 / label
+                                          :R (v27 / label)
+                                          :C (v28 / label))
+                                  :P (v26 / label))
+                          :S (v23 / label)))
+           :P (v5 / label)
+           :A (v6 / label
+                  :E (v14 / label)
+                  :C (v15 / label)))
+    :H (v3 / label
+           :A (v7 / label)
+           :P (v8 / label)
+           :A (v9 / label
+                  :E (v16 / label)
+                  :C (v17 / label))))

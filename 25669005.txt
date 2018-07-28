@@ -1,11 +1,17 @@
 # ::id 25669005
 # ::tok Sie war auch launenhafter und zog uns oft in große Tiefen hinab .
-(label :H label
-       :L label
-       :A label
-       :S label
-       :P label
-       :D label
-       :R label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :A (v6 / label)
+           :S (v7 / label))
+    :L (v3 / label)
+    :L (v4 / label)
+    :H (v5 / label
+           :P (v8 / label)
+           :A (v9 / label)
+           :D (v10 / label)
+           :A (v11 / label
+                   :R (v12 / label)
+                   :E (v13 / label)
+                   :C (v14 / label))
+           :A v6))

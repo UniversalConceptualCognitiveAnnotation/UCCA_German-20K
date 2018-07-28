@@ -1,9 +1,24 @@
 # ::id 25670001
 # ::tok Es gibt ein reizendes Tierchen , dessen Begegnung die Alten als ein glückliches Wahrzeichen ansahen .
-(label :H label
-       :S label
-       :A label
-       :E label
-       :C label
-       :P label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :S (v3 / label)
+           :A (v4 / label
+                  :E (v5 / label
+                         :A (v9 / label
+                                :R (v13 / label)
+                                :P (v14 / label)
+                                :A (v8 / label))
+                         :A (v10 / label
+                                 :E (v15 / label)
+                                 :C (v16 / label))
+                         :A (v11 / label
+                                 :R (v17 / label)
+                                 :E (v18 / label)
+                                 :E (v19 / label)
+                                 :C (v20 / label))
+                         :P (v12 / label)
+                         :A v8)
+                  :E (v6 / label)
+                  :E (v7 / label)
+                  :C v8)))

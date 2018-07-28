@@ -1,12 +1,41 @@
 # ::id 25681006
 # ::tok Vielleicht bei dem Land , dem er sich näherte und das er allzu nah fand , umgekehrt wie bei Ned , dem es noch allzu fern vorkam .
-(label :H label
-       :L label
-       :P label
-       :A label
-       :D label
-       :S label
-       :E label
-       :R label
-       :C label
-       :N label)
+(v1 / label
+    :H (v2 / label
+           :P (v5 / label)
+           :A (v6 / label)
+           :D (v7 / label)
+           :A (v8 / label
+                  :E (v11 / label
+                          :C (v18 / label
+                                  :R (v26 / label)
+                                  :A (v27 / label)
+                                  :P (v28 / label)
+                                  :A (v14 / label))
+                          :N (v19 / label)
+                          :C (v20 / label
+                                  :R (v29 / label)
+                                  :A (v30 / label)
+                                  :D (v31 / label
+                                          :E (v35 / label)
+                                          :C (v36 / label))
+                                  :P (v32 / label)
+                                  :A v14))
+                  :R (v12 / label)
+                  :E (v13 / label)
+                  :C v14))
+    :H (v3 / label
+           :S (v9 / label)
+           :A (v10 / label
+                   :E (v15 / label
+                           :R (v21 / label)
+                           :A (v22 / label)
+                           :D (v23 / label)
+                           :D (v24 / label
+                                   :E (v33 / label)
+                                   :C (v34 / label))
+                           :P (v25 / label)
+                           :A (v17 / label))
+                   :R (v16 / label)
+                   :C v17))
+    :L (v4 / label))

@@ -1,8 +1,27 @@
 # ::id 25684002
 # ::tok Die Muscheln sind rund , haben dicke , sehr runzelige Schalen , beide von fast gleicher Größe .
-(label :H label
-       :A label
-       :S label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label
+                  :E (v9 / label)
+                  :C (v8 / label))
+           :S (v5 / label))
+    :H (v3 / label
+           :S (v6 / label)
+           :A (v7 / label
+                  :E (v10 / label)
+                  :E (v11 / label
+                          :E (v14 / label)
+                          :C (v15 / label))
+                  :C (v12 / label)
+                  :E (v13 / label
+                          :A v12
+                          :S (v16 / label)
+                          :A (v17 / label)
+                          :A (v18 / label
+                                  :R (v19 / label)
+                                  :E (v20 / label
+                                          :E (v22 / label)
+                                          :C (v23 / label))
+                                  :C (v21 / label))))
+           :A v8))

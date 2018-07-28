@@ -1,10 +1,30 @@
 # ::id 25436003
 # ::tok Ich trachtete nur danach , meine Heimat wiederzusehen , meine Freunde , meine kleine Wohnung im Jardin des Plantes , meine teueren und kostbaren Sammlungen !
-(label :H label
-       :A label
-       :D label
-       :P label
-       :R label
-       :C label
-       :E label
-       :N label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :D (v4 / label)
+           :D (v5 / label)
+           :A (v6 / label
+                  :R (v8 / label)
+                  :C (v9 / label
+                         :E (v13 / label)
+                         :C (v14 / label))
+                  :C (v10 / label
+                          :E (v15 / label)
+                          :C (v16 / label))
+                  :C (v11 / label
+                          :E (v17 / label)
+                          :E (v18 / label
+                                  :R (v24 / label)
+                                  :C (v25 / label))
+                          :E (v19 / label)
+                          :C (v20 / label))
+                  :C (v12 / label
+                          :E (v21 / label)
+                          :E (v22 / label
+                                  :C (v26 / label)
+                                  :N (v27 / label)
+                                  :C (v28 / label))
+                          :C (v23 / label)))
+           :P (v7 / label)))

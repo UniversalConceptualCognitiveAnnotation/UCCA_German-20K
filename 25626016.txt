@@ -1,10 +1,48 @@
 # ::id 25626016
 # ::tok Er schnitt zuerst von jedem Stamm einen Streifen Rinde , die einen Zoll dick ein Netz von langen Fasern bedeckte , die verwickelte Knoten bilden , von einer Art gummi haltigem Mehl zusammengekittet .
-(label :H label
-       :A label
-       :P label
-       :D label
-       :R label
-       :E label
-       :C label
-       :S label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :P (v4 / label)
+           :D (v5 / label)
+           :A (v6 / label
+                  :R (v8 / label)
+                  :E (v9 / label)
+                  :C (v10 / label))
+           :A (v7 / label
+                  :E (v11 / label
+                          :R (v15 / label)
+                          :D (v16 / label
+                                  :E (v19 / label)
+                                  :C (v20 / label)
+                                  :E (v21 / label))
+                          :A (v17 / label
+                                  :E (v22 / label
+                                          :E (v27 / label)
+                                          :C (v28 / label)
+                                          :R (v29 / label))
+                                  :E (v23 / label
+                                          :R (v30 / label)
+                                          :A (v31 / label
+                                                  :E (v37 / label)
+                                                  :C (v38 / label))
+                                          :S (v32 / label)
+                                          :A (v26 / label))
+                                  :E (v24 / label
+                                          :R (v33 / label)
+                                          :A (v34 / label
+                                                  :E (v39 / label)
+                                                  :C (v40 / label))
+                                          :A (v35 / label
+                                                  :E (v41 / label
+                                                          :C (v43 / label)
+                                                          :E (v44 / label))
+                                                  :C (v42 / label))
+                                          :P (v36 / label)
+                                          :A v26)
+                                  :E (v25 / label)
+                                  :C v26)
+                          :S (v18 / label))
+                  :E (v12 / label)
+                  :E (v13 / label)
+                  :C (v14 / label))))

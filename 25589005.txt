@@ -1,9 +1,19 @@
 # ::id 25589005
 # ::tok »Man wird Sie nicht mit Gewalt nötigen , Meister Ned« , sagte Kapitän Nemo .
-(label :H label
-       :A label
-       :P label
-       :D label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :A (v6 / label)
+                  :A (v7 / label)
+                  :D (v8 / label)
+                  :A (v9 / label
+                         :R (v14 / label)
+                         :C (v15 / label))
+                  :P (v10 / label)
+                  :A (v11 / label
+                          :E (v16 / label)
+                          :C (v17 / label)))
+           :P (v4 / label)
+           :A (v5 / label
+                  :E (v12 / label)
+                  :C (v13 / label))))

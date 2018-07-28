@@ -1,10 +1,22 @@
 # ::id 25610003
 # ::tok In dem Augenblick fragte mich Kapitän Nemo , was ich von La Pérouses Schiff bruch wisse .
-(label :H label
-       :T label
-       :P label
-       :A label
-       :R label
-       :E label
-       :C label
-       :S label)
+(v1 / label
+    :H (v2 / label
+           :T (v3 / label
+                  :R (v8 / label)
+                  :E (v9 / label)
+                  :C (v10 / label))
+           :P (v4 / label)
+           :A (v5 / label)
+           :A (v6 / label
+                  :E (v11 / label)
+                  :C (v12 / label))
+           :A (v7 / label
+                  :A (v13 / label)
+                  :A (v14 / label)
+                  :A (v15 / label
+                          :R (v17 / label)
+                          :E (v18 / label)
+                          :E (v19 / label)
+                          :C (v20 / label))
+                  :S (v16 / label))))

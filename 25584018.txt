@@ -1,9 +1,14 @@
 # ::id 25584018
 # ::tok Es sind nicht Land f o r s t e n , sondern unterseeische.«
-(label :H label
-       :L label
-       :S label
-       :D label
-       :A label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :S (v5 / label)
+           :D (v6 / label)
+           :A (v7 / label
+                  :E (v10 / label)
+                  :C (v9 / label)))
+    :L (v3 / label)
+    :H (v4 / label
+           :D (v8 / label)
+           :S v5
+           :A v9))

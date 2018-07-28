@@ -1,12 +1,32 @@
 # ::id 25637010
 # ::tok »Wenn nun aber zu der Zeit die Papuas auf der Plattform sind , sehe ich nicht , wie Sie sie abhalten können einzudringen.«
-(label :L label
-       :H label
-       :D label
-       :T label
-       :A label
-       :S label
-       :P label
-       :R label
-       :E label
-       :C label)
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :D (v6 / label)
+           :D (v7 / label)
+           :T (v8 / label
+                  :R (v21 / label)
+                  :E (v22 / label)
+                  :C (v23 / label))
+           :A (v9 / label
+                  :E (v24 / label)
+                  :C (v25 / label))
+           :A (v10 / label
+                   :R (v26 / label)
+                   :E (v27 / label)
+                   :C (v28 / label))
+           :S (v11 / label))
+    :H (v4 / label
+           :P (v12 / label)
+           :A (v13 / label)
+           :D (v14 / label))
+    :H (v5 / label
+           :D (v15 / label)
+           :A (v16 / label)
+           :A (v17 / label)
+           :P (v18 / label)
+           :D (v19 / label)
+           :A (v20 / label
+                   :A v17
+                   :P (v29 / label))))

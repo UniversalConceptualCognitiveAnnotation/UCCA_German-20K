@@ -1,9 +1,33 @@
 # ::id 25592006
 # ::tok Es war wundervoll zu schauen , eine wahre Augen weide , diese kaleidoskopartige Mischung von Farben tönen , grün gelb , orange , violett , indigo , hell blau !
-(label :H label
-       :A label
-       :D label
-       :S label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label)
+           :D (v5 / label)
+           :S (v6 / label))
+    :H (v3 / label
+           :S (v7 / label)
+           :A (v8 / label
+                  :E (v10 / label)
+                  :E (v11 / label)
+                  :E (v12 / label)
+                  :C (v13 / label))
+           :A (v9 / label
+                  :S (v14 / label
+                          :E (v18 / label)
+                          :C (v19 / label))
+                  :D (v15 / label)
+                  :A (v16 / label
+                          :R (v20 / label)
+                          :E (v21 / label)
+                          :C (v22 / label))
+                  :D (v17 / label
+                          :C (v23 / label
+                                  :C (v28 / label)
+                                  :C (v29 / label))
+                          :C (v24 / label)
+                          :C (v25 / label)
+                          :C (v26 / label)
+                          :C (v27 / label
+                                  :E (v30 / label)
+                                  :C (v31 / label))))))

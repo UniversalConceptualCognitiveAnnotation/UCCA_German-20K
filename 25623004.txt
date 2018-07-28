@@ -1,9 +1,17 @@
 # ::id 25623004
 # ::tok »He ! He ! « rief Ned Land , mit sehr bezeichnender Bewegung der Kinn backen .
-(label :H label
-       :A label
-       :P label
-       :R label
-       :D label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label)
+           :P (v5 / label)
+           :A (v6 / label))
+    :H (v3 / label
+           :R (v7 / label)
+           :D (v8 / label
+                  :E (v11 / label)
+                  :C (v12 / label))
+           :P (v9 / label)
+           :A (v10 / label
+                   :R (v13 / label)
+                   :E (v14 / label)
+                   :C (v15 / label))))

@@ -1,9 +1,19 @@
 # ::id 25682003
 # ::tok Von der Mannschaft der Nautilus durfte uns bei diesem Ausflug niemand begleiten .
-(label :H label
-       :A label
-       :D label
-       :P label
-       :R label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :R (v9 / label)
+                  :E (v10 / label
+                          :R (v16 / label)
+                          :C (v17 / label))
+                  :E (v11 / label)
+                  :C (v12 / label))
+           :D (v4 / label)
+           :A (v5 / label)
+           :A (v6 / label
+                  :R (v13 / label)
+                  :E (v14 / label)
+                  :C (v15 / label))
+           :A (v7 / label)
+           :P (v8 / label)))

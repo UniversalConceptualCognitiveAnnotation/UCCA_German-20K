@@ -1,13 +1,53 @@
 # ::id 25409004
 # ::tok Demnach war dieses außerordentliche See thier im Stande , mit erstaunlicher Schnelligkeit seine Stellung zu wechseln , da es vom Governor Higginson und Christobal Colon nach Verlauf von drei Tagen an zwei Punkten beobachtet wurde , welche der Karte nach über siebenhundert See meilen voneinander entfernt sind .
-(label :L label
-       :H label
-       :D label
-       :A label
-       :P label
-       :T label
-       :E label
-       :C label
-       :R label
-       :S label
-       :N label)
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :D (v6 / label)
+           :A (v7 / label
+                  :E (v16 / label)
+                  :E (v17 / label)
+                  :E (v18 / label)
+                  :C (v19 / label))
+           :A (v8 / label
+                  :R (v20 / label)
+                  :S (v21 / label)
+                  :A (v22 / label))
+           :A (v9 / label
+                  :E (v23 / label)
+                  :C (v24 / label))
+           :P (v10 / label))
+    :L (v4 / label)
+    :H (v5 / label
+           :A (v11 / label)
+           :A (v12 / label
+                   :R (v25 / label)
+                   :C (v26 / label)
+                   :N (v27 / label)
+                   :C (v28 / label))
+           :T (v13 / label
+                   :E (v29 / label
+                           :E (v36 / label)
+                           :C (v37 / label)
+                           :R (v38 / label))
+                   :E (v30 / label)
+                   :C (v31 / label))
+           :A (v14 / label
+                   :E (v32 / label
+                           :R (v39 / label)
+                           :A (v40 / label
+                                   :E (v44 / label)
+                                   :C (v45 / label)
+                                   :R (v46 / label))
+                           :A (v41 / label
+                                   :E (v47 / label)
+                                   :E (v48 / label)
+                                   :E (v49 / label)
+                                   :C (v50 / label))
+                           :D (v42 / label)
+                           :S (v43 / label)
+                           :A (v35 / label))
+                   :E (v33 / label)
+                   :E (v34 / label)
+                   :C v35)
+           :P (v15 / label)))

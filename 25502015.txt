@@ -1,8 +1,12 @@
 # ::id 25502015
 # ::tok Sie haben da wohl 6- bis 7.000 ...«
-(label :H label
-       :A label
-       :S label
-       :D label
-       :C label
-       :N label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :S (v4 / label)
+           :A (v5 / label)
+           :D (v6 / label)
+           :A (v7 / label
+                  :C (v8 / label)
+                  :N (v9 / label)
+                  :C (v10 / label))))

@@ -1,9 +1,21 @@
 # ::id 25648010
 # ::tok »Freund Ned« , versetzte Conseil , »was würden Sie denn sagen , wenn das Frühstück ganz ausgeblieben wäre ! «
-(label :H label
-       :L label
-       :A label
-       :P label
-       :D label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :A (v6 / label
+                  :E (v16 / label)
+                  :C (v17 / label))
+           :P (v7 / label)
+           :A (v8 / label))
+    :H (v3 / label
+           :A (v9 / label)
+           :A (v10 / label)
+           :D (v11 / label)
+           :P (v12 / label))
+    :L (v4 / label)
+    :H (v5 / label
+           :A (v13 / label
+                   :E (v18 / label)
+                   :C (v19 / label))
+           :D (v14 / label)
+           :P (v15 / label)))

@@ -1,10 +1,49 @@
 # ::id 25410006
 # ::tok Die Journalisten , welche wetteifernd mit den Schöngeistern die Wissenschaft vertraten , vergossen , verbrauchten in diesem merkwürdigen Feldzug tonnenweise Tinte ; manche sogar etliche Tropfen Blut , denn von der Seeschlange gingen sie zu beleidigenden Persönlichkeiten über .
-(label :H label
-       :L label
-       :A label
-       :P label
-       :D label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v6 / label
+                  :E (v19 / label
+                          :R (v36 / label)
+                          :D (v37 / label)
+                          :A (v38 / label
+                                  :R (v41 / label)
+                                  :E (v42 / label)
+                                  :C (v43 / label))
+                          :A (v39 / label
+                                  :E (v44 / label)
+                                  :C (v45 / label))
+                          :P (v40 / label)
+                          :A (v21 / label))
+                  :E (v20 / label)
+                  :C v21)
+           :P (v7 / label
+                  :C (v14 / label)
+                  :C (v22 / label))
+           :A (v8 / label
+                  :R (v23 / label)
+                  :E (v24 / label)
+                  :E (v25 / label)
+                  :C (v26 / label))
+           :D (v9 / label)
+           :A (v10 / label))
+    :H (v3 / label
+           :A (v11 / label)
+           :D (v12 / label)
+           :A (v13 / label
+                   :E (v27 / label)
+                   :E (v28 / label)
+                   :C (v29 / label))
+           :P v14)
+    :L (v4 / label)
+    :H (v5 / label
+           :A (v15 / label
+                   :R (v30 / label)
+                   :E (v31 / label)
+                   :C (v32 / label))
+           :P (v16 / label)
+           :A (v17 / label)
+           :A (v18 / label
+                   :R (v33 / label)
+                   :E (v34 / label)
+                   :C (v35 / label))))

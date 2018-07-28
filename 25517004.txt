@@ -1,11 +1,48 @@
 # ::id 25517004
 # ::tok Will ich wieder zum Meeres spiegel aufsteigen , so brauche ich nur dieses Wasser zu entladen , und wenn ich haben will , daß die ›Nautilus‹ mit einem Zehntel hervorrage , so muß ich die Behälter völlig leer machen.«
-(label :H label
-       :L label
-       :D label
-       :A label
-       :P label
-       :S label
-       :R label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :D (v10 / label)
+           :A (v11 / label)
+           :D (v12 / label)
+           :A (v13 / label
+                   :R (v29 / label)
+                   :E (v30 / label)
+                   :C (v31 / label))
+           :P (v14 / label))
+    :L (v3 / label)
+    :H (v4 / label
+           :D (v15 / label)
+           :A (v16 / label)
+           :D (v17 / label)
+           :A (v18 / label
+                   :E (v32 / label)
+                   :C (v33 / label))
+           :P (v19 / label))
+    :L (v5 / label)
+    :L (v6 / label)
+    :H (v7 / label
+           :A (v20 / label)
+           :S (v21 / label)
+           :D (v22 / label)
+           :A (v23 / label
+                   :R (v34 / label)
+                   :A (v35 / label
+                           :E (v42 / label)
+                           :C (v43 / label))
+                   :A (v36 / label
+                           :R (v44 / label)
+                           :E (v45 / label)
+                           :C (v46 / label))
+                   :S (v37 / label)))
+    :L (v8 / label)
+    :H (v9 / label
+           :D (v24 / label)
+           :A (v25 / label)
+           :A (v26 / label
+                   :E (v38 / label)
+                   :C (v39 / label))
+           :D (v27 / label
+                   :E (v40 / label)
+                   :C (v41 / label))
+           :P (v28 / label)))

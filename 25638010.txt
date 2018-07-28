@@ -1,12 +1,33 @@
 # ::id 25638010
 # ::tok Morgen , am bestimmten Tag und zur bestimmten Stunde , wird die Flut sie ruhig heben , und sie wird ihre Fahrt durch die Meere fortsetzen ...«
-(label :H label
-       :L label
-       :T label
-       :A label
-       :D label
-       :P label
-       :C label
-       :E label
-       :N label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :T (v5 / label
+                  :C (v13 / label)
+                  :E (v14 / label
+                          :C (v20 / label
+                                  :E (v26 / label)
+                                  :E (v27 / label)
+                                  :C (v28 / label))
+                          :N (v21 / label)
+                          :C (v22 / label
+                                  :R (v29 / label)
+                                  :E (v30 / label)
+                                  :C (v31 / label))))
+           :A (v6 / label
+                  :E (v15 / label)
+                  :C (v16 / label))
+           :A (v7 / label)
+           :D (v8 / label)
+           :P (v9 / label))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v10 / label)
+           :A (v11 / label
+                   :E (v17 / label
+                           :R (v23 / label)
+                           :E (v24 / label)
+                           :C (v25 / label))
+                   :E (v18 / label)
+                   :C (v19 / label))
+           :P (v12 / label)))

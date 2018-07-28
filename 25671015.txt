@@ -1,11 +1,41 @@
 # ::id 25671015
 # ::tok Ich weiß nicht , ob Conseil meiner Mahnung Rechnung trug , aber er schien in tiefes Nachdenken versenkt , indem er ohne Zweifel auszurechnen bemüht war , wieviel Fünftel von Millimetern in 40 Quadratmeilen enthalten sind .
-(label :H label
-       :L label
-       :A label
-       :P label
-       :D label
-       :R label
-       :E label
-       :C label
-       :S label)
+(v1 / label
+    :H (v2 / label
+           :A (v7 / label)
+           :P (v8 / label)
+           :D (v9 / label)
+           :A (v10 / label
+                   :R (v20 / label)
+                   :A (v21 / label)
+                   :A (v22 / label
+                           :E (v32 / label)
+                           :C (v33 / label))
+                   :P (v23 / label)))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v11 / label)
+           :D (v12 / label)
+           :A (v13 / label
+                   :R (v24 / label)
+                   :E (v25 / label)
+                   :C (v26 / label))
+           :P (v14 / label))
+    :L (v5 / label)
+    :H (v6 / label
+           :A (v15 / label)
+           :D (v16 / label
+                   :R (v27 / label)
+                   :C (v28 / label))
+           :P (v17 / label)
+           :D (v18 / label)
+           :A (v19 / label
+                   :A (v29 / label
+                           :E (v34 / label)
+                           :E (v35 / label)
+                           :R (v36 / label)
+                           :C (v37 / label))
+                   :A (v30 / label
+                           :R (v38 / label)
+                           :C (v39 / label))
+                   :S (v31 / label))))

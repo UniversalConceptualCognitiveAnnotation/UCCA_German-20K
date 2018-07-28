@@ -1,11 +1,45 @@
 # ::id 25521011
 # ::tok »Herr Professor« , sagte Kapitän Nemo zu mir , »wenn es Ihnen beliebt , wollen wir den Ort , wo wir uns ; befinden , und den Punkt , von dem wir abfahren , genau aufnehmen und feststellen .
-(label :H label
-       :L label
-       :A label
-       :P label
-       :D label
-       :R label
-       :S label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :A (v11 / label
+                   :E (v32 / label)
+                   :C (v33 / label))
+           :P (v12 / label)
+           :A (v13 / label
+                   :E (v34 / label)
+                   :C (v35 / label))
+           :A (v14 / label
+                   :R (v36 / label)
+                   :C (v37 / label)))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v15 / label)
+           :A (v16 / label)
+           :P (v17 / label))
+    :H (v5 / label
+           :D (v18 / label)
+           :A (v19 / label)
+           :D (v20 / label)
+           :P (v21 / label))
+    :H (v6 / label
+           :A (v22 / label
+                   :E (v38 / label)
+                   :C (v31 / label))
+           :R (v23 / label)
+           :A (v24 / label)
+           :S (v25 / label))
+    :L (v7 / label)
+    :H (v8 / label
+           :A (v26 / label
+                   :E (v39 / label)
+                   :C (v40 / label))
+           :A (v27 / label
+                   :R (v41 / label)
+                   :C (v42 / label))
+           :A (v28 / label)
+           :P (v29 / label))
+    :L (v9 / label)
+    :H (v10 / label
+            :P (v30 / label)
+            :A v31))

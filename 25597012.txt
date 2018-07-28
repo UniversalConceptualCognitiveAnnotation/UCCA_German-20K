@@ -1,11 +1,53 @@
 # ::id 25597012
 # ::tok Bei 10 Meter Tiefe wandelten wir inmitten eines Schwarms kleiner Fische aller Art , die zahlreicher waren als die Vögel in der Luft , auch weit beweglicher ; aber ein Wildpret , das eines Schusses würdig gewesen wäre , war uns noch nicht aufgestoßen .
-(label :H label
-       :L label
-       :A label
-       :P label
-       :D label
-       :E label
-       :C label
-       :R label
-       :S label)
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label
+                  :E (v14 / label)
+                  :C (v15 / label)
+                  :E (v16 / label))
+           :P (v6 / label)
+           :A (v7 / label)
+           :D (v8 / label)
+           :A (v9 / label
+                  :E (v17 / label
+                          :E (v28 / label)
+                          :C (v29 / label))
+                  :E (v18 / label
+                          :E (v30 / label)
+                          :C (v31 / label))
+                  :E (v19 / label
+                          :R (v32 / label)
+                          :S (v33 / label)
+                          :A (v34 / label
+                                  :R (v42 / label)
+                                  :E (v43 / label)
+                                  :C (v44 / label))
+                          :A (v35 / label
+                                  :R (v45 / label)
+                                  :E (v46 / label)
+                                  :C (v47 / label))
+                          :A (v22 / label))
+                  :E (v20 / label
+                          :D (v36 / label)
+                          :D (v37 / label)
+                          :S (v38 / label)
+                          :A v22)
+                  :E (v21 / label)
+                  :C v22))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v10 / label
+                   :E (v23 / label
+                           :R (v39 / label)
+                           :A (v40 / label
+                                   :E (v48 / label)
+                                   :C (v49 / label))
+                           :S (v41 / label))
+                   :E (v24 / label)
+                   :C (v25 / label))
+           :A (v11 / label)
+           :D (v12 / label
+                   :E (v26 / label)
+                   :C (v27 / label))
+           :P (v13 / label)))

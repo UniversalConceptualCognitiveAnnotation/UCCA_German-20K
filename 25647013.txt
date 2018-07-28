@@ -1,12 +1,29 @@
 # ::id 25647013
 # ::tok Ich begab mich hinab in die Kabine , wo Ned Land und Conseil sich befanden , und teilte ihnen die Verfügung des Kapitäns mit .
-(label :H label
-       :L label
-       :A label
-       :P label
-       :D label
-       :S label
-       :R label
-       :E label
-       :C label
-       :N label)
+(v1 / label
+    :H (v2 / label
+           :A (v7 / label)
+           :P (v8 / label)
+           :D (v9 / label)
+           :A (v10 / label
+                   :R (v16 / label)
+                   :E (v17 / label)
+                   :C (v18 / label)))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v11 / label
+                   :C (v19 / label)
+                   :N (v20 / label)
+                   :C (v21 / label))
+           :S (v12 / label))
+    :L (v5 / label)
+    :H (v6 / label
+           :P (v13 / label)
+           :A (v14 / label)
+           :A (v15 / label
+                   :P (v22 / label
+                           :E (v24 / label)
+                           :C (v25 / label))
+                   :A (v23 / label
+                           :R (v26 / label)
+                           :C (v27 / label)))))

@@ -1,10 +1,19 @@
 # ::id 25639012
 # ::tok Ich wartete noch eine Weile , dann begab ich mich in den großen Salon .
-(label :H label
-       :L label
-       :A label
-       :P label
-       :D label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label)
+           :P (v6 / label)
+           :D (v7 / label)
+           :A (v8 / label
+                  :E (v12 / label)
+                  :C (v13 / label)))
+    :L (v3 / label)
+    :H (v4 / label
+           :P (v9 / label)
+           :A (v10 / label)
+           :A (v11 / label
+                   :R (v14 / label)
+                   :E (v15 / label)
+                   :E (v16 / label)
+                   :C (v17 / label))))

@@ -1,10 +1,48 @@
 # ::id 25679001
 # ::tok »Aber« , sagte ich , um auf den hohen Preis von Perlen zurückzukommen , »ich glaube nicht , daß je ein Fürst eine von höherem Wert besaß als die im Besitz von Kapitän Nemo.«
-(label :H label
-       :L label
-       :A label
-       :P label
-       :E label
-       :R label
-       :C label
-       :D label)
+(v1 / label
+    :H (v2 / label
+           :H (v3 / label
+                  :A (v6 / label
+                         :L (v11 / label)
+                         :H (v12 / label
+                                 :A (v18 / label)
+                                 :P (v19 / label)
+                                 :D (v20 / label)
+                                 :A (v21 / label
+                                         :L (v24 / label)
+                                         :H (v25 / label
+                                                 :A (v28 / label
+                                                         :E (v35 / label)
+                                                         :C (v36 / label))
+                                                 :A (v29 / label
+                                                         :E (v34 / label)
+                                                         :R (v37 / label)
+                                                         :E (v38 / label)
+                                                         :C (v39 / label))
+                                                 :P (v30 / label))
+                                         :L (v26 / label)
+                                         :H (v27 / label
+                                                 :R (v31 / label)
+                                                 :P (v32 / label
+                                                         :R (v40 / label)
+                                                         :C (v41 / label))
+                                                 :A (v33 / label
+                                                         :R (v42 / label)
+                                                         :E (v43 / label)
+                                                         :C (v44 / label))
+                                                 :A v34))))
+                  :P (v7 / label)
+                  :A (v8 / label))
+           :L (v4 / label)
+           :H (v5 / label
+                  :A (v9 / label
+                         :E (v13 / label
+                                 :R (v22 / label)
+                                 :C (v23 / label))
+                         :R (v14 / label)
+                         :E (v15 / label)
+                         :E (v16 / label)
+                         :C (v17 / label))
+                  :P (v10 / label)
+                  :A v8)))

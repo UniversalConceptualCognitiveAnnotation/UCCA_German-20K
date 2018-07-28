@@ -1,11 +1,21 @@
 # ::id 25675016
 # ::tok » In der Tat « , sagte ich . »Und er hat Ihnen nichts Besonderes gesagt über ...«
-(label :H label
-       :A label
-       :P label
-       :L label
-       :G label
-       :D label
-       :R label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :H (v6 / label
+                         :G (v9 / label
+                                :R (v17 / label)
+                                :E (v18 / label)
+                                :C (v19 / label)))
+                  :L (v7 / label)
+                  :H (v8 / label
+                         :A (v10 / label)
+                         :A (v11 / label)
+                         :A (v12 / label)
+                         :D (v13 / label)
+                         :A (v14 / label)
+                         :P (v15 / label)
+                         :A (v16 / label)))
+           :P (v4 / label)
+           :A (v5 / label)))

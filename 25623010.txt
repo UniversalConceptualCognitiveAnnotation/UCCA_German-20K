@@ -1,10 +1,13 @@
 # ::id 25623010
 # ::tok Da könnte ich einmal morgens halb gefressen aufwachen ? «
-(label :L label
-       :H label
-       :D label
-       :A label
-       :T label
-       :P label
-       :E label
-       :C label)
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :D (v4 / label)
+           :A (v5 / label)
+           :D (v6 / label)
+           :T (v7 / label)
+           :D (v8 / label
+                  :E (v10 / label)
+                  :C (v11 / label))
+           :P (v9 / label)))

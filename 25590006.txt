@@ -1,8 +1,16 @@
 # ::id 25590006
 # ::tok Kapitän Nemo steckte seinen Kopf in die kugelförmige Kappe .
-(label :H label
-       :A label
-       :P label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v7 / label)
+                  :C (v8 / label))
+           :P (v4 / label)
+           :A (v5 / label
+                  :E (v9 / label)
+                  :C (v10 / label))
+           :A (v6 / label
+                  :R (v11 / label)
+                  :E (v12 / label)
+                  :E (v13 / label)
+                  :C (v14 / label))))

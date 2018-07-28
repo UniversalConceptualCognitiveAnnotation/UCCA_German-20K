@@ -1,6 +1,7 @@
 # ::id 25633015
 # ::tok »Aber , Kapitän ...«
-(label :H label
-       :S label
-       :D label
-       :A label)
+(v1 / label
+    :H (v2 / label
+           :S (v3 / label)
+           :D (v4 / label)
+           :A (v5 / label)))

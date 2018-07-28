@@ -1,11 +1,44 @@
 # ::id 25594000
 # ::tok Dieser Wald bestand aus großen baumartigen Pflanzen , und sobald wir unter seine umfassenden Wölbungen kamen , fiel mir sogleich eine eigentümliche Beschaffenheit ihrer Gezweige auf , wie ich sie bisher noch nicht beobachtet hatte .
-(label :H label
-       :L label
-       :A label
-       :S label
-       :D label
-       :P label
-       :R label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :A (v7 / label
+                  :E (v24 / label)
+                  :C (v25 / label))
+           :S (v8 / label)
+           :A (v9 / label
+                  :R (v26 / label)
+                  :E (v27 / label)
+                  :E (v28 / label)
+                  :C (v29 / label)))
+    :L (v3 / label)
+    :H (v4 / label
+           :D (v10 / label)
+           :A (v11 / label)
+           :A (v12 / label
+                   :R (v30 / label)
+                   :E (v31 / label)
+                   :E (v32 / label)
+                   :C (v33 / label))
+           :P (v13 / label))
+    :H (v5 / label
+           :P (v14 / label)
+           :A (v15 / label)
+           :D (v16 / label)
+           :A (v17 / label
+                   :S (v34 / label
+                           :E (v39 / label)
+                           :C (v40 / label))
+                   :D (v35 / label)
+                   :A (v36 / label
+                           :R (v41 / label)
+                           :C (v42 / label))))
+    :H (v6 / label
+           :R (v18 / label)
+           :A (v19 / label)
+           :A (v20 / label)
+           :D (v21 / label)
+           :D (v22 / label
+                   :E (v37 / label)
+                   :C (v38 / label))
+           :P (v23 / label)))

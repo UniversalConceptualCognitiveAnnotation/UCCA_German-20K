@@ -1,8 +1,17 @@
 # ::id 25677000
 # ::tok »Finden sich mehrere Perlen in der selben Auster ? « fragte Conseil .
-(label :H label
-       :A label
-       :P label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :P (v6 / label)
+                  :A (v7 / label
+                         :E (v9 / label)
+                         :C (v10 / label))
+                  :A (v8 / label
+                         :R (v11 / label)
+                         :E (v12 / label
+                                 :E (v14 / label)
+                                 :C (v15 / label))
+                         :C (v13 / label)))
+           :P (v4 / label)
+           :A (v5 / label)))

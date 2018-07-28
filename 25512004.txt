@@ -1,10 +1,27 @@
 # ::id 25512004
 # ::tok Dann schließt man wieder die der ›Nautilus‹ , und ich schließe hinter mir die des Boots vermittels Stell schrauben .
-(label :L label
-       :H label
-       :P label
-       :A label
-       :D label
-       :R label
-       :C label
-       :E label)
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :P (v6 / label)
+           :A (v7 / label)
+           :D (v8 / label)
+           :A (v9 / label)
+           :A (v10 / label
+                   :R (v16 / label)
+                   :C (v17 / label)))
+    :L (v4 / label)
+    :H (v5 / label
+           :A (v11 / label)
+           :P (v12 / label)
+           :A (v13 / label
+                   :R (v18 / label)
+                   :C (v19 / label))
+           :A (v14 / label
+                   :R (v20 / label)
+                   :E (v21 / label)
+                   :C (v22 / label))
+           :A (v15 / label
+                   :E (v23 / label)
+                   :E (v24 / label)
+                   :C (v25 / label))))

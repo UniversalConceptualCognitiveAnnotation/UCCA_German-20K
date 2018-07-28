@@ -1,8 +1,10 @@
 # ::id 25649001
 # ::tok War ich wieder frei oder Gefangener ?
-(label :H label
-       :A label
-       :D label
-       :S label
-       :C label
-       :N label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :D (v4 / label)
+           :S (v5 / label
+                  :C (v6 / label)
+                  :N (v7 / label)
+                  :C (v8 / label))))

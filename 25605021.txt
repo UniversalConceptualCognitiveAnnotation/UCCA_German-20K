@@ -1,10 +1,31 @@
 # ::id 25605021
 # ::tok Nur der Steuerer , mit ernstem Gesicht , ruhig das Steuer ruder in der krampfhaften Hand , schien noch seinen Drei master zu leiten .
-(label :H label
-       :D label
-       :A label
-       :P label
-       :E label
-       :C label
-       :R label
-       :S label)
+(v1 / label
+    :H (v2 / label
+           :D (v3 / label)
+           :A (v4 / label
+                  :E (v9 / label
+                         :R (v16 / label)
+                         :E (v17 / label)
+                         :C (v18 / label))
+                  :E (v10 / label
+                          :D (v19 / label)
+                          :A (v20 / label
+                                  :E (v23 / label)
+                                  :E (v24 / label)
+                                  :C (v25 / label))
+                          :S (v21 / label)
+                          :A (v22 / label
+                                  :E (v26 / label)
+                                  :E (v27 / label)
+                                  :C (v28 / label))
+                          :A (v12 / label))
+                  :E (v11 / label)
+                  :C v12)
+           :D (v5 / label)
+           :D (v6 / label)
+           :A (v7 / label
+                  :E (v13 / label)
+                  :E (v14 / label)
+                  :C (v15 / label))
+           :P (v8 / label)))

@@ -1,9 +1,15 @@
 # ::id 25508013
 # ::tok Belieben Sie mich anzuhören.« Nach einer kleinen Pause sagte er :
-(label :H label
-       :D label
-       :A label
-       :P label
-       :R label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :D (v4 / label)
+           :A (v5 / label)
+           :P (v6 / label))
+    :H (v3 / label
+           :A (v7 / label
+                  :R (v10 / label)
+                  :E (v11 / label)
+                  :E (v12 / label)
+                  :C (v13 / label))
+           :P (v8 / label)
+           :A (v9 / label)))

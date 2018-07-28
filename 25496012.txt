@@ -1,7 +1,11 @@
 # ::id 25496012
 # ::tok Sie sind meine Kriegs gefangenen !
-(label :H label
-       :A label
-       :S label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :H (v3 / label
+                  :A (v4 / label)
+                  :S (v5 / label)
+                  :A (v6 / label
+                         :E (v7 / label)
+                         :E (v8 / label)
+                         :C (v9 / label)))))

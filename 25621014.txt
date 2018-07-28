@@ -1,11 +1,52 @@
 # ::id 25621014
 # ::tok »Richtig , Herr Arronax ! « erwiderte der Kanadier , dessen Zähne scharf gewetzt schienen wie die scharfe Schneide eines Beils ; aber ich würde Tiger fleisch , Lenden braten von Tigern essen , wenn s auf dieser Insel keinen andern Vier füßler gibt.«
-(label :H label
-       :L label
-       :A label
-       :P label
-       :S label
-       :E label
-       :C label
-       :R label
-       :D label)
+(v1 / label
+    :H (v2 / label
+           :A (v7 / label
+                  :S (v17 / label)
+                  :A (v18 / label
+                          :E (v34 / label)
+                          :C (v35 / label)))
+           :P (v8 / label)
+           :A (v9 / label
+                  :E (v19 / label
+                          :R (v36 / label)
+                          :A (v37 / label)
+                          :D (v38 / label)
+                          :S (v39 / label)
+                          :D (v40 / label)
+                          :A (v41 / label
+                                  :R (v44 / label)
+                                  :E (v45 / label
+                                          :R (v49 / label)
+                                          :C (v50 / label))
+                                  :E (v46 / label)
+                                  :E (v47 / label)
+                                  :C (v48 / label)))
+                  :E (v20 / label)
+                  :C (v21 / label)))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v10 / label)
+           :A (v11 / label
+                   :E (v22 / label)
+                   :C (v23 / label))
+           :A (v12 / label
+                   :E (v24 / label
+                           :R (v42 / label)
+                           :C (v43 / label))
+                   :E (v25 / label)
+                   :C (v26 / label))
+           :P (v13 / label))
+    :L (v5 / label)
+    :H (v6 / label
+           :A (v14 / label
+                   :R (v27 / label)
+                   :E (v28 / label)
+                   :C (v29 / label))
+           :A (v15 / label
+                   :E (v30 / label)
+                   :E (v31 / label)
+                   :E (v32 / label)
+                   :C (v33 / label))
+           :S (v16 / label)))

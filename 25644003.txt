@@ -1,8 +1,16 @@
 # ::id 25644003
 # ::tok Ich konnte damals nebst meinen Gefährten eine merkwürdige Erscheinung beobachten .
-(label :H label
-       :A label
-       :D label
-       :P label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :D (v4 / label)
+           :D (v5 / label)
+           :A (v6 / label
+                  :E (v9 / label)
+                  :E (v10 / label)
+                  :C (v11 / label))
+           :A (v7 / label
+                  :E (v12 / label)
+                  :E (v13 / label)
+                  :C (v14 / label))
+           :P (v8 / label)))

@@ -1,10 +1,23 @@
 # ::id 25509003
 # ::tok Die Elemente , die Sie verwenden , um dieses wunderbare Agens hervorzubringen , müssen sich doch bald verbrauchen .
-(label :H label
-       :L label
-       :A label
-       :D label
-       :P label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label
+                  :E (v12 / label
+                          :R (v18 / label)
+                          :A (v19 / label)
+                          :P (v20 / label)
+                          :A (v14 / label))
+                  :E (v13 / label)
+                  :C v14)
+           :D (v6 / label)
+           :P (v7 / label)
+           :D (v8 / label)
+           :D (v9 / label))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v10 / label
+                   :E (v15 / label)
+                   :E (v16 / label)
+                   :C (v17 / label))
+           :P (v11 / label)))

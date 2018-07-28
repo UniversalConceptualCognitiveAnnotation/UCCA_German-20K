@@ -1,7 +1,12 @@
 # ::id 25583006
 # ::tok Die gleiche Person sagte dieselbe Phrase .
-(label :H label
-       :A label
-       :P label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v6 / label)
+                  :E (v7 / label)
+                  :C (v8 / label))
+           :P (v4 / label)
+           :A (v5 / label
+                  :E (v9 / label)
+                  :C (v10 / label))))

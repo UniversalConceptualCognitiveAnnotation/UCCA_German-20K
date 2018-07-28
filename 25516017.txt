@@ -1,11 +1,49 @@
 # ::id 25516017
 # ::tok Handelt sich ’s darum , 1.000 Meter hinabzugehen , so bringe ich dann die Beschränkung des Umfangs unter einem Druck in Anschlag , der dem einer Wasser säule von 1.000 Metern entspricht , d.h . unter einem Druck von 100 Atmo-sphären .
-(label :H label
-       :L label
-       :S label
-       :A label
-       :P label
-       :D label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :S (v5 / label)
+           :A (v6 / label)
+           :A (v7 / label)
+           :A (v8 / label
+                  :A (v15 / label)
+                  :P (v16 / label)))
+    :L (v3 / label)
+    :H (v4 / label
+           :P (v9 / label)
+           :A (v10 / label)
+           :D (v11 / label)
+           :A (v12 / label
+                   :E (v17 / label
+                           :R (v26 / label)
+                           :C (v27 / label))
+                   :E (v18 / label)
+                   :C (v19 / label))
+           :A (v13 / label
+                   :R (v20 / label)
+                   :E (v21 / label
+                           :R (v28 / label)
+                           :A (v29 / label)
+                           :A (v30 / label
+                                   :E (v33 / label
+                                           :R (v42 / label)
+                                           :C (v43 / label)
+                                           :E (v44 / label))
+                                   :R (v34 / label)
+                                   :E (v35 / label)
+                                   :C (v36 / label))
+                           :S (v31 / label)
+                           :A (v32 / label
+                                   :R (v37 / label)
+                                   :R (v38 / label)
+                                   :E (v39 / label
+                                           :R (v45 / label)
+                                           :C (v46 / label)
+                                           :E (v47 / label))
+                                   :E (v40 / label)
+                                   :C (v41 / label)))
+                   :E (v22 / label)
+                   :C (v23 / label))
+           :A (v14 / label
+                   :R (v24 / label)
+                   :C (v25 / label))))

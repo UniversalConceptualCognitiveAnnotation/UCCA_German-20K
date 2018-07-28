@@ -1,11 +1,32 @@
 # ::id 25609006
 # ::tok Es war diesen Tag Weihnachten , und Ned Land schien mir sehr das Christfest zu vermissen , diese Familien freude , worauf die Protestanten so viel halten .
-(label :H label
-       :L label
-       :S label
-       :A label
-       :D label
-       :P label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :S (v5 / label)
+           :A (v6 / label
+                  :E (v13 / label)
+                  :C (v14 / label))
+           :A (v7 / label))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v8 / label)
+           :D (v9 / label)
+           :D (v10 / label)
+           :A (v11 / label
+                   :E (v15 / label
+                           :E (v18 / label
+                                   :R (v22 / label)
+                                   :A (v23 / label
+                                           :E (v26 / label)
+                                           :C (v27 / label))
+                                   :D (v24 / label
+                                           :E (v28 / label)
+                                           :C (v29 / label))
+                                   :S (v25 / label)
+                                   :A (v21 / label))
+                           :E (v19 / label)
+                           :E (v20 / label)
+                           :C v21)
+                   :E (v16 / label)
+                   :C (v17 / label))
+           :P (v12 / label)))

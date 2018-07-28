@@ -1,9 +1,15 @@
 # ::id 25645013
 # ::tok Das Wetter war drohend , die rauhen Wogen gingen hohl .
-(label :H label
-       :A label
-       :S label
-       :P label
-       :D label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label
+                  :E (v9 / label)
+                  :C (v10 / label))
+           :S (v5 / label))
+    :H (v3 / label
+           :A (v6 / label
+                  :E (v11 / label)
+                  :E (v12 / label)
+                  :C (v13 / label))
+           :P (v7 / label)
+           :D (v8 / label)))

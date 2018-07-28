@@ -1,10 +1,24 @@
 # ::id 25523017
 # ::tok Sollte ich jemals erfahren , welcher Nation der seltsame Mann angehört , der keiner anzugehören sich rühmt ?
-(label :H label
-       :D label
-       :A label
-       :P label
-       :S label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :D (v3 / label)
+           :A (v4 / label)
+           :D (v5 / label)
+           :P (v6 / label)
+           :A (v7 / label
+                  :A (v8 / label
+                         :E (v11 / label)
+                         :C (v12 / label))
+                  :A (v9 / label
+                         :E (v13 / label)
+                         :E (v14 / label)
+                         :C (v15 / label)
+                         :E (v16 / label
+                                 :R (v17 / label)
+                                 :A (v18 / label
+                                         :D (v20 / label)
+                                         :S (v21 / label)
+                                         :A v12)
+                                 :P (v19 / label)))
+                  :S (v10 / label))))

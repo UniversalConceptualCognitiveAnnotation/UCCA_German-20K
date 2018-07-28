@@ -1,9 +1,26 @@
 # ::id 25604005
 # ::tok Bei dieser Fahrt stießen wir auf eine ungeheure Menge Kalmar , merkwürdige Mollusken , die den Tintenfischen nahkommen .
-(label :H label
-       :A label
-       :P label
-       :E label
-       :C label
-       :R label
-       :S label)
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label
+                  :R (v11 / label)
+                  :E (v12 / label)
+                  :C (v13 / label))
+           :P (v5 / label)
+           :A (v6 / label)
+           :A (v7 / label
+                  :R (v14 / label)
+                  :E (v15 / label)
+                  :E (v16 / label)
+                  :E (v17 / label)
+                  :C (v18 / label)))
+    :H (v3 / label
+           :E (v8 / label
+                  :R (v19 / label)
+                  :A (v20 / label
+                          :E (v22 / label)
+                          :C (v23 / label))
+                  :S (v21 / label)
+                  :A (v10 / label))
+           :E (v9 / label)
+           :C v10))

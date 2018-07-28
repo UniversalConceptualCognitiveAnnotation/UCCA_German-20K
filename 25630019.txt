@@ -1,10 +1,23 @@
 # ::id 25630019
 # ::tok Zum Glück erlegte Ned Land gegen 2 Uhr ein stattliches Wald schwein , das die Eingeborenen »Bari-Outang« nennen .
-(label :H label
-       :G label
-       :P label
-       :A label
-       :T label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :G (v3 / label)
+           :P (v4 / label)
+           :A (v5 / label)
+           :T (v6 / label
+                  :E (v8 / label)
+                  :C (v9 / label))
+           :A (v7 / label
+                  :E (v10 / label
+                          :R (v15 / label)
+                          :A (v16 / label
+                                  :E (v19 / label)
+                                  :C (v20 / label))
+                          :A (v17 / label)
+                          :P (v18 / label)
+                          :A (v14 / label))
+                  :E (v11 / label)
+                  :E (v12 / label)
+                  :E (v13 / label)
+                  :C v14)))

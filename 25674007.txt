@@ -1,10 +1,25 @@
 # ::id 25674007
 # ::tok »Ich muß Ihnen gestehen , Kapitän , daß ich mich mit dieser Art Fische noch nicht sehr befreundet habe.«
-(label :H label
-       :P label
-       :A label
-       :D label
-       :G label
-       :R label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :P (v3 / label)
+           :A (v4 / label)
+           :A (v5 / label
+                  :A (v6 / label)
+                  :D (v7 / label)
+                  :A (v8 / label)
+                  :P (v9 / label)
+                  :G (v10 / label)
+                  :A (v11 / label
+                          :R (v12 / label)
+                          :A (v13 / label)
+                          :P (v14 / label)
+                          :A (v15 / label
+                                  :R (v19 / label)
+                                  :E (v20 / label
+                                          :E (v22 / label)
+                                          :C (v23 / label))
+                                  :C (v21 / label))
+                          :D (v16 / label)
+                          :D (v17 / label)
+                          :D (v18 / label)))))

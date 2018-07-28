@@ -1,10 +1,28 @@
 # ::id 25631000
 # ::tok Der Kanadier weidete es geschickt aus und nahm davon ein halbes Dutzend Koteletts zu einem Rostbraten für den Abend .
-(label :H label
-       :L label
-       :A label
-       :P label
-       :D label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label
+                  :E (v14 / label)
+                  :C (v15 / label))
+           :P (v6 / label)
+           :A (v7 / label)
+           :D (v8 / label))
+    :L (v3 / label)
+    :H (v4 / label
+           :P (v9 / label)
+           :A (v10 / label)
+           :A (v11 / label
+                   :E (v16 / label
+                           :E (v24 / label)
+                           :E (v25 / label)
+                           :C (v26 / label))
+                   :C (v17 / label))
+           :A (v12 / label
+                   :R (v18 / label)
+                   :E (v19 / label)
+                   :C (v20 / label))
+           :A (v13 / label
+                   :R (v21 / label)
+                   :E (v22 / label)
+                   :C (v23 / label))))

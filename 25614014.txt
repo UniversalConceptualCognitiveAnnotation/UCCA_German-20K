@@ -1,11 +1,31 @@
 # ::id 25614014
 # ::tok Meinst du damit , daß dies Jahr unsere Gefangenschaft endigen würde oder daß wir dies Jahr eine Fortsetzung dieser seltsamen Reise erleben werden ? «
-(label :H label
-       :L label
-       :P label
-       :A label
-       :R label
-       :T label
-       :S label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :P (v5 / label)
+           :A (v6 / label)
+           :A (v7 / label)
+           :A (v8 / label
+                  :R (v14 / label)
+                  :A (v15 / label
+                          :E (v23 / label)
+                          :C (v24 / label))
+                  :A (v16 / label
+                          :E (v25 / label)
+                          :C (v26 / label))
+                  :S (v17 / label)))
+    :L (v3 / label)
+    :H (v4 / label
+           :R (v9 / label)
+           :A (v10 / label)
+           :T (v11 / label
+                   :E (v18 / label)
+                   :C (v19 / label))
+           :A (v12 / label
+                   :E (v20 / label
+                           :R (v27 / label)
+                           :E (v28 / label)
+                           :C (v29 / label))
+                   :E (v21 / label)
+                   :C (v22 / label))
+           :P (v13 / label)))

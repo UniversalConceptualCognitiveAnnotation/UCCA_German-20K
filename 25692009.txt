@@ -1,12 +1,33 @@
 # ::id 25692009
 # ::tok Diese ist bei einer Breite von 20 Meilen nur 52 Kilometer lang , so daß die Nautilus bei Schnell fahrt sie binnen einer Stunde zurücklegte .
-(label :H label
-       :L label
-       :A label
-       :D label
-       :S label
-       :T label
-       :P label
-       :R label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label)
+           :A (v6 / label
+                  :R (v15 / label)
+                  :E (v16 / label
+                          :R (v29 / label)
+                          :E (v30 / label)
+                          :C (v31 / label))
+                  :E (v17 / label)
+                  :C (v18 / label))
+           :D (v7 / label)
+           :A (v8 / label
+                  :E (v19 / label)
+                  :C (v20 / label))
+           :S (v9 / label))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v10 / label
+                   :E (v21 / label)
+                   :C (v22 / label))
+           :A (v11 / label
+                   :R (v23 / label)
+                   :E (v24 / label)
+                   :C (v25 / label))
+           :A (v12 / label)
+           :T (v13 / label
+                   :R (v26 / label)
+                   :E (v27 / label)
+                   :C (v28 / label))
+           :P (v14 / label)))

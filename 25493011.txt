@@ -1,9 +1,15 @@
 # ::id 25493011
 # ::tok Da mir keine Frage gestellt war , hatte ich nicht zu antworten .
-(label :L label
-       :H label
-       :A label
-       :P label
-       :D label
-       :E label
-       :C label)
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :A (v5 / label)
+           :A (v6 / label
+                  :E (v12 / label)
+                  :C (v13 / label))
+           :P (v7 / label))
+    :H (v4 / label
+           :D (v8 / label)
+           :A (v9 / label)
+           :D (v10 / label)
+           :P (v11 / label)))

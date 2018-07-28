@@ -1,9 +1,20 @@
 # ::id 25692008
 # ::tok Am folgenden Tag , dem 7 . Februar , fuhren wir in die Straße Bab el Mandeb ein .
-(label :H label
-       :T label
-       :P label
-       :A label
-       :E label
-       :R label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :T (v3 / label
+                  :E (v7 / label
+                         :E (v14 / label)
+                         :E (v15 / label)
+                         :C (v16 / label))
+                  :R (v8 / label)
+                  :E (v9 / label)
+                  :C (v10 / label))
+           :P (v4 / label)
+           :A (v5 / label)
+           :A (v6 / label
+                  :R (v11 / label)
+                  :E (v12 / label
+                          :E (v17 / label)
+                          :C (v18 / label))
+                  :C (v13 / label))))

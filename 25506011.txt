@@ -1,11 +1,25 @@
 # ::id 25506011
 # ::tok Sie können ihn im Detail besichtigen , und ich mache mir ein Vergnügen daraus , Ihr Cicerone zu sein.«
-(label :H label
-       :L label
-       :A label
-       :D label
-       :P label
-       :S label
-       :R label
-       :C label
-       :E label)
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label)
+           :D (v6 / label)
+           :A (v7 / label)
+           :D (v8 / label
+                  :R (v16 / label)
+                  :C (v17 / label))
+           :P (v9 / label))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v10 / label)
+           :D (v11 / label)
+           :A (v12 / label)
+           :S (v13 / label
+                   :E (v18 / label)
+                   :C (v19 / label))
+           :D (v14 / label)
+           :A (v15 / label
+                   :A (v20 / label
+                           :E (v22 / label)
+                           :C (v23 / label))
+                   :S (v21 / label))))

@@ -1,9 +1,19 @@
 # ::id 25411006
 # ::tok Der Vorfall ereignete sich Morgens früh , als schon der Tag graute .
-(label :H label
-       :A label
-       :P label
-       :E label
-       :C label
-       :R label
-       :D label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v6 / label)
+                  :C (v7 / label))
+           :P (v4 / label)
+           :A (v5 / label
+                  :E (v8 / label
+                         :R (v11 / label)
+                         :D (v12 / label)
+                         :A (v13 / label
+                                 :E (v15 / label)
+                                 :C (v16 / label))
+                         :P (v14 / label)
+                         :A (v9 / label))
+                  :C v9
+                  :E (v10 / label))))

@@ -1,9 +1,27 @@
 # ::id 25648017
 # ::tok In diesem Augenblick erlosch die Kugel , welche die Zelle erleuchtete , und ließ uns in tiefem Dunkel .
-(label :H label
-       :L label
-       :A label
-       :P label
-       :R label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label
+                  :R (v11 / label)
+                  :E (v12 / label)
+                  :C (v13 / label))
+           :P (v6 / label)
+           :A (v7 / label
+                  :E (v14 / label
+                          :R (v20 / label)
+                          :A (v21 / label
+                                  :E (v23 / label)
+                                  :C (v24 / label))
+                          :P (v22 / label)
+                          :A (v16 / label))
+                  :E (v15 / label)
+                  :C v16))
+    :L (v3 / label)
+    :H (v4 / label
+           :P (v8 / label)
+           :A (v9 / label)
+           :A (v10 / label
+                   :R (v17 / label)
+                   :E (v18 / label)
+                   :C (v19 / label))))

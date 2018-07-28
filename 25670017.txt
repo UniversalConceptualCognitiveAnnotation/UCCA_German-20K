@@ -1,10 +1,27 @@
 # ::id 25670017
 # ::tok Aber die Nautilus bekam durch Verstärkung seiner Schnelligkeit leicht einen Vorsprung vor den raschesten dieser Tiere .
-(label :L label
-       :H label
-       :A label
-       :D label
-       :P label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :A (v4 / label
+                  :E (v10 / label)
+                  :C (v11 / label))
+           :D (v5 / label)
+           :A (v6 / label
+                  :R (v12 / label)
+                  :P (v13 / label)
+                  :A (v14 / label
+                          :R (v21 / label)
+                          :C (v22 / label))
+                  :A v11)
+           :D (v7 / label)
+           :P (v8 / label
+                  :E (v15 / label)
+                  :C (v16 / label))
+           :A (v9 / label
+                  :R (v17 / label)
+                  :E (v18 / label
+                          :R (v23 / label)
+                          :C (v24 / label))
+                  :E (v19 / label)
+                  :C (v20 / label))))

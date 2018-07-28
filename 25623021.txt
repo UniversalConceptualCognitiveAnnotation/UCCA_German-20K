@@ -1,10 +1,37 @@
 # ::id 25623021
 # ::tok Die Natur hat die Gegenden , wo kein Getreide wächst , mit diesem nützlichen Nahrungs baum versehen , der ohne alle Pflege 8 Monate im Jahr seine Früchte spendet .
-(label :H label
-       :A label
-       :P label
-       :E label
-       :C label
-       :R label
-       :D label
-       :T label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v7 / label)
+                  :C (v8 / label))
+           :A (v4 / label
+                  :E (v9 / label
+                         :R (v18 / label)
+                         :D (v19 / label)
+                         :A (v20 / label)
+                         :P (v21 / label))
+                  :E (v10 / label)
+                  :C (v11 / label))
+           :A (v5 / label
+                  :R (v12 / label)
+                  :E (v13 / label
+                          :R (v22 / label)
+                          :A (v23 / label
+                                  :E (v27 / label)
+                                  :E (v28 / label)
+                                  :C (v29 / label))
+                          :T (v24 / label
+                                  :C (v30 / label)
+                                  :E (v31 / label
+                                          :R (v34 / label)
+                                          :C (v35 / label)))
+                          :A (v25 / label
+                                  :E (v32 / label)
+                                  :C (v33 / label))
+                          :P (v26 / label))
+                  :E (v14 / label)
+                  :E (v15 / label)
+                  :E (v16 / label)
+                  :C (v17 / label))
+           :P (v6 / label)))

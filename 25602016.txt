@@ -1,10 +1,25 @@
 # ::id 25602016
 # ::tok »Gut , Herr Professor« , erwiderte Kapitän Nemo , »wir wollen Ihnen , hoffe ich , mehr zeigen als dies .
-(label :H label
-       :A label
-       :P label
-       :S label
-       :E label
-       :C label
-       :D label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label
+                  :S (v10 / label)
+                  :A (v11 / label
+                          :E (v20 / label)
+                          :C (v21 / label)))
+           :P (v5 / label)
+           :A (v6 / label
+                  :E (v12 / label)
+                  :C (v13 / label)))
+    :H (v3 / label
+           :A (v7 / label
+                  :A (v14 / label)
+                  :D (v15 / label)
+                  :A (v16 / label)
+                  :A (v17 / label)
+                  :P (v18 / label)
+                  :A (v19 / label
+                          :R (v22 / label)
+                          :C (v23 / label)))
+           :P (v8 / label)
+           :A (v9 / label)))

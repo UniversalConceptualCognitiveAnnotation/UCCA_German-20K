@@ -1,11 +1,113 @@
 # ::id 25524006
 # ::tok An dem auf der Karte bezeichneten Punkt nun fließt einer jener Ströme , der Schwarze Fluß , von den Japanesen Kuro-Scivo genannt , der vom Bengalischen Golf her , wo die senkrechten Strahlen der tropischen Sonne ihn wärmen , durch die Enge von Malakka hindurch , längs der Küste Asiens fortläuft , dann im Norden des Pazifiks in runder Krümmung bis zur Aleutengruppe hinzieht , Stämme von Kampfer bäumen und andere indische Produkte mit sich fortwälzt und mit dem puren Indigo seiner warmen Gewässer von den Fluten des Ozeans absticht .
-(label :H label
-       :L label
-       :A label
-       :S label
-       :P label
-       :R label
-       :E label
-       :C label
-       :N label)
+(v1 / label
+    :H (v2 / label
+           :A (v14 / label
+                   :R (v41 / label)
+                   :E (v42 / label)
+                   :C (v43 / label))
+           :A (v15 / label
+                   :R (v44 / label)
+                   :E (v45 / label)
+                   :C (v46 / label))
+           :S (v16 / label))
+    :L (v3 / label)
+    :H (v4 / label
+           :P (v17 / label)
+           :A (v18 / label
+                   :E (v47 / label)
+                   :E (v48 / label)
+                   :C (v49 / label)))
+    :H (v5 / label
+           :A (v19 / label
+                   :E (v50 / label)
+                   :C (v51 / label))
+           :A (v20 / label
+                   :R (v52 / label)
+                   :E (v53 / label)
+                   :C (v54 / label))
+           :A (v21 / label)
+           :S (v22 / label))
+    :H (v6 / label
+           :A (v23 / label)
+           :A (v24 / label
+                   :R (v55 / label)
+                   :C (v56 / label))
+           :A (v25 / label
+                   :R (v57 / label)
+                   :E (v58 / label
+                           :R (v92 / label)
+                           :C (v93 / label))
+                   :E (v59 / label)
+                   :C (v60 / label))
+           :A (v26 / label
+                   :R (v61 / label)
+                   :E (v62 / label)
+                   :E (v63 / label)
+                   :C (v64 / label))
+           :P (v27 / label))
+    :L (v7 / label)
+    :H (v8 / label
+           :A (v28 / label
+                   :E (v65 / label
+                           :R (v94 / label)
+                           :E (v95 / label)
+                           :C (v96 / label))
+                   :E (v66 / label)
+                   :E (v67 / label)
+                   :C (v68 / label))
+           :A (v29 / label)
+           :P (v30 / label))
+    :L (v9 / label)
+    :H (v10 / label
+            :A (v31 / label
+                    :R (v69 / label)
+                    :C (v70 / label)
+                    :E (v71 / label
+                            :R (v97 / label)
+                            :C (v98 / label)))
+            :A (v32 / label
+                    :R (v72 / label)
+                    :E (v73 / label)
+                    :C (v74 / label))
+            :A (v33 / label
+                    :R (v75 / label)
+                    :E (v76 / label)
+                    :C (v77 / label))
+            :S (v34 / label))
+    :H (v11 / label
+            :A (v35 / label
+                    :C (v78 / label
+                            :C (v99 / label)
+                            :E (v100 / label
+                                     :R (v109 / label)
+                                     :E (v110 / label)
+                                     :C (v111 / label)))
+                    :N (v79 / label)
+                    :C (v80 / label
+                            :E (v101 / label)
+                            :E (v102 / label)
+                            :C (v103 / label)))
+            :A (v36 / label
+                    :R (v81 / label)
+                    :C (v82 / label))
+            :P (v37 / label))
+    :L (v12 / label)
+    :H (v13 / label
+            :A (v38 / label
+                    :R (v83 / label)
+                    :E (v84 / label
+                            :R (v104 / label)
+                            :E (v105 / label)
+                            :C (v106 / label))
+                    :E (v85 / label)
+                    :E (v86 / label)
+                    :C (v87 / label))
+            :A (v39 / label
+                    :R (v88 / label)
+                    :E (v89 / label
+                            :R (v107 / label)
+                            :C (v108 / label))
+                    :E (v90 / label)
+                    :C (v91 / label))
+            :P (v40 / label)))

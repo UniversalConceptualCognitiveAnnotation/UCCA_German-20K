@@ -1,13 +1,27 @@
 # ::id 25681014
 # ::tok Um 6 Uhr wurde es plötzlich Tag , so rasch , wie es den Tropen gegenden eigentümlich ist , wo man weder Dämmerung noch Morgenröte kennt .
-(label :H label
-       :L label
-       :T label
-       :D label
-       :S label
-       :A label
-       :P label
-       :R label
-       :C label
-       :N label
-       :E label)
+(v1 / label
+    :H (v2 / label
+           :T (v6 / label
+                  :R (v15 / label)
+                  :C (v16 / label))
+           :D (v7 / label)
+           :S (v8 / label))
+    :H (v3 / label
+           :D (v9 / label)
+           :S (v10 / label)
+           :A (v11 / label
+                   :D (v17 / label)
+                   :A (v18 / label
+                           :E (v23 / label)
+                           :E (v24 / label)
+                           :C (v25 / label))
+                   :S (v19 / label)))
+    :L (v4 / label)
+    :H (v5 / label
+           :A (v12 / label)
+           :A (v13 / label
+                   :N (v20 / label)
+                   :C (v21 / label)
+                   :C (v22 / label))
+           :P (v14 / label)))

@@ -1,11 +1,46 @@
 # ::id 25679019
 # ::tok »Es handelt sich nicht darum« , sagte ich , »sie mit einem Haken zu fangen , auf das Verdeck zu ziehen , ihnen den Schwanz ab zu hauen , den Leib auf zu schlitzen und ihr Herz in s Meer zu werfen ! «
-(label :H label
-       :A label
-       :P label
-       :S label
-       :D label
-       :L label
-       :R label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :S (v6 / label)
+                  :D (v7 / label)
+                  :A (v8 / label
+                         :H (v9 / label
+                                :A (v15 / label)
+                                :A (v16 / label
+                                        :R (v28 / label)
+                                        :E (v29 / label)
+                                        :C (v30 / label))
+                                :P (v17 / label))
+                         :H (v10 / label
+                                 :A (v18 / label
+                                         :R (v31 / label)
+                                         :E (v32 / label)
+                                         :C (v33 / label))
+                                 :P (v19 / label)
+                                 :A v15)
+                         :H (v11 / label
+                                 :A (v20 / label)
+                                 :A (v21 / label
+                                         :E (v34 / label)
+                                         :C (v35 / label))
+                                 :P (v22 / label))
+                         :H (v12 / label
+                                 :A (v23 / label
+                                         :E (v36 / label)
+                                         :C (v37 / label))
+                                 :P (v24 / label)
+                                 :A v20)
+                         :L (v13 / label)
+                         :H (v14 / label
+                                 :A (v25 / label
+                                         :E (v38 / label)
+                                         :C (v39 / label))
+                                 :A (v26 / label
+                                         :R (v40 / label)
+                                         :E (v41 / label)
+                                         :C (v42 / label))
+                                 :P (v27 / label))))
+           :P (v4 / label)
+           :A (v5 / label)))

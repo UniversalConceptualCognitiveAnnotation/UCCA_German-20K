@@ -1,10 +1,31 @@
 # ::id 25622016
 # ::tok »Nur ein Wort , Meister Land« , sagte ich zum Harpunier , der schon im Begriff war , noch einen Kokos baum zu plündern .
-(label :H label
-       :A label
-       :P label
-       :D label
-       :R label
-       :C label
-       :E label
-       :S label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :D (v7 / label)
+                  :P (v8 / label
+                         :E (v13 / label)
+                         :C (v14 / label))
+                  :A (v9 / label
+                         :E (v15 / label)
+                         :C (v16 / label)))
+           :P (v4 / label)
+           :A (v5 / label)
+           :A (v6 / label
+                  :R (v10 / label)
+                  :C (v11 / label)
+                  :E (v12 / label
+                          :A v11
+                          :R (v17 / label)
+                          :D (v18 / label)
+                          :S (v19 / label
+                                  :R (v21 / label)
+                                  :C (v22 / label))
+                          :A (v20 / label
+                                  :D (v23 / label)
+                                  :A (v24 / label
+                                          :E (v26 / label)
+                                          :E (v27 / label)
+                                          :C (v28 / label))
+                                  :P (v25 / label))))))

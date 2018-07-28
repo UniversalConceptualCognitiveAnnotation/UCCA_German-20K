@@ -1,8 +1,17 @@
 # ::id 25687012
 # ::tok Ich starrte stumm vor Schrecken , unfähig mich zu regen .
-(label :H label
-       :A label
-       :P label
-       :D label
-       :R label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label)
+           :P (v6 / label)
+           :D (v7 / label))
+    :H (v3 / label
+           :P (v8 / label
+                  :R (v12 / label)
+                  :C (v13 / label))
+           :A v5)
+    :H (v4 / label
+           :D (v9 / label)
+           :A (v10 / label)
+           :P (v11 / label)
+           :A v5))

@@ -1,9 +1,17 @@
 # ::id 25506016
 # ::tok Sie müssen doch Ihre Einrichtung an Bord der ›Nautilus‹ kennenlernen.«
-(label :H label
-       :A label
-       :D label
-       :P label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :D (v4 / label)
+           :D (v5 / label)
+           :A (v6 / label
+                  :E (v8 / label
+                         :E (v11 / label
+                                 :R (v14 / label)
+                                 :C (v15 / label))
+                         :E (v12 / label)
+                         :C (v13 / label))
+                  :E (v9 / label)
+                  :C (v10 / label))
+           :P (v7 / label)))

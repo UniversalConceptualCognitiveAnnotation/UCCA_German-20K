@@ -1,13 +1,53 @@
 # ::id 25685005
 # ::tok Kapitän Nemo war ohne Zweifel schon mit dem Dasein dieses Schal tieres bekannt und besuchte es nicht jetzt zum ersten Mal , und ich dachte , er wolle , indem er uns dahin führte , uns nur eine Natur merkwürdigkeit zeigen .
-(label :H label
-       :L label
-       :A label
-       :G label
-       :D label
-       :S label
-       :P label
-       :T label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v7 / label
+                  :E (v21 / label)
+                  :C (v17 / label))
+           :G (v8 / label
+                  :R (v22 / label)
+                  :C (v23 / label))
+           :D (v9 / label)
+           :A (v10 / label
+                   :R (v24 / label)
+                   :S (v25 / label
+                           :E (v33 / label)
+                           :C (v34 / label))
+                   :A (v26 / label
+                           :R (v35 / label)
+                           :E (v36 / label)
+                           :C (v37 / label)))
+           :S (v11 / label))
+    :L (v3 / label)
+    :H (v4 / label
+           :P (v12 / label)
+           :A (v13 / label)
+           :D (v14 / label)
+           :T (v15 / label)
+           :A (v16 / label
+                   :R (v27 / label)
+                   :E (v28 / label)
+                   :C (v29 / label))
+           :A v17)
+    :L (v5 / label)
+    :H (v6 / label
+           :A (v18 / label)
+           :P (v19 / label)
+           :A (v20 / label
+                   :H (v30 / label
+                           :A (v38 / label)
+                           :D (v39 / label)
+                           :A (v40 / label)
+                           :D (v41 / label)
+                           :A (v42 / label
+                                   :E (v48 / label)
+                                   :E (v49 / label)
+                                   :C (v50 / label))
+                           :P (v43 / label))
+                   :L (v31 / label)
+                   :H (v32 / label
+                           :A (v44 / label)
+                           :A (v45 / label)
+                           :A (v46 / label)
+                           :P (v47 / label)))))

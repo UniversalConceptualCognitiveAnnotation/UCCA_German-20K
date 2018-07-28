@@ -1,5 +1,6 @@
 # ::id 25583017
 # ::tok Kapitän Nemo
-(label :H label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :E (v3 / label)
+           :C (v4 / label)))

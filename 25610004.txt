@@ -1,6 +1,11 @@
 # ::id 25610004
 # ::tok »Was jedermann weiß , Kapitän« , erwiderte ich .
-(label :H label
-       :A label
-       :P label
-       :S label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :A (v6 / label)
+                  :A (v7 / label)
+                  :S (v8 / label)
+                  :A (v9 / label))
+           :P (v4 / label)
+           :A (v5 / label)))

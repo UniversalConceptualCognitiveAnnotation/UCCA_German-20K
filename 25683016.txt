@@ -1,10 +1,33 @@
 # ::id 25683016
 # ::tok Mitten unter diesen lebendigen Pflanzen und unter den Wölbungen von Wasser gewächsen liefen Legionen unbeholfener Glieder tiere , zum Teil häßlich anzusehen .
-(label :H label
-       :A label
-       :P label
-       :D label
-       :R label
-       :C label
-       :N label
-       :E label)
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label
+                  :R (v11 / label)
+                  :C (v12 / label
+                          :R (v20 / label)
+                          :E (v21 / label)
+                          :E (v22 / label)
+                          :C (v23 / label))
+                  :N (v13 / label)
+                  :C (v14 / label
+                          :R (v24 / label)
+                          :E (v25 / label
+                                  :R (v28 / label)
+                                  :E (v29 / label)
+                                  :C (v30 / label))
+                          :E (v26 / label)
+                          :C (v27 / label)))
+           :P (v5 / label)
+           :A (v6 / label
+                  :E (v15 / label)
+                  :E (v16 / label)
+                  :E (v17 / label)
+                  :C (v10 / label)))
+    :H (v3 / label
+           :D (v7 / label
+                  :R (v18 / label)
+                  :C (v19 / label))
+           :D (v8 / label)
+           :P (v9 / label)
+           :A v10))

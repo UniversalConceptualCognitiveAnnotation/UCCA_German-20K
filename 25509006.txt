@@ -1,10 +1,34 @@
 # ::id 25509006
 # ::tok »Fürs erste will ich Ihnen sagen , daß es auf dem Grund des Meeres Zink- , Eisen- , Silber- , Gold minen gibt , deren Ausbeutung gewiß sehr ausführbar wäre .
-(label :H label
-       :D label
-       :A label
-       :P label
-       :R label
-       :S label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :D (v3 / label)
+           :D (v4 / label)
+           :A (v5 / label)
+           :A (v6 / label)
+           :P (v7 / label)
+           :A (v8 / label
+                  :R (v9 / label)
+                  :A (v10 / label)
+                  :A (v11 / label
+                          :E (v17 / label
+                                  :R (v29 / label)
+                                  :C (v30 / label))
+                          :R (v18 / label)
+                          :E (v19 / label)
+                          :C (v20 / label))
+                  :A (v12 / label
+                          :C (v21 / label)
+                          :C (v22 / label)
+                          :C (v23 / label)
+                          :C (v24 / label
+                                  :E (v31 / label)
+                                  :C (v32 / label)))
+                  :S (v13 / label)
+                  :A (v14 / label
+                          :R (v25 / label)
+                          :C (v26 / label))
+                  :D (v15 / label)
+                  :D (v16 / label
+                          :E (v27 / label)
+                          :C (v28 / label)))))

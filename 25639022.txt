@@ -1,8 +1,9 @@
 # ::id 25639022
 # ::tok »Und die Papuas ? «
-(label :L label
-       :H label
-       :S label
-       :A label
-       :E label
-       :C label)
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :S (v4 / label)
+           :A (v5 / label
+                  :E (v6 / label)
+                  :C (v7 / label))))

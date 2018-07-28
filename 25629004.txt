@@ -1,11 +1,20 @@
 # ::id 25629004
 # ::tok Darum bin ich auch nicht zufrieden , solange ich nicht ein Tier für Koteletts erlegt habe ! «
-(label :L label
-       :H label
-       :A label
-       :D label
-       :S label
-       :P label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :A (v6 / label)
+           :D (v7 / label)
+           :D (v8 / label)
+           :S (v9 / label))
+    :L (v4 / label)
+    :H (v5 / label
+           :A (v10 / label)
+           :D (v11 / label)
+           :A (v12 / label
+                   :E (v15 / label)
+                   :C (v16 / label))
+           :A (v13 / label
+                   :R (v17 / label)
+                   :C (v18 / label))
+           :P (v14 / label)))

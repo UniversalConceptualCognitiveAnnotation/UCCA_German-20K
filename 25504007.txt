@@ -1,10 +1,19 @@
 # ::id 25504007
 # ::tok »So rauchen Sie davon nach Belieben und ohne sich über ihren Ursprung Gedanken zu machen .
-(label :L label
-       :H label
-       :P label
-       :A label
-       :D label
-       :R label
-       :C label
-       :E label)
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :P (v6 / label)
+           :A (v7 / label)
+           :D (v8 / label)
+           :D (v9 / label
+                  :R (v13 / label)
+                  :C (v14 / label)))
+    :L (v4 / label)
+    :H (v5 / label
+           :D (v10 / label)
+           :P (v11 / label)
+           :A (v12 / label
+                   :R (v15 / label)
+                   :E (v16 / label)
+                   :C (v17 / label))))

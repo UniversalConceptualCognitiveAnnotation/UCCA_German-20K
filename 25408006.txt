@@ -1,10 +1,31 @@
 # ::id 25408006
 # ::tok War es ein Thier von der Wallfisch gattung , so übertraf es an Umfang weit alle von der Wissenschaft bisher verzeichneten .
-(label :H label
-       :L label
-       :S label
-       :A label
-       :D label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :S (v5 / label)
+           :A (v6 / label)
+           :A (v7 / label
+                  :E (v14 / label)
+                  :C (v15 / label))
+           :A (v8 / label
+                  :R (v16 / label)
+                  :E (v17 / label)
+                  :E (v18 / label)
+                  :C (v19 / label)))
+    :L (v3 / label)
+    :H (v4 / label
+           :S (v9 / label)
+           :A (v10 / label)
+           :A (v11 / label
+                   :E (v20 / label)
+                   :C (v21 / label))
+           :D (v12 / label)
+           :A (v13 / label
+                   :A (v22 / label)
+                   :A (v23 / label)
+                   :A (v24 / label
+                           :R (v27 / label)
+                           :E (v28 / label)
+                           :C (v29 / label))
+                   :D (v25 / label)
+                   :S (v26 / label))))

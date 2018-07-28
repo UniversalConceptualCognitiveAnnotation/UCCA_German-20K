@@ -1,11 +1,42 @@
 # ::id 25594012
 # ::tok Ohne Wurzel , ohne Zusammenhang mit dem festen Körper , Sand , Muschel- oder Kiesel geröll , das die Unterlage bildet , begehren sie von diesem nur einen Stützpunkt , nicht die Lebens quelle .
-(label :H label
-       :D label
-       :A label
-       :P label
-       :R label
-       :E label
-       :C label
-       :N label
-       :S label)
+(v1 / label
+    :H (v2 / label
+           :D (v3 / label)
+           :A (v4 / label)
+           :D (v5 / label)
+           :D (v6 / label)
+           :A (v7 / label
+                  :R (v16 / label)
+                  :E (v17 / label)
+                  :E (v18 / label)
+                  :C (v19 / label))
+           :A (v8 / label
+                  :C (v20 / label
+                          :C (v29 / label)
+                          :C (v30 / label)
+                          :N (v31 / label)
+                          :C (v32 / label
+                                  :E (v36 / label)
+                                  :C (v37 / label)))
+                  :E (v21 / label
+                          :A v20
+                          :R (v33 / label)
+                          :A (v34 / label
+                                  :E (v38 / label)
+                                  :C (v39 / label))
+                          :S (v35 / label)))
+           :P (v9 / label)
+           :A (v10 / label)
+           :A (v11 / label
+                   :R (v22 / label)
+                   :C (v23 / label))
+           :D (v12 / label)
+           :A (v13 / label
+                   :E (v24 / label)
+                   :C (v25 / label))
+           :D (v14 / label)
+           :A (v15 / label
+                   :E (v26 / label)
+                   :E (v27 / label)
+                   :C (v28 / label))))

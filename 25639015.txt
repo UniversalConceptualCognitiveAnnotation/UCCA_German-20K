@@ -1,11 +1,24 @@
 # ::id 25639015
 # ::tok Wo nicht , so könnten wohl viele Monate verfließen , ohne daß er die Korallen bank verlassen konnte .
-(label :H label
-       :L label
-       :S label
-       :A label
-       :D label
-       :P label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :S (v5 / label)
+           :A (v6 / label)
+           :D (v7 / label))
+    :L (v3 / label)
+    :H (v4 / label
+           :D (v8 / label)
+           :D (v9 / label)
+           :A (v10 / label
+                   :E (v13 / label)
+                   :C (v14 / label))
+           :P (v11 / label)
+           :A (v12 / label
+                   :R (v15 / label)
+                   :A (v16 / label)
+                   :A (v17 / label
+                           :E (v20 / label)
+                           :E (v21 / label)
+                           :C (v22 / label))
+                   :P (v18 / label)
+                   :D (v19 / label))))

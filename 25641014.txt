@@ -1,8 +1,10 @@
 # ::id 25641014
 # ::tok Nach den Küsten Asiens ?
-(label :H label
-       :P label
-       :A label
-       :R label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :P (v3 / label)
+           :A (v4 / label
+                  :R (v5 / label)
+                  :E (v6 / label)
+                  :C (v7 / label)
+                  :E (v8 / label))))

@@ -1,9 +1,20 @@
 # ::id 25438024
 # ::tok Die langen horizontalen Stempel dröhnten und trieben die Stangen der Welle .
-(label :H label
-       :L label
-       :A label
-       :P label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label
+                  :E (v11 / label)
+                  :E (v12 / label)
+                  :E (v13 / label)
+                  :C (v10 / label))
+           :P (v6 / label))
+    :L (v3 / label)
+    :H (v4 / label
+           :P (v7 / label)
+           :A (v8 / label
+                  :E (v14 / label)
+                  :C (v15 / label))
+           :A (v9 / label
+                  :R (v16 / label)
+                  :C (v17 / label))
+           :A v10))

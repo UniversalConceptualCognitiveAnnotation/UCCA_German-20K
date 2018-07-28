@@ -1,5 +1,10 @@
 # ::id 25493005
 # ::tok Nahm er Anstand zu reden ?
-(label :H label
-       :P label
-       :A label)
+(v1 / label
+    :H (v2 / label
+           :P (v3 / label)
+           :A (v4 / label)
+           :A (v5 / label
+                  :A v4
+                  :A (v6 / label)
+                  :P (v7 / label))))

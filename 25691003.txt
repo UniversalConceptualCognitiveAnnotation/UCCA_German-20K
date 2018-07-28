@@ -1,11 +1,18 @@
 # ::id 25691003
 # ::tok » Und sind wir am Kap der Guten Hoffnung ! « fragte der Kanadier besonders dringlich .
-(label :H label
-       :A label
-       :P label
-       :D label
-       :L label
-       :E label
-       :C label
-       :S label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :L (v8 / label)
+                  :H (v9 / label
+                         :S (v12 / label)
+                         :A (v13 / label)
+                         :A (v14 / label
+                                 :R (v15 / label)
+                                 :C (v16 / label))))
+           :P (v4 / label)
+           :A (v5 / label
+                  :E (v10 / label)
+                  :C (v11 / label))
+           :D (v6 / label)
+           :D (v7 / label)))

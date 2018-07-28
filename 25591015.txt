@@ -1,9 +1,22 @@
 # ::id 25591015
 # ::tok Eine Viertelstunde lang ging ich auf diesem heißen Sand , der mit unbetastbarem Muschelstaub besät war .
-(label :H label
-       :T label
-       :P label
-       :A label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :T (v3 / label
+                  :E (v7 / label)
+                  :C (v8 / label)
+                  :E (v9 / label))
+           :P (v4 / label)
+           :A (v5 / label)
+           :A (v6 / label
+                  :R (v10 / label)
+                  :E (v11 / label
+                          :R (v15 / label)
+                          :A (v16 / label
+                                  :E (v18 / label)
+                                  :E (v19 / label)
+                                  :C (v20 / label))
+                          :P (v17 / label))
+                  :E (v12 / label)
+                  :E (v13 / label)
+                  :C (v14 / label))))

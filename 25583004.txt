@@ -1,10 +1,13 @@
 # ::id 25583004
 # ::tok So verflossen 5 Tage , ohne daß die Lage sich änderte .
-(label :H label
-       :L label
-       :D label
-       :P label
-       :A label
-       :S label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :D (v5 / label)
+           :P (v6 / label)
+           :A (v7 / label))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v8 / label
+                  :E (v10 / label)
+                  :C (v11 / label))
+           :S (v9 / label)))

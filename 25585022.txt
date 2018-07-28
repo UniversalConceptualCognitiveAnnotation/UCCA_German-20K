@@ -1,9 +1,26 @@
 # ::id 25585022
 # ::tok Es bestand aus verschiedenen Fischen und Stücken Holothurien , trefflichen Tier pflanzen , Bei essen von eröffnenden Algen .
-(label :H label
-       :A label
-       :S label
-       :R label
-       :C label
-       :N label
-       :E label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :S (v4 / label)
+           :A (v5 / label
+                  :R (v6 / label)
+                  :C (v7 / label
+                         :E (v12 / label)
+                         :C (v13 / label))
+                  :N (v8 / label)
+                  :C (v9 / label
+                         :E (v14 / label)
+                         :C (v15 / label))
+                  :C (v10 / label
+                          :E (v16 / label)
+                          :E (v17 / label)
+                          :C (v18 / label))
+                  :C (v11 / label
+                          :E (v19 / label
+                                  :R (v22 / label)
+                                  :E (v23 / label)
+                                  :C (v24 / label))
+                          :E (v20 / label)
+                          :C (v21 / label)))))

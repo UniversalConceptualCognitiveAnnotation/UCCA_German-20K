@@ -1,10 +1,17 @@
 # ::id 25503000
 # ::tok Ich dankte dem Kapitän und trat näher zu den Büchern heran .
-(label :H label
-       :L label
-       :A label
-       :P label
-       :D label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label)
+           :P (v6 / label)
+           :A (v7 / label
+                  :E (v11 / label)
+                  :C (v12 / label)))
+    :L (v3 / label)
+    :H (v4 / label
+           :P (v8 / label)
+           :D (v9 / label)
+           :A (v10 / label
+                   :R (v13 / label)
+                   :E (v14 / label)
+                   :C (v15 / label))))

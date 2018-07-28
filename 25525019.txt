@@ -1,11 +1,24 @@
 # ::id 25525019
 # ::tok Wie mancher würde sich gern unsere Lage gefallen lassen , sei es auch nur , um durch diese Wunder zu spazieren .
-(label :H label
-       :L label
-       :D label
-       :A label
-       :P label
-       :S label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :D (v6 / label)
+           :A (v7 / label)
+           :D (v8 / label)
+           :P (v9 / label)
+           :D (v10 / label)
+           :A (v11 / label
+                   :E (v18 / label)
+                   :C (v19 / label)))
+    :H (v3 / label
+           :S (v12 / label)
+           :A (v13 / label)
+           :D (v14 / label)
+           :D (v15 / label))
+    :L (v4 / label)
+    :H (v5 / label
+           :A (v16 / label
+                   :R (v20 / label)
+                   :E (v21 / label)
+                   :C (v22 / label))
+           :P (v17 / label)))

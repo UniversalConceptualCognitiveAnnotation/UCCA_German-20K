@@ -1,10 +1,25 @@
 # ::id 25633012
 # ::tok »Und Sie wundern sich , Herr Professor , daß Sie , sowie Sie einen Fuß an Land setzen , Wilde darauf antreffen ?
-(label :L label
-       :H label
-       :P label
-       :A label
-       :E label
-       :C label
-       :R label
-       :D label)
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :P (v4 / label)
+           :A (v5 / label
+                  :E (v7 / label)
+                  :C (v8 / label))
+           :A (v6 / label
+                  :R (v9 / label)
+                  :A (v10 / label)
+                  :A (v11 / label
+                          :D (v15 / label)
+                          :A (v16 / label)
+                          :A (v17 / label
+                                  :E (v20 / label)
+                                  :C (v21 / label))
+                          :A (v18 / label
+                                  :R (v22 / label)
+                                  :C (v23 / label))
+                          :P (v19 / label))
+                  :A (v12 / label)
+                  :A (v13 / label)
+                  :P (v14 / label))))

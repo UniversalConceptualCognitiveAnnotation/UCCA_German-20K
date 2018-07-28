@@ -1,11 +1,43 @@
 # ::id 25665010
 # ::tok In diesem Augenblick ist mir noch nichts mit Gewißheit klar , ich sehe in diesem Dunkel nur unbestimmten Licht schimmer , und ich muß mich darauf beschränken zu schreiben , was mir gewissermaßen die Ereignisse diktieren .
-(label :H label
-       :L label
-       :A label
-       :D label
-       :S label
-       :P label
-       :R label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :A (v6 / label
+                  :R (v21 / label)
+                  :E (v22 / label)
+                  :C (v23 / label))
+           :A (v7 / label)
+           :D (v8 / label
+                  :E (v24 / label)
+                  :C (v25 / label))
+           :A (v9 / label
+                  :R (v26 / label)
+                  :C (v27 / label))
+           :S (v10 / label))
+    :H (v3 / label
+           :A (v11 / label)
+           :P (v12 / label)
+           :A (v13 / label
+                   :R (v28 / label)
+                   :E (v29 / label)
+                   :C (v30 / label))
+           :A (v14 / label
+                   :E (v31 / label)
+                   :E (v32 / label)
+                   :E (v33 / label)
+                   :C (v34 / label)))
+    :L (v4 / label)
+    :H (v5 / label
+           :A (v15 / label)
+           :D (v16 / label)
+           :D (v17 / label)
+           :A (v18 / label)
+           :P (v19 / label)
+           :A (v20 / label
+                   :A (v35 / label)
+                   :A (v36 / label)
+                   :D (v37 / label)
+                   :A (v38 / label
+                           :E (v40 / label)
+                           :C (v41 / label))
+                   :P (v39 / label))))

@@ -1,9 +1,14 @@
 # ::id 25680019
 # ::tok » Und meine Gefährten , Kapitän ? «
-(label :H label
-       :P label
-       :A label
-       :L label
-       :G label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :P (v3 / label)
+           :A (v4 / label)
+           :A (v5 / label
+                  :L (v6 / label)
+                  :H (v7 / label
+                         :P (v8 / label)
+                         :A (v9 / label
+                                :E (v11 / label)
+                                :C (v12 / label))
+                         :G (v10 / label)))))

@@ -1,9 +1,16 @@
 # ::id 25526010
 # ::tok Wir waren nur durch zwei Glas platten vom Meer geschieden .
-(label :H label
-       :A label
-       :D label
-       :S label
-       :R label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :D (v4 / label)
+           :D (v5 / label)
+           :A (v6 / label
+                  :R (v9 / label)
+                  :E (v10 / label)
+                  :E (v11 / label)
+                  :C (v12 / label))
+           :A (v7 / label
+                  :R (v13 / label)
+                  :C (v14 / label))
+           :S (v8 / label)))

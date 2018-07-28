@@ -1,11 +1,42 @@
 # ::id 25594014
 # ::tok Die meisten trieben , anstatt Blätter , nur bandartige Streifen von grillenhaften Formen , umgrenzt von einer schmalen Farben borte , die nur Rosa , Carmin , Grün , Oliven farbig , Falb und Braun enthielt .
-(label :H label
-       :A label
-       :P label
-       :D label
-       :E label
-       :C label
-       :R label
-       :S label
-       :N label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v10 / label)
+                  :C (v11 / label))
+           :P (v4 / label)
+           :D (v5 / label)
+           :A (v6 / label)
+           :D (v7 / label)
+           :A (v8 / label
+                  :E (v12 / label)
+                  :C (v13 / label))
+           :A (v9 / label
+                  :R (v14 / label)
+                  :E (v15 / label
+                          :S (v18 / label)
+                          :A (v19 / label
+                                  :R (v20 / label)
+                                  :E (v21 / label)
+                                  :E (v22 / label)
+                                  :E (v23 / label
+                                          :R (v26 / label)
+                                          :D (v27 / label)
+                                          :A (v28 / label
+                                                  :C (v30 / label)
+                                                  :C (v31 / label)
+                                                  :C (v32 / label)
+                                                  :C (v33 / label
+                                                          :E (v37 / label)
+                                                          :C (v38 / label))
+                                                  :C (v34 / label)
+                                                  :N (v35 / label)
+                                                  :C (v36 / label))
+                                          :S (v29 / label)
+                                          :A (v25 / label))
+                                  :E (v24 / label)
+                                  :C v25)
+                          :A (v17 / label))
+                  :E (v16 / label)
+                  :C v17)))

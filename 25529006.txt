@@ -1,6 +1,9 @@
 # ::id 25529006
 # ::tok »Die sind zu schätzen« , erwiderte Ned Land .
-(label :H label
-       :A label
-       :P label
-       :S label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :A (v6 / label)
+                  :S (v7 / label))
+           :P (v4 / label)
+           :A (v5 / label)))

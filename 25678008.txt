@@ -1,11 +1,64 @@
 # ::id 25678008
 # ::tok »Ich habe« , versetzte der Kanadier , »meiner Braut , Kat Tender  die übrigens einen anderen geheiratet hat , ein Perlen hals band gekauft , das kostete nur ein und einen halben Dollar , und doch  der Herr Professor kann mir  s kecklich glauben  wären diese Perlen nicht durch ein Sieb mit 20 Löchern gegangen.«
-(label :H label
-       :A label
-       :P label
-       :L label
-       :E label
-       :C label
-       :D label
-       :R label
-       :G label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :H (v6 / label
+                         :A (v12 / label)
+                         :A (v13 / label
+                                 :E (v28 / label
+                                         :R (v45 / label)
+                                         :G (v46 / label)
+                                         :A (v47 / label
+                                                 :E (v57 / label)
+                                                 :C (v58 / label))
+                                         :P (v48 / label)
+                                         :A (v49 / label))
+                                 :E (v29 / label
+                                         :E (v50 / label)
+                                         :C v49)
+                                 :C (v30 / label))
+                         :A (v14 / label
+                                 :E (v31 / label
+                                         :R (v51 / label)
+                                         :P (v52 / label)
+                                         :D (v53 / label)
+                                         :A (v54 / label
+                                                 :E (v59 / label)
+                                                 :C (v60 / label))
+                                         :A (v35 / label))
+                                 :E (v32 / label)
+                                 :E (v33 / label)
+                                 :E (v34 / label)
+                                 :C v35)
+                         :P (v15 / label))
+                  :L (v7 / label)
+                  :H (v8 / label
+                         :D (v16 / label)
+                         :D (v17 / label)
+                         :A (v18 / label
+                                 :E (v36 / label)
+                                 :C (v37 / label))
+                         :D (v19 / label)
+                         :A (v20 / label
+                                 :R (v38 / label)
+                                 :E (v39 / label
+                                         :R (v55 / label)
+                                         :C (v56 / label))
+                                 :E (v40 / label)
+                                 :C (v41 / label))
+                         :P (v21 / label))
+                  :H (v9 / label
+                         :A (v22 / label
+                                 :E (v42 / label)
+                                 :E (v43 / label)
+                                 :C (v44 / label))
+                         :D (v23 / label)
+                         :A (v24 / label)
+                         :A (v25 / label)
+                         :D (v26 / label)
+                         :P (v27 / label)))
+           :P (v4 / label)
+           :A (v5 / label
+                  :E (v10 / label)
+                  :C (v11 / label))))

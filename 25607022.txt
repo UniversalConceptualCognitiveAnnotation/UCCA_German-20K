@@ -1,9 +1,15 @@
 # ::id 25607022
 # ::tok Also bildeten sich diese Inseln , unermeßliche Werke mikroskopischer Tiere .
-(label :L label
-       :H label
-       :P label
-       :A label
-       :E label
-       :C label
-       :D label)
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :P (v4 / label)
+           :A (v5 / label
+                  :E (v6 / label
+                         :D (v9 / label)
+                         :P (v10 / label)
+                         :A (v11 / label
+                                 :E (v12 / label)
+                                 :C (v13 / label)))
+                  :E (v7 / label)
+                  :C (v8 / label))))

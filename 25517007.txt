@@ -1,9 +1,19 @@
 # ::id 25517007
 # ::tok Doch fühle ich mich nun einer wirklichen Schwierigkeit gegenüber.« »Worin besteht diese , mein Herr ? «
-(label :L label
-       :H label
-       :S label
-       :A label
-       :D label
-       :E label
-       :C label)
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :S (v5 / label)
+           :A (v6 / label)
+           :D (v7 / label)
+           :A (v8 / label
+                  :E (v13 / label)
+                  :E (v14 / label)
+                  :C (v15 / label)))
+    :H (v4 / label
+           :A (v9 / label)
+           :S (v10 / label)
+           :A (v11 / label)
+           :A (v12 / label
+                   :E (v16 / label)
+                   :C (v17 / label))))

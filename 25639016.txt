@@ -1,10 +1,20 @@
 # ::id 25639016
 # ::tok Doch spürte man im Rumpf des Boots bereits eine Erschütterung als Vorbote .
-(label :L label
-       :H label
-       :P label
-       :A label
-       :D label
-       :E label
-       :R label
-       :C label)
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :P (v4 / label)
+           :A (v5 / label)
+           :A (v6 / label
+                  :E (v10 / label
+                          :R (v17 / label)
+                          :C (v18 / label))
+                  :R (v11 / label)
+                  :C (v12 / label))
+           :D (v7 / label)
+           :A (v8 / label
+                  :E (v13 / label)
+                  :C (v14 / label))
+           :A (v9 / label
+                  :E (v15 / label)
+                  :C (v16 / label))))

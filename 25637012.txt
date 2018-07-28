@@ -1,5 +1,6 @@
 # ::id 25637012
 # ::tok »Ich bin s überzeugt.«
-(label :H label
-       :A label
-       :S label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :S (v4 / label)))

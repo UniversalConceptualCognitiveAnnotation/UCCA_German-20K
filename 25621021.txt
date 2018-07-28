@@ -1,8 +1,10 @@
 # ::id 25621021
 # ::tok Einige Tage an Land
-(label :H label
-       :A label
-       :S label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v5 / label)
+                  :C (v6 / label))
+           :S (v4 / label
+                  :R (v7 / label)
+                  :C (v8 / label))))

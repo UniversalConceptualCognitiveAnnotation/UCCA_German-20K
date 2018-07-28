@@ -1,6 +1,11 @@
 # ::id 25510015
 # ::tok »Kapitän« , erwiderte ich , »ich kann nur bewundern .
-(label :H label
-       :A label
-       :P label
-       :D label)
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label)
+           :P (v5 / label)
+           :A (v6 / label))
+    :H (v3 / label
+           :A (v7 / label)
+           :D (v8 / label)
+           :P (v9 / label)))

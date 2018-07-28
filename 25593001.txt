@@ -1,10 +1,26 @@
 # ::id 25593001
 # ::tok Es war bald Mittags zeit , wie ich aus den senkrechten Sonnen strahlen , die sich nicht mehr brachen , abnahm .
-(label :H label
-       :S label
-       :D label
-       :A label
-       :R label
-       :P label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :S (v4 / label)
+           :D (v5 / label)
+           :A (v6 / label
+                  :E (v11 / label)
+                  :C (v12 / label)))
+    :H (v3 / label
+           :R (v7 / label)
+           :A (v8 / label)
+           :A (v9 / label
+                  :R (v13 / label)
+                  :E (v14 / label)
+                  :E (v15 / label)
+                  :E (v16 / label
+                          :R (v19 / label)
+                          :P (v20 / label)
+                          :D (v21 / label
+                                  :E (v22 / label)
+                                  :C (v23 / label))
+                          :A (v18 / label))
+                  :E (v17 / label)
+                  :C v18)
+           :P (v10 / label)))

@@ -1,9 +1,42 @@
 # ::id 25634016
 # ::tok Ich bemerkte unter ihnen einige Frauen , die von den Hüften bis zum Knie mit einer Krinoline von Kräutern , die von einem Gürtel aus Pflanzen festgehalten wurde , bekleidet waren .
-(label :H label
-       :A label
-       :P label
-       :R label
-       :C label
-       :E label
-       :N label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :P (v4 / label)
+           :A (v5 / label
+                  :R (v7 / label)
+                  :C (v8 / label))
+           :A (v6 / label
+                  :E (v9 / label
+                         :R (v12 / label)
+                         :A (v13 / label
+                                 :N (v16 / label)
+                                 :C (v17 / label
+                                         :E (v24 / label)
+                                         :C (v25 / label))
+                                 :C (v18 / label
+                                         :R (v26 / label)
+                                         :C (v27 / label)))
+                         :A (v14 / label
+                                 :R (v19 / label)
+                                 :E (v20 / label
+                                         :R (v28 / label)
+                                         :A (v29 / label
+                                                 :R (v33 / label)
+                                                 :E (v34 / label
+                                                         :R (v37 / label)
+                                                         :C (v38 / label))
+                                                 :E (v35 / label)
+                                                 :C (v36 / label))
+                                         :P (v30 / label)
+                                         :A (v23 / label))
+                                 :E (v21 / label
+                                         :R (v31 / label)
+                                         :C (v32 / label))
+                                 :E (v22 / label)
+                                 :C v23)
+                         :P (v15 / label)
+                         :A (v11 / label))
+                  :E (v10 / label)
+                  :C v11)))

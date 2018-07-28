@@ -1,9 +1,20 @@
 # ::id 25597015
 # ::tok Es war ein prächtiger Seeotter , das einzige vierfüßige , nur im Meer lebende Tier .
-(label :H label
-       :S label
-       :A label
-       :D label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :S (v4 / label)
+           :A (v5 / label
+                  :E (v10 / label)
+                  :E (v11 / label)
+                  :C (v12 / label)))
+    :H (v3 / label
+           :A (v6 / label
+                  :E (v13 / label)
+                  :E (v14 / label)
+                  :E (v15 / label)
+                  :C (v16 / label))
+           :D (v7 / label)
+           :A (v8 / label
+                  :R (v17 / label)
+                  :C (v18 / label))
+           :S (v9 / label)))

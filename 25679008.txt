@@ -1,7 +1,13 @@
 # ::id 25679008
 # ::tok » Und warum nicht ? «
-(label :H label
-       :P label
-       :A label
-       :L label
-       :D label)
+(v1 / label
+    :H (v2 / label
+           :P (v3 / label)
+           :A (v4 / label)
+           :A (v5 / label
+                  :L (v6 / label)
+                  :H (v7 / label
+                         :A (v8 / label)
+                         :P (v9 / label)
+                         :D (v10 / label)
+                         :D (v11 / label)))))

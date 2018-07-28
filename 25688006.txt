@@ -1,11 +1,62 @@
 # ::id 25688006
 # ::tok Der Rachen des Ungetüms öffnete sich über die Maßen weit gleich der Blech schere eines Hütten werks , und es war um den Kapitän geschehen , wäre nicht , flink wie ein Gedanke , Ned Land mit seiner Harpune auf den Hai gestürzt , um ihm den Todes stoß zu versetzen .
-(label :H label
-       :L label
-       :A label
-       :P label
-       :D label
-       :R label
-       :S label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :A (v10 / label
+                   :E (v30 / label
+                           :R (v54 / label)
+                           :C (v55 / label))
+                   :E (v31 / label)
+                   :C (v32 / label))
+           :P (v11 / label)
+           :A (v12 / label
+                   :R (v33 / label)
+                   :E (v34 / label)
+                   :C (v35 / label))
+           :D (v13 / label))
+    :H (v3 / label
+           :R (v14 / label)
+           :A (v15 / label
+                   :E (v36 / label
+                           :R (v56 / label)
+                           :E (v57 / label)
+                           :C (v58 / label))
+                   :E (v37 / label)
+                   :E (v38 / label)
+                   :C (v39 / label))
+           :P v11)
+    :L (v4 / label)
+    :H (v5 / label
+           :A (v16 / label)
+           :A (v17 / label
+                   :R (v40 / label)
+                   :E (v41 / label)
+                   :C (v42 / label))
+           :P (v18 / label))
+    :H (v6 / label
+           :D (v19 / label)
+           :D (v20 / label)
+           :A (v21 / label)
+           :A (v22 / label
+                   :R (v43 / label)
+                   :E (v44 / label)
+                   :C (v45 / label))
+           :A (v23 / label
+                   :R (v46 / label)
+                   :E (v47 / label)
+                   :C (v48 / label))
+           :P (v24 / label))
+    :H (v7 / label
+           :S (v25 / label)
+           :A (v26 / label
+                   :E (v49 / label)
+                   :C (v50 / label))
+           :A v21)
+    :L (v8 / label)
+    :H (v9 / label
+           :A (v27 / label)
+           :A (v28 / label
+                   :E (v51 / label)
+                   :E (v52 / label)
+                   :C (v53 / label))
+           :P (v29 / label)))

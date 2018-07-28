@@ -1,12 +1,34 @@
 # ::id 25518010
 # ::tok Bei diesem Anlaß erlaube ich mir die Frage , ob der Zusammenstoß der ›Nautilus‹ und der ›Scotia‹ , der so großes Aufsehen erregte , Zufall war ? «
-(label :H label
-       :L label
-       :A label
-       :P label
-       :S label
-       :R label
-       :E label
-       :C label
-       :N label
-       :D label)
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label
+                  :R (v12 / label)
+                  :E (v13 / label)
+                  :C (v14 / label))
+           :P (v6 / label)
+           :A (v7 / label)
+           :A (v8 / label
+                  :E (v15 / label)
+                  :C (v16 / label)))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v9 / label
+                  :E (v17 / label
+                          :R (v23 / label)
+                          :D (v24 / label
+                                  :E (v31 / label)
+                                  :C (v32 / label))
+                          :A (v25 / label)
+                          :P (v26 / label))
+                  :E (v18 / label)
+                  :C (v19 / label))
+           :A (v10 / label
+                   :C (v20 / label
+                           :E (v27 / label)
+                           :C (v28 / label))
+                   :N (v21 / label)
+                   :C (v22 / label
+                           :E (v29 / label)
+                           :C (v30 / label)))
+           :S (v11 / label)))

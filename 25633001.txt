@@ -1,8 +1,19 @@
 # ::id 25633001
 # ::tok Kapitän Nemo , über die Orgel gebeugt , war in seine Musik vertieft .
-(label :H label
-       :A label
-       :S label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v6 / label
+                         :A (v12 / label
+                                 :R (v14 / label)
+                                 :E (v15 / label)
+                                 :C (v16 / label))
+                         :S (v13 / label)
+                         :A (v8 / label))
+                  :E (v7 / label)
+                  :C v8)
+           :A (v4 / label
+                  :R (v9 / label)
+                  :E (v10 / label)
+                  :C (v11 / label))
+           :S (v5 / label)))

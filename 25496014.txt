@@ -1,5 +1,8 @@
 # ::id 25496014
 # ::tok Sie haben mich angegriffen !
-(label :H label
-       :A label
-       :P label)
+(v1 / label
+    :H (v2 / label
+           :H (v3 / label
+                  :A (v4 / label)
+                  :A (v5 / label)
+                  :P (v6 / label))))

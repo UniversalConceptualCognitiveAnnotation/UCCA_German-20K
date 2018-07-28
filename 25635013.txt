@@ -1,10 +1,27 @@
 # ::id 25635013
 # ::tok Ich rief daher Conseil , und er brachte mir ein kleines leichtes Scharrnetz , wie man beim Austern fang gebraucht .
-(label :H label
-       :L label
-       :A label
-       :P label
-       :D label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label)
+           :P (v6 / label)
+           :D (v7 / label)
+           :A (v8 / label))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v9 / label)
+           :P (v10 / label)
+           :A (v11 / label)
+           :A (v12 / label
+                   :E (v13 / label)
+                   :E (v14 / label)
+                   :E (v15 / label)
+                   :C (v16 / label)
+                   :E (v17 / label
+                           :A v16
+                           :R (v18 / label)
+                           :A (v19 / label)
+                           :A (v20 / label
+                                   :R (v22 / label)
+                                   :E (v23 / label)
+                                   :C (v24 / label))
+                           :P (v21 / label)))))

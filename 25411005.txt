@@ -1,11 +1,36 @@
 # ::id 25411005
 # ::tok Nur durch die ausgezeichnete Beschaffenheit seines Rumpfes und seine Schnelligkeit bei vierhundert Pferdekraft entging er der Gefahr , mit seinen zweihundertsiebenunddreißig Passagieren unterzugehen .
-(label :H label
-       :D label
-       :A label
-       :P label
-       :R label
-       :C label
-       :N label
-       :S label
-       :E label)
+(v1 / label
+    :H (v2 / label
+           :D (v3 / label)
+           :A (v4 / label
+                  :R (v8 / label)
+                  :C (v9 / label
+                         :S (v15 / label
+                                 :E (v26 / label)
+                                 :C (v27 / label))
+                         :D (v16 / label)
+                         :A (v17 / label
+                                 :R (v28 / label)
+                                 :C (v29 / label)))
+                  :N (v10 / label)
+                  :C (v11 / label
+                          :S (v18 / label
+                                  :E (v30 / label)
+                                  :C (v31 / label))
+                          :A (v19 / label
+                                  :R (v32 / label)
+                                  :E (v33 / label)
+                                  :C (v34 / label))))
+           :P (v5 / label)
+           :A (v6 / label)
+           :A (v7 / label
+                  :A (v12 / label
+                          :R (v20 / label)
+                          :C (v21 / label))
+                  :A (v13 / label
+                          :R (v22 / label)
+                          :E (v23 / label)
+                          :E (v24 / label)
+                          :C (v25 / label))
+                  :P (v14 / label))))

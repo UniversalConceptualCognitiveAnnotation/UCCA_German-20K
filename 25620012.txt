@@ -1,11 +1,26 @@
 # ::id 25620012
 # ::tok Ich dachte sogar , es werde uns jemand von der Mannschaft beigegeben werden und Ned Land nur beauftragt die Landung zu leiten .
-(label :H label
-       :L label
-       :A label
-       :S label
-       :D label
-       :P label
-       :C label
-       :E label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v6 / label)
+           :S (v7 / label)
+           :D (v8 / label))
+    :H (v3 / label
+           :A (v9 / label)
+           :A (v10 / label
+                   :C (v16 / label)
+                   :E (v17 / label
+                           :R (v20 / label)
+                           :E (v21 / label)
+                           :C (v22 / label)))
+           :P (v11 / label))
+    :L (v4 / label)
+    :H (v5 / label
+           :A (v12 / label)
+           :D (v13 / label)
+           :P (v14 / label)
+           :A (v15 / label
+                   :A (v18 / label
+                           :E (v23 / label)
+                           :C (v24 / label))
+                   :P (v19 / label))))

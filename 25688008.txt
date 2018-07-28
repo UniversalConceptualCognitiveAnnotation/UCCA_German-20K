@@ -1,9 +1,19 @@
 # ::id 25688008
 # ::tok Ned Land hatte sein Ziel nicht verfehlt ; das Todes röcheln des Ungeheuers trat ein .
-(label :H label
-       :A label
-       :D label
-       :P label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label)
+           :A (v5 / label
+                  :E (v10 / label)
+                  :C (v11 / label))
+           :D (v6 / label)
+           :P (v7 / label))
+    :H (v3 / label
+           :A (v8 / label
+                  :E (v12 / label
+                          :R (v16 / label)
+                          :C (v17 / label))
+                  :E (v13 / label)
+                  :E (v14 / label)
+                  :C (v15 / label))
+           :P (v9 / label)))

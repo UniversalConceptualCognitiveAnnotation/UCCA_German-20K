@@ -1,9 +1,49 @@
 # ::id 25694009
 # ::tok Da wuchsen Schwämme von allen Formen , gestielte , blatt förmige , kugel runde , gefingerte , die ziemlich genau den Namen entsprechen , welche die Fischer ihnen geben , nämlich Körbe , Kelche , Spindeln , Elendshorn , Löwenfuß , Pfauenschweif , Neptunshandschuhe .
-(label :H label
-       :A label
-       :P label
-       :E label
-       :C label
-       :R label
-       :D label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :P (v4 / label)
+           :A (v5 / label
+                  :E (v6 / label
+                         :R (v9 / label)
+                         :D (v10 / label
+                                 :E (v17 / label)
+                                 :C (v18 / label))
+                         :A (v11 / label
+                                 :E (v19 / label
+                                         :R (v26 / label)
+                                         :A (v27 / label
+                                                 :E (v35 / label)
+                                                 :C (v36 / label))
+                                         :A (v28 / label)
+                                         :P (v29 / label)
+                                         :A (v30 / label
+                                                 :E (v37 / label)
+                                                 :C (v38 / label
+                                                         :C (v39 / label)
+                                                         :C (v40 / label)
+                                                         :C (v41 / label)
+                                                         :C (v42 / label)
+                                                         :C (v43 / label)
+                                                         :C (v44 / label)
+                                                         :C (v45 / label)))
+                                         :A (v21 / label))
+                                 :R (v20 / label)
+                                 :C v21)
+                         :P (v12 / label)
+                         :A (v7 / label))
+                  :C v7
+                  :E (v8 / label
+                         :E (v13 / label
+                                 :C (v22 / label)
+                                 :C (v23 / label
+                                         :C (v31 / label)
+                                         :E (v32 / label))
+                                 :C (v24 / label
+                                         :E (v33 / label)
+                                         :C (v34 / label))
+                                 :C (v25 / label))
+                         :R (v14 / label)
+                         :E (v15 / label)
+                         :C (v16 / label)))))

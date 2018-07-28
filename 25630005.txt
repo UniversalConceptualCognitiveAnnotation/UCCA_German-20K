@@ -1,11 +1,34 @@
 # ::id 25630005
 # ::tok Ich wünschte sehr , dieses prächtige Exemplar des Paradiesvogels nach Paris heimbringen zu können , um es dem Jardin des Plantes zu schenken , der ein lebendiges nicht besitzt .
-(label :H label
-       :L label
-       :A label
-       :P label
-       :D label
-       :E label
-       :C label
-       :R label
-       :S label)
+(v1 / label
+    :H (v2 / label
+           :A (v6 / label)
+           :P (v7 / label)
+           :D (v8 / label))
+    :H (v3 / label
+           :A (v9 / label
+                  :E (v16 / label
+                          :R (v25 / label)
+                          :C (v26 / label))
+                  :E (v17 / label)
+                  :E (v18 / label)
+                  :C (v19 / label))
+           :A (v10 / label
+                   :R (v20 / label)
+                   :C (v21 / label))
+           :P (v11 / label)
+           :D (v12 / label))
+    :L (v4 / label)
+    :H (v5 / label
+           :A (v13 / label)
+           :A (v14 / label
+                   :E (v22 / label
+                           :R (v27 / label)
+                           :A (v28 / label
+                                   :E (v31 / label)
+                                   :C (v32 / label))
+                           :D (v29 / label)
+                           :S (v30 / label))
+                   :E (v23 / label)
+                   :C (v24 / label))
+           :P (v15 / label)))

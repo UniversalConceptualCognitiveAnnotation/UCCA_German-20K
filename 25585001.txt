@@ -1,8 +1,9 @@
 # ::id 25585001
 # ::tok »Ja , Herr Professor.«
-(label :H label
-       :S label
-       :D label
-       :A label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :S (v3 / label)
+           :D (v4 / label)
+           :A (v5 / label
+                  :E (v6 / label)
+                  :C (v7 / label))))

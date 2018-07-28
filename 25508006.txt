@@ -1,9 +1,18 @@
 # ::id 25508006
 # ::tok Dies Zifferblatt mit dem beweglichen umlaufenden Zeiger ist wohl ein Manometer ? «
-(label :H label
-       :A label
-       :S label
-       :D label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v8 / label)
+                  :C (v9 / label))
+           :A (v4 / label
+                  :R (v10 / label)
+                  :E (v11 / label)
+                  :E (v12 / label)
+                  :E (v13 / label)
+                  :C (v14 / label))
+           :S (v5 / label)
+           :D (v6 / label)
+           :A (v7 / label
+                  :E (v15 / label)
+                  :C (v16 / label))))

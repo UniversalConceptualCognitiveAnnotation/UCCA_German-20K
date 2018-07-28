@@ -1,8 +1,23 @@
 # ::id 25601012
 # ::tok Diese bedeutende ausgleichende Rolle spielen die Salze bei dem allgemeinen wirtschaftlichen System des Erd balls ! «
-(label :H label
-       :A label
-       :P label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v7 / label)
+                  :E (v8 / label)
+                  :E (v9 / label)
+                  :C (v10 / label))
+           :P (v4 / label)
+           :A (v5 / label
+                  :E (v11 / label)
+                  :C (v12 / label))
+           :A (v6 / label
+                  :R (v13 / label)
+                  :E (v14 / label
+                          :R (v19 / label)
+                          :E (v20 / label)
+                          :C (v21 / label))
+                  :E (v15 / label)
+                  :E (v16 / label)
+                  :E (v17 / label)
+                  :C (v18 / label))))

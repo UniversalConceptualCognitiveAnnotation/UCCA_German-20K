@@ -1,9 +1,16 @@
 # ::id 25513015
 # ::tok Wie wurde es möglich , daß die Elektrizität mit solcher Kraft wirkte ?
-(label :H label
-       :A label
-       :S label
-       :R label
-       :P label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :S (v4 / label)
+           :A (v5 / label
+                  :R (v6 / label)
+                  :A (v7 / label
+                         :E (v10 / label)
+                         :C (v11 / label))
+                  :A (v8 / label
+                         :R (v12 / label)
+                         :E (v13 / label)
+                         :C (v14 / label))
+                  :P (v9 / label))))

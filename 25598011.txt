@@ -1,12 +1,30 @@
 # ::id 25598011
 # ::tok Offen gestanden , ich war erschöpft , als ich einen schwachen Licht schein gewahrte , der eine halbe Meile weit durch die dunklen Gewässer drang .
-(label :H label
-       :L label
-       :G label
-       :A label
-       :S label
-       :P label
-       :E label
-       :C label
-       :R label
-       :D label)
+(v1 / label
+    :H (v2 / label
+           :G (v5 / label)
+           :A (v6 / label)
+           :S (v7 / label))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v8 / label)
+           :A (v9 / label
+                  :E (v11 / label)
+                  :E (v12 / label)
+                  :E (v13 / label
+                          :R (v16 / label)
+                          :A (v17 / label
+                                  :E (v21 / label)
+                                  :E (v22 / label)
+                                  :C (v23 / label))
+                          :D (v18 / label)
+                          :A (v19 / label
+                                  :R (v24 / label)
+                                  :E (v25 / label)
+                                  :E (v26 / label)
+                                  :C (v27 / label))
+                          :P (v20 / label)
+                          :A (v15 / label))
+                  :E (v14 / label)
+                  :C v15)
+           :P (v10 / label)))

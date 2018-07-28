@@ -1,10 +1,31 @@
 # ::id 25584015
 # ::tok »Herr Professor« , erwiderte mir der Kapitän , »die Wälder , die ich besitze , bedürfen weder Licht noch Wärme von der Sonne .
-(label :H label
-       :A label
-       :P label
-       :S label
-       :E label
-       :C label
-       :N label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label
+                  :E (v11 / label)
+                  :C (v12 / label))
+           :P (v5 / label)
+           :A (v6 / label)
+           :A (v7 / label
+                  :E (v13 / label)
+                  :C (v14 / label)))
+    :H (v3 / label
+           :A (v8 / label
+                  :E (v15 / label
+                          :R (v21 / label)
+                          :A (v22 / label)
+                          :P (v23 / label)
+                          :A (v17 / label))
+                  :E (v16 / label)
+                  :C v17)
+           :S (v9 / label)
+           :A (v10 / label
+                   :N (v18 / label)
+                   :C (v19 / label)
+                   :C (v20 / label
+                           :C (v24 / label)
+                           :E (v25 / label
+                                   :R (v26 / label)
+                                   :E (v27 / label)
+                                   :C (v28 / label))))))

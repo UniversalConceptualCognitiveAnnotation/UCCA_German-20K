@@ -1,9 +1,17 @@
 # ::id 25647009
 # ::tok »Sie haben zu befehlen« , erwiderte ich und sah ihn mit festem Blick an .
-(label :H label
-       :L label
-       :A label
-       :P label
-       :R label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label
+                  :A (v11 / label)
+                  :P (v12 / label))
+           :P (v6 / label)
+           :A (v7 / label))
+    :L (v3 / label)
+    :H (v4 / label
+           :P (v8 / label)
+           :A (v9 / label)
+           :A (v10 / label
+                   :R (v13 / label)
+                   :E (v14 / label)
+                   :C (v15 / label))))

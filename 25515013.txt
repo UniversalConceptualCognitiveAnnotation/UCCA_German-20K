@@ -1,11 +1,46 @@
 # ::id 25515013
 # ::tok Seine äußere Hülle kann nicht nachgeben ; sie ist in sich selbst zusammenhängend , nicht durch Zusammennieten ; und die Gleichartigkeit seiner Konstruktion infolge der vollständigen Zusammenfügung der Materialien macht es fähig , den ungestümsten Wogen zu trotzen .
-(label :H label
-       :L label
-       :A label
-       :D label
-       :P label
-       :S label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v7 / label
+                  :E (v22 / label)
+                  :E (v23 / label)
+                  :C (v24 / label))
+           :D (v8 / label)
+           :P (v9 / label))
+    :H (v3 / label
+           :A (v10 / label)
+           :D (v11 / label
+                   :R (v25 / label)
+                   :E (v26 / label)
+                   :C (v27 / label))
+           :S (v12 / label)
+           :D (v13 / label)
+           :A (v14 / label
+                   :R (v28 / label)
+                   :C (v29 / label)))
+    :L (v4 / label)
+    :H (v5 / label
+           :A (v15 / label
+                   :E (v30 / label
+                           :E (v41 / label)
+                           :C (v42 / label))
+                   :E (v31 / label)
+                   :C (v32 / label))
+           :A (v16 / label
+                   :R (v33 / label)
+                   :E (v34 / label
+                           :R (v43 / label)
+                           :C (v44 / label))
+                   :E (v35 / label)
+                   :E (v36 / label)
+                   :C (v37 / label))
+           :D (v17 / label)
+           :A (v18 / label)
+           :S (v19 / label))
+    :H (v6 / label
+           :A (v20 / label
+                   :E (v38 / label)
+                   :E (v39 / label)
+                   :C (v40 / label))
+           :S (v21 / label)))

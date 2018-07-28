@@ -1,9 +1,23 @@
 # ::id 25666005
 # ::tok Ich begab mich auf die Plattform , zündete eine Zigarre an und sah der Verrichtung zu .
-(label :H label
-       :L label
-       :A label
-       :P label
-       :R label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :A (v6 / label)
+           :P (v7 / label)
+           :A (v8 / label
+                  :R (v13 / label)
+                  :E (v14 / label)
+                  :C (v15 / label)))
+    :H (v3 / label
+           :P (v9 / label)
+           :A (v10 / label
+                   :E (v16 / label)
+                   :C (v17 / label))
+           :A v6)
+    :L (v4 / label)
+    :H (v5 / label
+           :P (v11 / label)
+           :A (v12 / label
+                   :E (v18 / label)
+                   :C (v19 / label))
+           :A v6))

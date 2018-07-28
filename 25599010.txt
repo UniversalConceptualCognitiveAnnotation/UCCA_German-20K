@@ -1,9 +1,19 @@
 # ::id 25599010
 # ::tok Nun öffnete sich die innere Tür , und wir kamen in die Kleider kammer .
-(label :L label
-       :H label
-       :P label
-       :A label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :P (v6 / label)
+           :A (v7 / label
+                  :E (v11 / label)
+                  :E (v12 / label)
+                  :C (v13 / label)))
+    :L (v4 / label)
+    :H (v5 / label
+           :A (v8 / label)
+           :P (v9 / label)
+           :A (v10 / label
+                   :R (v14 / label)
+                   :E (v15 / label)
+                   :E (v16 / label)
+                   :C (v17 / label))))

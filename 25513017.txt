@@ -1,9 +1,19 @@
 # ::id 25513017
 # ::tok Etwa aus einer übermäßigen Spannung durch eine neue Art von Wellen ?
-(label :H label
-       :P label
-       :D label
-       :A label
-       :R label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :P (v3 / label)
+           :D (v4 / label)
+           :A (v5 / label
+                  :R (v7 / label)
+                  :E (v8 / label)
+                  :E (v9 / label)
+                  :C (v10 / label))
+           :A (v6 / label
+                  :R (v11 / label)
+                  :E (v12 / label
+                          :E (v15 / label)
+                          :E (v16 / label)
+                          :C (v17 / label))
+                  :R (v13 / label)
+                  :C (v14 / label))))

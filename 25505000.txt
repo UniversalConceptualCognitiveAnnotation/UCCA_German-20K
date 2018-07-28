@@ -1,8 +1,13 @@
 # ::id 25505000
 # ::tok »Einen Kunst liebhaber höchstens , mein Herr .
-(label :H label
-       :S label
-       :A label
-       :D label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :S (v3 / label)
+           :A (v4 / label
+                  :E (v7 / label)
+                  :E (v8 / label)
+                  :C (v9 / label))
+           :D (v5 / label)
+           :A (v6 / label
+                  :E (v10 / label)
+                  :C (v11 / label))))

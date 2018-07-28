@@ -1,8 +1,32 @@
 # ::id 25594016
 # ::tok »Merkwürdige Regel widrigkeit , seltsames Element« , sagt ein geistreicher Natur forscher , »wo das Tier reich Blüten treibt , das Pflanzen reich nicht ! «
-(label :H label
-       :A label
-       :P label
-       :D label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label
+                  :E (v15 / label)
+                  :E (v16 / label)
+                  :C (v17 / label))
+           :A (v6 / label
+                  :E (v18 / label)
+                  :C (v19 / label))
+           :P (v7 / label)
+           :A (v8 / label
+                  :E (v20 / label)
+                  :E (v21 / label)
+                  :E (v22 / label)
+                  :C (v23 / label)))
+    :H (v3 / label
+           :A (v9 / label)
+           :A (v10 / label
+                   :E (v24 / label)
+                   :E (v25 / label)
+                   :C (v26 / label))
+           :A (v11 / label)
+           :P (v12 / label))
+    :H (v4 / label
+           :A (v13 / label
+                   :E (v27 / label)
+                   :E (v28 / label)
+                   :C (v29 / label))
+           :D (v14 / label)
+           :P v12))

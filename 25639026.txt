@@ -1,8 +1,9 @@
 # ::id 25639026
 # ::tok »Durch die geöffneten Luken.«
-(label :H label
-       :R label
-       :A label
-       :S label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :R (v3 / label)
+           :A (v4 / label
+                  :E (v6 / label)
+                  :C (v7 / label))
+           :S (v5 / label)))

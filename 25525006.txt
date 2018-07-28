@@ -1,10 +1,52 @@
 # ::id 25525006
 # ::tok Währenddessen fragte mich Ned Land , der wenig Sinn für Conchylien hatte , über meine Unterredung mit Kapitän Nemo : Ob ich entdeckt habe , wer er sei , woher er komme , wohin er gehe , in welche Tiefen er uns hinabziehe ?
-(label :L label
-       :H label
-       :P label
-       :A label
-       :S label
-       :C label
-       :E label
-       :R label)
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :P (v10 / label)
+           :A (v11 / label)
+           :A (v12 / label
+                   :C (v29 / label)
+                   :E (v30 / label
+                           :A v29
+                           :R (v37 / label)
+                           :A (v38 / label
+                                   :E (v46 / label)
+                                   :C (v47 / label))
+                           :A (v39 / label
+                                   :R (v48 / label)
+                                   :C (v49 / label))
+                           :S (v40 / label)))
+           :A (v13 / label
+                   :R (v31 / label)
+                   :P (v32 / label
+                           :E (v41 / label)
+                           :C (v42 / label))
+                   :A (v33 / label
+                           :R (v43 / label)
+                           :E (v44 / label)
+                           :C (v45 / label))))
+    :L (v4 / label)
+    :H (v5 / label
+           :A (v14 / label)
+           :P (v15 / label))
+    :H (v6 / label
+           :A (v16 / label)
+           :A (v17 / label)
+           :S (v18 / label))
+    :H (v7 / label
+           :A (v19 / label)
+           :A (v20 / label)
+           :P (v21 / label))
+    :H (v8 / label
+           :A (v22 / label)
+           :A (v23 / label)
+           :P (v24 / label))
+    :H (v9 / label
+           :A (v25 / label
+                   :R (v34 / label)
+                   :E (v35 / label)
+                   :C (v36 / label))
+           :A (v26 / label)
+           :A (v27 / label)
+           :P (v28 / label)))

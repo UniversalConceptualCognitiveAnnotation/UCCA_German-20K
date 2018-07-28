@@ -1,10 +1,39 @@
 # ::id 25693011
 # ::tok Welch unbeschreiblicher Anblick , welch mannigfaltiger Wechsel von Landschaften und Gegenden bei m Vorbeifahren an diesen Klippen und vulkanischen Eilanden , welche die liby-schen Küsten besäumen !
-(label :H label
-       :R label
-       :S label
-       :A label
-       :P label
-       :E label
-       :C label
-       :N label)
+(v1 / label
+    :H (v2 / label
+           :R (v5 / label)
+           :S (v6 / label)
+           :A (v7 / label))
+    :H (v3 / label
+           :R (v8 / label)
+           :S (v9 / label)
+           :A (v10 / label
+                   :S (v13 / label)
+                   :A (v14 / label
+                           :R (v21 / label)
+                           :C (v22 / label)
+                           :N (v23 / label)
+                           :C (v24 / label))))
+    :H (v4 / label
+           :P (v11 / label
+                   :R (v15 / label)
+                   :E (v16 / label)
+                   :C (v17 / label))
+           :A (v12 / label
+                   :C (v18 / label
+                           :R (v25 / label)
+                           :E (v26 / label)
+                           :C (v27 / label))
+                   :N (v19 / label)
+                   :C (v20 / label
+                           :E (v28 / label
+                                   :R (v31 / label)
+                                   :A (v32 / label
+                                           :E (v34 / label)
+                                           :C (v35 / label)
+                                           :E (v36 / label))
+                                   :P (v33 / label)
+                                   :A (v30 / label))
+                           :E (v29 / label)
+                           :C v30))))

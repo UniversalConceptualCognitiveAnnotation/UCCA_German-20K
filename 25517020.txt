@@ -1,12 +1,38 @@
 # ::id 25517020
 # ::tok Sind Sie geneigt , so ist die ›Nautilus‹ imstande , je nach der Neigung und mit dem Druck seiner Schraube , in einer mir beliebigen Diagonale abwärts oder aufwärts zu steigen .
-(label :H label
-       :L label
-       :S label
-       :A label
-       :D label
-       :E label
-       :C label
-       :P label
-       :R label
-       :N label)
+(v1 / label
+    :H (v2 / label
+           :S (v5 / label)
+           :A (v6 / label)
+           :D (v7 / label))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v8 / label
+                  :E (v12 / label)
+                  :C (v13 / label))
+           :S (v9 / label)
+           :A (v10 / label
+                   :D (v14 / label)
+                   :A (v15 / label
+                           :E (v24 / label)
+                           :C (v25 / label))
+                   :D (v16 / label)
+                   :S (v17 / label
+                           :R (v26 / label)
+                           :E (v27 / label)
+                           :C (v28 / label))
+                   :A (v18 / label
+                           :E (v29 / label)
+                           :C (v30 / label)))
+           :A (v11 / label
+                   :A (v19 / label
+                           :R (v31 / label)
+                           :E (v32 / label)
+                           :C (v33 / label))
+                   :A (v20 / label)
+                   :D (v21 / label)
+                   :D (v22 / label
+                           :C (v34 / label)
+                           :N (v35 / label)
+                           :C (v36 / label))
+                   :P (v23 / label))))

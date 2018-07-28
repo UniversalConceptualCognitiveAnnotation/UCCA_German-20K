@@ -1,11 +1,24 @@
 # ::id 25515007
 # ::tok Der Gehalt 1.500,2 Kubikmeter , d.h . , wenn es völlig untertaucht , verdrängt es 1.500 Kubikmeter oder Tonnen .
-(label :H label
-       :L label
-       :S label
-       :A label
-       :D label
-       :P label
-       :E label
-       :C label
-       :N label)
+(v1 / label
+    :H (v2 / label
+           :S (v7 / label)
+           :A (v8 / label
+                  :E (v16 / label)
+                  :C (v17 / label))
+           :A (v9 / label))
+    :L (v3 / label)
+    :L (v4 / label)
+    :H (v5 / label
+           :A (v10 / label)
+           :D (v11 / label)
+           :P (v12 / label))
+    :H (v6 / label
+           :P (v13 / label)
+           :A (v14 / label)
+           :A (v15 / label
+                   :C (v18 / label)
+                   :E (v19 / label
+                           :C (v20 / label)
+                           :N (v21 / label)
+                           :C (v22 / label)))))

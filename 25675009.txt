@@ -1,10 +1,22 @@
 # ::id 25675009
 # ::tok In diesem Augenblick traten Conseil und der Kanadier ein , mit ruhiger , selbst heiterer Miene .
-(label :H label
-       :T label
-       :P label
-       :A label
-       :R label
-       :E label
-       :C label
-       :N label)
+(v1 / label
+    :H (v2 / label
+           :T (v3 / label
+                  :R (v7 / label)
+                  :E (v8 / label)
+                  :C (v9 / label))
+           :P (v4 / label)
+           :A (v5 / label
+                  :C (v10 / label)
+                  :N (v11 / label)
+                  :C (v12 / label
+                          :E (v17 / label)
+                          :C (v18 / label)))
+           :A (v6 / label
+                  :R (v13 / label)
+                  :E (v14 / label)
+                  :E (v15 / label
+                          :E (v19 / label)
+                          :C (v20 / label))
+                  :C (v16 / label))))

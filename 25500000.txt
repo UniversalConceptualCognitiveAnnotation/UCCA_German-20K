@@ -1,13 +1,52 @@
 # ::id 25500000
 # ::tok »Ich habe auch , mein Herr« , versetzte Kapitän Nemo , »niemals Fleisch von Land tieren auf dem Tisch.« »Dieses doch« , erwiderte ich , »und wies auf einen Teller , worauf noch einige Schnitt Filet waren .
-(label :H label
-       :L label
-       :A label
-       :P label
-       :S label
-       :D label
-       :G label
-       :T label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v6 / label
+                  :A (v14 / label)
+                  :S (v15 / label)
+                  :D (v16 / label)
+                  :G (v17 / label
+                          :E (v29 / label)
+                          :C (v30 / label))
+                  :T (v18 / label)
+                  :A (v19 / label
+                          :C (v31 / label)
+                          :E (v32 / label
+                                  :R (v42 / label)
+                                  :E (v43 / label)
+                                  :C (v44 / label)))
+                  :A (v20 / label
+                          :R (v33 / label)
+                          :E (v34 / label)
+                          :C (v35 / label)))
+           :P (v7 / label)
+           :A (v8 / label
+                  :E (v21 / label)
+                  :C (v22 / label)))
+    :H (v3 / label
+           :A (v9 / label
+                  :S (v23 / label)
+                  :A (v24 / label
+                          :C (v36 / label)
+                          :E (v37 / label)))
+           :P (v10 / label)
+           :A (v11 / label))
+    :L (v4 / label)
+    :H (v5 / label
+           :P (v12 / label)
+           :A (v13 / label
+                   :R (v25 / label)
+                   :E (v26 / label)
+                   :C (v27 / label)
+                   :E (v28 / label
+                           :A v27
+                           :R (v38 / label)
+                           :D (v39 / label)
+                           :A (v40 / label
+                                   :E (v45 / label
+                                           :E (v47 / label)
+                                           :C (v48 / label))
+                                   :C (v46 / label))
+                           :S (v41 / label)))
+           :A v11))

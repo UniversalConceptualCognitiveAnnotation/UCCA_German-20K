@@ -1,8 +1,15 @@
 # ::id 25510009
 # ::tok « »Herr Arronax , Sie sollen sehen , wie ich ’s anfange .
-(label :H label
-       :A label
-       :D label
-       :P label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label
+                  :E (v12 / label)
+                  :C (v13 / label))
+           :A (v5 / label)
+           :D (v6 / label)
+           :P (v7 / label))
+    :H (v3 / label
+           :A (v8 / label)
+           :A (v9 / label)
+           :A (v10 / label)
+           :P (v11 / label)))

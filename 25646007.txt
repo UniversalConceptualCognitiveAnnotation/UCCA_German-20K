@@ -1,10 +1,38 @@
 # ::id 25646007
 # ::tok Übrigens mußte das Geheimnis notwendig sich bald aufklären , denn auf Befehl von Kapitän Nemo verstärkte die Maschine ihre Kraft , daß die Schraube reißend schnell sich drehte .
-(label :L label
-       :H label
-       :D label
-       :A label
-       :P label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :D (v6 / label)
+           :A (v7 / label
+                  :E (v16 / label)
+                  :C (v17 / label))
+           :D (v8 / label)
+           :P (v9 / label)
+           :D (v10 / label))
+    :L (v4 / label)
+    :H (v5 / label
+           :A (v11 / label
+                   :P (v18 / label
+                           :R (v28 / label)
+                           :C (v29 / label))
+                   :A (v19 / label
+                           :R (v30 / label)
+                           :E (v31 / label)
+                           :C (v32 / label)))
+           :P (v12 / label)
+           :A (v13 / label
+                   :E (v20 / label)
+                   :C (v21 / label))
+           :A (v14 / label
+                   :E (v22 / label)
+                   :C (v23 / label))
+           :A (v15 / label
+                   :R (v24 / label)
+                   :A (v25 / label
+                           :E (v33 / label)
+                           :C (v34 / label))
+                   :D (v26 / label
+                           :E (v35 / label)
+                           :C (v36 / label))
+                   :P (v27 / label))))

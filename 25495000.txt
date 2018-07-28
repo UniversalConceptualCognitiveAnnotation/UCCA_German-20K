@@ -1,12 +1,70 @@
 # ::id 25495000
 # ::tok »Herr Professor« , versetzte lebhaft der Kommandant , »ich gehöre nicht zu denen , die Sie zivilisiert nennen ! Ich habe mit der ganzen menschlichen Gesellschaft gebrochen , aus Gründen , die ich allein zu würdigen berechtigt bin . Ich befolge also auch nicht ihre Regeln , und fordere Sie auf , sich bei mir nie darauf zu berufen.«
-(label :H label
-       :A label
-       :P label
-       :D label
-       :L label
-       :E label
-       :C label
-       :G label
-       :S label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :H (v7 / label
+                         :G (v14 / label
+                                 :E (v30 / label)
+                                 :C (v31 / label))
+                         :A (v15 / label)
+                         :S (v16 / label)
+                         :D (v17 / label)
+                         :A (v18 / label
+                                 :R (v32 / label)
+                                 :C (v33 / label)
+                                 :E (v34 / label
+                                         :A v33
+                                         :R (v52 / label)
+                                         :A (v53 / label)
+                                         :A (v54 / label
+                                                 :A (v63 / label)
+                                                 :S (v64 / label))
+                                         :P (v55 / label))))
+                  :H (v8 / label
+                         :A (v19 / label)
+                         :A (v20 / label
+                                 :R (v35 / label)
+                                 :E (v36 / label)
+                                 :E (v37 / label)
+                                 :E (v38 / label)
+                                 :C (v39 / label))
+                         :P (v21 / label)
+                         :A (v22 / label
+                                 :R (v40 / label)
+                                 :C (v41 / label)
+                                 :E (v42 / label
+                                         :A v41
+                                         :R (v56 / label)
+                                         :A (v57 / label)
+                                         :D (v58 / label)
+                                         :P (v59 / label)
+                                         :D (v60 / label))))
+                  :H (v9 / label
+                         :A (v23 / label)
+                         :P (v24 / label)
+                         :D (v25 / label
+                                 :E (v43 / label)
+                                 :C (v44 / label))
+                         :A (v26 / label
+                                 :E (v45 / label)
+                                 :C (v46 / label)))
+                  :L (v10 / label)
+                  :H (v11 / label
+                          :P (v27 / label)
+                          :A (v28 / label)
+                          :A (v29 / label
+                                  :A v28
+                                  :A (v47 / label)
+                                  :A (v48 / label
+                                          :R (v61 / label)
+                                          :C (v62 / label))
+                                  :D (v49 / label)
+                                  :A (v50 / label)
+                                  :P (v51 / label))
+                          :A v23))
+           :P (v4 / label)
+           :D (v5 / label)
+           :A (v6 / label
+                  :E (v12 / label)
+                  :C (v13 / label))))

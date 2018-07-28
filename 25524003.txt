@@ -1,9 +1,29 @@
 # ::id 25524003
 # ::tok Es sind besondere Strömungen , die an ihrer Temperatur und Farbe kenntlich sind ; der merkwürdigste ist unter dem Namen Golf strom bekannt .
-(label :H label
-       :S label
-       :A label
-       :E label
-       :C label
-       :R label
-       :N label)
+(v1 / label
+    :H (v2 / label
+           :S (v5 / label)
+           :A (v6 / label
+                  :E (v13 / label)
+                  :C (v14 / label)))
+    :H (v3 / label
+           :A (v7 / label)
+           :A (v8 / label
+                  :R (v15 / label)
+                  :E (v16 / label)
+                  :C (v17 / label
+                          :C (v25 / label)
+                          :N (v26 / label)
+                          :C (v27 / label)))
+           :S (v9 / label))
+    :H (v4 / label
+           :A (v10 / label
+                   :E (v18 / label)
+                   :C (v19 / label))
+           :A (v11 / label
+                   :R (v20 / label)
+                   :E (v21 / label)
+                   :E (v22 / label)
+                   :E (v23 / label)
+                   :C (v24 / label))
+           :S (v12 / label)))

@@ -1,11 +1,38 @@
 # ::id 25618021
 # ::tok Aber im Pazifik ist die Flut nicht so stark , und wenn Sie nicht Ballast auszuwerfen haben  was mir nicht möglich scheint  , so sehe ich nicht ab , wie sie wieder flott werden kann.«
-(label :L label
-       :H label
-       :A label
-       :D label
-       :S label
-       :P label
-       :R label
-       :C label
-       :E label)
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :A (v11 / label
+                   :R (v31 / label)
+                   :C (v32 / label))
+           :A (v12 / label
+                   :E (v33 / label)
+                   :C (v34 / label))
+           :D (v13 / label
+                   :C (v35 / label)
+                   :E (v36 / label))
+           :S (v14 / label))
+    :L (v4 / label)
+    :L (v5 / label)
+    :H (v6 / label
+           :A (v15 / label)
+           :D (v16 / label)
+           :A (v17 / label)
+           :P (v18 / label))
+    :H (v7 / label
+           :A (v19 / label)
+           :D (v20 / label)
+           :D (v21 / label)
+           :S (v22 / label))
+    :L (v8 / label)
+    :H (v9 / label
+           :P (v23 / label)
+           :A (v24 / label)
+           :D (v25 / label))
+    :H (v10 / label
+            :D (v26 / label)
+            :A (v27 / label)
+            :D (v28 / label)
+            :S (v29 / label)
+            :D (v30 / label)))

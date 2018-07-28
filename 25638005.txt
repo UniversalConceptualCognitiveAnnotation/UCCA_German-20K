@@ -1,8 +1,11 @@
 # ::id 25638005
 # ::tok »In welchem , mein Herr ? «
-(label :H label
-       :S label
-       :A label
-       :R label
-       :C label
-       :E label)
+(v1 / label
+    :H (v2 / label
+           :S (v3 / label)
+           :A (v4 / label
+                  :R (v6 / label)
+                  :C (v7 / label))
+           :A (v5 / label
+                  :E (v8 / label)
+                  :C (v9 / label))))

@@ -1,11 +1,28 @@
 # ::id 25604006
 # ::tok Die " Nautilus " traf in der Nacht vom 9 . zum 10 . Dezember auf dieses Molluskenheer ; man konnte ihrer Millionen zählen .
-(label :H label
-       :A label
-       :P label
-       :T label
-       :D label
-       :E label
-       :C label
-       :R label
-       :N label)
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label
+                  :E (v13 / label)
+                  :C (v14 / label))
+           :P (v5 / label)
+           :T (v6 / label
+                  :E (v15 / label
+                          :R (v20 / label)
+                          :R (v21 / label)
+                          :E (v22 / label)
+                          :C (v23 / label))
+                  :C (v16 / label
+                          :C (v24 / label)
+                          :N (v25 / label)
+                          :C (v26 / label)))
+           :A (v7 / label
+                  :R (v17 / label)
+                  :E (v18 / label)
+                  :C (v19 / label)))
+    :H (v3 / label
+           :A (v8 / label)
+           :D (v9 / label)
+           :A (v10 / label)
+           :D (v11 / label)
+           :P (v12 / label)))

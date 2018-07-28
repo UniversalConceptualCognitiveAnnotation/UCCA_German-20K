@@ -1,11 +1,36 @@
 # ::id 25652010
 # ::tok Im Altertum ein Heilmittel , in neueren Zeiten ein Zierat , wurde ihr erst 1694 von dem Marseiller Prysonnet definitiv ihre Stelle im Tierreich angewiesen .
-(label :H label
-       :S label
-       :A label
-       :P label
-       :D label
-       :T label
-       :R label
-       :C label
-       :E label)
+(v1 / label
+    :H (v2 / label
+           :S (v5 / label)
+           :A (v6 / label
+                  :R (v17 / label)
+                  :C (v18 / label))
+           :A (v7 / label
+                  :E (v19 / label)
+                  :C (v20 / label)))
+    :H (v3 / label
+           :S (v8 / label)
+           :A (v9 / label
+                  :R (v21 / label)
+                  :E (v22 / label)
+                  :C (v23 / label))
+           :A (v10 / label
+                   :E (v24 / label)
+                   :C (v25 / label)))
+    :H (v4 / label
+           :P (v11 / label)
+           :D (v12 / label)
+           :T (v13 / label)
+           :A (v14 / label
+                   :R (v26 / label)
+                   :E (v27 / label)
+                   :E (v28 / label)
+                   :C (v29 / label))
+           :D (v15 / label)
+           :A (v16 / label
+                   :E (v30 / label
+                           :R (v33 / label)
+                           :C (v34 / label))
+                   :E (v31 / label)
+                   :C (v32 / label))))

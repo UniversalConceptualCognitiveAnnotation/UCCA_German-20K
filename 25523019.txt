@@ -1,11 +1,44 @@
 # ::id 25523019
 # ::tok War es einer der verkannten Gelehrten , ein Genie , dem man sein Leben verkümmert hat , ein moderner Galilei , oder einer der Männer der Wissenschaft , deren Laufbahn durch politische Revolutionen zertrümmert wurde ?
-(label :H label
-       :L label
-       :S label
-       :A label
-       :R label
-       :P label
-       :D label
-       :C label
-       :E label)
+(v1 / label
+    :H (v2 / label
+           :S (v7 / label)
+           :A (v8 / label
+                  :C (v21 / label)
+                  :E (v22 / label
+                          :R (v37 / label)
+                          :E (v38 / label)
+                          :C (v39 / label))))
+    :H (v3 / label
+           :A (v9 / label
+                  :E (v23 / label)
+                  :C (v24 / label))
+           :R (v10 / label)
+           :A (v11 / label)
+           :A (v12 / label
+                   :E (v25 / label)
+                   :C (v26 / label))
+           :P (v13 / label))
+    :H (v4 / label
+           :A (v14 / label
+                   :E (v27 / label)
+                   :E (v28 / label)
+                   :C (v29 / label))
+           :S v7)
+    :L (v5 / label)
+    :H (v6 / label
+           :A (v15 / label
+                   :E (v30 / label
+                           :R (v40 / label)
+                           :C (v41 / label))
+                   :E (v31 / label)
+                   :E (v32 / label)
+                   :C (v33 / label))
+           :R (v16 / label)
+           :A (v17 / label)
+           :A (v18 / label
+                   :R (v34 / label)
+                   :E (v35 / label)
+                   :C (v36 / label))
+           :P (v19 / label)
+           :D (v20 / label)))

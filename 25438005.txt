@@ -1,8 +1,17 @@
 # ::id 25438005
 # ::tok »Der bin ich . Kommandant Farragut ?
-(label :H label
-       :P label
-       :A label
-       :S label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :P (v3 / label)
+           :A (v4 / label)
+           :A (v5 / label
+                  :H (v6 / label
+                         :A (v8 / label)
+                         :S (v9 / label)
+                         :A (v10 / label))
+                  :H (v7 / label
+                         :S (v11 / label)
+                         :A (v12 / label)
+                         :A (v13 / label
+                                 :E (v14 / label)
+                                 :C (v15 / label))))))

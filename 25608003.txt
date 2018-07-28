@@ -1,11 +1,23 @@
 # ::id 25608003
 # ::tok Am 15 . Dezember ließen wir östlich den reizenden Archipel der Gesellschaftsinseln und das anmutige Tahiti .
-(label :H label
-       :T label
-       :P label
-       :A label
-       :D label
-       :E label
-       :C label
-       :N label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :T (v3 / label
+                  :E (v8 / label)
+                  :C (v9 / label))
+           :P (v4 / label)
+           :A (v5 / label)
+           :D (v6 / label)
+           :A (v7 / label
+                  :C (v10 / label
+                          :E (v13 / label
+                                  :R (v20 / label)
+                                  :C (v21 / label))
+                          :E (v14 / label)
+                          :E (v15 / label)
+                          :C (v16 / label))
+                  :N (v11 / label)
+                  :C (v12 / label
+                          :E (v17 / label)
+                          :E (v18 / label)
+                          :C (v19 / label)))))

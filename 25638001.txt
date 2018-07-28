@@ -1,11 +1,54 @@
 # ::id 25638001
 # ::tok Darauf verfolgten wir auf der Karte die Arbeiten des französischen Seefahrers , seine Weltumsegelungen , sein doppeltes Unternehmen nach dem Südpol , was zur Entdeckung der Landschaften Adelaide und Louis Philipp führte , endlich seine hydrographischen Aufnahmen der Halbinsel Ozeaniens .
-(label :L label
-       :H label
-       :P label
-       :A label
-       :D label
-       :R label
-       :E label
-       :C label
-       :N label)
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :P (v5 / label)
+           :A (v6 / label)
+           :A (v7 / label
+                  :R (v15 / label)
+                  :E (v16 / label)
+                  :C (v17 / label))
+           :A (v8 / label
+                  :P (v18 / label
+                          :E (v32 / label)
+                          :C (v33 / label))
+                  :A (v19 / label
+                          :R (v34 / label)
+                          :E (v35 / label)
+                          :C (v36 / label)))
+           :A (v9 / label
+                  :E (v20 / label)
+                  :C (v21 / label))
+           :A (v10 / label
+                   :E (v22 / label
+                           :R (v37 / label)
+                           :P (v38 / label
+                                   :R (v44 / label)
+                                   :C (v45 / label))
+                           :A (v39 / label
+                                   :E (v46 / label
+                                           :R (v48 / label)
+                                           :C (v49 / label))
+                                   :C (v47 / label
+                                           :C (v50 / label)
+                                           :N (v51 / label)
+                                           :C (v52 / label)))
+                           :D (v40 / label))
+                   :E (v23 / label
+                           :R (v41 / label)
+                           :E (v42 / label)
+                           :C (v43 / label))
+                   :E (v24 / label)
+                   :E (v25 / label)
+                   :C (v26 / label)))
+    :H (v4 / label
+           :D (v11 / label)
+           :P (v12 / label
+                   :E (v27 / label)
+                   :C (v28 / label))
+           :D (v13 / label)
+           :A (v14 / label
+                   :R (v29 / label)
+                   :E (v30 / label)
+                   :C (v31 / label))))

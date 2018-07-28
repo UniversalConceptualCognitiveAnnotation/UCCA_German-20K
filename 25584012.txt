@@ -1,9 +1,20 @@
 # ::id 25584012
 # ::tok »Nur , mein Herr« , fügte ich bei , »möchte ich mir eine Frage an Sie erlauben.«
-(label :H label
-       :D label
-       :A label
-       :P label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :D (v4 / label)
+           :A (v5 / label
+                  :E (v13 / label)
+                  :C (v14 / label))
+           :P (v6 / label)
+           :A (v7 / label))
+    :H (v3 / label
+           :D (v8 / label)
+           :A (v9 / label)
+           :P (v10 / label)
+           :A (v11 / label
+                   :E (v15 / label)
+                   :C (v16 / label))
+           :A (v12 / label
+                   :R (v17 / label)
+                   :C (v18 / label))))

@@ -1,8 +1,11 @@
 # ::id 25628007
 # ::tok »Ordnung der Sperlingsartigen ...« erwiderte Conseil .
-(label :H label
-       :A label
-       :P label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v6 / label
+                         :C (v8 / label)
+                         :R (v9 / label))
+                  :C (v7 / label))
+           :P (v4 / label)
+           :A (v5 / label)))

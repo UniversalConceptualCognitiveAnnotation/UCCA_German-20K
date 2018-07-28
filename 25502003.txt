@@ -1,10 +1,35 @@
 # ::id 25502003
 # ::tok Eine Doppel tür im Hintergrund des Saals öffnete sich , und ich trat in ein Zimmer von gleicher Größe wie das , welches wir verließen .
-(label :H label
-       :L label
-       :A label
-       :P label
-       :D label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label
+                  :E (v12 / label
+                          :E (v25 / label
+                                  :R (v31 / label)
+                                  :C (v32 / label))
+                          :R (v26 / label)
+                          :C (v27 / label))
+                  :E (v13 / label)
+                  :E (v14 / label)
+                  :C (v15 / label))
+           :P (v6 / label))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v7 / label)
+           :P (v8 / label)
+           :A (v9 / label
+                  :R (v16 / label)
+                  :E (v17 / label)
+                  :C (v18 / label))
+           :D (v10 / label
+                   :R (v19 / label)
+                   :E (v20 / label)
+                   :C (v21 / label))
+           :A (v11 / label
+                   :R (v22 / label)
+                   :C (v23 / label)
+                   :E (v24 / label
+                           :A v23
+                           :R (v28 / label)
+                           :A (v29 / label)
+                           :P (v30 / label)))))

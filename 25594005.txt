@@ -1,11 +1,25 @@
 # ::id 25594005
 # ::tok Sonst unbeweglich , nahmen sie , wenn ich sie mit der Hand auseinanderschob , sogleich ihre frühere Lage wieder ein .
-(label :H label
-       :L label
-       :A label
-       :D label
-       :S label
-       :P label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v6 / label)
+           :D (v7 / label)
+           :S (v8 / label))
+    :H (v3 / label
+           :P (v9 / label)
+           :A (v10 / label)
+           :D (v11 / label)
+           :A (v12 / label
+                   :E (v18 / label)
+                   :E (v19 / label)
+                   :C (v20 / label))
+           :D (v13 / label))
+    :L (v4 / label)
+    :H (v5 / label
+           :A (v14 / label)
+           :A (v15 / label)
+           :A (v16 / label
+                   :R (v21 / label)
+                   :E (v22 / label)
+                   :C (v23 / label))
+           :P (v17 / label)))

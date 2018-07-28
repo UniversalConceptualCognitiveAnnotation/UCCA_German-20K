@@ -1,12 +1,46 @@
 # ::id 25610010
 # ::tok Im Jahr 1791 rüstete die französische Regierung , die mit Recht um das Schicksal der beiden Corvetten besorgt war , zwei große Schiffe aus , " Recherche " und " Espérance " , die am 28 . September unter dem Kommandanten Bruni dEntrecasteaux von Brest absegelten .
-(label :H label
-       :T label
-       :P label
-       :A label
-       :R label
-       :C label
-       :E label
-       :N label
-       :D label
-       :S label)
+(v1 / label
+    :H (v2 / label
+           :T (v4 / label
+                  :R (v13 / label)
+                  :C (v14 / label))
+           :P (v5 / label)
+           :A (v6 / label
+                  :E (v15 / label
+                          :R (v31 / label)
+                          :D (v32 / label
+                                  :R (v35 / label)
+                                  :C (v36 / label))
+                          :A (v33 / label
+                                  :E (v37 / label
+                                          :R (v41 / label)
+                                          :E (v42 / label)
+                                          :C (v43 / label))
+                                  :R (v38 / label)
+                                  :E (v39 / label)
+                                  :C (v40 / label))
+                          :S (v34 / label)
+                          :A (v18 / label))
+                  :E (v16 / label)
+                  :E (v17 / label)
+                  :C v18)
+           :A (v7 / label
+                  :E (v19 / label)
+                  :E (v20 / label)
+                  :C (v21 / label)))
+    :H (v3 / label
+           :A (v8 / label
+                  :C (v22 / label)
+                  :N (v23 / label)
+                  :C (v24 / label))
+           :R (v9 / label)
+           :T (v10 / label
+                   :R (v25 / label)
+                   :C (v26 / label))
+           :A (v11 / label
+                   :R (v27 / label)
+                   :E (v28 / label)
+                   :E (v29 / label)
+                   :C (v30 / label))
+           :P (v12 / label)))

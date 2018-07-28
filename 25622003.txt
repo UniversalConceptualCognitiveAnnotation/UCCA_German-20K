@@ -1,10 +1,18 @@
 # ::id 25622003
 # ::tok In einigen Minuten waren wir einen Flinten schuß weit bei der Küste .
-(label :H label
-       :T label
-       :A label
-       :D label
-       :S label
-       :R label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :T (v3 / label
+                  :R (v8 / label)
+                  :E (v9 / label)
+                  :C (v10 / label))
+           :A (v4 / label)
+           :D (v5 / label
+                  :E (v11 / label)
+                  :E (v12 / label)
+                  :E (v13 / label)
+                  :C (v14 / label))
+           :S (v6 / label)
+           :A (v7 / label
+                  :E (v15 / label)
+                  :C (v16 / label))))

@@ -1,6 +1,7 @@
 # ::id 25624018
 # ::tok »Nein , Ned.«
-(label :H label
-       :P label
-       :D label
-       :A label)
+(v1 / label
+    :H (v2 / label
+           :P (v3 / label)
+           :D (v4 / label)
+           :A (v5 / label)))

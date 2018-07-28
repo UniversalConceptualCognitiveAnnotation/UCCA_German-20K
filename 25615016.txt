@@ -1,5 +1,6 @@
 # ::id 25615016
 # ::tok »Danke , Conseil .
-(label :H label
-       :P label
-       :A label)
+(v1 / label
+    :H (v2 / label
+           :P (v3 / label)
+           :A (v4 / label)))

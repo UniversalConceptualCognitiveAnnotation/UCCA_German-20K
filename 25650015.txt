@@ -1,8 +1,12 @@
 # ::id 25650015
 # ::tok Ich gestehe , daß mein Herz klopfte .
-(label :H label
-       :A label
-       :P label
-       :R label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :P (v4 / label)
+           :A (v5 / label
+                  :R (v6 / label)
+                  :A (v7 / label
+                         :E (v9 / label)
+                         :C (v10 / label))
+                  :P (v8 / label))))

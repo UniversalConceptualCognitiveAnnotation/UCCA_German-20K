@@ -1,6 +1,8 @@
 # ::id 25641017
 # ::tok Sollte er sich südwärts wenden ?
-(label :H label
-       :D label
-       :A label
-       :P label)
+(v1 / label
+    :H (v2 / label
+           :D (v3 / label)
+           :A (v4 / label)
+           :P (v5 / label)
+           :D (v6 / label)))

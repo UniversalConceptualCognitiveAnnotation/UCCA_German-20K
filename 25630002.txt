@@ -1,9 +1,26 @@
 # ::id 25630002
 # ::tok Er war 3 Dezimeter lang , sein Kopf verhältnismäßig klein , seine Augen ebenfalls klein nächst der Öffnung des Schnabels .
-(label :H label
-       :A label
-       :S label
-       :D label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label)
+           :A (v6 / label)
+           :S (v7 / label))
+    :H (v3 / label
+           :A (v8 / label
+                  :E (v15 / label)
+                  :C (v16 / label))
+           :D (v9 / label)
+           :S (v10 / label))
+    :H (v4 / label
+           :A (v11 / label
+                   :E (v17 / label)
+                   :C (v18 / label))
+           :D (v12 / label)
+           :S (v13 / label)
+           :A (v14 / label
+                   :E (v19 / label)
+                   :E (v20 / label
+                           :R (v23 / label)
+                           :C (v24 / label))
+                   :E (v21 / label)
+                   :C (v22 / label))))

@@ -1,10 +1,32 @@
 # ::id 25650022
 # ::tok Ich nahm die Leinwand hinweg , und der Verwundete starrte mich mit großen Augen an und ließ mich ohne einen einzigen Klage laut gewähren .
-(label :H label
-       :L label
-       :A label
-       :P label
-       :D label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v7 / label)
+           :P (v8 / label)
+           :A (v9 / label
+                  :E (v19 / label)
+                  :C (v20 / label))
+           :D (v10 / label))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v11 / label
+                   :E (v21 / label)
+                   :C (v22 / label))
+           :P (v12 / label)
+           :A (v13 / label)
+           :A (v14 / label
+                   :R (v23 / label)
+                   :E (v24 / label)
+                   :C (v25 / label)))
+    :L (v5 / label)
+    :H (v6 / label
+           :D (v15 / label)
+           :A (v16 / label)
+           :A (v17 / label
+                   :E (v26 / label)
+                   :E (v27 / label)
+                   :E (v28 / label)
+                   :E (v29 / label)
+                   :C (v30 / label))
+           :P (v18 / label)))

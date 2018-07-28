@@ -1,11 +1,34 @@
 # ::id 25529004
 # ::tok »Aber fahren Sie nur immer fort , Sie sind sehr interessant.« »Die Knorpelfische« , versetzte Conseil mit unvergleichlicher Ausdauer , »enthalten nur drei Ordnungen.« »Um so besser« , sagte Ned .
-(label :L label
-       :H label
-       :P label
-       :A label
-       :D label
-       :S label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :P (v8 / label)
+           :A (v9 / label)
+           :D (v10 / label
+                   :E (v24 / label)
+                   :C (v25 / label)))
+    :H (v4 / label
+           :A (v11 / label)
+           :D (v12 / label)
+           :S (v13 / label))
+    :H (v5 / label
+           :A (v14 / label
+                   :E (v26 / label)
+                   :C (v27 / label))
+           :P (v15 / label)
+           :A (v16 / label)
+           :A (v17 / label
+                   :R (v28 / label)
+                   :E (v29 / label)
+                   :C (v30 / label)))
+    :H (v6 / label
+           :S (v18 / label)
+           :D (v19 / label)
+           :A (v20 / label
+                   :E (v31 / label)
+                   :C (v32 / label)))
+    :H (v7 / label
+           :A (v21 / label)
+           :P (v22 / label)
+           :A (v23 / label)))

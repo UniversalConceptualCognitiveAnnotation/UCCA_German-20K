@@ -1,10 +1,19 @@
 # ::id 25505001
 # ::tok Vormals machte mir ’s Freude , diese schönen Werke der Menschen hand zu sammeln .
-(label :H label
-       :D label
-       :A label
-       :S label
-       :P label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :D (v3 / label)
+           :D (v4 / label)
+           :A (v5 / label)
+           :A (v6 / label)
+           :S (v7 / label)
+           :A (v8 / label
+                  :A (v9 / label
+                         :E (v11 / label
+                                 :R (v15 / label)
+                                 :E (v16 / label)
+                                 :C (v17 / label))
+                         :E (v12 / label)
+                         :E (v13 / label)
+                         :C (v14 / label))
+                  :P (v10 / label))))

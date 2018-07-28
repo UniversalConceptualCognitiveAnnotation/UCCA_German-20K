@@ -1,9 +1,18 @@
 # ::id 25605006
 # ::tok Ich betrachtete sie aufmerksam , bemüht , die Beschaffenheit dieses riesenhaften Tieres zu erkennen .
-(label :H label
-       :A label
-       :P label
-       :D label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label)
+           :P (v5 / label)
+           :A (v6 / label)
+           :D (v7 / label))
+    :H (v3 / label
+           :D (v8 / label)
+           :A (v9 / label
+                  :E (v11 / label
+                          :R (v14 / label)
+                          :E (v15 / label)
+                          :C (v16 / label))
+                  :E (v12 / label)
+                  :C (v13 / label))
+           :P (v10 / label)))

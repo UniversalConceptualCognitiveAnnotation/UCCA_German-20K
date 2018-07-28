@@ -1,9 +1,19 @@
 # ::id 25508015
 # ::tok Es leistet mir alles , beleuchtet , erwärmt , ist die Seele meiner mechanischen Werkzeuge .
-(label :H label
-       :A label
-       :P label
-       :S label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v6 / label)
+           :P (v7 / label)
+           :A (v8 / label)
+           :A (v9 / label))
+    :H (v3 / label)
+    :H (v4 / label)
+    :H (v5 / label
+           :S (v10 / label)
+           :A (v11 / label
+                   :E (v13 / label)
+                   :C (v14 / label))
+           :A (v12 / label
+                   :R (v15 / label)
+                   :E (v16 / label)
+                   :C (v17 / label))))

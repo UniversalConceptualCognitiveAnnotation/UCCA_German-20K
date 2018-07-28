@@ -1,11 +1,48 @@
 # ::id 25680029
 # ::tok Die Nautilus , die während der Nacht die West küste Ceylons hinaufgefahren war , befand sich im Westen der Bai oder vielmehr des Golfs , der durch dieses Land und die Insel Manaar gebildet wird .
-(label :H label
-       :A label
-       :P label
-       :D label
-       :E label
-       :C label
-       :N label
-       :R label
-       :T label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v7 / label
+                         :R (v13 / label)
+                         :T (v14 / label
+                                 :R (v24 / label)
+                                 :E (v25 / label)
+                                 :C (v26 / label))
+                         :A (v15 / label
+                                 :E (v27 / label
+                                         :E (v32 / label)
+                                         :E (v33 / label)
+                                         :C (v34 / label))
+                                 :C (v28 / label))
+                         :P (v16 / label)
+                         :A (v9 / label))
+                  :E (v8 / label)
+                  :C v9)
+           :P (v4 / label)
+           :A (v5 / label
+                  :C (v10 / label
+                          :R (v17 / label)
+                          :E (v18 / label)
+                          :R (v19 / label)
+                          :C (v20 / label))
+                  :N (v11 / label)
+                  :C (v12 / label
+                          :E (v21 / label
+                                  :R (v29 / label)
+                                  :A (v30 / label
+                                          :C (v35 / label
+                                                  :R (v38 / label)
+                                                  :E (v39 / label)
+                                                  :C (v40 / label))
+                                          :N (v36 / label)
+                                          :C (v37 / label
+                                                  :E (v41 / label
+                                                          :E (v43 / label)
+                                                          :C (v44 / label))
+                                                  :C (v42 / label)))
+                                  :P (v31 / label)
+                                  :A (v23 / label))
+                          :R (v22 / label)
+                          :C v23))
+           :D (v6 / label)))

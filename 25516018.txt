@@ -1,8 +1,10 @@
 # ::id 25516018
 # ::tok Diese Beschränkung betrüge dann 436 Hunderttausendteile .
-(label :H label
-       :A label
-       :S label
-       :D label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v7 / label)
+                  :C (v8 / label))
+           :S (v4 / label)
+           :D (v5 / label)
+           :A (v6 / label)))

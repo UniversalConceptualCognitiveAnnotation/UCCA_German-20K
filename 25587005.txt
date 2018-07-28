@@ -1,10 +1,21 @@
 # ::id 25587005
 # ::tok Wie der andere auf dem Rücken , so befestigt man diesen am Gürtel .
-(label :H label
-       :L label
-       :P label
-       :D label
-       :A label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :P (v5 / label)
+           :D (v6 / label)
+           :A (v7 / label
+                  :E (v12 / label)
+                  :C (v13 / label))
+           :A (v8 / label
+                  :R (v14 / label)
+                  :E (v15 / label)
+                  :C (v16 / label)))
+    :L (v3 / label)
+    :H (v4 / label
+           :P v5
+           :A (v9 / label)
+           :A (v10 / label)
+           :A (v11 / label
+                   :R (v17 / label)
+                   :C (v18 / label))))

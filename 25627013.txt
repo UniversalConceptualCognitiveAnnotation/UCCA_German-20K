@@ -1,10 +1,14 @@
 # ::id 25627013
 # ::tok »Aber es gibt darunter auch eßbare ! « erwiderte der Harpunier .
-(label :L label
-       :H label
-       :A label
-       :P label
-       :S label
-       :D label
-       :E label
-       :C label)
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :A (v4 / label
+                  :S (v7 / label)
+                  :A (v8 / label)
+                  :D (v9 / label)
+                  :D (v10 / label))
+           :P (v5 / label)
+           :A (v6 / label
+                  :E (v11 / label)
+                  :C (v12 / label))))

@@ -1,11 +1,17 @@
 # ::id 25513027
 # ::tok Endlich , wie gelingt es Ihnen , sich in der Ihnen beliebigen Umgebung zu halten ?
-(label :L label
-       :H label
-       :A label
-       :P label
-       :S label
-       :D label
-       :R label
-       :E label
-       :C label)
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :A (v5 / label)
+           :P (v6 / label)
+           :A (v7 / label)
+           :A (v8 / label))
+    :H (v4 / label
+           :S (v9 / label)
+           :A (v10 / label
+                   :R (v13 / label)
+                   :E (v14 / label)
+                   :C (v15 / label))
+           :A (v11 / label)
+           :D (v12 / label)))

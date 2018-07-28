@@ -1,11 +1,31 @@
 # ::id 25495009
 # ::tok Diese Gedanken durchkreuzten sich rasch in meinem Geist , während der sonderbare Mann , vertieft und in sich selbst versenkt , schwieg .
-(label :H label
-       :L label
-       :A label
-       :P label
-       :D label
-       :S label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v8 / label
+                  :E (v18 / label)
+                  :C (v19 / label))
+           :P (v9 / label)
+           :D (v10 / label)
+           :A (v11 / label
+                   :R (v20 / label)
+                   :E (v21 / label)
+                   :C (v22 / label)))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v12 / label
+                   :E (v23 / label)
+                   :E (v24 / label)
+                   :C (v15 / label))
+           :S (v13 / label))
+    :H (v5 / label
+           :S (v14 / label)
+           :A v15)
+    :L (v6 / label)
+    :H (v7 / label
+           :A (v16 / label
+                   :R (v25 / label)
+                   :C (v26 / label)
+                   :E (v27 / label))
+           :S (v17 / label)
+           :A v15))

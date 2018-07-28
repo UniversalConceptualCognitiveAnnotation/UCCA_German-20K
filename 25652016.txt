@@ -1,8 +1,26 @@
 # ::id 25652016
 # ::tok Neben dem Weg standen unentwirrbare Gebüsche mit durcheinandergeflochtenem Gezweige , die mit kleinen weißstrahligen Sternblumen bedeckt waren .
-(label :H label
-       :A label
-       :S label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v6 / label)
+                  :E (v7 / label)
+                  :C (v8 / label))
+           :S (v4 / label)
+           :A (v5 / label
+                  :E (v9 / label
+                         :R (v12 / label)
+                         :C (v13 / label
+                                 :E (v15 / label)
+                                 :C (v16 / label))
+                         :C (v14 / label
+                                 :R (v17 / label)
+                                 :A (v18 / label
+                                         :R (v20 / label)
+                                         :E (v21 / label)
+                                         :E (v22 / label)
+                                         :C (v23 / label))
+                                 :S (v19 / label)
+                                 :A v16))
+                  :E (v10 / label)
+                  :C (v11 / label))))

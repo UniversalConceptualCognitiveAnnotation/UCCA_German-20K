@@ -1,8 +1,9 @@
 # ::id 25631019
 # ::tok Kurz , es war eine vortreffliche Mahlzeit .
-(label :H label
-       :D label
-       :A label
-       :S label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :D (v3 / label)
+           :A (v4 / label
+                  :E (v6 / label)
+                  :C (v7 / label))
+           :S (v5 / label)))

@@ -1,10 +1,16 @@
 # ::id 25594010
 # ::tok Fauna und Flora stehen in der unterseeischen Welt dicht nebeneinander !
-(label :H label
-       :A label
-       :S label
-       :D label
-       :C label
-       :N label
-       :R label
-       :E label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :C (v8 / label)
+                  :N (v9 / label)
+                  :C (v10 / label))
+           :S (v4 / label)
+           :A (v5 / label
+                  :R (v11 / label)
+                  :E (v12 / label)
+                  :E (v13 / label)
+                  :C (v14 / label))
+           :D (v6 / label)
+           :D (v7 / label)))

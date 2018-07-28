@@ -1,12 +1,52 @@
 # ::id 25411016
 # ::tok Seit sechsundzwanzig Jahren , da die Schiffe der Gesellschaft Cunard das Atlantische Meer befuhren , ist von zweitausend Fahrten nicht eine einzige mißglückt , nie kam eine Verspätung vor , nie ist ein Brief , ein Mensch oder ein Schiff abhanden gekommen oder zu Grunde gegangen .
-(label :H label
-       :L label
-       :T label
-       :A label
-       :D label
-       :P label
-       :R label
-       :C label
-       :E label
-       :N label)
+(v1 / label
+    :H (v2 / label
+           :T (v7 / label
+                  :R (v21 / label)
+                  :C (v22 / label))
+           :A (v8 / label
+                  :R (v23 / label)
+                  :E (v24 / label)
+                  :C (v25 / label))
+           :D (v9 / label)
+           :A (v10 / label
+                   :E (v26 / label)
+                   :C (v27 / label))
+           :P (v11 / label))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v12 / label
+                   :E (v28 / label
+                           :R (v42 / label)
+                           :E (v43 / label)
+                           :C (v44 / label))
+                   :E (v29 / label)
+                   :C (v30 / label))
+           :A (v13 / label
+                   :E (v31 / label)
+                   :C (v32 / label))
+           :P (v14 / label))
+    :H (v5 / label
+           :D (v15 / label)
+           :P (v16 / label)
+           :A (v17 / label
+                   :E (v33 / label)
+                   :C (v34 / label)))
+    :H (v6 / label
+           :D (v18 / label)
+           :A (v19 / label
+                   :C (v35 / label
+                           :E (v45 / label)
+                           :C (v46 / label))
+                   :C (v36 / label
+                           :E (v47 / label)
+                           :C (v48 / label))
+                   :N (v37 / label)
+                   :C (v38 / label
+                           :E (v49 / label)
+                           :C (v50 / label)))
+           :P (v20 / label
+                   :C (v39 / label)
+                   :N (v40 / label)
+                   :C (v41 / label))))

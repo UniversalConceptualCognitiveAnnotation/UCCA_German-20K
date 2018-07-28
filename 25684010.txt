@@ -1,10 +1,35 @@
 # ::id 25684010
 # ::tok Nachher wurde die Bank wieder niedriger ; wir stießen auf hohe , zugespitzte Felsen , aus deren dunkeln Schlupf winkeln ungestaltete Schaltiere mit starren Augen uns anblickten .
-(label :L label
-       :H label
-       :A label
-       :D label
-       :P label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :A (v5 / label
+                  :E (v11 / label)
+                  :C (v12 / label))
+           :D (v6 / label)
+           :P (v7 / label))
+    :H (v4 / label
+           :A (v8 / label)
+           :P (v9 / label)
+           :A (v10 / label
+                   :E (v13 / label
+                           :A (v18 / label
+                                   :R (v24 / label)
+                                   :E (v25 / label)
+                                   :E (v26 / label)
+                                   :C (v27 / label))
+                           :R (v19 / label)
+                           :A (v20 / label
+                                   :E (v28 / label)
+                                   :C (v29 / label))
+                           :A (v21 / label
+                                   :R (v30 / label)
+                                   :E (v31 / label)
+                                   :C (v32 / label))
+                           :A (v22 / label)
+                           :P (v23 / label)
+                           :A (v17 / label))
+                   :R (v14 / label)
+                   :E (v15 / label)
+                   :E (v16 / label)
+                   :C v17)))

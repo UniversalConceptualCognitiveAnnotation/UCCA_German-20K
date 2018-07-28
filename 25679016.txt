@@ -1,9 +1,29 @@
 # ::id 25679016
 # ::tok »Was hat man bei dieser Arbeit zu riskieren ? « sagte Ned Land , »höchstens , daß man einige Schluck See wasser zu verschlingen hat ! «
-(label :H label
-       :A label
-       :P label
-       :D label
-       :R label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :H (v6 / label
+                         :A (v8 / label)
+                         :A (v9 / label)
+                         :A (v10 / label
+                                 :R (v14 / label)
+                                 :E (v15 / label)
+                                 :C (v16 / label))
+                         :P (v11 / label))
+                  :H (v7 / label
+                         :D (v12 / label)
+                         :A (v13 / label
+                                 :R (v17 / label)
+                                 :A (v18 / label)
+                                 :A (v19 / label
+                                         :E (v21 / label
+                                                 :E (v24 / label)
+                                                 :C (v25 / label))
+                                         :E (v22 / label)
+                                         :C (v23 / label))
+                                 :P (v20 / label))
+                         :A v9
+                         :P v11))
+           :P (v4 / label)
+           :A (v5 / label)))

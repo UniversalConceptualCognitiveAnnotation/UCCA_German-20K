@@ -1,10 +1,31 @@
 # ::id 25495012
 # ::tok »Reden Sie , mein Herr« , erwiderte ich , »ich denke , diese Bedingung gehört zu denen , die ein Ehrenmann annehmen kann ?
-(label :H label
-       :A label
-       :P label
-       :G label
-       :E label
-       :C label
-       :S label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :H (v6 / label
+                         :P (v8 / label)
+                         :A (v9 / label)
+                         :G (v10 / label
+                                 :E (v14 / label)
+                                 :C (v15 / label)))
+                  :H (v7 / label
+                         :A (v11 / label)
+                         :P (v12 / label)
+                         :A (v13 / label
+                                 :A (v16 / label
+                                         :E (v19 / label)
+                                         :C (v20 / label))
+                                 :S (v17 / label)
+                                 :A (v18 / label
+                                         :R (v21 / label)
+                                         :C (v22 / label)
+                                         :E (v23 / label
+                                                 :R (v24 / label)
+                                                 :A (v25 / label
+                                                         :E (v27 / label)
+                                                         :C (v28 / label))
+                                                 :P (v26 / label)
+                                                 :A v20)))))
+           :P (v4 / label)
+           :A (v5 / label)))

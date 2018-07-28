@@ -1,9 +1,12 @@
 # ::id 25634015
 # ::tok Im allgemeinen gehen diese Wilden nackt .
-(label :H label
-       :D label
-       :A label
-       :S label
-       :R label
-       :C label
-       :E label)
+(v1 / label
+    :H (v2 / label
+           :D (v3 / label
+                  :R (v7 / label)
+                  :C (v8 / label))
+           :D (v4 / label)
+           :A (v5 / label
+                  :E (v9 / label)
+                  :C (v10 / label))
+           :S (v6 / label)))

@@ -1,6 +1,7 @@
 # ::id 25649002
 # ::tok Völlig frei .
-(label :H label
-       :A label
-       :D label
-       :S label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :D (v4 / label)
+           :S (v5 / label)))

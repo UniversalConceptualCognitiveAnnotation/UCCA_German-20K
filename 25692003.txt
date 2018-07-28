@@ -1,10 +1,39 @@
 # ::id 25692003
 # ::tok Hierauf fuhr sie in einer Entfernung von 6 Meilen längs der arabischen Küsten von Mahra und Hadramaut und dessen wellen förmiger Gebirgsreihe mit einigen alten Ruinen .
-(label :L label
-       :H label
-       :P label
-       :A label
-       :E label
-       :R label
-       :C label
-       :N label)
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :P (v4 / label)
+           :A (v5 / label)
+           :A (v6 / label
+                  :E (v8 / label
+                         :R (v16 / label)
+                         :E (v17 / label)
+                         :C (v18 / label))
+                  :R (v9 / label)
+                  :E (v10 / label)
+                  :C (v11 / label))
+           :A (v7 / label
+                  :R (v12 / label)
+                  :C (v13 / label
+                          :R (v19 / label)
+                          :E (v20 / label
+                                  :E (v26 / label)
+                                  :C (v27 / label))
+                          :C (v21 / label
+                                  :R (v28 / label)
+                                  :C (v29 / label)
+                                  :N (v30 / label)
+                                  :C (v31 / label)))
+                  :N (v14 / label)
+                  :C (v15 / label
+                          :R (v22 / label)
+                          :E (v23 / label
+                                  :R (v32 / label)
+                                  :E (v33 / label)
+                                  :E (v34 / label)
+                                  :C (v35 / label))
+                          :E (v24 / label
+                                  :E (v36 / label)
+                                  :C (v37 / label))
+                          :C (v25 / label)))))

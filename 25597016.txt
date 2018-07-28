@@ -1,5 +1,7 @@
 # ::id 25597016
 # ::tok Dieses war ein und einen halben Meter lang .
-(label :H label
-       :A label
-       :S label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :A (v4 / label)
+           :S (v5 / label)))

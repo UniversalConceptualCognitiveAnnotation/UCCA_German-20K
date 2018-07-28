@@ -1,13 +1,195 @@
 # ::id 25673003
 # ::tok »Jawohl , denn die armen Fischer können  s nicht lange unter Wasser aushalten . Der Engländer Parceval spricht zwar von einem Kaffer , der 5 Minuten lang unter Wasser bleiben konnte , aber es scheint mir dies nicht sehr glaubhaft . Ich weiß , daß manche Taucher es bis auf 57 Sekunden und sehr geschickte bis 87 bringen ; doch sind solche selten , und wenn die armen Kerle wieder an Bord kommen , strömt ihnen Wasser mit Blut vermischt aus Nase und Ohren . Ich glaube , daß die Durchschnitts zeit , die diese Fischer es aushalten können , nur 30 Sekunden beträgt , währenddessen sie in aller Eile mit einem kleinen Netz alle Perl muscheln , deren sie habhaft werden können , zusammenraffen ; aber im allgemeinen werden diese Fischer nicht alt ; sie bekommen schwache Seh kraft , es bilden sich Geschwüre an ihren Augen und zeigen sich Wunden über dem ganzen Körper ; und oft auch werden sie auf dem Meeres grund vom Schlag getroffen.«
-(label :H label
-       :A label
-       :P label
-       :L label
-       :D label
-       :S label
-       :E label
-       :C label
-       :R label
-       :N label
-       :T label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :P (v4 / label)
+           :A (v5 / label
+                  :H (v6 / label
+                         :A (v31 / label)
+                         :P (v32 / label)
+                         :D (v33 / label))
+                  :L (v7 / label)
+                  :H (v8 / label
+                         :A (v34 / label
+                                 :E (v88 / label)
+                                 :E (v89 / label)
+                                 :C (v90 / label))
+                         :D (v35 / label)
+                         :A (v36 / label)
+                         :D (v37 / label)
+                         :D (v38 / label)
+                         :A (v39 / label
+                                 :R (v91 / label)
+                                 :C (v92 / label))
+                         :P (v40 / label))
+                  :H (v9 / label
+                         :A (v41 / label
+                                 :E (v93 / label)
+                                 :E (v94 / label)
+                                 :C (v95 / label))
+                         :P (v42 / label)
+                         :A (v43 / label
+                                 :R (v96 / label)
+                                 :E (v97 / label
+                                         :R (v149 / label)
+                                         :T (v150 / label
+                                                  :C (v169 / label)
+                                                  :E (v170 / label))
+                                         :A (v151 / label
+                                                  :R (v171 / label)
+                                                  :C (v172 / label))
+                                         :S (v152 / label)
+                                         :D (v153 / label)
+                                         :A (v99 / label))
+                                 :E (v98 / label)
+                                 :C v99))
+                  :L (v10 / label)
+                  :H (v11 / label
+                          :P (v44 / label)
+                          :A (v45 / label)
+                          :A (v46 / label)
+                          :D (v47 / label)
+                          :D (v48 / label
+                                  :E (v100 / label)
+                                  :C (v101 / label)))
+                  :H (v12 / label
+                          :A (v49 / label)
+                          :P (v50 / label)
+                          :A (v51 / label
+                                  :L (v102 / label)
+                                  :H (v103 / label
+                                           :P (v154 / label)
+                                           :A (v155 / label
+                                                    :E (v173 / label)
+                                                    :C (v54 / label))
+                                           :A (v156 / label
+                                                    :R (v174 / label)
+                                                    :C (v175 / label)))
+                                  :L (v104 / label)
+                                  :H (v105 / label
+                                           :A (v157 / label
+                                                    :E (v176 / label)
+                                                    :C (v177 / label))
+                                           :A (v158 / label)
+                                           :P v154
+                                           :A v54)))
+                  :L (v13 / label)
+                  :H (v14 / label
+                          :A (v52 / label)
+                          :S (v53 / label)
+                          :A v54)
+                  :L (v15 / label)
+                  :L (v16 / label)
+                  :H (v17 / label
+                          :A (v55 / label
+                                  :E (v106 / label)
+                                  :E (v107 / label)
+                                  :C (v108 / label))
+                          :D (v56 / label)
+                          :A (v57 / label
+                                  :R (v109 / label)
+                                  :C (v110 / label))
+                          :P (v58 / label))
+                  :H (v18 / label
+                          :P (v59 / label)
+                          :A (v60 / label)
+                          :A (v61 / label
+                                  :A (v111 / label)
+                                  :A (v112 / label
+                                           :R (v159 / label)
+                                           :C (v160 / label))
+                                  :P (v113 / label))
+                          :A (v62 / label
+                                  :R (v114 / label)
+                                  :C (v115 / label)
+                                  :N (v116 / label)
+                                  :C (v117 / label)))
+                  :H (v19 / label
+                          :A (v63 / label)
+                          :P (v64 / label)
+                          :A (v65 / label
+                                  :L (v118 / label)
+                                  :H (v119 / label
+                                           :A (v161 / label
+                                                    :E (v178 / label
+                                                             :R (v182 / label)
+                                                             :A (v183 / label
+                                                                      :E (v186 / label)
+                                                                      :C (v187 / label))
+                                                             :P (v184 / label)
+                                                             :D (v185 / label)
+                                                             :A (v181 / label))
+                                                    :E (v179 / label)
+                                                    :E (v180 / label)
+                                                    :C v181)
+                                           :D (v162 / label)
+                                           :A (v163 / label)
+                                           :P (v164 / label))))
+                  :L (v20 / label)
+                  :H (v21 / label
+                          :A (v66 / label)
+                          :D (v67 / label
+                                  :R (v120 / label)
+                                  :E (v121 / label)
+                                  :C (v122 / label))
+                          :A (v68 / label
+                                  :R (v123 / label)
+                                  :E (v124 / label)
+                                  :E (v125 / label)
+                                  :C (v126 / label))
+                          :A (v69 / label
+                                  :E (v127 / label
+                                           :R (v165 / label)
+                                           :A (v166 / label)
+                                           :S (v167 / label)
+                                           :D (v168 / label)
+                                           :A (v130 / label))
+                                  :E (v128 / label)
+                                  :E (v129 / label)
+                                  :C v130)
+                          :P (v70 / label))
+                  :L (v22 / label)
+                  :H (v23 / label
+                          :D (v71 / label)
+                          :A (v72 / label
+                                  :E (v131 / label)
+                                  :C (v132 / label))
+                          :D (v73 / label)
+                          :S (v74 / label))
+                  :H (v24 / label
+                          :A (v75 / label)
+                          :P (v76 / label)
+                          :A (v77 / label
+                                  :E (v133 / label)
+                                  :E (v134 / label)
+                                  :C (v135 / label)))
+                  :H (v25 / label
+                          :P (v78 / label)
+                          :A (v79 / label)
+                          :A (v80 / label
+                                  :R (v136 / label)
+                                  :E (v137 / label)
+                                  :C (v138 / label)))
+                  :L (v26 / label)
+                  :H (v27 / label
+                          :P (v81 / label)
+                          :A (v82 / label)
+                          :A (v83 / label
+                                  :R (v139 / label)
+                                  :E (v140 / label)
+                                  :E (v141 / label)
+                                  :C (v142 / label)))
+                  :L (v28 / label)
+                  :H (v29 / label
+                          :D (v84 / label)
+                          :A (v85 / label)
+                          :A (v86 / label
+                                  :R (v143 / label)
+                                  :E (v144 / label)
+                                  :E (v145 / label)
+                                  :C (v146 / label))
+                          :P (v87 / label
+                                  :R (v147 / label)
+                                  :C (v148 / label)))
+                  :L (v30 / label))))

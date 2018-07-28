@@ -1,11 +1,38 @@
 # ::id 25611001
 # ::tok Er wollte sich nach Vanikoro begeben , wo nach Angabe des Laskaren zahlreiche Reste von dem Schiff bruch her sich finden sollten ; aber die Winde und Strömungen verhinderten es .
-(label :H label
-       :L label
-       :A label
-       :D label
-       :P label
-       :R label
-       :C label
-       :E label
-       :N label)
+(v1 / label
+    :H (v2 / label
+           :A (v7 / label)
+           :D (v8 / label)
+           :P (v9 / label)
+           :A (v10 / label
+                   :R (v18 / label)
+                   :C (v19 / label)))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v11 / label
+                   :E (v20 / label
+                           :R (v29 / label)
+                           :C (v30 / label))
+                   :E (v21 / label)
+                   :C (v22 / label))
+           :A (v12 / label
+                   :E (v23 / label
+                           :R (v31 / label)
+                           :E (v32 / label)
+                           :E (v33 / label)
+                           :C (v34 / label))
+                   :E (v24 / label)
+                   :C (v25 / label))
+           :P (v13 / label)
+           :D (v14 / label))
+    :L (v5 / label)
+    :H (v6 / label
+           :A (v15 / label
+                   :C (v26 / label
+                           :E (v35 / label)
+                           :C (v36 / label))
+                   :N (v27 / label)
+                   :C (v28 / label))
+           :P (v16 / label)
+           :A (v17 / label)))

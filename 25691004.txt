@@ -1,12 +1,81 @@
 # ::id 25691004
 # ::tok »Nun , so werden wir in den Atlantik fahren , den wir noch nicht kennen . Ei ! Freund Ned , diese Reise unterm Meer ist Ihnen wohl langweilig ? Sie sind also gleichgültig gegen den unaufhörlich wechselnden Anblick der unterseeischen Wunder ? Mir an meinem Teil würde es sehr leid sein , wenn diese Reise , die zu machen wenig Menschen vergönnt ist , schon zu Ende wäre.«
-(label :H label
-       :A label
-       :P label
-       :L label
-       :G label
-       :D label
-       :S label
-       :E label
-       :R label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :P (v4 / label)
+           :A (v5 / label
+                  :L (v6 / label)
+                  :H (v7 / label
+                         :A (v14 / label)
+                         :A (v15 / label
+                                 :E (v31 / label
+                                         :R (v51 / label)
+                                         :A (v52 / label)
+                                         :D (v53 / label)
+                                         :D (v54 / label)
+                                         :P (v55 / label)
+                                         :A (v34 / label))
+                                 :R (v32 / label)
+                                 :E (v33 / label)
+                                 :C v34)
+                         :P (v16 / label))
+                  :H (v8 / label
+                         :G (v17 / label
+                                 :E (v35 / label)
+                                 :C (v36 / label))
+                         :A (v18 / label
+                                 :E (v37 / label)
+                                 :C (v38 / label)
+                                 :E (v39 / label
+                                         :R (v56 / label)
+                                         :C (v57 / label)))
+                         :A (v19 / label)
+                         :D (v20 / label)
+                         :S (v21 / label))
+                  :H (v9 / label
+                         :A (v22 / label)
+                         :S (v23 / label)
+                         :A (v24 / label
+                                 :R (v40 / label)
+                                 :C (v41 / label
+                                         :A (v58 / label
+                                                 :E (v69 / label)
+                                                 :C (v70 / label))
+                                         :D (v59 / label)
+                                         :P (v60 / label))
+                                 :E (v42 / label
+                                         :R (v61 / label)
+                                         :E (v62 / label)
+                                         :C (v63 / label))))
+                  :L (v10 / label)
+                  :H (v11 / label
+                          :A (v25 / label)
+                          :A (v26 / label
+                                  :R (v43 / label)
+                                  :E (v44 / label)
+                                  :C (v45 / label))
+                          :D (v27 / label)
+                          :D (v28 / label)
+                          :S (v29 / label)
+                          :A (v30 / label
+                                  :R (v46 / label)
+                                  :A (v47 / label
+                                          :E (v64 / label
+                                                  :H (v71 / label
+                                                          :R (v73 / label)
+                                                          :P (v74 / label))
+                                                  :H (v72 / label
+                                                          :P (v75 / label)
+                                                          :A (v76 / label
+                                                                  :E (v77 / label)
+                                                                  :C (v78 / label))))
+                                          :E (v65 / label)
+                                          :C (v66 / label))
+                                  :D (v48 / label)
+                                  :P (v49 / label
+                                          :R (v67 / label)
+                                          :C (v68 / label))
+                                  :D (v50 / label)))
+                  :H (v12 / label)
+                  :H (v13 / label))))

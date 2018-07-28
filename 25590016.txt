@@ -1,12 +1,29 @@
 # ::id 25590016
 # ::tok Nach einigen Minuten hörte ich ein lebhaftes Zischen und fühlte eine gewisse Kälte von den Füßen zur Brust aufsteigen .
-(label :H label
-       :L label
-       :T label
-       :P label
-       :A label
-       :D label
-       :R label
-       :E label
-       :C label
-       :N label)
+(v1 / label
+    :H (v2 / label
+           :T (v5 / label
+                  :R (v13 / label)
+                  :E (v14 / label)
+                  :C (v15 / label))
+           :P (v6 / label)
+           :A (v7 / label)
+           :A (v8 / label
+                  :E (v16 / label)
+                  :E (v17 / label)
+                  :C (v18 / label)))
+    :L (v3 / label)
+    :H (v4 / label
+           :D (v9 / label)
+           :A (v10 / label
+                   :E (v19 / label)
+                   :E (v20 / label)
+                   :C (v21 / label))
+           :A (v11 / label
+                   :R (v22 / label)
+                   :C (v23 / label
+                           :E (v26 / label)
+                           :C (v27 / label))
+                   :N (v24 / label)
+                   :C (v25 / label))
+           :P (v12 / label)))

@@ -1,9 +1,38 @@
 # ::id 25608013
 # ::tok Die " Nautilus " näherte sich der Bai Wailon , dem Schauplatz der fürchterlichen Erlebnisse des Kapitäns Dillon , der zuerst das Geheimnis von La Pérouses Schiff bruch aufklärte .
-(label :H label
-       :A label
-       :P label
-       :E label
-       :C label
-       :D label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v6 / label)
+                  :C (v7 / label))
+           :P (v4 / label)
+           :A (v5 / label
+                  :E (v8 / label
+                         :A (v11 / label
+                                 :E (v15 / label)
+                                 :C (v16 / label))
+                         :P (v12 / label
+                                 :R (v17 / label)
+                                 :C (v18 / label))
+                         :D (v13 / label)
+                         :A (v14 / label
+                                 :E (v19 / label
+                                         :R (v22 / label)
+                                         :D (v23 / label)
+                                         :A (v24 / label
+                                                 :A (v26 / label
+                                                         :E (v29 / label)
+                                                         :C (v30 / label))
+                                                 :A (v27 / label
+                                                         :R (v31 / label)
+                                                         :C (v32 / label))
+                                                 :P (v28 / label
+                                                         :E (v33 / label)
+                                                         :C (v34 / label)))
+                                         :P (v25 / label)
+                                         :A (v21 / label))
+                                 :R (v20 / label)
+                                 :C v21)
+                         :A (v10 / label))
+                  :E (v9 / label)
+                  :C v10)))

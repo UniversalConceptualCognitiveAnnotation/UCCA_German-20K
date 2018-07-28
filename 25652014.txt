@@ -1,11 +1,55 @@
 # ::id 25652014
 # ::tok Ich kannte die letzten Arbeiten über diese sonderbaren Zoophyten , die , während sie Zweige treiben , zum Mineral werden , und es konnte mir nichts angenehmer sein , als einmal einen dieser versteinerten Wälder zu besuchen , welche die Natur auf dem Meeres grund angepflanzt hat .
-(label :H label
-       :L label
-       :A label
-       :S label
-       :D label
-       :P label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v7 / label)
+           :S (v8 / label)
+           :A (v9 / label
+                  :P (v16 / label
+                          :E (v24 / label)
+                          :C (v25 / label))
+                  :D (v17 / label)
+                  :A (v18 / label
+                          :R (v26 / label)
+                          :E (v27 / label)
+                          :E (v28 / label)
+                          :C (v29 / label)
+                          :E (v30 / label
+                                  :A v29
+                                  :R (v35 / label)
+                                  :A (v36 / label
+                                          :A v29
+                                          :D (v45 / label)
+                                          :A (v46 / label)
+                                          :A (v47 / label)
+                                          :P (v48 / label))
+                                  :A (v37 / label
+                                          :R (v49 / label)
+                                          :C (v50 / label))
+                                  :S (v38 / label)))))
+    :L (v3 / label)
+    :H (v4 / label
+           :D (v10 / label)
+           :P (v11 / label)
+           :A (v12 / label))
+    :L (v5 / label)
+    :H (v6 / label
+           :D (v13 / label)
+           :A (v14 / label
+                   :E (v19 / label)
+                   :E (v20 / label)
+                   :E (v21 / label)
+                   :C (v22 / label)
+                   :E (v23 / label
+                           :A v22
+                           :R (v31 / label)
+                           :A (v32 / label
+                                   :E (v39 / label)
+                                   :C (v40 / label))
+                           :A (v33 / label
+                                   :R (v41 / label)
+                                   :E (v42 / label)
+                                   :E (v43 / label)
+                                   :C (v44 / label))
+                           :P (v34 / label)))
+           :P (v15 / label)))

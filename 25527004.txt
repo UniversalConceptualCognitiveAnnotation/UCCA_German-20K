@@ -1,9 +1,26 @@
 # ::id 25527004
 # ::tok Mitunter jedoch ließen die durch seinen Schnabel vor unseren Augen zerteilten Wasser streifen eine äußerste Schnelligkeit erkennen .
-(label :H label
-       :D label
-       :P label
-       :A label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :D (v3 / label)
+           :D (v4 / label)
+           :P (v5 / label)
+           :A (v6 / label
+                  :E (v8 / label
+                         :R (v15 / label)
+                         :A (v16 / label
+                                 :E (v19 / label)
+                                 :C (v20 / label))
+                         :A (v17 / label
+                                 :R (v21 / label)
+                                 :E (v22 / label)
+                                 :C (v23 / label))
+                         :P (v18 / label)
+                         :A (v11 / label))
+                  :E (v9 / label)
+                  :E (v10 / label)
+                  :C v11)
+           :A (v7 / label
+                  :E (v12 / label)
+                  :E (v13 / label)
+                  :C (v14 / label))))

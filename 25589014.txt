@@ -1,9 +1,17 @@
 # ::id 25589014
 # ::tok Es handelte sich nur darum , unsere Köpfe in die metallenen Kugeln zu stecken .
-(label :H label
-       :P label
-       :D label
-       :A label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :P (v4 / label)
+           :D (v5 / label)
+           :A (v6 / label))
+    :H (v3 / label
+           :A (v7 / label
+                  :E (v10 / label)
+                  :C (v11 / label))
+           :A (v8 / label
+                  :R (v12 / label)
+                  :E (v13 / label)
+                  :E (v14 / label)
+                  :C (v15 / label))
+           :P (v9 / label)))

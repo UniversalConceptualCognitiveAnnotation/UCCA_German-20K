@@ -1,11 +1,42 @@
 # ::id 25592003
 # ::tok Ich erkannte prächtige Muster stücke von Felsen , mit Pflanzen tieren der schönsten Sorte wie mit einem Teppich bedeckt , so daß ich im ersten Augenblick ganz betroffen war von dem außerordentlichen Anblick .
-(label :H label
-       :L label
-       :A label
-       :P label
-       :D label
-       :E label
-       :C label
-       :R label
-       :S label)
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label)
+           :P (v6 / label)
+           :A (v7 / label
+                  :E (v13 / label
+                          :E (v23 / label)
+                          :R (v24 / label)
+                          :E (v25 / label)
+                          :C (v26 / label))
+                  :C (v14 / label)
+                  :E (v15 / label
+                          :R (v27 / label)
+                          :A (v28 / label
+                                  :E (v31 / label
+                                          :R (v38 / label)
+                                          :E (v39 / label)
+                                          :C (v40 / label))
+                                  :E (v32 / label)
+                                  :C (v33 / label))
+                          :A (v29 / label
+                                  :E (v34 / label)
+                                  :R (v35 / label)
+                                  :E (v36 / label)
+                                  :C (v37 / label))
+                          :S (v30 / label))))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v8 / label)
+           :A (v9 / label
+                  :R (v16 / label)
+                  :E (v17 / label)
+                  :C (v18 / label))
+           :D (v10 / label)
+           :P (v11 / label)
+           :A (v12 / label
+                   :R (v19 / label)
+                   :E (v20 / label)
+                   :E (v21 / label)
+                   :C (v22 / label))))

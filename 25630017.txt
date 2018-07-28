@@ -1,11 +1,41 @@
 # ::id 25630017
 # ::tok »Richtig« , sagte Ned , »ist s auch nicht der Vogel , so sind s doch seine Federn , und insofern der Gegenstand nicht zum Essen bestimmt ist , sehe ich dabei kein so arges Übel ! «
-(label :H label
-       :L label
-       :D label
-       :P label
-       :A label
-       :S label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :D (v9 / label)
+           :P (v10 / label)
+           :A (v11 / label))
+    :H (v3 / label
+           :S (v12 / label)
+           :A (v13 / label)
+           :D (v14 / label)
+           :A (v15 / label
+                   :E (v28 / label)
+                   :C (v29 / label)))
+    :L (v4 / label)
+    :H (v5 / label
+           :S (v16 / label)
+           :D (v17 / label)
+           :A (v18 / label
+                   :E (v30 / label)
+                   :C (v31 / label)))
+    :L (v6 / label)
+    :H (v7 / label
+           :D (v19 / label)
+           :A (v20 / label
+                   :E (v32 / label)
+                   :C (v33 / label))
+           :D (v21 / label)
+           :P (v22 / label
+                   :R (v34 / label)
+                   :C (v35 / label))
+           :D (v23 / label))
+    :H (v8 / label
+           :P (v24 / label)
+           :A (v25 / label)
+           :D (v26 / label)
+           :A (v27 / label
+                   :E (v36 / label)
+                   :E (v37 / label)
+                   :E (v38 / label)
+                   :C (v39 / label))))

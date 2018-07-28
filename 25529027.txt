@@ -1,10 +1,40 @@
 # ::id 25529027
 # ::tok Zwischen ihnen schwammen Rochen , und darunter bemerkte ich sehr erfreut den chinesischen Rochen , oben gelblich , unten am Bauch zart rosa und hinter dem Auge mit drei Stacheln .
-(label :H label
-       :L label
-       :A label
-       :P label
-       :D label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label
+                  :E (v13 / label)
+                  :C (v14 / label))
+           :P (v6 / label)
+           :A (v7 / label))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v8 / label)
+           :P (v9 / label)
+           :A (v10 / label)
+           :D (v11 / label
+                   :E (v15 / label)
+                   :C (v16 / label))
+           :A (v12 / label
+                   :E (v17 / label
+                           :E (v23 / label)
+                           :C (v24 / label))
+                   :E (v18 / label
+                           :E (v25 / label
+                                   :E (v34 / label)
+                                   :C (v35 / label))
+                           :R (v26 / label)
+                           :E (v27 / label)
+                           :C (v28 / label))
+                   :E (v19 / label
+                           :R (v29 / label)
+                           :E (v30 / label
+                                   :R (v36 / label)
+                                   :E (v37 / label)
+                                   :C (v38 / label))
+                           :E (v31 / label)
+                           :E (v32 / label)
+                           :C (v33 / label))
+                   :E (v20 / label)
+                   :E (v21 / label)
+                   :C (v22 / label))))

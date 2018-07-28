@@ -1,11 +1,42 @@
 # ::id 25525015
 # ::tok Aber Sie , Herr Arronax« , fragte Ned Land , der noch immer seine Idee hatte , »Sie können mir nicht sagen , wieviel Mann an Bord sind ? 10 ? 20 ? 50 ? 100 ? «
-(label :L label
-       :H label
-       :A label
-       :P label
-       :D label
-       :C label
-       :E label
-       :S label
-       :R label)
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :A (v5 / label
+                  :C (v14 / label)
+                  :E (v15 / label
+                          :E (v22 / label)
+                          :C (v23 / label)))
+           :P (v6 / label)
+           :A (v7 / label
+                  :C (v16 / label)
+                  :E (v17 / label
+                          :A v16
+                          :R (v24 / label)
+                          :D (v25 / label
+                                  :E (v36 / label)
+                                  :C (v37 / label))
+                          :A (v26 / label
+                                  :E (v38 / label)
+                                  :C (v39 / label))
+                          :S (v27 / label))))
+    :H (v4 / label
+           :A (v8 / label)
+           :D (v9 / label)
+           :A (v10 / label)
+           :D (v11 / label)
+           :P (v12 / label)
+           :A (v13 / label
+                   :A (v18 / label
+                           :E (v28 / label)
+                           :C (v29 / label))
+                   :A (v19 / label
+                           :R (v30 / label)
+                           :C (v31 / label))
+                   :S (v20 / label)
+                   :A (v21 / label
+                           :C (v32 / label)
+                           :C (v33 / label)
+                           :C (v34 / label)
+                           :C (v35 / label)))))

@@ -1,5 +1,7 @@
 # ::id 25615004
 # ::tok »Alles zu sehen , Conseil ?
-(label :H label
-       :A label
-       :P label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :P (v4 / label)
+           :A (v5 / label)))

@@ -1,10 +1,29 @@
 # ::id 25679005
 # ::tok » Ja « , sagte ich , »2 Millionen Franc , und ohne Zweifel hat sie den Kapitän nur die Mühe des Einsamseins gekostet.«
-(label :H label
-       :A label
-       :P label
-       :L label
-       :D label
-       :C label
-       :E label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :H (v6 / label
+                         :D (v9 / label)
+                         :A (v10 / label
+                                 :C (v17 / label)
+                                 :E (v18 / label)))
+                  :L (v7 / label)
+                  :H (v8 / label
+                         :D (v11 / label
+                                 :R (v19 / label)
+                                 :C (v20 / label))
+                         :A (v12 / label)
+                         :A (v13 / label
+                                 :E (v21 / label)
+                                 :C (v22 / label))
+                         :D (v14 / label)
+                         :A (v15 / label
+                                 :E (v23 / label
+                                         :R (v26 / label)
+                                         :C (v27 / label))
+                                 :E (v24 / label)
+                                 :C (v25 / label))
+                         :P (v16 / label)))
+           :P (v4 / label)
+           :A (v5 / label)))

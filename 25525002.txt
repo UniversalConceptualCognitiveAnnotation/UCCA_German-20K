@@ -1,11 +1,40 @@
 # ::id 25525002
 # ::tok »Ich muß meinem Herrn glauben , weil er ’s versichert« , erwiderte Conseil ; »aber offen gesagt , dieser Salon ist gemacht , selbst einen Flamen , wie ich bin , in Staunen zu setzen.«
-(label :H label
-       :L label
-       :A label
-       :P label
-       :D label
-       :S label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v6 / label
+                  :H (v16 / label
+                          :A (v24 / label)
+                          :D (v25 / label)
+                          :A (v26 / label
+                                  :E (v36 / label)
+                                  :C (v37 / label))
+                          :S (v27 / label))
+                  :L (v17 / label)
+                  :H (v18 / label
+                          :A (v28 / label)
+                          :A (v29 / label)
+                          :P (v30 / label)))
+           :P (v7 / label)
+           :A (v8 / label))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v9 / label)
+           :D (v10 / label)
+           :P (v11 / label))
+    :H (v5 / label
+           :A (v12 / label
+                   :A (v19 / label
+                           :E (v31 / label)
+                           :C (v32 / label))
+                   :S (v20 / label))
+           :D (v13 / label)
+           :A (v14 / label
+                   :E (v21 / label
+                           :R (v33 / label)
+                           :A (v34 / label)
+                           :S (v35 / label)
+                           :A (v23 / label))
+                   :E (v22 / label)
+                   :C v23)
+           :P (v15 / label)))

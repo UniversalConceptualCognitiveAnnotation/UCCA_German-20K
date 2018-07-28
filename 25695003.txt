@@ -1,12 +1,77 @@
 # ::id 25695003
 # ::tok Die anderen Zoophyten , die neben den Schwamm gebilden in Menge sproßten , bestanden hauptsächlich in einer sehr zierlichen Art Medusen ; die Mollusken waren durch eine besondere Art Kalmar vertreten , die nach dOrbigny dem Roten Meer eigentümlich sind ; und die Reptilien durch eine Schildkröten art , die unserer Tafel ein gesundes und schmackhaftes Gericht lieferte .
-(label :H label
-       :L label
-       :A label
-       :P label
-       :D label
-       :E label
-       :C label
-       :R label
-       :S label
-       :N label)
+(v1 / label
+    :H (v2 / label
+           :A (v6 / label
+                  :E (v15 / label
+                          :R (v36 / label)
+                          :A (v37 / label
+                                  :R (v55 / label)
+                                  :E (v56 / label)
+                                  :E (v57 / label)
+                                  :C (v58 / label))
+                          :A (v38 / label)
+                          :P (v39 / label)
+                          :A (v18 / label))
+                  :E (v16 / label)
+                  :E (v17 / label)
+                  :C v18)
+           :P (v7 / label)
+           :D (v8 / label)
+           :A (v9 / label
+                  :R (v19 / label)
+                  :E (v20 / label
+                          :E (v40 / label)
+                          :C (v41 / label))
+                  :E (v21 / label
+                          :E (v42 / label)
+                          :C (v43 / label))
+                  :C (v22 / label)))
+    :H (v3 / label
+           :A (v10 / label
+                   :E (v23 / label)
+                   :C (v24 / label))
+           :A (v11 / label
+                   :R (v25 / label)
+                   :E (v26 / label
+                           :R (v44 / label)
+                           :A (v45 / label
+                                   :R (v59 / label)
+                                   :C (v60 / label))
+                           :A (v46 / label
+                                   :R (v61 / label)
+                                   :C (v62 / label)
+                                   :E (v63 / label))
+                           :S (v47 / label)
+                           :A (v28 / label))
+                   :E (v27 / label
+                           :E (v48 / label)
+                           :E (v49 / label)
+                           :C (v50 / label))
+                   :C v28)
+           :P (v12 / label))
+    :L (v4 / label)
+    :H (v5 / label
+           :A (v13 / label
+                   :E (v29 / label)
+                   :C (v30 / label))
+           :A (v14 / label
+                   :E (v31 / label
+                           :R (v51 / label)
+                           :A (v52 / label
+                                   :R (v64 / label)
+                                   :C (v65 / label))
+                           :A (v53 / label
+                                   :E (v66 / label)
+                                   :E (v67 / label
+                                           :C (v69 / label)
+                                           :N (v70 / label)
+                                           :C (v71 / label))
+                                   :C (v68 / label))
+                           :P (v54 / label)
+                           :A (v35 / label))
+                   :R (v32 / label)
+                   :E (v33 / label)
+                   :C (v34 / label)
+                   :E v35)
+           :P v12))

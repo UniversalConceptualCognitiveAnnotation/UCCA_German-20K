@@ -1,8 +1,13 @@
 # ::id 25637014
 # ::tok Ich habe keinen Grund , sie daran zu hindern .
-(label :H label
-       :A label
-       :S label
-       :E label
-       :C label
-       :P label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :S (v4 / label)
+           :A (v5 / label
+                  :E (v7 / label)
+                  :C (v8 / label))
+           :A (v6 / label
+                  :A (v9 / label)
+                  :A (v10 / label)
+                  :P (v11 / label))))

@@ -1,9 +1,23 @@
 # ::id 25687000
 # ::tok Der Taucher sah uns nicht ; wir waren durch den Schatten des Felsens seinen Blicken entzogen .
-(label :H label
-       :A label
-       :P label
-       :D label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label
+                  :E (v12 / label)
+                  :C (v13 / label))
+           :P (v5 / label)
+           :A (v6 / label)
+           :D (v7 / label))
+    :H (v3 / label
+           :A (v8 / label)
+           :A (v9 / label
+                  :R (v14 / label)
+                  :E (v15 / label
+                          :R (v20 / label)
+                          :C (v21 / label))
+                  :E (v16 / label)
+                  :C (v17 / label))
+           :A (v10 / label
+                   :R (v18 / label)
+                   :C (v19 / label))
+           :P (v11 / label)))

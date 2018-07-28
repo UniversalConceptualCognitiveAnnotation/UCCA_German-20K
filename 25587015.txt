@@ -1,10 +1,27 @@
 # ::id 25587015
 # ::tok »Allerdings . Ich kann ja doch an Bord meines Fahrzeugs ohne Salpeter , Schwefel und Kohlen kein Pulver fabrizieren.«
-(label :H label
-       :D label
-       :A label
-       :P label
-       :E label
-       :C label
-       :R label
-       :N label)
+(v1 / label
+    :H (v2 / label
+           :D (v3 / label)
+           :A (v4 / label)
+           :D (v5 / label)
+           :D (v6 / label
+                  :E (v11 / label)
+                  :C (v12 / label))
+           :A (v7 / label
+                  :E (v13 / label
+                          :E (v20 / label)
+                          :C (v21 / label))
+                  :R (v14 / label)
+                  :C (v15 / label))
+           :A (v8 / label
+                  :E (v16 / label)
+                  :C (v17 / label
+                          :C (v22 / label)
+                          :C (v23 / label)
+                          :N (v24 / label)
+                          :C (v25 / label)))
+           :A (v9 / label
+                  :E (v18 / label)
+                  :C (v19 / label))
+           :P (v10 / label)))

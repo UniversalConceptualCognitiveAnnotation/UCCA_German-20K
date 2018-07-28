@@ -1,8 +1,12 @@
 # ::id 25635003
 # ::tok Europäer dürfen die Wilden nicht zuerst angreifen .
-(label :H label
-       :A label
-       :D label
-       :P label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :D (v4 / label)
+           :A (v5 / label
+                  :E (v9 / label)
+                  :C (v10 / label))
+           :D (v6 / label)
+           :D (v7 / label)
+           :P (v8 / label)))

@@ -1,11 +1,47 @@
 # ::id 25612008
 # ::tok Dumont dUrville vernahm auf Befragen der Eingeborenen , daß La Pérouse , nachdem er seine beiden Schiffe auf den Riffen der Insel verloren , ein kleineres Fahrzeug bauen ließ , um damit abermals zugrunde zu gehen ... Wo ? wußte man nicht .
-(label :H label
-       :A label
-       :P label
-       :S label
-       :D label
-       :R label
-       :L label
-       :C label
-       :E label)
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label)
+           :P (v5 / label)
+           :A (v6 / label
+                  :R (v12 / label)
+                  :P (v13 / label)
+                  :A (v14 / label
+                          :R (v21 / label)
+                          :C (v22 / label)))
+           :A (v7 / label
+                  :R (v15 / label)
+                  :H (v16 / label
+                          :A (v23 / label)
+                          :A (v24 / label
+                                  :E (v34 / label)
+                                  :E (v35 / label)
+                                  :C (v36 / label))
+                          :P (v25 / label)
+                          :D (v26 / label))
+                  :L (v17 / label)
+                  :H (v18 / label
+                          :A (v27 / label)
+                          :A (v28 / label
+                                  :E (v37 / label)
+                                  :E (v38 / label)
+                                  :C (v39 / label))
+                          :A (v29 / label
+                                  :R (v40 / label)
+                                  :E (v41 / label
+                                          :R (v44 / label)
+                                          :C (v45 / label))
+                                  :E (v42 / label)
+                                  :C (v43 / label))
+                          :P (v30 / label))
+                  :L (v19 / label)
+                  :H (v20 / label
+                          :A (v31 / label)
+                          :D (v32 / label)
+                          :P (v33 / label))))
+    :H (v3 / label
+           :A (v8 / label)
+           :S (v9 / label)
+           :A (v10 / label)
+           :D (v11 / label)))

@@ -1,8 +1,12 @@
 # ::id 25633016
 # ::tok »Ich meinesteils , mein Herr , habe überall solche angetroffen.«
-(label :H label
-       :A label
-       :D label
-       :P label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :D (v4 / label)
+           :A (v5 / label
+                  :E (v9 / label)
+                  :C (v10 / label))
+           :A (v6 / label)
+           :A (v7 / label)
+           :P (v8 / label)))

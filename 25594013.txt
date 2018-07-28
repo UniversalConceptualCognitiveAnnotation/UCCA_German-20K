@@ -1,11 +1,32 @@
 # ::id 25594013
 # ::tok Diese Pflanzen gehen aus sich selbst hervor , und das Prinzip ihres Daseins liegt im Wasser , das ihnen Kraft und Nahrung gewährt .
-(label :H label
-       :L label
-       :A label
-       :P label
-       :S label
-       :E label
-       :C label
-       :R label
-       :N label)
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label
+                  :E (v11 / label)
+                  :C (v12 / label))
+           :P (v6 / label)
+           :A (v7 / label
+                  :R (v13 / label)
+                  :E (v14 / label)
+                  :C (v15 / label)))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v8 / label
+                  :E (v16 / label
+                          :R (v22 / label)
+                          :C (v23 / label))
+                  :E (v17 / label)
+                  :C (v18 / label))
+           :S (v9 / label)
+           :A (v10 / label
+                   :R (v19 / label)
+                   :C (v20 / label)
+                   :E (v21 / label
+                           :R (v24 / label)
+                           :A (v25 / label)
+                           :A (v26 / label
+                                   :C (v28 / label)
+                                   :N (v29 / label)
+                                   :C (v30 / label))
+                           :P (v27 / label)))))

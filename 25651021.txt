@@ -1,8 +1,15 @@
 # ::id 25651021
 # ::tok Den ganzen Tag über war ich von bangen Ahnungen gequält .
-(label :H label
-       :A label
-       :P label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v7 / label)
+                  :E (v8 / label)
+                  :C (v9 / label)
+                  :E (v10 / label))
+           :A (v4 / label)
+           :A (v5 / label
+                  :R (v11 / label)
+                  :E (v12 / label)
+                  :C (v13 / label))
+           :P (v6 / label)))

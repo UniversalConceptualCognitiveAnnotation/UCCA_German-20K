@@ -1,11 +1,49 @@
 # ::id 25673005
 # ::tok »Etwa 40- bis 50.000 . Man sagt sogar , daß im Jahr 1814 , als die englische Regierung auf eigene Rechnung fischen ließ , ihre Taucher binnen 20 Tagen 76 Millionen Muscheln zutage förderten.«
-(label :H label
-       :A label
-       :P label
-       :D label
-       :E label
-       :C label
-       :R label
-       :L label
-       :T label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :P (v4 / label)
+           :A (v5 / label
+                  :H (v6 / label
+                         :D (v8 / label)
+                         :A (v9 / label)
+                         :P (v10 / label)
+                         :A (v11 / label
+                                 :E (v16 / label)
+                                 :C (v17 / label
+                                         :C (v22 / label)
+                                         :R (v23 / label)
+                                         :C (v24 / label))))
+                  :H (v7 / label
+                         :A (v12 / label)
+                         :P (v13 / label)
+                         :D (v14 / label)
+                         :A (v15 / label
+                                 :R (v18 / label)
+                                 :H (v19 / label
+                                         :T (v25 / label
+                                                 :R (v34 / label)
+                                                 :C (v35 / label))
+                                         :A (v26 / label
+                                                 :E (v36 / label)
+                                                 :C (v37 / label))
+                                         :A (v27 / label
+                                                 :R (v38 / label)
+                                                 :C (v39 / label))
+                                         :A (v28 / label
+                                                 :E (v40 / label)
+                                                 :C (v41 / label))
+                                         :P (v29 / label))
+                                 :L (v20 / label)
+                                 :H (v21 / label
+                                         :A (v30 / label
+                                                 :E (v42 / label)
+                                                 :E (v43 / label)
+                                                 :C (v44 / label))
+                                         :D (v31 / label
+                                                 :R (v45 / label)
+                                                 :E (v46 / label)
+                                                 :C (v47 / label))
+                                         :P (v32 / label)
+                                         :D (v33 / label)))))))

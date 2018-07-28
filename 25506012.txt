@@ -1,11 +1,26 @@
 # ::id 25506012
 # ::tok »Ich weiß nicht , mein Herr , wie ich Ihnen dafür danken kann , aber ich will Ihre Gefälligkeit nicht mißbrauchen .
-(label :H label
-       :L label
-       :A label
-       :S label
-       :D label
-       :P label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label)
+           :S (v6 / label)
+           :D (v7 / label)
+           :A (v8 / label
+                  :E (v15 / label)
+                  :C (v16 / label))
+           :A (v9 / label
+                  :R (v17 / label)
+                  :A (v18 / label)
+                  :A (v19 / label)
+                  :A (v20 / label)
+                  :P (v21 / label)
+                  :D (v22 / label)))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v10 / label)
+           :D (v11 / label)
+           :A (v12 / label
+                   :E (v23 / label)
+                   :C (v24 / label))
+           :D (v13 / label)
+           :P (v14 / label)))

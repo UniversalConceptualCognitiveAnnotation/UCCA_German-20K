@@ -1,10 +1,20 @@
 # ::id 25648034
 # ::tok Meine Gefährten waren ohne Zweifel ebenso , ohne es zu merken , in ihre Kabine gebracht worden .
-(label :H label
-       :L label
-       :A label
-       :D label
-       :P label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label
+                  :E (v12 / label)
+                  :C (v11 / label))
+           :A (v6 / label
+                  :E (v13 / label)
+                  :C (v14 / label))
+           :D (v7 / label)
+           :A (v8 / label
+                  :R (v15 / label)
+                  :E (v16 / label)
+                  :C (v17 / label))
+           :P (v9 / label))
+    :L (v3 / label)
+    :H (v4 / label
+           :P (v10 / label)
+           :A v11))

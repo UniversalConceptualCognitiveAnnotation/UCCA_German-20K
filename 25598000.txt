@@ -1,9 +1,26 @@
 # ::id 25598000
 # ::tok Der Genosse von Kapitän Nemo nahm das Tier auf seine Schulter , und wir setzten unseren Weg fort .
-(label :H label
-       :L label
-       :A label
-       :P label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label
+                  :E (v12 / label
+                          :R (v22 / label)
+                          :E (v23 / label)
+                          :C (v24 / label))
+                  :E (v13 / label)
+                  :C (v14 / label))
+           :P (v6 / label)
+           :A (v7 / label
+                  :E (v15 / label)
+                  :C (v16 / label))
+           :A (v8 / label
+                  :R (v17 / label)
+                  :E (v18 / label)
+                  :C (v19 / label)))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v9 / label)
+           :P (v10 / label)
+           :A (v11 / label
+                   :E (v20 / label)
+                   :C (v21 / label))))

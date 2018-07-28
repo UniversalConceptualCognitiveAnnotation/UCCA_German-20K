@@ -1,9 +1,14 @@
 # ::id 25599004
 # ::tok Zu unserem Glück haben diese gefräßigen Tiere kein scharfes Gesicht .
-(label :H label
-       :G label
-       :S label
-       :A label
-       :D label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :G (v3 / label)
+           :S (v4 / label)
+           :A (v5 / label
+                  :E (v8 / label)
+                  :E (v9 / label)
+                  :C (v10 / label))
+           :D (v6 / label)
+           :A (v7 / label
+                  :E (v11 / label)
+                  :C (v12 / label))))

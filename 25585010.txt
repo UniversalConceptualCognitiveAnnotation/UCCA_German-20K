@@ -1,10 +1,25 @@
 # ::id 25585010
 # ::tok Ich sah den Kommandanten der " Nautilus " mit einer Miene an , die nichts Schmeichelhaftes für ihn hatte .
-(label :H label
-       :A label
-       :P label
-       :E label
-       :C label
-       :R label
-       :D label
-       :S label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :P (v4 / label)
+           :A (v5 / label
+                  :E (v7 / label
+                         :R (v14 / label)
+                         :C (v15 / label))
+                  :E (v8 / label)
+                  :C (v9 / label))
+           :A (v6 / label
+                  :R (v10 / label)
+                  :E (v11 / label)
+                  :C (v12 / label)
+                  :E (v13 / label
+                          :A v12
+                          :R (v16 / label)
+                          :D (v17 / label)
+                          :A (v18 / label)
+                          :A (v19 / label
+                                  :R (v21 / label)
+                                  :C (v22 / label))
+                          :S (v20 / label)))))

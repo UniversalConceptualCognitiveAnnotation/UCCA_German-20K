@@ -1,10 +1,44 @@
 # ::id 25438028
 # ::tok Tausende von Taschentüchern über der dichten Volksmasse geschwenkt , begrüßten die ›Abraham Lincoln‹ , bis sie in die Gewässer des Hudson , an der Spitze der langen Halbinsel , gelangte , die New York bildet .
-(label :H label
-       :L label
-       :A label
-       :P label
-       :E label
-       :C label
-       :R label
-       :S label)
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label
+                  :A (v12 / label
+                          :E (v26 / label
+                                  :C (v40 / label)
+                                  :R (v41 / label))
+                          :C (v27 / label))
+                  :A (v13 / label
+                          :R (v28 / label)
+                          :E (v29 / label)
+                          :E (v30 / label)
+                          :C (v31 / label))
+                  :P (v14 / label))
+           :P (v6 / label)
+           :A (v7 / label
+                  :E (v15 / label)
+                  :C (v16 / label)))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v8 / label)
+           :A (v9 / label
+                  :R (v17 / label)
+                  :E (v18 / label
+                          :R (v32 / label)
+                          :C (v33 / label))
+                  :E (v19 / label)
+                  :C (v20 / label))
+           :A (v10 / label
+                   :E (v21 / label
+                           :R (v34 / label)
+                           :E (v35 / label)
+                           :C (v36 / label))
+                   :R (v22 / label)
+                   :E (v23 / label
+                           :R (v37 / label)
+                           :A (v38 / label)
+                           :S (v39 / label)
+                           :A (v25 / label))
+                   :E (v24 / label)
+                   :C v25)
+           :P (v11 / label)))

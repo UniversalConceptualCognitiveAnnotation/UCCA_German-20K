@@ -1,9 +1,22 @@
 # ::id 25591004
 # ::tok Nicht mehr eine träge Masse , hatte ich eine verhältnismäßig große Freiheit der Bewegung .
-(label :H label
-       :S label
-       :D label
-       :A label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :S (v4 / label)
+           :D (v5 / label
+                  :E (v12 / label)
+                  :C (v13 / label))
+           :A (v6 / label
+                  :E (v14 / label)
+                  :E (v15 / label)
+                  :C (v16 / label)))
+    :H (v3 / label
+           :A (v7 / label)
+           :S (v8 / label
+                  :E (v17 / label)
+                  :C (v18 / label))
+           :D (v9 / label)
+           :D (v10 / label)
+           :A (v11 / label
+                   :R (v19 / label)
+                   :C (v20 / label))))

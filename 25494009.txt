@@ -1,11 +1,24 @@
 # ::id 25494009
 # ::tok Wozu sollte es dienen , einen solchen Satz zu erörtern , wenn die Gewalt der besten Beweisgründe Meister ist .
-(label :H label
-       :L label
-       :A label
-       :D label
-       :P label
-       :S label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label)
+           :D (v6 / label)
+           :P (v7 / label)
+           :A (v8 / label
+                  :A (v11 / label)
+                  :A (v12 / label
+                          :E (v17 / label)
+                          :E (v18 / label)
+                          :C (v19 / label))
+                  :P (v13 / label)))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v9 / label
+                  :E (v14 / label
+                          :R (v20 / label)
+                          :E (v21 / label)
+                          :C (v22 / label))
+                  :E (v15 / label)
+                  :C (v16 / label))
+           :S (v10 / label)))

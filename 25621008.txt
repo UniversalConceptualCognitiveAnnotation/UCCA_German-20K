@@ -1,7 +1,14 @@
 # ::id 25621008
 # ::tok »Nun werden wir wieder Fleisch essen , und was für Fleisch !
-(label :H label
-       :L label
-       :D label
-       :A label
-       :P label)
+(v1 / label
+    :H (v2 / label
+           :D (v5 / label)
+           :A (v6 / label)
+           :D (v7 / label)
+           :A (v8 / label)
+           :P (v9 / label))
+    :L (v3 / label)
+    :H (v4 / label
+           :D (v10 / label)
+           :A (v11 / label)
+           :P v9))

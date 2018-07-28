@@ -1,9 +1,13 @@
 # ::id 25668013
 # ::tok »Zivilisierte Länder« , sagte damals Ned Land zu mir .
-(label :H label
-       :A label
-       :P label
-       :D label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v8 / label)
+                  :C (v9 / label))
+           :P (v4 / label)
+           :D (v5 / label)
+           :A (v6 / label)
+           :A (v7 / label
+                  :R (v10 / label)
+                  :C (v11 / label))))

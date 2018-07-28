@@ -1,10 +1,14 @@
 # ::id 25651031
 # ::tok Vom Sterbenden oder Toten war nicht die Rede .
-(label :H label
-       :A label
-       :D label
-       :P label
-       :C label
-       :N label
-       :E label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :C (v6 / label
+                         :R (v11 / label)
+                         :C (v12 / label))
+                  :N (v7 / label)
+                  :C (v8 / label))
+           :D (v4 / label)
+           :P (v5 / label
+                  :E (v9 / label)
+                  :C (v10 / label))))

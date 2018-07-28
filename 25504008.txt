@@ -1,10 +1,19 @@
 # ::id 25504008
 # ::tok Sie sind von keiner Verwaltung kontrolliert und sind darum nicht minder gut , denk’ ich.«
-(label :H label
-       :L label
-       :A label
-       :P label
-       :D label
-       :R label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label)
+           :A (v6 / label
+                  :R (v12 / label)
+                  :E (v13 / label)
+                  :C (v14 / label))
+           :P (v7 / label))
+    :L (v3 / label)
+    :H (v4 / label
+           :D (v8 / label)
+           :D (v9 / label
+                  :E (v15 / label)
+                  :E (v16 / label)
+                  :C (v17 / label))
+           :P (v10 / label)
+           :A (v11 / label)))

@@ -1,8 +1,9 @@
 # ::id 25518011
 # ::tok »Reiner Zufall , mein Herr .
-(label :H label
-       :D label
-       :S label
-       :A label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :D (v3 / label)
+           :S (v4 / label)
+           :A (v5 / label
+                  :E (v6 / label)
+                  :C (v7 / label))))

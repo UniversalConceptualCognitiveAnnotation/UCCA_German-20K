@@ -1,8 +1,12 @@
 # ::id 25611006
 # ::tok Es war also ferner kein Zweifel mehr statthaft .
-(label :H label
-       :D label
-       :A label
-       :S label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :D (v3 / label)
+           :D (v4 / label)
+           :A (v5 / label
+                  :E (v7 / label
+                         :C (v9 / label)
+                         :E (v10 / label))
+                  :C (v8 / label))
+           :S (v6 / label)))

@@ -1,11 +1,39 @@
 # ::id 25411004
 # ::tok Am 5 . März 1867 stieß der Moravian von der Montreal Ocean Company , unter 27° 30 ' Breite und 72° 15 ' Länge , bei Nacht wider einen Felsen , der in jener Gegend von keiner Karte verzeichnet war .
-(label :H label
-       :T label
-       :P label
-       :A label
-       :R label
-       :C label
-       :E label
-       :N label
-       :S label)
+(v1 / label
+    :H (v2 / label
+           :T (v3 / label
+                  :R (v9 / label)
+                  :C (v10 / label))
+           :P (v4 / label)
+           :A (v5 / label
+                  :E (v11 / label
+                          :R (v24 / label)
+                          :E (v25 / label)
+                          :C (v26 / label))
+                  :E (v12 / label)
+                  :C (v13 / label))
+           :A (v6 / label
+                  :R (v14 / label)
+                  :C (v15 / label)
+                  :N (v16 / label)
+                  :C (v17 / label))
+           :A (v7 / label
+                  :R (v18 / label)
+                  :C (v19 / label))
+           :A (v8 / label
+                  :R (v20 / label)
+                  :E (v21 / label)
+                  :C (v22 / label)
+                  :E (v23 / label
+                          :A v22
+                          :R (v27 / label)
+                          :A (v28 / label
+                                  :R (v31 / label)
+                                  :E (v32 / label)
+                                  :C (v33 / label))
+                          :A (v29 / label
+                                  :R (v34 / label)
+                                  :E (v35 / label)
+                                  :C (v36 / label))
+                          :S (v30 / label)))))

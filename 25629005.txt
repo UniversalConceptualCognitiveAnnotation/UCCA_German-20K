@@ -1,10 +1,18 @@
 # ::id 25629005
 # ::tok »Ich auch nicht , Ned , wenn ich nicht einen Paradiesvogel erhasche.«
-(label :H label
-       :L label
-       :S label
-       :A label
-       :D label
-       :P label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :S (v5 / label)
+           :A (v6 / label)
+           :D (v7 / label
+                  :E (v13 / label)
+                  :C (v14 / label))
+           :A (v8 / label))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v9 / label)
+           :D (v10 / label)
+           :A (v11 / label
+                   :E (v15 / label)
+                   :C (v16 / label))
+           :P (v12 / label)))

@@ -1,11 +1,42 @@
 # ::id 25616008
 # ::tok Um 12 Uhr , als der Schiffs leutnant den Stand der Sonne aufnahm , gewahrte ich die Gipfel des Gebirges Arfalxs , das aus den Ebenen stufenmäßig zu steilen Spitzen aufsteigt .
-(label :H label
-       :L label
-       :T label
-       :P label
-       :A label
-       :E label
-       :C label
-       :R label
-       :D label)
+(v1 / label
+    :H (v2 / label
+           :T (v5 / label
+                  :E (v12 / label)
+                  :C (v13 / label))
+           :P (v6 / label)
+           :A (v7 / label)
+           :A (v8 / label
+                  :E (v14 / label
+                          :R (v24 / label)
+                          :A (v25 / label
+                                  :R (v34 / label)
+                                  :E (v35 / label)
+                                  :C (v36 / label))
+                          :D (v26 / label)
+                          :A (v27 / label
+                                  :R (v37 / label)
+                                  :E (v38 / label)
+                                  :C (v39 / label))
+                          :P (v28 / label)
+                          :A (v29 / label))
+                  :E (v15 / label
+                          :R (v30 / label)
+                          :E (v31 / label)
+                          :C v29)
+                  :E (v16 / label)
+                  :C (v17 / label)))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v9 / label
+                  :E (v18 / label)
+                  :E (v19 / label)
+                  :C (v20 / label))
+           :A (v10 / label
+                   :E (v21 / label
+                           :R (v32 / label)
+                           :C (v33 / label))
+                   :E (v22 / label)
+                   :C (v23 / label))
+           :P (v11 / label)))

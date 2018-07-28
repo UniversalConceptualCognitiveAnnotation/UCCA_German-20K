@@ -1,8 +1,18 @@
 # ::id 25669002
 # ::tok Ich gab dem Kanadier keine Antwort weiter ; ich wollte nicht darüber hin und her reden .
-(label :H label
-       :A label
-       :P label
-       :D label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label)
+           :P (v5 / label)
+           :A (v6 / label
+                  :E (v15 / label)
+                  :C (v16 / label))
+           :D (v7 / label)
+           :A (v8 / label))
+    :H (v3 / label
+           :A (v9 / label)
+           :D (v10 / label)
+           :D (v11 / label)
+           :A (v12 / label)
+           :D (v13 / label)
+           :P (v14 / label)))

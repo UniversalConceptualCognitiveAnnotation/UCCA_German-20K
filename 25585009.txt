@@ -1,8 +1,12 @@
 # ::id 25585009
 # ::tok »Die Büchse in der Hand.«
-(label :H label
-       :S label
-       :A label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :S (v3 / label)
+           :A (v4 / label
+                  :E (v6 / label)
+                  :C (v7 / label))
+           :A (v5 / label
+                  :R (v8 / label)
+                  :E (v9 / label)
+                  :C (v10 / label))))

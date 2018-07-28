@@ -1,8 +1,14 @@
 # ::id 25665020
 # ::tok Ist er ein Opfer oder ein Henker ?
-(label :H label
-       :S label
-       :A label
-       :C label
-       :N label
-       :E label)
+(v1 / label
+    :H (v2 / label
+           :S (v3 / label)
+           :A (v4 / label)
+           :A (v5 / label
+                  :C (v6 / label
+                         :E (v9 / label)
+                         :C (v10 / label))
+                  :N (v7 / label)
+                  :C (v8 / label
+                         :E (v11 / label)
+                         :C (v12 / label)))))

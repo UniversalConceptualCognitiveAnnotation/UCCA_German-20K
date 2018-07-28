@@ -1,10 +1,24 @@
 # ::id 25510005
 # ::tok Es würde dann der Fall eintreten , daß Sie für die Erzeugung mehr verbrauchten , als Sie dadurch erzeugen ! «
-(label :H label
-       :L label
-       :D label
-       :A label
-       :P label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :D (v5 / label)
+           :D (v6 / label)
+           :A (v7 / label
+                  :E (v13 / label)
+                  :C (v14 / label))
+           :P (v8 / label)
+           :A (v9 / label
+                  :R (v15 / label)
+                  :A (v16 / label)
+                  :A (v17 / label
+                          :R (v20 / label)
+                          :E (v21 / label)
+                          :C (v22 / label))
+                  :D (v18 / label)
+                  :P (v19 / label)))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v10 / label)
+           :D (v11 / label)
+           :P (v12 / label)))

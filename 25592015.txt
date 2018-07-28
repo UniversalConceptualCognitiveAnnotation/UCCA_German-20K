@@ -1,11 +1,30 @@
 # ::id 25592015
 # ::tok Auf die Sand ebene folgte eine Lage klebrigen Schlammes , der nur aus kieseligen oder kalk artigen Muscheln bestand .
-(label :H label
-       :A label
-       :P label
-       :R label
-       :E label
-       :C label
-       :D label
-       :S label
-       :N label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :R (v6 / label)
+                  :E (v7 / label)
+                  :E (v8 / label)
+                  :C (v9 / label))
+           :P (v4 / label)
+           :A (v5 / label
+                  :E (v10 / label
+                          :E (v14 / label)
+                          :C (v15 / label))
+                  :E (v11 / label
+                          :R (v16 / label)
+                          :D (v17 / label)
+                          :A (v18 / label
+                                  :R (v20 / label)
+                                  :E (v21 / label
+                                          :C (v23 / label)
+                                          :N (v24 / label)
+                                          :C (v25 / label
+                                                  :C (v26 / label)
+                                                  :E (v27 / label)))
+                                  :C (v22 / label))
+                          :S (v19 / label)
+                          :A (v13 / label))
+                  :E (v12 / label)
+                  :C v13)))

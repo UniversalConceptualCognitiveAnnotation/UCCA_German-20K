@@ -1,5 +1,9 @@
 # ::id 25681004
 # ::tok Wir verhielten uns schweigend .
-(label :H label
-       :A label
-       :P label)
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label)
+           :P (v5 / label))
+    :H (v3 / label
+           :P (v6 / label)
+           :A v4))

@@ -1,8 +1,10 @@
 # ::id 25648013
 # ::tok Es ging ziemlich still beim Essen her .
-(label :H label
-       :D label
-       :S label
-       :A label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :D (v3 / label)
+           :D (v4 / label)
+           :S (v5 / label)
+           :A (v6 / label
+                  :E (v7 / label)
+                  :C (v8 / label))))

@@ -1,11 +1,37 @@
 # ::id 25604009
 # ::tok Die " Nautilus " fuhr , ungeachtet ihrer Schnelligkeit , doch mehrere Stunden lang mitten durch diese Truppe , und ihre Garne fingen eine ungeheure Menge von ihnen .
-(label :H label
-       :L label
-       :A label
-       :P label
-       :T label
-       :D label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v7 / label
+                  :E (v18 / label)
+                  :C (v19 / label))
+           :P (v8 / label)
+           :T (v9 / label
+                  :E (v20 / label)
+                  :C (v21 / label)
+                  :E (v22 / label))
+           :D (v10 / label
+                   :E (v23 / label)
+                   :C (v24 / label))
+           :A (v11 / label
+                   :E (v25 / label)
+                   :C (v26 / label)))
+    :H (v3 / label
+           :P (v12 / label)
+           :A (v13 / label
+                   :E (v27 / label)
+                   :C (v28 / label)))
+    :L (v4 / label)
+    :L (v5 / label)
+    :H (v6 / label
+           :A (v14 / label
+                   :E (v29 / label)
+                   :C (v30 / label))
+           :P (v15 / label)
+           :D (v16 / label
+                   :E (v31 / label)
+                   :E (v32 / label)
+                   :C (v33 / label))
+           :A (v17 / label
+                   :R (v34 / label)
+                   :C (v35 / label))))

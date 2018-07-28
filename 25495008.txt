@@ -1,9 +1,26 @@
 # ::id 25495008
 # ::tok Gott , wenn er an ihn glaubte , sein Gewissen , wenn er eins hatte , waren seine einzigen Richter .
-(label :H label
-       :A label
-       :S label
-       :C label
-       :E label
-       :R label
-       :P label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :C (v7 / label)
+                  :E (v8 / label
+                         :R (v15 / label)
+                         :A (v16 / label)
+                         :A (v17 / label
+                                 :R (v23 / label)
+                                 :C (v24 / label))
+                         :P (v18 / label)))
+           :A (v4 / label
+                  :E (v9 / label
+                         :R (v19 / label)
+                         :A (v20 / label)
+                         :A (v21 / label)
+                         :S (v22 / label))
+                  :E (v10 / label)
+                  :C (v11 / label))
+           :S (v5 / label)
+           :A (v6 / label
+                  :E (v12 / label)
+                  :E (v13 / label)
+                  :C (v14 / label))))

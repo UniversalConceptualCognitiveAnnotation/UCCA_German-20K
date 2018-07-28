@@ -1,11 +1,32 @@
 # ::id 25606007
 # ::tok Dann wird diese neue Insel später mit den benachbarten Archipelen zusammenwachsen , und von Neuseeland und Neu-Caledonien bis zu den Marquesas wird ein neuer Kontinent entstehen .
-(label :L label
-       :H label
-       :A label
-       :D label
-       :P label
-       :E label
-       :C label
-       :R label
-       :N label)
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :A (v6 / label
+                  :E (v14 / label)
+                  :E (v15 / label)
+                  :C (v16 / label))
+           :D (v7 / label)
+           :A (v8 / label
+                  :R (v17 / label)
+                  :E (v18 / label)
+                  :E (v19 / label)
+                  :C (v20 / label))
+           :P (v9 / label))
+    :L (v4 / label)
+    :H (v5 / label
+           :A (v10 / label
+                   :R (v21 / label)
+                   :C (v22 / label)
+                   :N (v23 / label)
+                   :C (v24 / label))
+           :A (v11 / label
+                   :R (v25 / label)
+                   :E (v26 / label)
+                   :C (v27 / label))
+           :A (v12 / label
+                   :E (v28 / label)
+                   :E (v29 / label)
+                   :C (v30 / label))
+           :P (v13 / label)))

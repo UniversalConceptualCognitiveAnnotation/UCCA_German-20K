@@ -1,12 +1,30 @@
 # ::id 25652001
 # ::tok In einer halben Stunde waren wir für diesen wiederholten Gang angekleidet und mit den Apparaten zur Beleuchtung und zum Atmen versehen .
-(label :H label
-       :L label
-       :T label
-       :A label
-       :S label
-       :P label
-       :R label
-       :E label
-       :C label
-       :N label)
+(v1 / label
+    :H (v2 / label
+           :T (v5 / label
+                  :R (v12 / label)
+                  :E (v13 / label)
+                  :E (v14 / label)
+                  :C (v15 / label))
+           :A (v6 / label)
+           :A (v7 / label
+                  :R (v16 / label)
+                  :E (v17 / label)
+                  :E (v18 / label)
+                  :C (v19 / label))
+           :S (v8 / label))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v9 / label
+                  :R (v20 / label)
+                  :E (v21 / label)
+                  :C (v22 / label))
+           :A (v10 / label
+                   :R (v23 / label)
+                   :C (v24 / label)
+                   :N (v25 / label)
+                   :C (v26 / label
+                           :R (v27 / label)
+                           :C (v28 / label)))
+           :P (v11 / label)))

@@ -1,9 +1,22 @@
 # ::id 25673002
 # ::tok »Es scheint mir doch , daß der Skaphander , wie Sie ihn im Gebrauch haben , dabei große Dienste leisten würde.«
-(label :H label
-       :P label
-       :A label
-       :D label
-       :L label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :P (v3 / label)
+           :A (v4 / label)
+           :D (v5 / label)
+           :A (v6 / label
+                  :L (v7 / label)
+                  :H (v8 / label
+                         :A (v10 / label
+                                 :E (v19 / label)
+                                 :C (v20 / label))
+                         :D (v11 / label)
+                         :D (v12 / label)
+                         :P (v13 / label)
+                         :D (v14 / label))
+                  :H (v9 / label
+                         :D (v15 / label)
+                         :A (v16 / label)
+                         :A (v17 / label)
+                         :P (v18 / label)))))

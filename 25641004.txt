@@ -1,10 +1,32 @@
 # ::id 25641004
 # ::tok Am 13 . Januar kam Kapitän Nemo in das Meer von Timor und hatte die Insel dieses Namens unter 122° Länge in Sicht .
-(label :H label
-       :L label
-       :T label
-       :P label
-       :A label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :T (v5 / label
+                  :E (v12 / label)
+                  :C (v13 / label))
+           :P (v6 / label)
+           :A (v7 / label
+                  :E (v14 / label)
+                  :C (v15 / label))
+           :A (v8 / label
+                  :R (v16 / label)
+                  :E (v17 / label
+                          :R (v27 / label)
+                          :C (v28 / label))
+                  :E (v18 / label)
+                  :C (v19 / label)))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v9 / label
+                  :E (v20 / label
+                          :R (v29 / label)
+                          :C (v30 / label))
+                  :E (v21 / label)
+                  :C (v22 / label))
+           :A (v10 / label
+                   :R (v23 / label)
+                   :C (v24 / label))
+           :P (v11 / label
+                   :R (v25 / label)
+                   :C (v26 / label))))

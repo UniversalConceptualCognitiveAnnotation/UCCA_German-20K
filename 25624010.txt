@@ -1,11 +1,43 @@
 # ::id 25624010
 # ::tok Manche waren noch nicht völlig reif , die enthielten in dicker Schale ein weißes , wenig faseriges Fleisch , andere , in großer Anzahl , gelblich und gallertartig , warteten nur , daß man sie einsammelte .
-(label :H label
-       :A label
-       :D label
-       :S label
-       :P label
-       :E label
-       :C label
-       :R label
-       :N label)
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label)
+           :D (v6 / label
+                  :E (v17 / label)
+                  :C (v18 / label))
+           :D (v7 / label)
+           :S (v8 / label))
+    :H (v3 / label
+           :A (v9 / label)
+           :S (v10 / label)
+           :A (v11 / label
+                   :R (v19 / label)
+                   :E (v20 / label)
+                   :C (v21 / label))
+           :A (v12 / label
+                   :E (v22 / label)
+                   :E (v23 / label
+                           :C (v32 / label)
+                           :C (v33 / label
+                                   :E (v40 / label)
+                                   :C (v41 / label)))
+                   :C (v24 / label)))
+    :H (v4 / label
+           :A (v13 / label
+                   :C (v25 / label)
+                   :E (v26 / label
+                           :R (v34 / label)
+                           :E (v35 / label)
+                           :C (v36 / label))
+                   :E (v27 / label
+                           :C (v37 / label)
+                           :N (v38 / label)
+                           :C (v39 / label)))
+           :P (v14 / label)
+           :D (v15 / label)
+           :A (v16 / label
+                   :R (v28 / label)
+                   :A (v29 / label)
+                   :A (v30 / label)
+                   :P (v31 / label))))

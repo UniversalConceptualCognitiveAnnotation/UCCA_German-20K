@@ -1,11 +1,32 @@
 # ::id 25670008
 # ::tok In der Tat ist  s ein wirkliches Boot , worin das Tier , das es durch Absonderung geschaffen hat , fährt , ohne daß es ihm anhängt .
-(label :H label
-       :G label
-       :S label
-       :A label
-       :E label
-       :C label
-       :R label
-       :P label
-       :D label)
+(v1 / label
+    :H (v2 / label
+           :G (v3 / label)
+           :S (v4 / label)
+           :A (v5 / label)
+           :A (v6 / label
+                  :E (v7 / label
+                         :R (v11 / label)
+                         :A (v12 / label
+                                 :E (v16 / label
+                                         :R (v23 / label)
+                                         :A (v24 / label)
+                                         :A (v25 / label
+                                                 :R (v27 / label)
+                                                 :C (v28 / label))
+                                         :P (v26 / label)
+                                         :A (v18 / label))
+                                 :E (v17 / label)
+                                 :C v18)
+                         :P (v13 / label)
+                         :D (v14 / label)
+                         :A (v15 / label
+                                 :R (v19 / label)
+                                 :A (v20 / label)
+                                 :A (v21 / label)
+                                 :P (v22 / label))
+                         :A (v10 / label))
+                  :E (v8 / label)
+                  :E (v9 / label)
+                  :C v10)))

@@ -1,10 +1,18 @@
 # ::id 25681009
 # ::tok Ziemlich flach im Osten , hob sie sich etwas nach dem Süden zu .
-(label :H label
-       :A label
-       :D label
-       :S label
-       :P label
-       :R label
-       :C label
-       :E label)
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label)
+           :D (v5 / label)
+           :S (v6 / label)
+           :A (v7 / label
+                  :R (v11 / label)
+                  :C (v12 / label)))
+    :H (v3 / label
+           :P (v8 / label)
+           :A v4
+           :D (v9 / label)
+           :A (v10 / label
+                   :R (v13 / label)
+                   :E (v14 / label)
+                   :C (v15 / label))))

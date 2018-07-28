@@ -1,11 +1,22 @@
 # ::id 25517001
 # ::tok « »Nicht mehr , Herr Arronax , und die Richtigkeit der Berechnung ist leicht zu erkennen .
-(label :H label
-       :L label
-       :S label
-       :A label
-       :D label
-       :P label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :S (v5 / label)
+           :A (v6 / label)
+           :D (v7 / label
+                  :E (v12 / label)
+                  :C (v13 / label))
+           :A (v8 / label
+                  :E (v14 / label)
+                  :C (v15 / label)))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v9 / label
+                  :E (v16 / label
+                          :R (v19 / label)
+                          :C (v20 / label))
+                  :E (v17 / label)
+                  :C (v18 / label))
+           :D (v10 / label)
+           :P (v11 / label)))

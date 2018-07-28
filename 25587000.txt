@@ -1,11 +1,40 @@
 # ::id 25587000
 # ::tok »Vollkommen richtig , Kapitän Nemo ; aber die Luft , die Sie mitnehmen , muß sich doch bald verbrauchen , und sobald sie nur noch 15 Prozent Sauerstoff enthält , wird sie zum Einatmen unbrauchbar.«
-(label :H label
-       :L label
-       :D label
-       :S label
-       :A label
-       :P label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :D (v8 / label)
+           :S (v9 / label)
+           :A (v10 / label
+                   :E (v25 / label)
+                   :C (v26 / label)))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v11 / label
+                   :E (v27 / label
+                           :R (v36 / label)
+                           :A (v37 / label)
+                           :P (v38 / label))
+                   :E (v28 / label)
+                   :C (v29 / label))
+           :D (v12 / label)
+           :P (v13 / label)
+           :D (v14 / label)
+           :D (v15 / label))
+    :L (v5 / label)
+    :H (v6 / label
+           :D (v16 / label)
+           :A (v17 / label)
+           :D (v18 / label
+                   :E (v30 / label)
+                   :C (v31 / label))
+           :A (v19 / label
+                   :E (v32 / label)
+                   :C (v33 / label))
+           :S (v20 / label))
+    :H (v7 / label
+           :D (v21 / label)
+           :A (v22 / label)
+           :A (v23 / label
+                   :R (v34 / label)
+                   :C (v35 / label))
+           :S (v24 / label)))

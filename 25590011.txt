@@ -1,8 +1,28 @@
 # ::id 25590011
 # ::tok Die Ruhmkorffsche Lampe an meinem Gürtel , das Gewehr in der Hand , war ich fertig zum Fortgehen .
-(label :H label
-       :S label
-       :A label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :S (v5 / label)
+           :A (v6 / label
+                  :E (v14 / label)
+                  :E (v15 / label)
+                  :C (v16 / label))
+           :A (v7 / label
+                  :R (v17 / label)
+                  :E (v18 / label)
+                  :C (v19 / label)))
+    :H (v3 / label
+           :S (v8 / label)
+           :A (v9 / label
+                  :E (v20 / label)
+                  :C (v21 / label))
+           :A (v10 / label
+                   :R (v22 / label)
+                   :E (v23 / label)
+                   :C (v24 / label)))
+    :H (v4 / label
+           :A (v11 / label)
+           :S (v12 / label)
+           :A (v13 / label
+                   :R (v25 / label)
+                   :C (v26 / label))))

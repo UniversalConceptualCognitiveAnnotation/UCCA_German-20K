@@ -1,11 +1,27 @@
 # ::id 25618007
 # ::tok Wir saßen völlig fest in einem Meer , wo Ebbe und Flut mäßig sind , ein schlimmer Umstand , um wieder flott zu werden .
-(label :H label
-       :A label
-       :S label
-       :D label
-       :R label
-       :P label
-       :E label
-       :C label
-       :N label)
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label)
+           :S (v5 / label)
+           :D (v6 / label)
+           :A (v7 / label
+                  :R (v12 / label)
+                  :E (v13 / label)
+                  :C (v14 / label)
+                  :E (v15 / label
+                          :A v14
+                          :R (v19 / label)
+                          :A (v20 / label
+                                  :C (v22 / label)
+                                  :N (v23 / label)
+                                  :C (v24 / label))
+                          :S (v21 / label))))
+    :H (v3 / label
+           :A (v8 / label
+                  :E (v16 / label)
+                  :E (v17 / label)
+                  :C (v18 / label))
+           :R (v9 / label)
+           :D (v10 / label)
+           :P (v11 / label)))

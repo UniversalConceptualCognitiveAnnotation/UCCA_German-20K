@@ -1,6 +1,11 @@
 # ::id 25675010
 # ::tok Sie wußten nicht , was ihnen bevorstand .
-(label :H label
-       :A label
-       :P label
-       :D label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :P (v4 / label)
+           :D (v5 / label)
+           :A (v6 / label
+                  :A (v7 / label)
+                  :A (v8 / label)
+                  :P (v9 / label))))

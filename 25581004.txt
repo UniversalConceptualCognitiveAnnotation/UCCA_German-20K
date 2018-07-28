@@ -1,10 +1,19 @@
 # ::id 25581004
 # ::tok Ich ließ den wackeren Jungen nach Belieben schwatzen , ohne ihm viel zu antworten .
-(label :H label
-       :L label
-       :A label
-       :D label
-       :P label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label)
+           :D (v6 / label)
+           :A (v7 / label
+                  :E (v13 / label)
+                  :E (v14 / label)
+                  :C (v15 / label))
+           :A (v8 / label
+                  :R (v16 / label)
+                  :C (v17 / label))
+           :P (v9 / label))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v10 / label)
+           :D (v11 / label)
+           :P (v12 / label)))

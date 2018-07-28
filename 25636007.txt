@@ -1,11 +1,39 @@
 # ::id 25636007
 # ::tok Etwas 20 Pirogen  lange , schmale , aus einem Baum stamm gefertigte Boote  umgaben die " Nautilus " , von geschickten Ruderern geleitet , so daß ich sie nicht ohne Unruhe sah .
-(label :H label
-       :L label
-       :A label
-       :S label
-       :P label
-       :D label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v6 / label
+                  :E (v16 / label
+                          :E (v27 / label
+                                  :R (v31 / label)
+                                  :A (v32 / label
+                                          :E (v34 / label)
+                                          :E (v35 / label)
+                                          :C (v36 / label))
+                                  :P (v33 / label)
+                                  :A (v30 / label))
+                          :E (v28 / label)
+                          :E (v29 / label)
+                          :C v30)
+                  :E (v17 / label)
+                  :E (v18 / label)
+                  :C (v19 / label))
+           :S (v7 / label)
+           :A (v8 / label
+                  :E (v20 / label)
+                  :C (v21 / label)))
+    :H (v3 / label
+           :A (v9 / label
+                  :R (v22 / label)
+                  :E (v23 / label)
+                  :C (v24 / label))
+           :P (v10 / label))
+    :L (v4 / label)
+    :H (v5 / label
+           :A (v11 / label)
+           :A (v12 / label)
+           :D (v13 / label)
+           :A (v14 / label
+                   :E (v25 / label)
+                   :C (v26 / label))
+           :P (v15 / label)))

@@ -1,12 +1,58 @@
 # ::id 25671017
 # ::tok Einige Stunden lang fuhr die Nautilus über solchen weißen Wogen , und ich bemerkte , daß sie ganz geräuschlos durch dieses seifenartige Wasser glitt , als führe sie in den Schaum wirbeln , die mitunter zwischen den Strömungen und Gegenströmungen der Baien entstehen .
-(label :H label
-       :L label
-       :T label
-       :D label
-       :P label
-       :A label
-       :E label
-       :C label
-       :R label
-       :N label)
+(v1 / label
+    :H (v2 / label
+           :T (v5 / label
+                  :E (v13 / label)
+                  :C (v14 / label))
+           :D (v6 / label)
+           :P (v7 / label)
+           :A (v8 / label
+                  :E (v15 / label)
+                  :C (v16 / label))
+           :A (v9 / label
+                  :R (v17 / label)
+                  :E (v18 / label)
+                  :E (v19 / label)
+                  :C (v20 / label)))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v10 / label)
+           :P (v11 / label)
+           :A (v12 / label
+                   :L (v21 / label)
+                   :H (v22 / label
+                           :A (v25 / label)
+                           :D (v26 / label
+                                   :E (v32 / label)
+                                   :C (v33 / label))
+                           :A (v27 / label
+                                   :R (v34 / label)
+                                   :E (v35 / label)
+                                   :E (v36 / label)
+                                   :C (v37 / label))
+                           :P (v28 / label))
+                   :L (v23 / label)
+                   :H (v24 / label
+                           :P (v29 / label)
+                           :A (v30 / label)
+                           :A (v31 / label
+                                   :E (v38 / label
+                                           :R (v43 / label)
+                                           :D (v44 / label)
+                                           :A (v45 / label
+                                                   :R (v47 / label)
+                                                   :C (v48 / label
+                                                           :E (v51 / label)
+                                                           :C (v52 / label))
+                                                   :N (v49 / label)
+                                                   :C (v50 / label
+                                                           :C (v53 / label)
+                                                           :R (v54 / label)
+                                                           :E (v55 / label)))
+                                           :P (v46 / label)
+                                           :A (v42 / label))
+                                   :R (v39 / label)
+                                   :E (v40 / label)
+                                   :E (v41 / label)
+                                   :C v42)))))

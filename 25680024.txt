@@ -1,11 +1,26 @@
 # ::id 25680024
 # ::tok Ned und Conseil befanden sich schon da , voll Freude über »die Vergnügungs partie « , die vorbereitet wurde .
-(label :H label
-       :A label
-       :P label
-       :D label
-       :S label
-       :C label
-       :N label
-       :E label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label
+                  :C (v10 / label)
+                  :N (v12 / label)
+                  :C (v11 / label))
+           :P (v5 / label)
+           :D (v6 / label)
+           :A (v7 / label))
+    :H (v3 / label
+           :S (v8 / label
+                  :E (v13 / label)
+                  :C (v14 / label))
+           :A (v9 / label
+                  :E (v15 / label
+                          :R (v20 / label)
+                          :P (v21 / label)
+                          :A (v19 / label))
+                  :R (v16 / label)
+                  :E (v17 / label)
+                  :E (v18 / label)
+                  :C v19)
+           :A v10
+           :A v11))

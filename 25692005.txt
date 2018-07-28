@@ -1,11 +1,65 @@
 # ::id 25692005
 # ::tok Am 6 . Februar schwamm die Nautilus im Angesicht Adens , das auf der Spitze eines Vorgebirges liegt , das durch eine schmale Landenge mit dem Festland zusammenhängt , eine Art von unzugänglichem Gibraltar , dessen Befestigungswerke die Engländer , nachdem sie sich ihrer im Jahr 1839 bemächtigt hatten , wieder hergestellt und verstärkt haben .
-(label :H label
-       :T label
-       :P label
-       :A label
-       :R label
-       :E label
-       :C label
-       :L label
-       :D label)
+(v1 / label
+    :H (v2 / label
+           :T (v3 / label
+                  :R (v8 / label)
+                  :E (v9 / label)
+                  :C (v10 / label))
+           :P (v4 / label)
+           :A (v5 / label
+                  :E (v11 / label)
+                  :C (v12 / label))
+           :A (v6 / label
+                  :E (v13 / label
+                          :R (v21 / label)
+                          :A (v22 / label
+                                  :R (v30 / label)
+                                  :E (v31 / label)
+                                  :C (v32 / label))
+                          :A (v23 / label
+                                  :E (v33 / label
+                                          :R (v47 / label)
+                                          :A (v48 / label
+                                                  :R (v55 / label)
+                                                  :E (v56 / label)
+                                                  :E (v57 / label)
+                                                  :C (v58 / label))
+                                          :A (v49 / label
+                                                  :R (v59 / label)
+                                                  :E (v60 / label)
+                                                  :C (v61 / label))
+                                          :P (v50 / label)
+                                          :A (v35 / label))
+                                  :E (v34 / label)
+                                  :C v35)
+                          :P (v24 / label))
+                  :R (v14 / label)
+                  :E (v15 / label)
+                  :C (v16 / label))
+           :A (v7 / label
+                  :E (v17 / label
+                          :H (v25 / label
+                                  :R (v36 / label)
+                                  :A (v37 / label)
+                                  :A (v38 / label
+                                          :E (v51 / label)
+                                          :C (v46 / label))
+                                  :D (v39 / label)
+                                  :P (v40 / label))
+                          :L (v26 / label)
+                          :H (v27 / label
+                                  :A (v41 / label)
+                                  :P (v42 / label)
+                                  :A (v43 / label)
+                                  :T (v44 / label
+                                          :R (v52 / label)
+                                          :C (v53 / label)
+                                          :E (v54 / label)))
+                          :L (v28 / label)
+                          :H (v29 / label
+                                  :P (v45 / label)
+                                  :A v46))
+                  :R (v18 / label)
+                  :E (v19 / label)
+                  :C (v20 / label))))

@@ -1,10 +1,19 @@
 # ::id 25528006
 # ::tok »Vielleicht wohl , Conseil.« »Und die Unter abteilung dieser großen Klasse ?
-(label :H label
-       :L label
-       :S label
-       :D label
-       :A label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :S (v5 / label)
+           :D (v6 / label)
+           :D (v7 / label)
+           :A (v8 / label))
+    :L (v3 / label)
+    :H (v4 / label
+           :S (v9 / label)
+           :A (v10 / label
+                   :E (v12 / label)
+                   :E (v13 / label)
+                   :C (v14 / label))
+           :A (v11 / label
+                   :R (v15 / label)
+                   :E (v16 / label)
+                   :C (v17 / label))))

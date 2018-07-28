@@ -1,7 +1,9 @@
 # ::id 25683009
 # ::tok Die geringsten Gegenstände waren erkennbar .
-(label :H label
-       :A label
-       :S label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v5 / label)
+                  :E (v6 / label)
+                  :C (v7 / label))
+           :S (v4 / label)))

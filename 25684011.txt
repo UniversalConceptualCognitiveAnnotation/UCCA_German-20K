@@ -1,10 +1,35 @@
 # ::id 25684011
 # ::tok In diesem Augenblick öffnete sich vor unseren Augen eine ungeheure Grotte zwischen malerisch getürmten Felsen , die mit allem Schmuck der unterseeischen Flora geziert waren .
-(label :H label
-       :T label
-       :P label
-       :A label
-       :R label
-       :E label
-       :C label
-       :D label)
+(v1 / label
+    :H (v2 / label
+           :T (v3 / label
+                  :R (v7 / label)
+                  :E (v8 / label)
+                  :C (v9 / label))
+           :P (v4 / label)
+           :A (v5 / label
+                  :R (v10 / label)
+                  :E (v11 / label)
+                  :C (v12 / label))
+           :A (v6 / label
+                  :E (v13 / label
+                          :C (v17 / label
+                                  :R (v19 / label)
+                                  :D (v20 / label)
+                                  :P (v21 / label)
+                                  :A (v22 / label))
+                          :E (v18 / label
+                                  :R (v23 / label)
+                                  :A (v24 / label
+                                          :R (v26 / label)
+                                          :E (v27 / label
+                                                  :R (v30 / label)
+                                                  :E (v31 / label)
+                                                  :C (v32 / label))
+                                          :E (v28 / label)
+                                          :C (v29 / label))
+                                  :P (v25 / label)
+                                  :A v22))
+                  :E (v14 / label)
+                  :E (v15 / label)
+                  :C (v16 / label))))

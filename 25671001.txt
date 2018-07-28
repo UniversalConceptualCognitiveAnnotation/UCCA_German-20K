@@ -1,11 +1,44 @@
 # ::id 25671001
 # ::tok Es waren Leichen aus den indischen Städten , die der Ganges bis ins hohe Meer getrieben hatte und welche die Geier , die einzigen Bestatter des Landes , nicht alle hatten verschlingen können .
-(label :H label
-       :S label
-       :A label
-       :C label
-       :E label
-       :R label
-       :N label
-       :P label
-       :D label)
+(v1 / label
+    :H (v2 / label
+           :S (v3 / label)
+           :A (v4 / label
+                  :C (v6 / label)
+                  :E (v7 / label
+                         :C (v12 / label
+                                 :A v6
+                                 :R (v15 / label)
+                                 :A (v16 / label
+                                         :E (v25 / label)
+                                         :C (v26 / label))
+                                 :A (v17 / label
+                                         :R (v27 / label)
+                                         :R (v28 / label)
+                                         :E (v29 / label)
+                                         :C (v30 / label))
+                                 :P (v18 / label))
+                         :N (v13 / label)
+                         :C (v14 / label
+                                 :A v6
+                                 :R (v19 / label)
+                                 :A (v20 / label
+                                         :E (v31 / label
+                                                 :R (v34 / label)
+                                                 :D (v35 / label)
+                                                 :P (v36 / label)
+                                                 :A (v37 / label
+                                                         :R (v38 / label)
+                                                         :C (v39 / label))
+                                                 :A (v33 / label))
+                                         :E (v32 / label)
+                                         :C v33)
+                                 :D (v21 / label)
+                                 :A (v22 / label)
+                                 :P (v23 / label)
+                                 :D (v24 / label))))
+           :A (v5 / label
+                  :R (v8 / label)
+                  :E (v9 / label)
+                  :E (v10 / label)
+                  :C (v11 / label))))

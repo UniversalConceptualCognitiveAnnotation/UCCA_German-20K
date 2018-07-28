@@ -1,9 +1,33 @@
 # ::id 25511010
 # ::tok Hier befand sich zwischen zwei wasserdichten Wänden eine Art Schacht , in dem eine an der Wand befestigte eiserne Leiter zur Mündung führte .
-(label :H label
-       :A label
-       :S label
-       :R label
-       :E label
-       :C label
-       :P label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :S (v4 / label)
+           :A (v5 / label
+                  :R (v7 / label)
+                  :E (v8 / label)
+                  :E (v9 / label)
+                  :C (v10 / label))
+           :A (v6 / label
+                  :E (v11 / label)
+                  :E (v12 / label)
+                  :C (v13 / label)
+                  :E (v14 / label
+                          :A v13
+                          :R (v15 / label)
+                          :A (v16 / label)
+                          :A (v17 / label
+                                  :A (v20 / label
+                                          :E (v25 / label)
+                                          :E (v26 / label)
+                                          :C (v27 / label))
+                                  :A (v21 / label
+                                          :R (v28 / label)
+                                          :E (v29 / label)
+                                          :C (v30 / label))
+                                  :S (v22 / label))
+                          :A (v18 / label
+                                  :R (v23 / label)
+                                  :C (v24 / label))
+                          :P (v19 / label)))))

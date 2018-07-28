@@ -1,11 +1,22 @@
 # ::id 25528001
 # ::tok Sie haben sie in großer Menge gefangen , aber wie man sie einteilt , wissen Sie wohl nicht.«
-(label :H label
-       :L label
-       :A label
-       :P label
-       :R label
-       :S label
-       :D label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :A (v6 / label)
+           :A (v7 / label)
+           :A (v8 / label
+                  :R (v18 / label)
+                  :E (v19 / label)
+                  :C (v20 / label))
+           :P (v9 / label))
+    :L (v3 / label)
+    :H (v4 / label
+           :R (v10 / label)
+           :A (v11 / label)
+           :A (v12 / label)
+           :P (v13 / label))
+    :H (v5 / label
+           :S (v14 / label)
+           :A (v15 / label)
+           :D (v16 / label)
+           :D (v17 / label)))

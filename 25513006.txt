@@ -1,11 +1,40 @@
 # ::id 25513006
 # ::tok »Es ist nur einige Entwicklung von Gas durch die Anwendung des Sodiums ; aber die Unannehmlichkeit ist nicht bedeutend , und zudem wird im Schiff täglich durch Ventilation die Luft erneuert.«
-(label :H label
-       :L label
-       :D label
-       :P label
-       :A label
-       :S label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :D (v9 / label)
+           :P (v10 / label
+                   :E (v23 / label)
+                   :C (v24 / label))
+           :A (v11 / label
+                   :R (v25 / label)
+                   :C (v26 / label)))
+    :L (v3 / label)
+    :H (v4 / label
+           :P (v12 / label
+                   :E (v27 / label)
+                   :C (v28 / label))
+           :A (v13 / label
+                   :R (v29 / label)
+                   :C (v30 / label)))
+    :L (v5 / label)
+    :H (v6 / label
+           :A (v14 / label
+                   :E (v31 / label)
+                   :C (v32 / label))
+           :D (v15 / label)
+           :S (v16 / label))
+    :L (v7 / label)
+    :H (v8 / label
+           :D (v17 / label)
+           :A (v18 / label
+                   :R (v33 / label)
+                   :C (v34 / label))
+           :D (v19 / label)
+           :A (v20 / label
+                   :R (v35 / label)
+                   :C (v36 / label))
+           :A (v21 / label
+                   :E (v37 / label)
+                   :C (v38 / label))
+           :P (v22 / label)))

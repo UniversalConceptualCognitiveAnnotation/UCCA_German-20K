@@ -1,9 +1,22 @@
 # ::id 25631018
 # ::tok Man halte mir zugute , daß ich mich wie der Kanadier durch Rostbraten frischen Wildes begeistern lasse !
-(label :H label
-       :A label
-       :P label
-       :R label
-       :D label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :P (v4 / label)
+           :A (v5 / label)
+           :A (v6 / label
+                  :R (v7 / label)
+                  :A (v8 / label)
+                  :A (v9 / label
+                         :R (v13 / label)
+                         :E (v14 / label)
+                         :C (v15 / label))
+                  :A (v10 / label
+                          :R (v16 / label)
+                          :C (v17 / label)
+                          :E (v18 / label
+                                  :E (v19 / label)
+                                  :C (v20 / label)))
+                  :P (v11 / label)
+                  :D (v12 / label))))

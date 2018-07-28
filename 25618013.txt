@@ -1,10 +1,30 @@
 # ::id 25618013
 # ::tok »Aber ein Zwischenfall« , entgegnete ich , »der Sie vielleicht nötigen wird , wieder ein Bewohner des Landes zu werden , das Sie fliehen.«
-(label :L label
-       :H label
-       :A label
-       :P label
-       :E label
-       :C label
-       :R label
-       :D label)
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :A (v4 / label
+                  :E (v7 / label
+                         :R (v10 / label)
+                         :A (v11 / label)
+                         :D (v12 / label)
+                         :P (v13 / label)
+                         :A (v14 / label
+                                 :D (v15 / label)
+                                 :A (v16 / label
+                                         :E (v19 / label)
+                                         :C (v20 / label))
+                                 :A (v17 / label
+                                         :E (v21 / label
+                                                 :R (v24 / label)
+                                                 :A (v25 / label)
+                                                 :P (v26 / label)
+                                                 :A (v23 / label))
+                                         :R (v22 / label)
+                                         :C v23)
+                                 :P (v18 / label))
+                         :A (v9 / label))
+                  :E (v8 / label)
+                  :C v9)
+           :P (v5 / label)
+           :A (v6 / label)))

@@ -1,11 +1,43 @@
 # ::id 25598016
 # ::tok Anfangs wußte ich nicht recht , was ich von dem barschen Anfall denken sollte , aber ich beruhigte mich , als ich sah , daß der Kapitän sich neben mich legte und sich unbeweglich hielt .
-(label :H label
-       :L label
-       :D label
-       :P label
-       :A label
-       :E label
-       :C label
-       :R label
-       :N label)
+(v1 / label
+    :H (v2 / label
+           :D (v8 / label)
+           :P (v9 / label)
+           :A (v10 / label)
+           :D (v11 / label
+                   :E (v22 / label)
+                   :C (v23 / label)))
+    :H (v3 / label
+           :A (v12 / label)
+           :A (v13 / label)
+           :A (v14 / label
+                   :R (v24 / label)
+                   :E (v25 / label)
+                   :E (v26 / label)
+                   :C (v27 / label))
+           :P (v15 / label)
+           :D (v16 / label))
+    :L (v4 / label)
+    :H (v5 / label
+           :A (v17 / label)
+           :P (v18 / label))
+    :L (v6 / label)
+    :H (v7 / label
+           :A (v19 / label)
+           :P (v20 / label)
+           :A (v21 / label
+                   :R (v28 / label)
+                   :C (v29 / label
+                           :A (v32 / label
+                                   :E (v38 / label)
+                                   :C (v37 / label))
+                           :P (v33 / label)
+                           :A (v34 / label
+                                   :R (v39 / label)
+                                   :C (v40 / label)))
+                   :N (v30 / label)
+                   :C (v31 / label
+                           :P (v35 / label)
+                           :D (v36 / label)
+                           :A v37))))

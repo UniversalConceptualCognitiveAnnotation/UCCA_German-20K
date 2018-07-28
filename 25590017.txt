@@ -1,11 +1,33 @@
 # ::id 25590017
 # ::tok Offenbar hatte man vom Innern des Schiffs aus mit einem Hahn das äußere Wasser eingelassen , so daß es uns umgab und die ganze Kammer füllte .
-(label :H label
-       :L label
-       :D label
-       :A label
-       :P label
-       :S label
-       :R label
-       :C label
-       :E label)
+(v1 / label
+    :H (v2 / label
+           :D (v7 / label)
+           :A (v8 / label)
+           :A (v9 / label
+                  :R (v18 / label)
+                  :C (v19 / label)
+                  :E (v20 / label
+                          :R (v30 / label)
+                          :C (v31 / label)))
+           :A (v10 / label
+                   :R (v21 / label)
+                   :E (v22 / label)
+                   :C (v23 / label))
+           :A (v11 / label
+                   :E (v24 / label)
+                   :E (v25 / label)
+                   :C (v26 / label))
+           :P (v12 / label))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v13 / label)
+           :A (v14 / label)
+           :S (v15 / label))
+    :L (v5 / label)
+    :H (v6 / label
+           :A (v16 / label
+                   :E (v27 / label)
+                   :E (v28 / label)
+                   :C (v29 / label))
+           :P (v17 / label)))

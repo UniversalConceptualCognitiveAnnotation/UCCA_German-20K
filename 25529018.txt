@@ -1,11 +1,47 @@
 # ::id 25529018
 # ::tok »Nein« , erwiderte ich , »denn das Aquarium ist ein Gefängnis , und diese Fische da sind frei wie die Vögel in der Luft.« »Ei nun , Freund Conseil , nennen Sie sie doch bei Namen ! « sagte Ned Land .
-(label :H label
-       :L label
-       :A label
-       :P label
-       :S label
-       :E label
-       :C label
-       :R label
-       :D label)
+(v1 / label
+    :H (v2 / label
+           :A (v8 / label)
+           :P (v9 / label)
+           :A (v10 / label))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v11 / label
+                   :E (v21 / label)
+                   :C (v22 / label))
+           :S (v12 / label)
+           :A (v13 / label
+                   :E (v23 / label)
+                   :C (v24 / label)))
+    :L (v5 / label)
+    :H (v6 / label
+           :A (v14 / label
+                   :E (v25 / label)
+                   :C (v26 / label))
+           :A (v15 / label)
+           :S (v16 / label)
+           :A (v17 / label
+                   :R (v27 / label)
+                   :E (v28 / label
+                           :R (v39 / label)
+                           :E (v40 / label)
+                           :C (v41 / label))
+                   :E (v29 / label)
+                   :C (v30 / label)))
+    :H (v7 / label
+           :A (v18 / label
+                   :D (v31 / label)
+                   :D (v32 / label)
+                   :A (v33 / label
+                           :E (v42 / label)
+                           :C (v43 / label))
+                   :P (v34 / label)
+                   :A (v35 / label)
+                   :A (v36 / label)
+                   :D (v37 / label)
+                   :A (v38 / label
+                           :R (v44 / label)
+                           :C (v45 / label)))
+           :P (v19 / label)
+           :A (v20 / label)))

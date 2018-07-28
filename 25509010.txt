@@ -1,11 +1,37 @@
 # ::id 25509010
 # ::tok Ich hätte zwar , indem ich Drähte aus verschiedenen Tiefen miteinander in Verbindung setzte , Elektrizität aus der Verschiedenheit der Temperaturen erzielen können , aber ich zog ein praktischeres System vor.«
-(label :H label
-       :L label
-       :A label
-       :D label
-       :P label
-       :S label
-       :R label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :A (v7 / label)
+           :D (v8 / label)
+           :A (v9 / label)
+           :A (v10 / label
+                   :R (v22 / label)
+                   :E (v23 / label
+                           :R (v34 / label)
+                           :C (v35 / label))
+                   :E (v24 / label)
+                   :C (v25 / label))
+           :P (v11 / label)
+           :D (v12 / label))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v13 / label)
+           :A (v14 / label)
+           :A (v15 / label
+                   :R (v26 / label)
+                   :E (v27 / label)
+                   :C (v28 / label))
+           :D (v16 / label)
+           :A (v17 / label
+                   :R (v29 / label)
+                   :C (v30 / label))
+           :S (v18 / label))
+    :L (v5 / label)
+    :H (v6 / label
+           :A (v19 / label)
+           :P (v20 / label)
+           :A (v21 / label
+                   :E (v31 / label)
+                   :E (v32 / label)
+                   :C (v33 / label))))

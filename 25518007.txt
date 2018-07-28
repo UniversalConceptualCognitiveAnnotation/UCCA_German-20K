@@ -1,9 +1,29 @@
 # ::id 25518007
 # ::tok »Hinten am Gehäuse des Steuerers ist ein starker elektrischer Reflektor angebracht , dessen Strahlen das Meer eine halbe Meile weit erleuchten.«
-(label :H label
-       :A label
-       :S label
-       :E label
-       :R label
-       :C label
-       :D label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v6 / label)
+                  :E (v7 / label
+                         :R (v15 / label)
+                         :C (v16 / label))
+                  :R (v8 / label)
+                  :C (v9 / label))
+           :A (v4 / label
+                  :E (v10 / label
+                          :R (v17 / label)
+                          :A (v18 / label)
+                          :A (v19 / label
+                                  :E (v22 / label)
+                                  :C (v23 / label))
+                          :D (v20 / label
+                                  :E (v24 / label)
+                                  :C (v25 / label)
+                                  :E (v26 / label))
+                          :S (v21 / label)
+                          :A (v14 / label))
+                  :E (v11 / label)
+                  :E (v12 / label)
+                  :E (v13 / label)
+                  :C v14)
+           :S (v5 / label)))

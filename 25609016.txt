@@ -1,8 +1,10 @@
 # ::id 25609016
 # ::tok »Wenn es Ihnen beliebt , Herr Professor.«
-(label :L label
-       :H label
-       :A label
-       :S label
-       :E label
-       :C label)
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :A (v4 / label)
+           :S (v5 / label)
+           :A (v6 / label
+                  :E (v7 / label)
+                  :C (v8 / label))))

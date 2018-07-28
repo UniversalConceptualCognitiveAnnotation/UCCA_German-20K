@@ -1,11 +1,49 @@
 # ::id 25607012
 # ::tok Einst fiel ein Samen körnlein , vom Sturm wind aus benachbartem Fest land hergetragen , auf Kalk grund vermischt mit verwesten Teilen von Fischen und See pflanzen , die pflanzen nährenden Humus bildeten .
-(label :H label
-       :T label
-       :P label
-       :A label
-       :E label
-       :C label
-       :R label
-       :S label
-       :N label)
+(v1 / label
+    :H (v2 / label
+           :T (v3 / label)
+           :P (v4 / label)
+           :A (v5 / label
+                  :E (v7 / label
+                         :A (v16 / label
+                                 :R (v24 / label)
+                                 :E (v25 / label)
+                                 :C (v26 / label))
+                         :A (v17 / label
+                                 :R (v27 / label)
+                                 :E (v28 / label)
+                                 :E (v29 / label)
+                                 :C (v30 / label))
+                         :P (v18 / label)
+                         :A (v10 / label))
+                  :E (v8 / label)
+                  :E (v9 / label)
+                  :C v10)
+           :A (v6 / label
+                  :E (v11 / label
+                          :R (v19 / label)
+                          :A (v20 / label
+                                  :E (v31 / label
+                                          :C (v37 / label)
+                                          :E (v38 / label))
+                                  :C (v32 / label))
+                          :P (v21 / label)
+                          :A (v15 / label))
+                  :R (v12 / label)
+                  :E (v13 / label
+                          :S (v22 / label)
+                          :A (v23 / label
+                                  :R (v33 / label)
+                                  :E (v34 / label
+                                          :R (v39 / label)
+                                          :C (v40 / label)
+                                          :N (v41 / label)
+                                          :C (v42 / label
+                                                  :E (v43 / label)
+                                                  :C (v44 / label)))
+                                  :E (v35 / label)
+                                  :C (v36 / label))
+                          :A v15)
+                  :E (v14 / label)
+                  :C v15)))

@@ -1,11 +1,47 @@
 # ::id 25697012
 # ::tok »Weil gerade die Stelle , wo Moses mit seinem Volk hindurchgegangen , nun dergestalt versandet ist , daß die Kamele darin kaum ihre Beine benetzen . Natürlich hätte da meine Nautilus nicht Wasser genug gehabt.«
-(label :H label
-       :A label
-       :P label
-       :L label
-       :D label
-       :S label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :P (v4 / label)
+           :A (v5 / label
+                  :L (v6 / label)
+                  :H (v7 / label
+                         :D (v9 / label)
+                         :A (v10 / label
+                                 :E (v23 / label
+                                         :R (v34 / label)
+                                         :A (v35 / label)
+                                         :A (v36 / label
+                                                 :R (v42 / label)
+                                                 :E (v43 / label)
+                                                 :C (v44 / label))
+                                         :P (v37 / label)
+                                         :A (v25 / label))
+                                 :E (v24 / label)
+                                 :C v25)
+                         :D (v11 / label)
+                         :D (v12 / label)
+                         :S (v13 / label)
+                         :A (v14 / label
+                                 :R (v26 / label)
+                                 :A (v27 / label
+                                         :E (v38 / label)
+                                         :C (v39 / label))
+                                 :A (v28 / label)
+                                 :D (v29 / label)
+                                 :A (v30 / label
+                                         :E (v40 / label)
+                                         :C (v41 / label))
+                                 :P (v31 / label)))
+                  :H (v8 / label
+                         :D (v15 / label)
+                         :D (v16 / label)
+                         :A (v17 / label)
+                         :A (v18 / label
+                                 :E (v32 / label)
+                                 :C (v33 / label))
+                         :D (v19 / label)
+                         :A (v20 / label)
+                         :D (v21 / label)
+                         :S (v22 / label)))))

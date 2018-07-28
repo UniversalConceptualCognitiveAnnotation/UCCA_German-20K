@@ -1,10 +1,78 @@
 # ::id 25641000
 # ::tok Wenn ich daran dachte , daß diese merkwürdige elektrische Kraft , nachdem sie der " Nautilus " Bewegung , Wärme , Licht gegeben , ihn auch noch gegen äußere Angriffe schützte und ihn in eine heilige Arche verwandelte , woran kein Uneingeweihter rühren konnte , ohne vom Blitz getroffen zu werden , so war meine Bewunderung ohne Grenzen und wendete sich vom Apparat sogleich zu dem Meister , der ihn geschaffen hatte .
-(label :L label
-       :H label
-       :A label
-       :P label
-       :D label
-       :R label
-       :E label
-       :C label)
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :A (v12 / label)
+           :A (v13 / label)
+           :P (v14 / label)
+           :A (v15 / label
+                   :R (v29 / label)
+                   :A (v30 / label
+                           :E (v55 / label)
+                           :E (v56 / label)
+                           :E (v57 / label)
+                           :C (v58 / label))
+                   :A (v31 / label)
+                   :D (v32 / label)
+                   :A (v33 / label
+                           :R (v59 / label)
+                           :E (v60 / label)
+                           :C (v61 / label))
+                   :P (v34 / label)))
+    :L (v4 / label)
+    :H (v5 / label
+           :A (v16 / label)
+           :A (v17 / label
+                   :E (v35 / label)
+                   :C (v36 / label))
+           :A (v18 / label
+                   :C (v37 / label)
+                   :C (v38 / label)
+                   :C (v39 / label))
+           :P (v19 / label))
+    :L (v6 / label)
+    :H (v7 / label
+           :A (v20 / label)
+           :A (v21 / label
+                   :R (v40 / label)
+                   :E (v41 / label
+                           :R (v62 / label)
+                           :A (v63 / label
+                                   :E (v70 / label)
+                                   :C (v71 / label))
+                           :P (v64 / label)
+                           :D (v65 / label)
+                           :A (v66 / label
+                                   :D (v72 / label)
+                                   :A (v73 / label
+                                           :R (v75 / label)
+                                           :C (v76 / label))
+                                   :P (v74 / label)))
+                   :E (v42 / label)
+                   :E (v43 / label)
+                   :C (v44 / label))
+           :P (v22 / label))
+    :L (v8 / label)
+    :H (v9 / label
+           :P (v23 / label
+                   :E (v45 / label)
+                   :C (v46 / label))
+           :A (v24 / label
+                   :E (v47 / label)
+                   :C (v48 / label)))
+    :L (v10 / label)
+    :H (v11 / label
+            :P (v25 / label)
+            :A (v26 / label
+                    :R (v49 / label)
+                    :C (v50 / label))
+            :D (v27 / label)
+            :A (v28 / label
+                    :R (v51 / label)
+                    :E (v52 / label)
+                    :C (v53 / label)
+                    :E (v54 / label
+                            :R (v67 / label)
+                            :A (v68 / label)
+                            :P (v69 / label)))))

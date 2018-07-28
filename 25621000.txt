@@ -1,10 +1,20 @@
 # ::id 25621000
 # ::tok Um 8 Uhr fuhren wir , mit Büchsen und Beilen bewaffnet , von der " Nautilus " ab .
-(label :H label
-       :T label
-       :P label
-       :A label
-       :E label
-       :C label
-       :R label
-       :N label)
+(v1 / label
+    :H (v2 / label
+           :T (v4 / label
+                  :E (v10 / label)
+                  :C (v11 / label))
+           :P (v5 / label)
+           :A (v6 / label)
+           :A (v7 / label
+                  :R (v12 / label)
+                  :E (v13 / label)
+                  :C (v14 / label)))
+    :H (v3 / label
+           :A (v8 / label
+                  :R (v15 / label)
+                  :C (v16 / label)
+                  :N (v17 / label)
+                  :C (v18 / label))
+           :P (v9 / label)))

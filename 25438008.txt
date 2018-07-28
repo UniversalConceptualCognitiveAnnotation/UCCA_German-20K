@@ -1,10 +1,28 @@
 # ::id 25438008
 # ::tok Es war eine schnellsegelnde Fregatte mit einem Heizungs apparat , der die Dampf kraft bis auf 7 Atmosphären zu steigern gestattete .
-(label :H label
-       :S label
-       :A label
-       :C label
-       :E label
-       :R label
-       :P label
-       :D label)
+(v1 / label
+    :H (v2 / label
+           :S (v3 / label)
+           :A (v4 / label
+                  :C (v5 / label
+                         :A (v7 / label
+                                :E (v14 / label)
+                                :C (v15 / label))
+                         :S (v8 / label))
+                  :E (v6 / label
+                         :E (v9 / label
+                                :R (v16 / label)
+                                :A (v17 / label
+                                        :E (v21 / label)
+                                        :E (v22 / label)
+                                        :C (v23 / label))
+                                :A (v18 / label
+                                        :R (v24 / label)
+                                        :C (v25 / label))
+                                :P (v19 / label)
+                                :D (v20 / label)
+                                :A (v13 / label))
+                         :R (v10 / label)
+                         :E (v11 / label)
+                         :E (v12 / label)
+                         :C v13))))

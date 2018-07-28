@@ -1,10 +1,25 @@
 # ::id 25512012
 # ::tok Hierauf öffnete sich eine Tür zu der 3 Meter langen Küche , die zwischen den geräumigen Vorratskammern liegt .
-(label :L label
-       :H label
-       :P label
-       :A label
-       :E label
-       :C label
-       :R label
-       :S label)
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :P (v4 / label)
+           :A (v5 / label
+                  :E (v7 / label)
+                  :C (v8 / label))
+           :A (v6 / label
+                  :R (v9 / label)
+                  :E (v10 / label)
+                  :E (v11 / label
+                          :C (v14 / label)
+                          :E (v15 / label))
+                  :C (v12 / label)
+                  :E (v13 / label
+                          :A v12
+                          :R (v16 / label)
+                          :A (v17 / label
+                                  :R (v19 / label)
+                                  :E (v20 / label)
+                                  :E (v21 / label)
+                                  :C (v22 / label))
+                          :S (v18 / label)))))

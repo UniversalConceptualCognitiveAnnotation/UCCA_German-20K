@@ -1,11 +1,35 @@
 # ::id 25616009
 # ::tok Dieses Land wurde 1511 von den Portugiesen entdeckt , und seitdem häufig von den Entdeckungs reisenden besucht , neuerdings von Duperrey 1823 und Dumont dUrville 1827 .
-(label :H label
-       :L label
-       :A label
-       :T label
-       :P label
-       :D label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v8 / label
+                  :E (v21 / label)
+                  :C (v22 / label))
+           :T (v9 / label)
+           :A (v10 / label
+                   :R (v23 / label)
+                   :E (v24 / label)
+                   :C (v25 / label))
+           :P (v11 / label))
+    :L (v3 / label)
+    :H (v4 / label
+           :D (v12 / label)
+           :D (v13 / label)
+           :A (v14 / label
+                   :R (v26 / label)
+                   :E (v27 / label)
+                   :E (v28 / label)
+                   :C (v29 / label))
+           :P (v15 / label))
+    :H (v5 / label
+           :D (v16 / label)
+           :A (v17 / label
+                   :R (v30 / label)
+                   :C (v31 / label))
+           :T (v18 / label)
+           :P v15)
+    :L (v6 / label)
+    :H (v7 / label
+           :A (v19 / label)
+           :T (v20 / label)
+           :P v15))

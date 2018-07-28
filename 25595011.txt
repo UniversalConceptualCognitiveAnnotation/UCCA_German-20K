@@ -1,9 +1,25 @@
 # ::id 25595011
 # ::tok Kapitän Nemo war bereits aufgestanden , und ich fing an die Glieder zu strecken , als eine unerwartete Erscheinung mich rasch auf die Beine brachte .
-(label :H label
-       :L label
-       :A label
-       :D label
-       :P label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :A (v7 / label
+                  :E (v17 / label)
+                  :C (v18 / label))
+           :D (v8 / label)
+           :P (v9 / label))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v10 / label)
+           :D (v11 / label)
+           :A (v12 / label
+                   :E (v19 / label)
+                   :C (v20 / label))
+           :P (v13 / label))
+    :L (v5 / label)
+    :H (v6 / label
+           :A (v14 / label
+                   :E (v21 / label)
+                   :E (v22 / label)
+                   :C (v23 / label))
+           :P (v15 / label)
+           :D (v16 / label)))

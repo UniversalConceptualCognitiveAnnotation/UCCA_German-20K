@@ -1,9 +1,17 @@
 # ::id 25495010
 # ::tok Das Interesse , womit ich ihn betrachtete , war mit Schrecken gemischt .
-(label :H label
-       :A label
-       :S label
-       :E label
-       :C label
-       :R label
-       :P label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v6 / label
+                         :R (v11 / label)
+                         :A (v12 / label)
+                         :A (v13 / label)
+                         :P (v14 / label)
+                         :A (v8 / label))
+                  :E (v7 / label)
+                  :C v8)
+           :A (v4 / label
+                  :R (v9 / label)
+                  :C (v10 / label))
+           :S (v5 / label)))

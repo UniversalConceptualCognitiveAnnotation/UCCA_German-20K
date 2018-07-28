@@ -1,10 +1,39 @@
 # ::id 25613001
 # ::tok Inzwischen hatte die französische Regierung , in Besorgnis , Dumont dUrville habe keine Kenntnis von Dillons Arbeiten , die Corvette La Bayonnaise unter dem Kommando von Legoarant de Tromelin nach Vanikoro geschickt .
-(label :L label
-       :H label
-       :A label
-       :P label
-       :E label
-       :C label
-       :R label
-       :S label)
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :A (v4 / label
+                  :E (v8 / label
+                         :R (v17 / label)
+                         :C (v18 / label)
+                         :E (v19 / label
+                                 :A v18
+                                 :A (v27 / label)
+                                 :S (v28 / label
+                                         :E (v32 / label)
+                                         :C (v33 / label))
+                                 :A (v29 / label
+                                         :R (v34 / label)
+                                         :E (v35 / label)
+                                         :C (v36 / label))))
+                  :E (v9 / label)
+                  :E (v10 / label)
+                  :C (v11 / label))
+           :A (v5 / label
+                  :A (v12 / label
+                          :E (v20 / label
+                                  :E (v30 / label)
+                                  :C (v31 / label))
+                          :C (v21 / label))
+                  :P (v13 / label
+                          :R (v22 / label)
+                          :E (v23 / label)
+                          :C (v24 / label))
+                  :A (v14 / label
+                          :R (v25 / label)
+                          :C (v26 / label)))
+           :A (v6 / label
+                  :R (v15 / label)
+                  :C (v16 / label))
+           :P (v7 / label)))

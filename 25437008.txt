@@ -1,10 +1,41 @@
 # ::id 25437008
 # ::tok « »Man wird ihn in meiner Abwesenheit füttern . Übrigens werde ich Auftrag geben , unsere Menagerie nach Frankreich zu befördern.« »Wir kehren also nicht zurück nach Paris ? « fragte Conseil .
-(label :H label
-       :A label
-       :P label
-       :D label
-       :G label
-       :R label
-       :C label
-       :E label)
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label)
+           :P (v5 / label)
+           :A (v6 / label
+                  :H (v10 / label
+                          :A (v16 / label)
+                          :A (v17 / label)
+                          :A (v18 / label
+                                  :A (v27 / label)
+                                  :P (v28 / label
+                                          :R (v33 / label)
+                                          :E (v34 / label)
+                                          :C (v35 / label)))
+                          :P (v19 / label))
+                  :H (v11 / label
+                          :G (v20 / label)
+                          :D (v21 / label)
+                          :A (v22 / label)
+                          :P (v23 / label)
+                          :A (v24 / label
+                                  :A (v29 / label)
+                                  :A (v30 / label
+                                          :E (v36 / label)
+                                          :C (v37 / label))
+                                  :A (v31 / label
+                                          :R (v38 / label)
+                                          :C (v39 / label))
+                                  :P (v32 / label)))))
+    :H (v3 / label
+           :A (v7 / label
+                  :A (v12 / label)
+                  :P (v13 / label)
+                  :D (v14 / label)
+                  :A (v15 / label
+                          :R (v25 / label)
+                          :C (v26 / label)))
+           :P (v8 / label)
+           :A (v9 / label)))

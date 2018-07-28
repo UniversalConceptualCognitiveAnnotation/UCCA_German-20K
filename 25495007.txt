@@ -1,9 +1,13 @@
 # ::id 25495007
 # ::tok Kein Mensch könnte ihn für seine Taten zur Rechenschaft ziehen .
-(label :H label
-       :D label
-       :A label
-       :P label
-       :R label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :D (v3 / label)
+           :A (v4 / label)
+           :D (v5 / label)
+           :A (v6 / label)
+           :A (v7 / label
+                  :R (v9 / label)
+                  :E (v10 / label)
+                  :C (v11 / label))
+           :P (v8 / label)))

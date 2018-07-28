@@ -1,6 +1,7 @@
 # ::id 25618016
 # ::tok Dann sagte er :
-(label :L label
-       :H label
-       :P label
-       :A label)
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :P (v4 / label)
+           :A (v5 / label)))

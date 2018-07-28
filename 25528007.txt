@@ -1,8 +1,14 @@
 # ::id 25528007
 # ::tok « »Hab’ keinen Begriff davon« , erwiderte der Kanadier .
-(label :H label
-       :A label
-       :P label
-       :S label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :S (v6 / label)
+                  :A (v7 / label
+                         :E (v11 / label)
+                         :C (v12 / label))
+                  :A (v8 / label))
+           :P (v4 / label)
+           :A (v5 / label
+                  :E (v9 / label)
+                  :C (v10 / label))))

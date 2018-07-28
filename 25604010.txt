@@ -1,9 +1,26 @@
 # ::id 25604010
 # ::tok Man sieht , während dieser Fahrt ließ uns das Meer unablässig seine Merkwürdigkeiten reichlich schauen , in unendlicher Abwechslung .
-(label :H label
-       :A label
-       :P label
-       :D label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label)
+           :P (v5 / label))
+    :H (v3 / label
+           :D (v6 / label)
+           :A (v7 / label
+                  :E (v16 / label)
+                  :C (v17 / label))
+           :D (v8 / label)
+           :A (v9 / label)
+           :A (v10 / label
+                   :E (v18 / label)
+                   :C (v19 / label))
+           :D (v11 / label)
+           :A (v12 / label
+                   :E (v20 / label)
+                   :C (v21 / label))
+           :D (v13 / label)
+           :P (v14 / label)
+           :A (v15 / label
+                   :R (v22 / label)
+                   :E (v23 / label)
+                   :C (v24 / label))))

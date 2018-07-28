@@ -1,9 +1,10 @@
 # ::id 25585005
 # ::tok »Und sogar trockenen Fußes.«
-(label :L label
-       :H label
-       :P label
-       :D label
-       :A label
-       :E label
-       :C label)
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :P (v4 / label)
+           :D (v5 / label)
+           :A (v6 / label
+                  :E (v7 / label)
+                  :C (v8 / label))))

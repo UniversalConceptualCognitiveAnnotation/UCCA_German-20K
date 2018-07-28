@@ -1,5 +1,6 @@
 # ::id 25583021
 # ::tok « fuhr Ned Land fort .
-(label :H label
-       :P label
-       :A label)
+(v1 / label
+    :H (v2 / label
+           :P (v3 / label)
+           :A (v4 / label)))

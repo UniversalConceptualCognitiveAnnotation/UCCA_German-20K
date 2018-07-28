@@ -1,10 +1,29 @@
 # ::id 25619005
 # ::tok »Nun , mein Herr ? « sagte Ned Land zu mir , indem er nach dem Weggang des Kapitäns zu mir kam .
-(label :H label
-       :L label
-       :A label
-       :P label
-       :S label
-       :R label
-       :C label
-       :E label)
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label
+                  :S (v13 / label)
+                  :A (v14 / label
+                          :E (v22 / label)
+                          :C (v23 / label)))
+           :P (v6 / label)
+           :A (v7 / label)
+           :A (v8 / label
+                  :R (v15 / label)
+                  :C (v16 / label)))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v9 / label)
+           :A (v10 / label
+                   :R (v17 / label)
+                   :P (v18 / label
+                           :E (v24 / label)
+                           :C (v25 / label))
+                   :A (v19 / label
+                           :R (v26 / label)
+                           :C (v27 / label)))
+           :A (v11 / label
+                   :R (v20 / label)
+                   :C (v21 / label))
+           :P (v12 / label)))

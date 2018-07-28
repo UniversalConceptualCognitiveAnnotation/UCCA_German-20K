@@ -1,7 +1,9 @@
 # ::id 25584009
 # ::tok Kapitän Nemo befand sich da .
-(label :H label
-       :A label
-       :S label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v6 / label)
+                  :C (v7 / label))
+           :S (v4 / label)
+           :A (v5 / label)))

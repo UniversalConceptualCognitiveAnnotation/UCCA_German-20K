@@ -1,9 +1,37 @@
 # ::id 25608010
 # ::tok Die Gruppe wurde von Tasman im Jahr 1643 entdeckt , dem Jahr der Thron besteigung Ludwigs XIV . und der Erfindung des Barometers durch Toricelli .
-(label :H label
-       :A label
-       :P label
-       :E label
-       :C label
-       :R label
-       :N label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v7 / label)
+                  :C (v8 / label))
+           :A (v4 / label
+                  :R (v9 / label)
+                  :C (v10 / label))
+           :A (v5 / label
+                  :E (v11 / label
+                          :C (v14 / label
+                                  :A (v17 / label
+                                          :E (v23 / label)
+                                          :C (v24 / label))
+                                  :P (v18 / label
+                                          :R (v25 / label)
+                                          :C (v26 / label)
+                                          :E (v27 / label))
+                                  :A (v19 / label)
+                                  :A (v13 / label))
+                          :N (v15 / label)
+                          :C (v16 / label
+                                  :P (v20 / label
+                                          :E (v28 / label)
+                                          :C (v29 / label))
+                                  :A (v21 / label
+                                          :R (v30 / label)
+                                          :C (v31 / label))
+                                  :A (v22 / label
+                                          :R (v32 / label)
+                                          :C (v33 / label))
+                                  :A v13))
+                  :R (v12 / label)
+                  :C v13)
+           :P (v6 / label)))

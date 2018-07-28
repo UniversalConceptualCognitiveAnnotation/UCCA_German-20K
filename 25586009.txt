@@ -1,10 +1,27 @@
 # ::id 25586009
 # ::tok Sein oberer Teil bildet eine Kapsel , woraus die Luft vermittels einer Balgvorrichtung nur in normaler Spannung herausdringen kann .
-(label :H label
-       :A label
-       :S label
-       :R label
-       :D label
-       :P label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label
+                  :E (v14 / label)
+                  :E (v15 / label)
+                  :C (v16 / label))
+           :S (v5 / label)
+           :A (v6 / label
+                  :E (v17 / label)
+                  :C (v18 / label)))
+    :H (v3 / label
+           :R (v7 / label)
+           :A (v8 / label
+                  :E (v19 / label)
+                  :C (v20 / label))
+           :D (v9 / label)
+           :A (v10 / label
+                   :E (v21 / label)
+                   :C (v22 / label))
+           :D (v11 / label)
+           :A (v12 / label
+                   :R (v23 / label)
+                   :E (v24 / label)
+                   :C (v25 / label))
+           :P (v13 / label)))

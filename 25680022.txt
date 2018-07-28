@@ -1,11 +1,97 @@
 # ::id 25680022
 # ::tok »Noch nicht . Ich habe die Nautilus jener Küste nicht zu nah kommen lassen , und wir sind von der Bank von Manaar ziemlich weit ab in hoher See ; aber ich habe unseren Nachen zurechtmachen lassen , der uns genau an den Punkt bringen wird , wo wir ausschiffen werden , dadurch wird uns eine weite Überfahrt erspart . Er bringt unsere Tauch apparate mit , die wir in dem Moment , wo diese unter seeische Untersuchung beginnt , anziehen werden.«
-(label :H label
-       :A label
-       :P label
-       :L label
-       :D label
-       :S label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :P (v4 / label)
+           :A (v5 / label
+                  :H (v6 / label
+                         :A (v15 / label)
+                         :P (v16 / label)
+                         :D (v17 / label)
+                         :D (v18 / label))
+                  :H (v7 / label
+                         :A (v19 / label)
+                         :A (v20 / label
+                                 :E (v41 / label)
+                                 :C (v42 / label))
+                         :A (v21 / label
+                                 :E (v43 / label)
+                                 :C (v44 / label))
+                         :D (v22 / label)
+                         :D (v23 / label)
+                         :P (v24 / label)
+                         :D (v25 / label))
+                  :L (v8 / label)
+                  :H (v9 / label
+                         :A (v26 / label)
+                         :A (v27 / label
+                                 :R (v45 / label)
+                                 :E (v46 / label
+                                         :E (v62 / label)
+                                         :C (v63 / label))
+                                 :R (v47 / label)
+                                 :C (v48 / label))
+                         :D (v28 / label)
+                         :S (v29 / label)
+                         :A (v30 / label
+                                 :R (v49 / label)
+                                 :E (v50 / label)
+                                 :C (v51 / label)))
+                  :L (v10 / label)
+                  :H (v11 / label
+                          :A (v31 / label)
+                          :A (v32 / label
+                                  :E (v52 / label
+                                          :R (v64 / label)
+                                          :A (v65 / label)
+                                          :D (v66 / label)
+                                          :A (v67 / label
+                                                  :E (v73 / label
+                                                          :R (v81 / label)
+                                                          :A (v82 / label)
+                                                          :P (v83 / label)
+                                                          :A (v76 / label))
+                                                  :R (v74 / label)
+                                                  :E (v75 / label)
+                                                  :C v76)
+                                          :P (v68 / label)
+                                          :A (v54 / label))
+                                  :E (v53 / label)
+                                  :C v54)
+                          :P (v33 / label)
+                          :D (v34 / label))
+                  :L (v12 / label)
+                  :H (v13 / label
+                          :A (v35 / label)
+                          :A (v36 / label
+                                  :E (v55 / label)
+                                  :E (v56 / label)
+                                  :C (v57 / label))
+                          :P (v37 / label))
+                  :H (v14 / label
+                          :A (v38 / label)
+                          :P (v39 / label)
+                          :A (v40 / label
+                                  :E (v58 / label
+                                          :R (v69 / label)
+                                          :A (v70 / label)
+                                          :A (v71 / label
+                                                  :E (v77 / label
+                                                          :R (v84 / label)
+                                                          :A (v85 / label
+                                                                  :E (v87 / label)
+                                                                  :E (v88 / label
+                                                                          :E (v90 / label)
+                                                                          :C (v91 / label))
+                                                                  :C (v89 / label))
+                                                          :P (v86 / label)
+                                                          :A (v80 / label))
+                                                  :R (v78 / label)
+                                                  :E (v79 / label)
+                                                  :C v80)
+                                          :P (v72 / label)
+                                          :A (v61 / label))
+                                  :E (v59 / label)
+                                  :E (v60 / label)
+                                  :C v61)))))

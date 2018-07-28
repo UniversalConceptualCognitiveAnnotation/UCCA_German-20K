@@ -1,6 +1,8 @@
 # ::id 25590005
 # ::tok »Sie werden s gleich sehen.«
-(label :H label
-       :A label
-       :D label
-       :P label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :A (v4 / label)
+           :D (v5 / label)
+           :P (v6 / label)))

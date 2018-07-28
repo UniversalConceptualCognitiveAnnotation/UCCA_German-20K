@@ -1,11 +1,23 @@
 # ::id 25584007
 # ::tok Am folgenden Tag , dem 17 . November , merkte ich beim Erwachen , daß die "Nautilus " vollständig unbeweglich war .
-(label :H label
-       :T label
-       :P label
-       :A label
-       :E label
-       :C label
-       :R label
-       :D label
-       :S label)
+(v1 / label
+    :H (v2 / label
+           :T (v3 / label
+                  :E (v8 / label
+                         :R (v17 / label)
+                         :E (v18 / label)
+                         :C (v19 / label))
+                  :E (v9 / label)
+                  :C (v10 / label))
+           :P (v4 / label)
+           :A (v5 / label)
+           :A (v6 / label
+                  :E (v11 / label)
+                  :C (v12 / label))
+           :A (v7 / label
+                  :R (v13 / label)
+                  :A (v14 / label
+                          :E (v20 / label)
+                          :C (v21 / label))
+                  :D (v15 / label)
+                  :S (v16 / label))))

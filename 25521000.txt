@@ -1,8 +1,9 @@
 # ::id 25521000
 # ::tok Der schwarze Strom
-(label :H label
-       :S label
-       :A label
-       :D label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :S (v3 / label)
+           :A (v4 / label
+                  :E (v6 / label)
+                  :C (v7 / label))
+           :D (v5 / label)))

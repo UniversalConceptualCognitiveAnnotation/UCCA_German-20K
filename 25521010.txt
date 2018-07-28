@@ -1,9 +1,16 @@
 # ::id 25521010
 # ::tok Diesen Ozean sollte ich unter den seltsamsten Bedingungen zuerst durchfahren .
-(label :H label
-       :A label
-       :D label
-       :P label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v9 / label)
+                  :C (v10 / label))
+           :D (v4 / label)
+           :A (v5 / label)
+           :A (v6 / label
+                  :R (v11 / label)
+                  :E (v12 / label)
+                  :E (v13 / label)
+                  :C (v14 / label))
+           :D (v7 / label)
+           :P (v8 / label)))

@@ -1,11 +1,35 @@
 # ::id 25595005
 # ::tok Ich sah bei diesem wackeren Jungen die Augen glänzen vor Befriedigung , und um es kundzugeben , machte er in seiner Schale höchst komische Bewegungen .
-(label :H label
-       :L label
-       :A label
-       :P label
-       :D label
-       :R label
-       :E label
-       :C label
-       :S label)
+(v1 / label
+    :H (v2 / label
+           :A (v6 / label)
+           :P (v7 / label)
+           :A (v8 / label
+                  :R (v18 / label)
+                  :E (v19 / label)
+                  :E (v20 / label)
+                  :C (v21 / label))
+           :A (v9 / label
+                  :A (v22 / label
+                          :E (v30 / label)
+                          :C (v31 / label))
+                  :S (v23 / label)
+                  :D (v24 / label
+                          :R (v32 / label)
+                          :C (v33 / label))))
+    :L (v3 / label)
+    :H (v4 / label
+           :D (v10 / label)
+           :A (v11 / label)
+           :P (v12 / label))
+    :H (v5 / label
+           :P (v13 / label)
+           :A (v14 / label)
+           :A (v15 / label
+                   :R (v25 / label)
+                   :E (v26 / label)
+                   :C (v27 / label))
+           :D (v16 / label
+                   :E (v28 / label)
+                   :C (v29 / label))
+           :A (v17 / label)))

@@ -1,10 +1,32 @@
 # ::id 25620009
 # ::tok Als Gefangener an Bord der " Nautilus " zu bleiben , würde doch dem Los vorzuziehen sein , daß man den Eingeborenen Papuasiens in die Hände fiele .
-(label :H label
-       :A label
-       :S label
-       :D label
-       :R label
-       :C label
-       :E label
-       :P label)
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label
+                  :R (v11 / label)
+                  :C (v12 / label))
+           :A (v5 / label
+                  :R (v13 / label)
+                  :C (v14 / label)
+                  :E (v15 / label
+                          :R (v23 / label)
+                          :C (v24 / label)))
+           :S (v6 / label))
+    :H (v3 / label
+           :D (v7 / label)
+           :A (v8 / label
+                  :E (v16 / label)
+                  :C (v17 / label))
+           :S (v9 / label)
+           :A (v10 / label
+                   :R (v18 / label)
+                   :A (v19 / label)
+                   :A (v20 / label
+                           :E (v25 / label)
+                           :C (v26 / label)
+                           :E (v27 / label))
+                   :A (v21 / label
+                           :R (v28 / label)
+                           :E (v29 / label)
+                           :C (v30 / label))
+                   :P (v22 / label))))

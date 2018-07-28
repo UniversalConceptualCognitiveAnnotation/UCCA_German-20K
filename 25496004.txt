@@ -1,7 +1,8 @@
 # ::id 25496004
 # ::tok Offenbar verstanden wir uns nicht .
-(label :H label
-       :G label
-       :P label
-       :A label
-       :D label)
+(v1 / label
+    :H (v2 / label
+           :G (v3 / label)
+           :P (v4 / label)
+           :A (v5 / label)
+           :D (v6 / label)))

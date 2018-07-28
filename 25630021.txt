@@ -1,10 +1,19 @@
 # ::id 25630021
 # ::tok Ned Land war stolz auf seinen Schuß , der mit einer elektrischen Kugel augenblicklich tötete .
-(label :H label
-       :A label
-       :S label
-       :R label
-       :E label
-       :C label
-       :D label
-       :P label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :S (v4 / label)
+           :A (v5 / label
+                  :R (v6 / label)
+                  :E (v7 / label
+                         :R (v10 / label)
+                         :A (v11 / label
+                                 :R (v14 / label)
+                                 :E (v15 / label)
+                                 :E (v16 / label)
+                                 :C (v17 / label))
+                         :D (v12 / label)
+                         :P (v13 / label))
+                  :E (v8 / label)
+                  :C (v9 / label))))

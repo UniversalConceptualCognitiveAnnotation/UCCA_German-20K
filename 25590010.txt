@@ -1,11 +1,32 @@
 # ::id 25590010
 # ::tok Sobald er aufgesetzt war , fingen die auf unseren Rücken befestigten Apparate Rouquayrol ihre Tätigkeit an , und ich für meinen Teil atmete leicht .
-(label :H label
-       :L label
-       :D label
-       :A label
-       :P label
-       :E label
-       :C label
-       :R label
-       :S label)
+(v1 / label
+    :H (v2 / label
+           :D (v6 / label)
+           :A (v7 / label)
+           :P (v8 / label))
+    :H (v3 / label
+           :P (v9 / label)
+           :A (v10 / label
+                   :E (v16 / label
+                           :A (v25 / label
+                                   :R (v27 / label)
+                                   :E (v28 / label)
+                                   :C (v29 / label))
+                           :S (v26 / label)
+                           :A (v18 / label))
+                   :E (v17 / label)
+                   :C v18
+                   :E (v19 / label))
+           :A (v11 / label
+                   :E (v20 / label)
+                   :C (v21 / label)))
+    :L (v4 / label)
+    :H (v5 / label
+           :A (v12 / label)
+           :A (v13 / label
+                   :R (v22 / label)
+                   :E (v23 / label)
+                   :C (v24 / label))
+           :P (v14 / label)
+           :D (v15 / label)))
