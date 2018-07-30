@@ -1,0 +1,31 @@
+# ::id 25513012
+# ::tok Diese , deren Durchmesser 6 Meter mißt und das Gewinde 7 1 / 2 Meter , kann in einer Sekunde bis auf 120 Umdrehungen erzeugen.«
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :C (v7 / label)
+                  :E (v8 / label
+                         :H (v15 / label
+                                 :A v7
+                                 :A (v18 / label
+                                         :R (v23 / label)
+                                         :C (v24 / label))
+                                 :A (v19 / label)
+                                 :S (v20 / label))
+                         :L (v16 / label)
+                         :H (v17 / label
+                                 :A v7
+                                 :A (v21 / label
+                                         :E (v25 / label)
+                                         :C (v26 / label))
+                                 :A (v22 / label)
+                                 :S v20)))
+           :A (v4 / label
+                  :R (v9 / label)
+                  :E (v10 / label)
+                  :C (v11 / label))
+           :A (v5 / label
+                  :R (v12 / label)
+                  :R (v13 / label)
+                  :C (v14 / label))
+           :P (v6 / label)))

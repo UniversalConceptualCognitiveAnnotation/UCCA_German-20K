@@ -1,0 +1,28 @@
+# ::id 25438011
+# ::tok Ich war mit meiner Kabine sehr zufrieden ; sie lag am hinteren Schiffs teil und stieß an das Offiziers zimmer .
+(v1 / label
+    :H (v2 / label
+           :A (v6 / label)
+           :A (v7 / label
+                  :R (v15 / label)
+                  :E (v16 / label)
+                  :C (v17 / label))
+           :D (v8 / label)
+           :S (v9 / label))
+    :H (v3 / label
+           :A (v10 / label)
+           :S (v11 / label)
+           :A (v12 / label
+                   :R (v18 / label)
+                   :E (v19 / label)
+                   :E (v20 / label)
+                   :C (v21 / label)))
+    :L (v4 / label)
+    :H (v5 / label
+           :S (v13 / label)
+           :A (v14 / label
+                   :R (v22 / label)
+                   :E (v23 / label)
+                   :E (v24 / label)
+                   :C (v25 / label))
+           :A v10))

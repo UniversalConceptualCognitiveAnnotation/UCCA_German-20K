@@ -1,0 +1,19 @@
+# ::id 25499000
+# ::tok In der Mitte des Saals stand ein reich besetzter Tisch .
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v6 / label
+                         :R (v13 / label)
+                         :C (v14 / label))
+                  :R (v7 / label)
+                  :E (v8 / label)
+                  :C (v9 / label))
+           :S (v4 / label)
+           :A (v5 / label
+                  :E (v10 / label)
+                  :E (v11 / label
+                          :A (v12 / label)
+                          :D (v15 / label)
+                          :S (v16 / label))
+                  :C v12)))

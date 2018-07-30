@@ -1,0 +1,30 @@
+# ::id 25692010
+# ::tok Aber ich bekam nichts zu sehen , nicht einmal die Insel Parim , welche die englische Regierung zur Verstärkung des Platzes befestigt hat .
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :A (v5 / label)
+           :D (v6 / label)
+           :A (v7 / label)
+           :P (v8 / label))
+    :H (v4 / label
+           :D (v9 / label)
+           :A (v10 / label
+                   :E (v11 / label
+                           :R (v15 / label)
+                           :A (v16 / label
+                                   :E (v19 / label)
+                                   :E (v20 / label)
+                                   :C (v21 / label))
+                           :A (v17 / label
+                                   :R (v22 / label)
+                                   :C (v23 / label)
+                                   :E (v24 / label
+                                           :R (v25 / label)
+                                           :C (v26 / label)))
+                           :P (v18 / label)
+                           :A (v13 / label))
+                   :E (v12 / label)
+                   :E v13
+                   :C (v14 / label))
+           :P v8))

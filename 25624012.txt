@@ -1,0 +1,29 @@
+# ::id 25624012
+# ::tok Conseil brachte Ned Land ein Dutzend , der sie in dicke Schnitten zerlegte und über Kohlen feuer setzte .
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :P (v4 / label)
+           :A (v5 / label
+                  :C (v7 / label)
+                  :E (v8 / label
+                         :R (v11 / label)
+                         :C (v12 / label
+                                 :A v7
+                                 :A (v15 / label)
+                                 :A (v16 / label
+                                         :R (v21 / label)
+                                         :E (v22 / label)
+                                         :C (v23 / label))
+                                 :P (v17 / label))
+                         :N (v13 / label)
+                         :C (v14 / label
+                                 :A v7
+                                 :R (v18 / label)
+                                 :A (v19 / label
+                                         :E (v24 / label)
+                                         :C (v25 / label))
+                                 :P (v20 / label))))
+           :A (v6 / label
+                  :E (v9 / label)
+                  :C (v10 / label))))

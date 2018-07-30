@@ -1,0 +1,26 @@
+# ::id 25695008
+# ::tok Ich nahm mir vor , ihn nicht wieder hinabgehen zu lassen , ohne ihn wenigstens über seine weiteren Pläne ausgeforscht zu haben .
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :P (v4 / label)
+           :A (v5 / label)
+           :A (v6 / label
+                  :H (v7 / label
+                         :A v3
+                         :A (v10 / label)
+                         :D (v11 / label)
+                         :D (v12 / label)
+                         :P (v13 / label)
+                         :D (v14 / label))
+                  :L (v8 / label)
+                  :H (v9 / label
+                         :A v3
+                         :A (v15 / label)
+                         :D (v16 / label)
+                         :A (v17 / label
+                                 :R (v19 / label)
+                                 :E (v20 / label)
+                                 :E (v21 / label)
+                                 :C (v22 / label))
+                         :P (v18 / label)))))

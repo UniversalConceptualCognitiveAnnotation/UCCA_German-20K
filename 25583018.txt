@@ -1,0 +1,20 @@
+# ::id 25583018
+# ::tok »Eine Jagd ! « rief Ned aus , der nebst Conseil mit mir eingetreten war .
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v6 / label)
+                  :C (v7 / label))
+           :P (v4 / label)
+           :A (v5 / label
+                  :C (v8 / label)
+                  :E (v9 / label
+                         :A v8
+                         :R (v10 / label)
+                         :A (v11 / label
+                                 :R (v14 / label)
+                                 :C (v15 / label))
+                         :A (v12 / label
+                                 :R (v16 / label)
+                                 :C (v17 / label))
+                         :P (v13 / label)))))

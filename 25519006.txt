@@ -1,0 +1,19 @@
+# ::id 25519006
+# ::tok Ja , er liebte sein Schiff wie ein Vater sein Kind !
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :A (v4 / label)
+           :S (v5 / label)
+           :A (v6 / label
+                  :E (v8 / label)
+                  :C (v9 / label))
+           :A (v7 / label
+                  :S v5
+                  :R (v10 / label)
+                  :A (v11 / label
+                          :E (v13 / label)
+                          :C (v14 / label))
+                  :A (v12 / label
+                          :R (v15 / label)
+                          :C (v16 / label)))))

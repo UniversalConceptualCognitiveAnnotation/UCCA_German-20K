@@ -1,0 +1,30 @@
+# ::id 25519010
+# ::tok »Ich habe jedes ihrer einzelnen Stücke , Herr Arronax , von einem anderen Ort her und unter falscher Angabe seiner Bestimmung bezogen .
+(v1 / label
+    :H (v2 / label
+           :P (v5 / label)
+           :A (v6 / label)
+           :A (v7 / label
+                  :E (v12 / label)
+                  :E (v13 / label)
+                  :E (v14 / label)
+                  :C (v15 / label))
+           :A (v8 / label
+                  :E (v16 / label)
+                  :C (v17 / label))
+           :A (v9 / label
+                  :R (v18 / label)
+                  :E (v19 / label)
+                  :E (v20 / label)
+                  :C (v21 / label)
+                  :E (v22 / label)))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v10 / label
+                   :R (v23 / label)
+                   :E (v24 / label)
+                   :C (v25 / label))
+           :A (v11 / label
+                   :E (v26 / label)
+                   :C (v27 / label))
+           :P v5))

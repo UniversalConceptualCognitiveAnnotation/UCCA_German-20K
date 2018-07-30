@@ -1,0 +1,17 @@
+# ::id 25493010
+# ::tok Ich verneigte mich mit dem Ausdruck der Zustimmung .
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :P (v4 / label)
+           :A (v5 / label
+                  :A v3
+                  :P (v6 / label
+                         :R (v8 / label)
+                         :E (v9 / label)
+                         :C (v10 / label))
+                  :A (v7 / label
+                         :A v3
+                         :P (v11 / label
+                                 :R (v12 / label)
+                                 :C (v13 / label))))))

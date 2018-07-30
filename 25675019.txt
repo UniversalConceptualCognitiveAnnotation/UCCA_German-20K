@@ -1,0 +1,19 @@
+# ::id 25675019
+# ::tok »Ja ! s ist merkwürdig , sehr merkwürdig.«
+(v1 / label
+    :H (v2 / label
+           :P (v3 / label)
+           :A (v4 / label)
+           :A (v5 / label
+                  :H (v6 / label
+                         :P (v9 / label)
+                         :A (v10 / label)
+                         :D (v11 / label))
+                  :H (v7 / label
+                         :A (v12 / label)
+                         :S (v13 / label))
+                  :H (v8 / label
+                         :A (v14 / label)
+                         :D (v15 / label)
+                         :S (v16 / label)
+                         :A v12))))

@@ -1,0 +1,27 @@
+# ::id 25603012
+# ::tok Das Thermometer zeigte eine Temperatur von 4,25 Grad Celsius , welche Temperatur in dieser Tiefe unter allen Breitengraden gleich zu sein scheint .
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label
+                  :E (v13 / label)
+                  :C (v14 / label))
+           :P (v6 / label)
+           :A (v7 / label
+                  :E (v15 / label
+                          :R (v24 / label)
+                          :C (v25 / label))
+                  :E (v16 / label)
+                  :C (v17 / label)))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v8 / label)
+           :A (v9 / label
+                  :R (v18 / label)
+                  :E (v19 / label)
+                  :C (v20 / label))
+           :A (v10 / label
+                   :R (v21 / label)
+                   :E (v22 / label)
+                   :C (v23 / label))
+           :S (v11 / label)
+           :D (v12 / label)))

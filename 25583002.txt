@@ -1,0 +1,16 @@
+# ::id 25583002
+# ::tok Nachdem der Schiffsleutnent diese Worte gesprochen , stieg er wieder hinab .
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :A (v5 / label
+                  :E (v11 / label)
+                  :C (v12 / label))
+           :A (v6 / label
+                  :E (v13 / label)
+                  :C (v14 / label))
+           :P (v7 / label))
+    :H (v4 / label
+           :P (v8 / label)
+           :A (v9 / label)
+           :D (v10 / label)))

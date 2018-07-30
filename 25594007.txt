@@ -1,0 +1,24 @@
+# ::id 25594007
+# ::tok Der Boden des Waldes war mit spitzen Blöcken bedeckt , denen man nicht leicht ausweichen konnte .
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v6 / label
+                         :R (v13 / label)
+                         :C (v14 / label))
+                  :E (v7 / label)
+                  :C (v8 / label))
+           :A (v4 / label
+                  :R (v9 / label)
+                  :E (v10 / label)
+                  :C (v11 / label)
+                  :E (v12 / label
+                          :A v11
+                          :A (v15 / label)
+                          :A (v16 / label)
+                          :D (v17 / label
+                                  :E (v20 / label)
+                                  :C (v21 / label))
+                          :S (v18 / label)
+                          :D (v19 / label)))
+           :S (v5 / label)))

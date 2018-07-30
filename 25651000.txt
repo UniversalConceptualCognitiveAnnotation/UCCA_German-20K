@@ -1,0 +1,11 @@
+# ::id 25651000
+# ::tok Der Puls des Kranken war unterbrochen .
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v5 / label
+                         :R (v8 / label)
+                         :C (v9 / label))
+                  :E (v6 / label)
+                  :C (v7 / label))
+           :S (v4 / label)))

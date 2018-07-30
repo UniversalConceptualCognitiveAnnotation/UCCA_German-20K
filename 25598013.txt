@@ -1,0 +1,20 @@
+# ::id 25598013
+# ::tok Aber es begegnete uns noch ein anderes Ereignis , das uns ein wenig aufhielt .
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :P (v4 / label)
+           :A (v5 / label)
+           :D (v6 / label)
+           :A (v7 / label
+                  :E (v8 / label)
+                  :E (v9 / label)
+                  :C (v10 / label)
+                  :E (v11 / label
+                          :A v10
+                          :R (v12 / label)
+                          :A (v13 / label)
+                          :D (v14 / label
+                                  :E (v16 / label)
+                                  :C (v17 / label))
+                          :P (v15 / label)))))

@@ -1,0 +1,14 @@
+# ::id 25523012
+# ::tok Ich habe die Richtung Ost-Nord-Ost bei 50 Meter Tiefe angegeben .
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :A (v4 / label
+                  :E (v8 / label)
+                  :C (v9 / label))
+           :A (v5 / label)
+           :A (v6 / label
+                  :R (v10 / label)
+                  :C (v11 / label)
+                  :E (v12 / label))
+           :P (v7 / label)))

@@ -1,0 +1,22 @@
+# ::id 25627002
+# ::tok Das Boot war neben dem Fahrzeug an derselben Stelle geblieben , wo wir es gelassen hatten .
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v7 / label)
+                  :C (v8 / label))
+           :A (v4 / label
+                  :R (v9 / label)
+                  :E (v10 / label)
+                  :C (v11 / label))
+           :A (v5 / label
+                  :R (v12 / label)
+                  :E (v13 / label)
+                  :C (v14 / label)
+                  :E (v15 / label
+                          :A v14
+                          :R (v16 / label)
+                          :A (v17 / label)
+                          :A (v18 / label)
+                          :P (v19 / label)))
+           :S (v6 / label)))

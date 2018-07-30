@@ -1,0 +1,23 @@
+# ::id 25693003
+# ::tok Dieses Rote Meer ist 2.600 Kilometer lang , bei einer durchschnittlichen Breite von 240 .
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label
+                  :E (v10 / label)
+                  :C (v11 / label)
+                  :E (v9 / label))
+           :A (v5 / label
+                  :E (v12 / label)
+                  :C (v13 / label))
+           :S (v6 / label))
+    :H (v3 / label
+           :S (v7 / label)
+           :A (v8 / label
+                  :E (v14 / label
+                          :R (v19 / label)
+                          :C (v20 / label))
+                  :R (v15 / label)
+                  :E (v16 / label)
+                  :E (v17 / label)
+                  :C (v18 / label))
+           :A v9))

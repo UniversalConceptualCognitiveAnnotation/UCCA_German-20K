@@ -1,0 +1,20 @@
+# ::id 25613012
+# ::tok Darauf gerieten seine Schiffe auf die ihm unbekannten Riffe von Vanikoro .
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :P (v4 / label)
+           :A (v5 / label
+                  :E (v7 / label)
+                  :C (v8 / label))
+           :A (v6 / label
+                  :R (v9 / label)
+                  :E (v10 / label
+                          :A (v14 / label)
+                          :S (v15 / label)
+                          :A (v13 / label))
+                  :E (v11 / label
+                          :R (v16 / label)
+                          :C (v17 / label))
+                  :E (v12 / label)
+                  :C v13)))

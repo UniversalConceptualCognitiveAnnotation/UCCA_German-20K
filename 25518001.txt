@@ -1,0 +1,24 @@
+# ::id 25518001
+# ::tok »Aber wie kann der Steuerer inmitten der Gewässer die Richtung einschlagen , die Sie ihm angeben ?
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :D (v4 / label)
+           :D (v5 / label)
+           :A (v6 / label
+                  :E (v10 / label)
+                  :C (v11 / label))
+           :A (v7 / label
+                  :R (v12 / label)
+                  :E (v13 / label)
+                  :C (v14 / label))
+           :A (v8 / label
+                  :E (v15 / label
+                          :A (v18 / label)
+                          :A (v19 / label)
+                          :A (v20 / label)
+                          :P (v21 / label)
+                          :A (v17 / label))
+                  :E (v16 / label)
+                  :C v17)
+           :P (v9 / label)))

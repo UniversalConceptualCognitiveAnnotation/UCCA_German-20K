@@ -1,0 +1,30 @@
+# ::id 25683010
+# ::tok Nachdem wir 10 Minuten weit gegangen , befanden wir uns in einer Tiefe von 5 Meter , und der Boden wurde fast eben .
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :A (v7 / label)
+           :D (v8 / label
+                  :E (v16 / label
+                          :E (v24 / label)
+                          :C (v25 / label))
+                  :C (v17 / label))
+           :P (v9 / label))
+    :H (v4 / label
+           :P (v10 / label)
+           :A (v11 / label)
+           :A (v12 / label
+                   :E (v18 / label
+                           :R (v26 / label)
+                           :E (v27 / label)
+                           :C (v28 / label))
+                   :R (v19 / label)
+                   :E (v20 / label)
+                   :C (v21 / label)))
+    :L (v5 / label)
+    :H (v6 / label
+           :A (v13 / label
+                   :E (v22 / label)
+                   :C (v23 / label))
+           :D (v14 / label)
+           :S (v15 / label)))

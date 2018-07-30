@@ -1,0 +1,19 @@
+# ::id 25436023
+# ::tok Entsetzlich förmlich , sprach er mit mir nur in der dritten Person .
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label)
+           :D (v5 / label)
+           :S (v6 / label))
+    :H (v3 / label
+           :P (v7 / label)
+           :A v4
+           :A (v8 / label
+                  :R (v11 / label)
+                  :C (v12 / label))
+           :D (v9 / label)
+           :A (v10 / label
+                   :R (v13 / label)
+                   :E (v14 / label)
+                   :E (v15 / label)
+                   :C (v16 / label))))

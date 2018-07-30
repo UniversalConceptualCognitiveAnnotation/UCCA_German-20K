@@ -1,0 +1,30 @@
+# ::id 25589017
+# ::tok Er diente als Behälter der zusammengepreßten Luft , die durch eine Klappe mit einer Feder in den metallenen Lauf gelassen wurde .
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :S (v4 / label)
+           :A (v5 / label
+                  :R (v7 / label)
+                  :C (v8 / label))
+           :A (v6 / label
+                  :R (v9 / label)
+                  :E (v10 / label)
+                  :C (v11 / label)
+                  :E (v12 / label
+                          :A v11
+                          :R (v13 / label)
+                          :A (v14 / label
+                                  :R (v17 / label)
+                                  :E (v18 / label
+                                          :R (v25 / label)
+                                          :E (v26 / label)
+                                          :C (v27 / label))
+                                  :E (v19 / label)
+                                  :C (v20 / label))
+                          :A (v15 / label
+                                  :R (v21 / label)
+                                  :E (v22 / label)
+                                  :E (v23 / label)
+                                  :C (v24 / label))
+                          :P (v16 / label)))))

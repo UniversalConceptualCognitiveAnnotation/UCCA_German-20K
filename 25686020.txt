@@ -1,0 +1,35 @@
+# ::id 25686020
+# ::tok Dann eilte er wieder hinauf , leerte seinen Sack aus , zog seinen Stein nach und wiederholte seine Verrichtung , die nur 30 Sekunden dauerte .
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :P (v8 / label)
+           :A (v9 / label)
+           :D (v10 / label))
+    :H (v4 / label
+           :P (v11 / label)
+           :A (v12 / label
+                   :E (v17 / label)
+                   :C (v18 / label))
+           :A v9)
+    :H (v5 / label
+           :P (v13 / label)
+           :A (v14 / label
+                   :E (v19 / label)
+                   :C (v20 / label))
+           :A v9)
+    :L (v6 / label)
+    :H (v7 / label
+           :P (v15 / label)
+           :A (v16 / label
+                   :E (v21 / label
+                           :R (v24 / label)
+                           :D (v25 / label)
+                           :A (v26 / label
+                                   :E (v28 / label)
+                                   :C (v29 / label))
+                           :P (v27 / label)
+                           :A (v23 / label))
+                   :E (v22 / label)
+                   :C v23)
+           :A v9))

@@ -1,0 +1,31 @@
+# ::id 25627011
+# ::tok Nachdem wir über eine ziemlich fette Wiese gekommen , gelangten wir an den Rand eines kleinen , von Vögeln munter belebten Gehölzes .
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :A (v5 / label)
+           :A (v6 / label
+                  :R (v12 / label)
+                  :E (v13 / label)
+                  :E (v14 / label)
+                  :E (v15 / label)
+                  :C (v16 / label))
+           :P (v7 / label))
+    :H (v4 / label
+           :P (v8 / label)
+           :A (v9 / label)
+           :A (v10 / label
+                   :R (v17 / label)
+                   :E (v18 / label)
+                   :C (v19 / label))
+           :A (v11 / label
+                   :E (v20 / label
+                           :A (v24 / label
+                                   :R (v27 / label)
+                                   :C (v28 / label))
+                           :D (v25 / label)
+                           :S (v26 / label)
+                           :A (v23 / label))
+                   :E (v21 / label)
+                   :E (v22 / label)
+                   :C v23)))

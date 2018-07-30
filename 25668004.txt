@@ -1,0 +1,20 @@
+# ::id 25668004
+# ::tok Er hat bald die Form eines dreieckigen , bald eines viereckigen Körpers .
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :S (v4 / label)
+           :A (v5 / label
+                  :N (v6 / label)
+                  :C (v7 / label
+                         :C (v10 / label)
+                         :E (v11 / label
+                                 :E (v16 / label)
+                                 :C (v17 / label))
+                         :R (v12 / label)
+                         :E (v13 / label))
+                  :N (v8 / label)
+                  :C (v9 / label
+                         :R (v14 / label)
+                         :E (v15 / label)
+                         :C v10))))

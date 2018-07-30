@@ -1,0 +1,23 @@
+# ::id 25689014
+# ::tok Nach einigen Minuten stießen wir auf den toten Haifisch , der auf der Oberfläche schwamm .
+(v1 / label
+    :H (v2 / label
+           :T (v3 / label
+                  :R (v7 / label)
+                  :E (v8 / label)
+                  :C (v9 / label))
+           :P (v4 / label)
+           :A (v5 / label)
+           :A (v6 / label
+                  :E (v10 / label
+                          :R (v15 / label)
+                          :A (v16 / label
+                                  :R (v18 / label)
+                                  :E (v19 / label)
+                                  :C (v20 / label))
+                          :P (v17 / label)
+                          :A (v14 / label))
+                  :R (v11 / label)
+                  :E (v12 / label)
+                  :E (v13 / label)
+                  :C v14)))
