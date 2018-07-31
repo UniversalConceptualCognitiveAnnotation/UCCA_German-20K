@@ -1,33 +1,34 @@
 # ::id 25801009
 # ::tok Ich berichte dieses hauptsächlich nach den Karten im Manuskript , die offenbar von der Hand Kapitän Nemos aufgrund seiner persön-lichen Beobachtungen herrühren .
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3 3-1.1.4 4-1.1.5.1 5-1.1.5.4 6-1.1.5.5 7-1.1.5.3.1 8-1.1.5.3.2 10-1.1.5.2.1 11-1.1.5.2.2 12-1.1.5.2.3.1 13-1.1.5.2.3.3 14-1.1.5.2.3.4 15-1.1.5.2.3.2.1 16-1.1.5.2.4.4 17-1.1.5.2.4.1 18-1.1.5.2.4.2.1 19-1.1.5.2.4.3 20-1.1.5.2.4.2.2 21-1.1.5.2.5
 (v1 / label
     :H (v2 / label
-           :A (v3 / label)
-           :P (v4 / label)
-           :A (v5 / label)
-           :D (v6 / label)
+           :A (v3 / label~e.0)
+           :P (v4 / label~e.1)
+           :A (v5 / label~e.2)
+           :D (v6 / label~e.3)
            :A (v7 / label
-                  :R (v8 / label)
+                  :R (v8 / label~e.4)
                   :E (v9 / label
-                         :R (v13 / label)
-                         :D (v14 / label)
+                         :R (v13 / label~e.10)
+                         :D (v14 / label~e.11)
                          :A (v15 / label
-                                 :R (v20 / label)
+                                 :R (v20 / label~e.12)
                                  :E (v21 / label
-                                         :E (v28 / label)
-                                         :C (v27 / label))
-                                 :E (v22 / label)
-                                 :C (v23 / label))
+                                         :E (v28 / label~e.15)
+                                         :C (v27 / label~e.16))
+                                 :E (v22 / label~e.13)
+                                 :C (v23 / label~e.14))
                          :A (v16 / label
-                                 :R (v24 / label)
+                                 :R (v24 / label~e.17)
                                  :P (v25 / label
-                                         :E (v29 / label)
-                                         :C (v30 / label))
-                                 :D (v26 / label)
+                                         :E (v29 / label~e.18)
+                                         :C (v30 / label~e.20))
+                                 :D (v26 / label~e.19)
                                  :A v27)
-                         :S (v17 / label))
+                         :S (v17 / label~e.21))
                   :E (v10 / label
-                          :R (v18 / label)
-                          :C (v19 / label))
-                  :E (v11 / label)
-                  :C (v12 / label))))
+                          :R (v18 / label~e.7)
+                          :C (v19 / label~e.8))
+                  :E (v11 / label~e.5)
+                  :C (v12 / label~e.6))))

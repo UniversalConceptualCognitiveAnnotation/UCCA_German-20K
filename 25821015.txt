@@ -1,46 +1,47 @@
 # ::id 25821015
 # ::tok Um dem Andringen ungeheurer Wogen widerstehen zu können , hatte er sich mit halbem Körper angebunden ; ich folgte seinem Beispiel , um diesen Sturm zu bewundern und zugleich den unvergleichlichen Mann , der ihm Trotz bot .
+# ::alignments 0-1.1 1-1.2.1.1.1 2-1.2.1.1.2 3-1.2.1.2.1 4-1.2.1.2.2 5-1.2.2 7-1.2.4 10-1.3.2 11-1.3.3 12-1.3.4.1 13-1.3.4.2 14-1.3.4.3 15-1.3.3 17-1.4.1 18-1.4.2 19-1.4.3.1 20-1.4.3.2 22-1.5 23-1.6.1.1 24-1.6.1.2 26-1.6.3 27-1.7 28-1.8.1 29-1.8.2.2 30-1.8.2.3 31-1.8.2.4 33-1.8.2.1.1 34-1.8.2.1.2 35-1.8.2.1.3 36-1.8.2.1.3
 (v1 / label
-    :L (v2 / label)
+    :L (v2 / label~e.0)
     :H (v3 / label
            :A (v10 / label
                    :P (v23 / label
-                           :E (v36 / label)
-                           :C (v37 / label))
+                           :E (v36 / label~e.1)
+                           :C (v37 / label~e.2))
                    :A (v24 / label
-                           :E (v38 / label)
-                           :C (v39 / label)))
-           :S (v11 / label)
-           :D (v12 / label))
+                           :E (v38 / label~e.3)
+                           :C (v39 / label~e.4)))
+           :S (v11 / label~e.5)
+           :D (v12 / label~e.7))
     :H (v4 / label
-           :A (v13 / label)
-           :P (v14 / label)
+           :A (v13 / label~e.10)
+           :P (v14 / label~e.11,15)
            :A (v15 / label
-                   :R (v25 / label)
-                   :E (v26 / label)
-                   :C (v27 / label)))
+                   :R (v25 / label~e.12)
+                   :E (v26 / label~e.13)
+                   :C (v27 / label~e.14)))
     :H (v5 / label
-           :A (v16 / label)
-           :P (v17 / label)
+           :A (v16 / label~e.17)
+           :P (v17 / label~e.18)
            :A (v18 / label
-                   :E (v28 / label)
-                   :C (v29 / label)))
-    :L (v6 / label)
+                   :E (v28 / label~e.19)
+                   :C (v29 / label~e.20)))
+    :L (v6 / label~e.22)
     :H (v7 / label
            :A (v19 / label
-                   :E (v30 / label)
-                   :C (v31 / label))
-           :P (v20 / label))
-    :L (v8 / label)
+                   :E (v30 / label~e.23)
+                   :C (v31 / label~e.24))
+           :P (v20 / label~e.26))
+    :L (v8 / label~e.27)
     :H (v9 / label
-           :D (v21 / label)
+           :D (v21 / label~e.28)
            :A (v22 / label
                    :E (v32 / label
-                           :R (v40 / label)
-                           :A (v41 / label)
-                           :P (v42 / label)
-                           :A (v35 / label))
-                   :E (v33 / label)
-                   :E (v34 / label)
+                           :R (v40 / label~e.33)
+                           :A (v41 / label~e.34)
+                           :P (v42 / label~e.35,36)
+                           :A (v35 / label~e.31))
+                   :E (v33 / label~e.29)
+                   :E (v34 / label~e.30)
                    :C v35)
            :P v20))

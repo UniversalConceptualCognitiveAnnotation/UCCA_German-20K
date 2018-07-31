@@ -1,16 +1,17 @@
 # ::id 25783020
 # ::tok Doch die Wirkung der Gleichgewichts gesetze läßt sich nicht hemmen .
+# ::alignments 0-1.1 1-1.2.1.1.1 2-1.2.1.1.2 3-1.2.1.2.1 4-1.2.1.2.2 5-1.2.1.2.3 6-1.2.2 7-1.2.3 8-1.2.4 9-1.2.3
 (v1 / label
-    :L (v2 / label)
+    :L (v2 / label~e.0)
     :H (v3 / label
            :A (v4 / label
                   :P (v8 / label
-                         :E (v10 / label)
-                         :C (v11 / label))
+                         :E (v10 / label~e.1)
+                         :C (v11 / label~e.2))
                   :A (v9 / label
-                         :R (v12 / label)
-                         :E (v13 / label)
-                         :C (v14 / label)))
-           :D (v5 / label)
-           :P (v6 / label)
-           :D (v7 / label)))
+                         :R (v12 / label~e.3)
+                         :E (v13 / label~e.4)
+                         :C (v14 / label~e.5)))
+           :D (v5 / label~e.6)
+           :P (v6 / label~e.7,9)
+           :D (v7 / label~e.8)))

@@ -1,42 +1,43 @@
 # ::id 25776005
 # ::tok » Nein « , erwiderte ich , »nur darf man sie nicht angreifen . Wenn ein Robbe sein Junges verteidigt , wird er furchtbar wütend , und nicht selten zertrümmert er ein Fischer boot . «
+# ::alignments 1-1.1.1.1.3 4-1.1.2 5-1.1.3 7-1.1.1.2.1 8-1.1.1.2.2 9-1.1.1.2.3 10-1.1.1.2.4 11-1.1.1.2.5 12-1.1.1.2.6 14-1.1.1.3 15-1.1.1.4.1.1 16-1.1.1.4.1.2 17-1.1.1.4.2.1 18-1.1.1.4.2.2 19-1.1.1.4.3 22-1.1.1.5.2 23-1.1.1.5.3 24-1.1.1.5.4 26-1.1.1.6 27-1.1.1.7.1.1 28-1.1.1.7.1.2 29-1.1.1.7.2 30-1.1.1.7.3 31-1.1.1.7.4.1 32-1.1.1.7.4.2 33-1.1.1.7.4.3
 (v1 / label
     :H (v2 / label
            :A (v3 / label
                   :H (v6 / label
                          :S (v13 / label)
                          :A (v14 / label)
-                         :D (v15 / label))
+                         :D (v15 / label~e.1))
                   :H (v7 / label
-                         :D (v16 / label)
-                         :D (v17 / label)
-                         :A (v18 / label)
-                         :A (v19 / label)
-                         :D (v20 / label)
-                         :P (v21 / label))
-                  :L (v8 / label)
+                         :D (v16 / label~e.7)
+                         :D (v17 / label~e.8)
+                         :A (v18 / label~e.9)
+                         :A (v19 / label~e.10)
+                         :D (v20 / label~e.11)
+                         :P (v21 / label~e.12))
+                  :L (v8 / label~e.14)
                   :H (v9 / label
                          :A (v22 / label
-                                 :E (v32 / label)
-                                 :C (v33 / label))
+                                 :E (v32 / label~e.15)
+                                 :C (v33 / label~e.16))
                          :A (v23 / label
-                                 :E (v34 / label)
-                                 :C (v35 / label))
-                         :P (v24 / label))
+                                 :E (v34 / label~e.17)
+                                 :C (v35 / label~e.18))
+                         :P (v24 / label~e.19))
                   :H (v10 / label
-                          :A (v25 / label)
-                          :D (v26 / label)
-                          :S (v27 / label))
-                  :L (v11 / label)
+                          :A (v25 / label~e.22)
+                          :D (v26 / label~e.23)
+                          :S (v27 / label~e.24))
+                  :L (v11 / label~e.26)
                   :H (v12 / label
                           :D (v28 / label
-                                  :E (v36 / label)
-                                  :C (v37 / label))
-                          :P (v29 / label)
-                          :A (v30 / label)
+                                  :E (v36 / label~e.27)
+                                  :C (v37 / label~e.28))
+                          :P (v29 / label~e.29)
+                          :A (v30 / label~e.30)
                           :A (v31 / label
-                                  :E (v38 / label)
-                                  :E (v39 / label)
-                                  :C (v40 / label))))
-           :P (v4 / label)
-           :A (v5 / label)))
+                                  :E (v38 / label~e.31)
+                                  :E (v39 / label~e.32)
+                                  :C (v40 / label~e.33))))
+           :P (v4 / label~e.4)
+           :A (v5 / label~e.5)))

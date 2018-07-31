@@ -1,13 +1,14 @@
 # ::id 25712018
 # ::tok Er schien voll Gedanken schweigsam .
+# ::alignments 0-1.1.1 1-1.2.1 2-1.1.2 3-1.1.3 4-1.3.1
 (v1 / label
     :H (v2 / label
-           :A (v5 / label)
-           :D (v6 / label)
-           :S (v7 / label))
+           :A (v5 / label~e.0)
+           :D (v6 / label~e.2)
+           :S (v7 / label~e.3))
     :H (v3 / label
-           :P (v8 / label)
+           :P (v8 / label~e.1)
            :A v5)
     :H (v4 / label
-           :S (v9 / label)
+           :S (v9 / label~e.4)
            :A v5))

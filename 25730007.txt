@@ -1,9 +1,10 @@
 # ::id 25730007
 # ::tok Ich meinesteils war nicht übermäßig untröstlich .
+# ::alignments 0-1.1.1 1-1.1.2 3-1.1.4 4-1.1.5 5-1.1.6
 (v1 / label
     :H (v2 / label
-           :A (v3 / label)
-           :D (v4 / label)
-           :D (v5 / label)
-           :D (v6 / label)
-           :S (v7 / label)))
+           :A (v3 / label~e.0)
+           :D (v4 / label~e.1)
+           :D (v5 / label~e.3)
+           :D (v6 / label~e.4)
+           :S (v7 / label~e.5)))

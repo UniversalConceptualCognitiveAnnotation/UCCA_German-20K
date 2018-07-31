@@ -1,13 +1,14 @@
 # ::id 25833018
 # ::tok Ich wollte noch einmal ein Wort einlegen .
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.1 3-1.1.3.2 4-1.1.4.1 5-1.1.4.2 6-1.1.5
 (v1 / label
     :H (v2 / label
-           :A (v3 / label)
-           :D (v4 / label)
+           :A (v3 / label~e.0)
+           :D (v4 / label~e.1)
            :D (v5 / label
-                  :E (v8 / label)
-                  :C (v9 / label))
+                  :E (v8 / label~e.2)
+                  :C (v9 / label~e.3))
            :A (v6 / label
-                  :E (v10 / label)
-                  :C (v11 / label))
-           :P (v7 / label)))
+                  :E (v10 / label~e.4)
+                  :C (v11 / label~e.5))
+           :P (v7 / label~e.6)))

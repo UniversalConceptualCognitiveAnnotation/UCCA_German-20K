@@ -1,13 +1,14 @@
 # ::id 25783017
 # ::tok »Und woran liegt die Schuld ? «
+# ::alignments 0-1.1 1-1.2.3.1 2-1.2.3.2 3-1.2.3.3.1 4-1.2.3.3.2
 (v1 / label
-    :L (v2 / label)
+    :L (v2 / label~e.0)
     :H (v3 / label
            :A (v4 / label)
            :S (v5 / label)
            :A (v6 / label
-                  :A (v7 / label)
-                  :D (v8 / label)
+                  :A (v7 / label~e.1)
+                  :D (v8 / label~e.2)
                   :P (v9 / label
-                         :E (v10 / label)
-                         :C (v11 / label)))))
+                         :E (v10 / label~e.3)
+                         :C (v11 / label~e.4)))))

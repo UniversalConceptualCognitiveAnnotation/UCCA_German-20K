@@ -1,36 +1,37 @@
 # ::id 25804001
 # ::tok Und darf man Toussenel glauben , so ist diese Plage noch unbedeutend gegen die , welche unsere Nachkommen treffen wird , wenn die Walfische und Robben in diesen Meeren vertilgt worden sind .
+# ::alignments 0-1.1 1-1.2.1 2-1.2.2 3-1.2.3 4-1.2.4 6-1.3 8-1.4.2.1 9-1.4.2.2 10-1.4.3 11-1.4.4 12-1.4.5.1 15-1.4.5.3 16-1.4.5.4.1 17-1.4.5.4.2 18-1.4.5.5 21-1.5 22-1.6.1.1.1 23-1.6.1.1.2 24-1.6.1.2 25-1.6.1.3 26-1.6.2.1 27-1.6.2.2 28-1.6.2.3 29-1.6.3
 (v1 / label
-    :L (v2 / label)
+    :L (v2 / label~e.0)
     :H (v3 / label
-           :D (v8 / label)
-           :A (v9 / label)
-           :A (v10 / label)
-           :P (v11 / label))
-    :L (v4 / label)
+           :D (v8 / label~e.1)
+           :A (v9 / label~e.2)
+           :A (v10 / label~e.3)
+           :P (v11 / label~e.4))
+    :L (v4 / label~e.6)
     :H (v5 / label
            :A (v12 / label
-                   :E (v19 / label)
-                   :C (v20 / label))
-           :D (v13 / label)
-           :S (v14 / label)
+                   :E (v19 / label~e.8)
+                   :C (v20 / label~e.9))
+           :D (v13 / label~e.10)
+           :S (v14 / label~e.11)
            :A (v15 / label
-                   :R (v21 / label)
-                   :A (v22 / label)
+                   :R (v21 / label~e.12)
+                   :A (v22 / label~e.15)
                    :A (v23 / label
-                           :E (v31 / label)
-                           :C (v32 / label))
-                   :P (v24 / label)))
-    :L (v6 / label)
+                           :E (v31 / label~e.16)
+                           :C (v32 / label~e.17))
+                   :P (v24 / label~e.18)))
+    :L (v6 / label~e.21)
     :H (v7 / label
            :A (v16 / label
                    :C (v25 / label
-                           :E (v33 / label)
-                           :C (v34 / label))
-                   :N (v26 / label)
-                   :C (v27 / label))
+                           :E (v33 / label~e.22)
+                           :C (v34 / label~e.23))
+                   :N (v26 / label~e.24)
+                   :C (v27 / label~e.25))
            :A (v17 / label
-                   :R (v28 / label)
-                   :E (v29 / label)
-                   :C (v30 / label))
-           :P (v18 / label)))
+                   :R (v28 / label~e.26)
+                   :E (v29 / label~e.27)
+                   :C (v30 / label~e.28))
+           :P (v18 / label~e.29)))

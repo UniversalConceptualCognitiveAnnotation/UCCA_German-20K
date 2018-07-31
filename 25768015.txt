@@ -1,29 +1,30 @@
 # ::id 25768015
 # ::tok Aber auf Conseil machte die Mitteilung des Planes , nach dem Südpol zu dringen , doch noch weniger Eindruck .
+# ::alignments 0-1.1 1-1.2.1.1 2-1.2.1.2 4-1.2.3.1.2.1 5-1.2.3.1.2.2 6-1.2.3.2.2.1 7-1.2.3.2.2.2 9-1.2.3.2.3.1 10-1.2.3.2.3.2 11-1.2.3.2.3.3 13-1.2.3.2.5 16-1.2.5.1 17-1.2.5.2 18-1.2.2.2
 (v1 / label
-    :L (v2 / label)
+    :L (v2 / label~e.0)
     :H (v3 / label
            :A (v4 / label
-                  :R (v8 / label)
-                  :C (v9 / label))
+                  :R (v8 / label~e.1)
+                  :C (v9 / label~e.2))
            :P (v5 / label
-                  :C (v10 / label))
+                  :C (v10 / label~e.18))
            :A (v6 / label
                   :C (v11 / label
                           :A (v15 / label)
                           :P (v16 / label
-                                  :E (v21 / label)
-                                  :C (v22 / label)))
+                                  :E (v21 / label~e.4)
+                                  :C (v22 / label~e.5)))
                   :E (v12 / label
                           :A (v17 / label)
                           :A (v18 / label
-                                  :R (v23 / label)
-                                  :C (v24 / label))
+                                  :R (v23 / label~e.6)
+                                  :C (v24 / label~e.7))
                           :A (v19 / label
-                                  :R (v25 / label)
-                                  :E (v26 / label)
-                                  :C (v27 / label))
-                          :P (v20 / label)))
+                                  :R (v25 / label~e.9)
+                                  :E (v26 / label~e.10)
+                                  :C (v27 / label~e.11))
+                          :P (v20 / label~e.13)))
            :D (v7 / label
-                  :E (v13 / label)
-                  :C (v14 / label))))
+                  :E (v13 / label~e.16)
+                  :C (v14 / label~e.17))))

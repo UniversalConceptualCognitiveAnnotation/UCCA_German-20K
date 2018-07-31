@@ -1,12 +1,13 @@
 # ::id 25746011
 # ::tok Doch Kapitän Nemo gab keinen Befehl dazu .
+# ::alignments 0-1.1 1-1.2.1.1 2-1.2.1.2 4-1.2.3 5-1.2.2.2 6-1.2.4
 (v1 / label
-    :L (v2 / label)
+    :L (v2 / label~e.0)
     :H (v3 / label
            :A (v4 / label
-                  :E (v8 / label)
-                  :C (v9 / label))
+                  :E (v8 / label~e.1)
+                  :C (v9 / label~e.2))
            :P (v5 / label
-                  :C (v10 / label))
-           :D (v6 / label)
-           :A (v7 / label)))
+                  :C (v10 / label~e.5))
+           :D (v6 / label~e.4)
+           :A (v7 / label~e.6)))

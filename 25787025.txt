@@ -1,27 +1,28 @@
 # ::id 25787025
 # ::tok Aber Kapitän Nemo wußte , daß er nicht genug eilen konnte und daß damals die Minuten Jahrhunderte galten .
+# ::alignments 0-1.1 1-1.2.1.1 2-1.2.1.2 3-1.2.2 5-1.2.3.1 6-1.2.3.2.1 7-1.2.3.2.2.1 8-1.2.3.2.2.2 9-1.2.3.2.3 10-1.2.3.2.4 11-1.2.3.3 12-1.2.3.4.1 13-1.2.3.4.2 14-1.2.3.4.3.1 15-1.2.3.4.3.2 16-1.2.3.4.4 17-1.2.3.4.5
 (v1 / label
-    :L (v2 / label)
+    :L (v2 / label~e.0)
     :H (v3 / label
            :A (v4 / label
-                  :E (v7 / label)
-                  :C (v8 / label))
-           :S (v5 / label)
+                  :E (v7 / label~e.1)
+                  :C (v8 / label~e.2))
+           :S (v5 / label~e.3)
            :A (v6 / label
-                  :R (v9 / label)
+                  :R (v9 / label~e.5)
                   :H (v10 / label
-                          :A (v13 / label)
+                          :A (v13 / label~e.6)
                           :D (v14 / label
-                                  :E (v22 / label)
-                                  :C (v23 / label))
-                          :P (v15 / label)
-                          :D (v16 / label))
-                  :L (v11 / label)
+                                  :E (v22 / label~e.7)
+                                  :C (v23 / label~e.8))
+                          :P (v15 / label~e.9)
+                          :D (v16 / label~e.10))
+                  :L (v11 / label~e.11)
                   :H (v12 / label
-                          :R (v17 / label)
-                          :T (v18 / label)
+                          :R (v17 / label~e.12)
+                          :T (v18 / label~e.13)
                           :A (v19 / label
-                                  :E (v24 / label)
-                                  :C (v25 / label))
-                          :A (v20 / label)
-                          :S (v21 / label)))))
+                                  :E (v24 / label~e.14)
+                                  :C (v25 / label~e.15))
+                          :A (v20 / label~e.16)
+                          :S (v21 / label~e.17)))))

@@ -1,16 +1,17 @@
 # ::id 25769004
 # ::tok Unterdessen begann man mit den Vorbereitungen zu dem kühnen Unternehmen .
+# ::alignments 0-1.1 1-1.2.1 2-1.2.2 3-1.2.3.1 4-1.2.3.2 5-1.2.3.3 6-1.2.4.1 7-1.2.4.2 8-1.2.4.3 9-1.2.4.4
 (v1 / label
-    :L (v2 / label)
+    :L (v2 / label~e.0)
     :H (v3 / label
-           :D (v4 / label)
-           :A (v5 / label)
+           :D (v4 / label~e.1)
+           :A (v5 / label~e.2)
            :P (v6 / label
-                  :R (v8 / label)
-                  :E (v9 / label)
-                  :C (v10 / label))
+                  :R (v8 / label~e.3)
+                  :E (v9 / label~e.4)
+                  :C (v10 / label~e.5))
            :A (v7 / label
-                  :R (v11 / label)
-                  :E (v12 / label)
-                  :E (v13 / label)
-                  :C (v14 / label))))
+                  :R (v11 / label~e.6)
+                  :E (v12 / label~e.7)
+                  :E (v13 / label~e.8)
+                  :C (v14 / label~e.9))))

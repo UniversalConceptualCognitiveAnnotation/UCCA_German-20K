@@ -1,11 +1,12 @@
 # ::id 25818011
 # ::tok »Wenn ich ihn treffe.«
+# ::alignments 0-1.1.2.1 1-1.1.2.2.1 2-1.1.2.2.2 3-1.1.2.2.3
 (v1 / label
     :H (v2 / label
            :P (v3 / label)
            :A (v4 / label
-                  :L (v5 / label)
+                  :L (v5 / label~e.0)
                   :H (v6 / label
-                         :A (v7 / label)
-                         :A (v8 / label)
-                         :P (v9 / label)))))
+                         :A (v7 / label~e.1)
+                         :A (v8 / label~e.2)
+                         :P (v9 / label~e.3)))))

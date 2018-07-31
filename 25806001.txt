@@ -1,7 +1,8 @@
 # ::id 25806001
 # ::tok Weshalb ?
+# ::alignments 0-1.1.3
 (v1 / label
     :H (v2 / label
            :P (v3 / label)
            :A (v4 / label)
-           :D (v5 / label)))
+           :D (v5 / label~e.0)))

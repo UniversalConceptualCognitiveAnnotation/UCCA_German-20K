@@ -1,33 +1,34 @@
 # ::id 25789001
 # ::tok »Ich verstehe« , fuhr er fort , »die Hacke so gut zu führen wie die Harpune , und wenn ich nützlich sein kann , stehe ich dem Kapitän zu Diensten.«
+# ::alignments 0-1.1.1.1.1 1-1.1.1.1.2 3-1.1.2 4-1.1.3 5-1.1.2 7-1.1.1.1.3.1 8-1.1.1.1.3.2 9-1.1.1.1.4.1 10-1.1.1.1.4.2 12-1.1.1.1.6 13-1.1.1.1.7.1 14-1.1.1.1.7.2 15-1.1.1.1.7.3 17-1.1.1.2 18-1.1.1.3 19-1.1.1.4.1 20-1.1.1.4.2 22-1.1.1.4.4 24-1.1.1.5.1 25-1.1.1.5.2 26-1.1.1.5.3.1 27-1.1.1.5.3.2 28-1.1.1.5.1 29-1.1.1.5.1
 (v1 / label
     :H (v2 / label
            :A (v3 / label
                   :H (v6 / label
-                         :A (v11 / label)
-                         :D (v12 / label)
+                         :A (v11 / label~e.0)
+                         :D (v12 / label~e.1)
                          :A (v13 / label
-                                 :E (v23 / label)
-                                 :C (v24 / label))
+                                 :E (v23 / label~e.7)
+                                 :C (v24 / label~e.8))
                          :D (v14 / label
-                                 :E (v25 / label)
-                                 :C (v26 / label))
-                         :P (v15 / label)
+                                 :E (v25 / label~e.9)
+                                 :C (v26 / label~e.10))
+                         :P (v15 / label~e.12)
                          :A (v16 / label
-                                 :R (v27 / label)
-                                 :E (v28 / label)
-                                 :C (v29 / label)))
-                  :L (v7 / label)
-                  :L (v8 / label)
+                                 :R (v27 / label~e.13)
+                                 :E (v28 / label~e.14)
+                                 :C (v29 / label~e.15)))
+                  :L (v7 / label~e.17)
+                  :L (v8 / label~e.18)
                   :H (v9 / label
-                         :A (v17 / label)
-                         :S (v18 / label)
-                         :D (v19 / label))
+                         :A (v17 / label~e.19)
+                         :S (v18 / label~e.20)
+                         :D (v19 / label~e.22))
                   :H (v10 / label
-                          :S (v20 / label)
-                          :A (v21 / label)
+                          :S (v20 / label~e.24,28,29)
+                          :A (v21 / label~e.25)
                           :A (v22 / label
-                                  :E (v30 / label)
-                                  :C (v31 / label))))
-           :P (v4 / label)
-           :A (v5 / label)))
+                                  :E (v30 / label~e.26)
+                                  :C (v31 / label~e.27))))
+           :P (v4 / label~e.3,5)
+           :A (v5 / label~e.4)))

@@ -1,25 +1,26 @@
 # ::id 25819008
 # ::tok Doch im Augenblick sah ich in dieser Mitteilung nur einen Anlaß , auf meinen Gegenstand zu kommen .
+# ::alignments 0-1.1 1-1.2.1.1 2-1.2.1.2 3-1.2.2 4-1.2.3 5-1.2.4.1 6-1.2.4.2 7-1.2.4.3 8-1.2.5 9-1.2.6.2 10-1.2.6.3 12-1.2.6.1.1 13-1.2.6.1.2.1 14-1.2.6.1.2.2 16-1.2.6.1.4
 (v1 / label
-    :L (v2 / label)
+    :L (v2 / label~e.0)
     :H (v3 / label
            :T (v4 / label
-                  :R (v10 / label)
-                  :C (v11 / label))
-           :P (v5 / label)
-           :A (v6 / label)
+                  :R (v10 / label~e.1)
+                  :C (v11 / label~e.2))
+           :P (v5 / label~e.3)
+           :A (v6 / label~e.4)
            :A (v7 / label
-                  :R (v12 / label)
-                  :E (v13 / label)
-                  :C (v14 / label))
-           :D (v8 / label)
+                  :R (v12 / label~e.5)
+                  :E (v13 / label~e.6)
+                  :C (v14 / label~e.7))
+           :D (v8 / label~e.8)
            :A (v9 / label
                   :E (v15 / label
-                          :R (v18 / label)
+                          :R (v18 / label~e.12)
                           :A (v19 / label
-                                  :E (v21 / label)
-                                  :C (v22 / label))
-                          :P (v20 / label)
-                          :A (v17 / label))
-                  :E (v16 / label)
+                                  :E (v21 / label~e.13)
+                                  :C (v22 / label~e.14))
+                          :P (v20 / label~e.16)
+                          :A (v17 / label~e.10))
+                  :E (v16 / label~e.9)
                   :C v17)))

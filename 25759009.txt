@@ -1,25 +1,26 @@
 # ::id 25759009
 # ::tok »Das sind Pottfische , fürchterliche Tiere , die ich mitunter in Scharen von 2- bis 300 getroffen habe !
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.3 4-1.1.1.4.2 5-1.1.1.4.3 7-1.1.1.4.1.1 8-1.1.1.4.1.2 9-1.1.1.4.1.3 10-1.1.1.4.1.4.2 11-1.1.1.4.1.4.3 12-1.1.1.4.1.4.1.1 13-1.1.1.4.1.4.1.2 14-1.1.1.4.1.4.1.3 15-1.1.1.4.1.4.1.4 16-1.1.1.4.1.5
 (v1 / label
     :H (v2 / label
            :H (v3 / label
-                  :A (v4 / label)
-                  :S (v5 / label)
-                  :A (v6 / label)
+                  :A (v4 / label~e.0)
+                  :S (v5 / label~e.1)
+                  :A (v6 / label~e.2)
                   :A (v7 / label
                          :E (v8 / label
-                                :R (v11 / label)
-                                :A (v12 / label)
-                                :T (v13 / label)
+                                :R (v11 / label~e.7)
+                                :A (v12 / label~e.8)
+                                :T (v13 / label~e.9)
                                 :A (v14 / label
                                         :E (v16 / label
-                                                :R (v19 / label)
-                                                :C (v20 / label)
-                                                :N (v21 / label)
-                                                :C (v22 / label))
-                                        :R (v17 / label)
-                                        :C (v18 / label))
-                                :P (v15 / label)
-                                :A (v10 / label))
-                         :E (v9 / label)
+                                                :R (v19 / label~e.12)
+                                                :C (v20 / label~e.13)
+                                                :N (v21 / label~e.14)
+                                                :C (v22 / label~e.15))
+                                        :R (v17 / label~e.10)
+                                        :C (v18 / label~e.11))
+                                :P (v15 / label~e.16)
+                                :A (v10 / label~e.5))
+                         :E (v9 / label~e.4)
                          :C v10))))

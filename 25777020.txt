@@ -1,12 +1,13 @@
 # ::id 25777020
 # ::tok Ich teilte meine Besorgnisse Kapitän Nemo mit .
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.1 3-1.1.3.2 4-1.1.4.1 5-1.1.4.2 6-1.1.2
 (v1 / label
     :H (v2 / label
-           :A (v3 / label)
-           :P (v4 / label)
+           :A (v3 / label~e.0)
+           :P (v4 / label~e.1,6)
            :A (v5 / label
-                  :E (v7 / label)
-                  :C (v8 / label))
+                  :E (v7 / label~e.2)
+                  :C (v8 / label~e.3))
            :A (v6 / label
-                  :E (v9 / label)
-                  :C (v10 / label))))
+                  :E (v9 / label~e.4)
+                  :C (v10 / label~e.5))))

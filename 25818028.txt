@@ -1,8 +1,9 @@
 # ::id 25818028
 # ::tok »Sie hier !
+# ::alignments 0-1.1.1.1.1 1-1.1.1.1.2
 (v1 / label
     :H (v2 / label
            :A (v3 / label
                   :H (v4 / label
-                         :A (v5 / label)
-                         :S (v6 / label)))))
+                         :A (v5 / label~e.0)
+                         :S (v6 / label~e.1)))))

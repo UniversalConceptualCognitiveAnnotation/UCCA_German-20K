@@ -1,12 +1,13 @@
 # ::id 25709012
 # ::tok »Sie wird ein Ende nehmen , Ned.«
+# ::alignments 0-1.1.3.1 2-1.1.3.3.1 3-1.1.3.3.2 6-1.1.3.4
 (v1 / label
     :H (v2 / label
            :P (v3 / label)
            :A (v4 / label)
            :A (v5 / label
-                  :A (v6 / label)
+                  :A (v6 / label~e.0)
                   :P (v7 / label
-                         :E (v9 / label)
-                         :C (v10 / label))
-                  :G (v8 / label))))
+                         :E (v9 / label~e.2)
+                         :C (v10 / label~e.3))
+                  :G (v8 / label~e.6))))

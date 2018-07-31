@@ -1,6 +1,7 @@
 # ::id 25788011
 # ::tok Luft mangel
+# ::alignments 0-1.1.1 1-1.1.2
 (v1 / label
     :H (v2 / label
-           :A (v3 / label)
-           :S (v4 / label)))
+           :A (v3 / label~e.0)
+           :S (v4 / label~e.1)))

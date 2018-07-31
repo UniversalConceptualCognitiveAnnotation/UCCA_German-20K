@@ -1,10 +1,11 @@
 # ::id 25723001
 # ::tok Ich wollte den Kompaß befragen .
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.1 3-1.1.3.2 4-1.1.4
 (v1 / label
     :H (v2 / label
-           :A (v3 / label)
-           :D (v4 / label)
+           :A (v3 / label~e.0)
+           :D (v4 / label~e.1)
            :A (v5 / label
-                  :E (v7 / label)
-                  :C (v8 / label))
-           :P (v6 / label)))
+                  :E (v7 / label~e.2)
+                  :C (v8 / label~e.3))
+           :P (v6 / label~e.4)))

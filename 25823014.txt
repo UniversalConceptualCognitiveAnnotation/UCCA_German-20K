@@ -1,12 +1,13 @@
 # ::id 25823014
 # ::tok Die oberen Schichten waren zu sehr aufgeregt .
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.3 4-1.1.3.1 5-1.1.3.2 6-1.1.4
 (v1 / label
     :H (v2 / label
            :A (v3 / label
-                  :E (v6 / label)
-                  :E (v7 / label)
-                  :C (v8 / label))
+                  :E (v6 / label~e.0)
+                  :E (v7 / label~e.1)
+                  :C (v8 / label~e.2))
            :D (v4 / label
-                  :R (v9 / label)
-                  :C (v10 / label))
-           :P (v5 / label)))
+                  :R (v9 / label~e.4)
+                  :C (v10 / label~e.5))
+           :P (v5 / label~e.6)))

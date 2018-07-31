@@ -1,16 +1,17 @@
 # ::id 25842011
 # ::tok Wir befanden uns also an dieser gefährlichen Stelle der norwegischen Küste ?
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.2 3-1.1.3 4-1.1.4.1 5-1.1.4.3 6-1.1.4.4 7-1.1.4.5 8-1.1.4.2.1 9-1.1.4.2.2 10-1.1.4.2.3
 (v1 / label
     :H (v2 / label
-           :A (v3 / label)
-           :S (v4 / label)
-           :D (v5 / label)
+           :A (v3 / label~e.0)
+           :S (v4 / label~e.1,2)
+           :D (v5 / label~e.3)
            :A (v6 / label
-                  :R (v7 / label)
+                  :R (v7 / label~e.4)
                   :E (v8 / label
-                         :R (v12 / label)
-                         :E (v13 / label)
-                         :C (v14 / label))
-                  :E (v9 / label)
-                  :E (v10 / label)
-                  :C (v11 / label))))
+                         :R (v12 / label~e.8)
+                         :E (v13 / label~e.9)
+                         :C (v14 / label~e.10))
+                  :E (v9 / label~e.5)
+                  :E (v10 / label~e.6)
+                  :C (v11 / label~e.7))))

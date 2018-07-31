@@ -1,14 +1,15 @@
 # ::id 25768013
 # ::tok Auf ein Signal erschien der Schiffslieutenant .
+# ::alignments 0-1.1.2.1 1-1.1.2.2 2-1.1.2.3 3-1.2.1 4-1.2.2.1 5-1.2.2.2
 (v1 / label
     :H (v2 / label
            :S (v4 / label)
            :A (v5 / label
-                  :R (v8 / label)
-                  :E (v9 / label)
-                  :C (v10 / label)))
+                  :R (v8 / label~e.0)
+                  :E (v9 / label~e.1)
+                  :C (v10 / label~e.2)))
     :H (v3 / label
-           :S (v6 / label)
+           :S (v6 / label~e.3)
            :A (v7 / label
-                  :E (v11 / label)
-                  :C (v12 / label))))
+                  :E (v11 / label~e.4)
+                  :C (v12 / label~e.5))))
