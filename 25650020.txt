@@ -1,14 +1,15 @@
 # ::id 25650020
 # ::tok Der Mann war nicht allein krank , sondern verwundet .
+# ::alignments 0-1.1.1.1 1-1.3.2 3-1.1.3 4-1.1.4 5-1.1.5 7-1.2 8-1.3.1
 (v1 / label
     :H (v2 / label
            :A (v5 / label
-                  :E (v11 / label)
-                  :C (v10 / label))
-           :D (v6 / label)
-           :D (v7 / label)
-           :S (v8 / label))
-    :L (v3 / label)
+                  :E (v11 / label~e.0)
+                  :C (v10 / label~e.1))
+           :D (v6 / label~e.3)
+           :D (v7 / label~e.4)
+           :S (v8 / label~e.5))
+    :L (v3 / label~e.7)
     :H (v4 / label
-           :P (v9 / label)
+           :P (v9 / label~e.8)
            :A v10))

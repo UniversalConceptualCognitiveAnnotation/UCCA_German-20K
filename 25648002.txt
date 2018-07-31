@@ -1,12 +1,13 @@
 # ::id 25648002
 # ::tok Wirklich war der Tisch gedeckt und versehen .
+# ::alignments 0-1.1.1 2-1.1.3.1 3-1.1.3.2 4-1.1.4.1 5-1.1.4.2 6-1.1.4.3
 (v1 / label
     :H (v2 / label
-           :D (v3 / label)
+           :D (v3 / label~e.0)
            :A (v4 / label
-                  :E (v6 / label)
-                  :C (v7 / label))
+                  :E (v6 / label~e.2)
+                  :C (v7 / label~e.3))
            :S (v5 / label
-                  :C (v8 / label)
-                  :N (v9 / label)
-                  :C (v10 / label))))
+                  :C (v8 / label~e.4)
+                  :N (v9 / label~e.5)
+                  :C (v10 / label~e.6))))

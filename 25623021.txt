@@ -1,37 +1,38 @@
 # ::id 25623021
 # ::tok Die Natur hat die Gegenden , wo kein Getreide wächst , mit diesem nützlichen Nahrungs baum versehen , der ohne alle Pflege 8 Monate im Jahr seine Früchte spendet .
+# ::alignments 0-1.1.1.1 1-1.1.1.2 3-1.1.3.2 4-1.1.3.3 6-1.1.3.1.1 7-1.1.3.1.2 8-1.1.3.1.3 9-1.1.3.1.4 11-1.1.4.1 12-1.1.4.3 13-1.1.4.4 14-1.1.4.5 15-1.1.4.6 16-1.1.5 18-1.1.4.2.1 19-1.1.4.2.2.1 20-1.1.4.2.2.2 21-1.1.4.2.2.3 22-1.1.4.2.3.1 23-1.1.4.2.3.1 24-1.1.4.2.3.2.1 25-1.1.4.2.3.2.2 26-1.1.4.2.4.1 27-1.1.4.2.4.2 28-1.1.4.2.5
 (v1 / label
     :H (v2 / label
            :A (v3 / label
-                  :E (v7 / label)
-                  :C (v8 / label))
+                  :E (v7 / label~e.0)
+                  :C (v8 / label~e.1))
            :A (v4 / label
                   :E (v9 / label
-                         :R (v18 / label)
-                         :D (v19 / label)
-                         :A (v20 / label)
-                         :P (v21 / label))
-                  :E (v10 / label)
-                  :C (v11 / label))
+                         :R (v18 / label~e.6)
+                         :D (v19 / label~e.7)
+                         :A (v20 / label~e.8)
+                         :P (v21 / label~e.9))
+                  :E (v10 / label~e.3)
+                  :C (v11 / label~e.4))
            :A (v5 / label
-                  :R (v12 / label)
+                  :R (v12 / label~e.11)
                   :E (v13 / label
-                          :R (v22 / label)
+                          :R (v22 / label~e.18)
                           :A (v23 / label
-                                  :E (v27 / label)
-                                  :E (v28 / label)
-                                  :C (v29 / label))
+                                  :E (v27 / label~e.19)
+                                  :E (v28 / label~e.20)
+                                  :C (v29 / label~e.21))
                           :T (v24 / label
-                                  :C (v30 / label)
+                                  :C (v30 / label~e.22,23)
                                   :E (v31 / label
-                                          :R (v34 / label)
-                                          :C (v35 / label)))
+                                          :R (v34 / label~e.24)
+                                          :C (v35 / label~e.25)))
                           :A (v25 / label
-                                  :E (v32 / label)
-                                  :C (v33 / label))
-                          :P (v26 / label))
-                  :E (v14 / label)
-                  :E (v15 / label)
-                  :E (v16 / label)
-                  :C (v17 / label))
-           :P (v6 / label)))
+                                  :E (v32 / label~e.26)
+                                  :C (v33 / label~e.27))
+                          :P (v26 / label~e.28))
+                  :E (v14 / label~e.12)
+                  :E (v15 / label~e.13)
+                  :E (v16 / label~e.14)
+                  :C (v17 / label~e.15))
+           :P (v6 / label~e.16)))

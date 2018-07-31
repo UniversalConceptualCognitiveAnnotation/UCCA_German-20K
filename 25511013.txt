@@ -1,16 +1,17 @@
 # ::id 25511013
 # ::tok »Wie ? Sie haben ein Boot ? « versetzte ich etwas erstaunt .
+# ::alignments 0-1.1.1.1 2-1.1.1.2 3-1.1.1.3 4-1.1.1.4.1 5-1.1.1.4.2 8-1.1.2 9-1.1.3 10-1.1.4.1 11-1.1.4.2
 (v1 / label
     :H (v2 / label
            :A (v3 / label
-                  :A (v7 / label)
-                  :A (v8 / label)
-                  :S (v9 / label)
+                  :A (v7 / label~e.0)
+                  :A (v8 / label~e.2)
+                  :S (v9 / label~e.3)
                   :A (v10 / label
-                          :E (v13 / label)
-                          :C (v14 / label)))
-           :P (v4 / label)
-           :A (v5 / label)
+                          :E (v13 / label~e.4)
+                          :C (v14 / label~e.5)))
+           :P (v4 / label~e.8)
+           :A (v5 / label~e.9)
            :D (v6 / label
-                  :E (v11 / label)
-                  :C (v12 / label))))
+                  :E (v11 / label~e.10)
+                  :C (v12 / label~e.11))))

@@ -1,19 +1,20 @@
 # ::id 25679009
 # ::tok » Was sollen uns an Bord der Nautilus Millionen nützen ? «
+# ::alignments 1-1.1.3.1.1 2-1.1.3.1.2 3-1.1.3.1.3 4-1.1.3.1.4.2 5-1.1.3.1.4.3 6-1.1.3.1.4.1.1 7-1.1.3.1.4.1.2 8-1.1.3.1.5 9-1.1.3.1.6
 (v1 / label
     :H (v2 / label
            :A (v3 / label)
            :P (v4 / label)
            :A (v5 / label
                   :H (v6 / label
-                         :A (v7 / label)
-                         :D (v8 / label)
-                         :A (v9 / label)
+                         :A (v7 / label~e.1)
+                         :D (v8 / label~e.2)
+                         :A (v9 / label~e.3)
                          :A (v10 / label
                                  :E (v13 / label
-                                         :R (v16 / label)
-                                         :C (v17 / label))
-                                 :R (v14 / label)
-                                 :C (v15 / label))
-                         :A (v11 / label)
-                         :P (v12 / label)))))
+                                         :R (v16 / label~e.6)
+                                         :C (v17 / label~e.7))
+                                 :R (v14 / label~e.4)
+                                 :C (v15 / label~e.5))
+                         :A (v11 / label~e.8)
+                         :P (v12 / label~e.9)))))

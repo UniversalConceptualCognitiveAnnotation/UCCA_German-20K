@@ -1,26 +1,27 @@
 # ::id 25602015
 # ::tok Überhaupt genommen schätzt man , daß , wenn der Meeres grund nivelliert wäre , seine mittlere Tiefe etwa 7 Kilometer betragen würde.«
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.2 3-1.1.3 5-1.1.4.1 7-1.2 8-1.3.1.1 9-1.3.1.2 10-1.3.1.3 11-1.3.2 14-1.1.4.2.1 15-1.1.4.2.2 16-1.1.4.2.3 17-1.1.4.3 18-1.1.4.4 19-1.1.4.4 20-1.1.4.5 21-1.1.4.6
 (v1 / label
     :H (v2 / label
            :D (v5 / label
-                  :E (v11 / label)
-                  :C (v12 / label))
-           :P (v6 / label)
-           :A (v7 / label)
+                  :E (v11 / label~e.0)
+                  :C (v12 / label~e.1))
+           :P (v6 / label~e.2)
+           :A (v7 / label~e.3)
            :A (v8 / label
-                  :R (v13 / label)
+                  :R (v13 / label~e.5)
                   :A (v14 / label
-                          :E (v22 / label)
-                          :E (v23 / label)
-                          :C (v24 / label))
-                  :D (v15 / label)
-                  :A (v16 / label)
-                  :S (v17 / label)
-                  :D (v18 / label)))
-    :L (v3 / label)
+                          :E (v22 / label~e.14)
+                          :E (v23 / label~e.15)
+                          :C (v24 / label~e.16))
+                  :D (v15 / label~e.17)
+                  :A (v16 / label~e.18,19)
+                  :S (v17 / label~e.20)
+                  :D (v18 / label~e.21)))
+    :L (v3 / label~e.7)
     :H (v4 / label
            :A (v9 / label
-                  :E (v19 / label)
-                  :E (v20 / label)
-                  :C (v21 / label))
-           :S (v10 / label)))
+                  :E (v19 / label~e.8)
+                  :E (v20 / label~e.9)
+                  :C (v21 / label~e.10))
+           :S (v10 / label~e.11)))

@@ -1,6 +1,7 @@
 # ::id 25583017
 # ::tok Kapitän Nemo
+# ::alignments 0-1.1.1 1-1.1.2
 (v1 / label
     :H (v2 / label
-           :E (v3 / label)
-           :C (v4 / label)))
+           :E (v3 / label~e.0)
+           :C (v4 / label~e.1)))

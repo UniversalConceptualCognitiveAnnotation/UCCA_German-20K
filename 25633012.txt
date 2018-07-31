@@ -1,25 +1,26 @@
 # ::id 25633012
 # ::tok »Und Sie wundern sich , Herr Professor , daß Sie , sowie Sie einen Fuß an Land setzen , Wilde darauf antreffen ?
+# ::alignments 0-1.1 2-1.2.2 3-1.2.2 5-1.2.3.1 6-1.2.3.2 8-1.2.4.1 9-1.2.4.2 11-1.2.4.3.1 12-1.2.4.3.2 13-1.2.4.3.3.1 14-1.2.4.3.3.2 15-1.2.4.3.4.1 16-1.2.4.3.4.2 17-1.2.4.3.5 19-1.2.4.4 20-1.2.4.5 21-1.2.4.6
 (v1 / label
-    :L (v2 / label)
+    :L (v2 / label~e.0)
     :H (v3 / label
-           :P (v4 / label)
+           :P (v4 / label~e.2,3)
            :A (v5 / label
-                  :E (v7 / label)
-                  :C (v8 / label))
+                  :E (v7 / label~e.5)
+                  :C (v8 / label~e.6))
            :A (v6 / label
-                  :R (v9 / label)
-                  :A (v10 / label)
+                  :R (v9 / label~e.8)
+                  :A (v10 / label~e.9)
                   :A (v11 / label
-                          :D (v15 / label)
-                          :A (v16 / label)
+                          :D (v15 / label~e.11)
+                          :A (v16 / label~e.12)
                           :A (v17 / label
-                                  :E (v20 / label)
-                                  :C (v21 / label))
+                                  :E (v20 / label~e.13)
+                                  :C (v21 / label~e.14))
                           :A (v18 / label
-                                  :R (v22 / label)
-                                  :C (v23 / label))
-                          :P (v19 / label))
-                  :A (v12 / label)
-                  :A (v13 / label)
-                  :P (v14 / label))))
+                                  :R (v22 / label~e.15)
+                                  :C (v23 / label~e.16))
+                          :P (v19 / label~e.17))
+                  :A (v12 / label~e.19)
+                  :A (v13 / label~e.20)
+                  :P (v14 / label~e.21))))

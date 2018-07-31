@@ -1,10 +1,11 @@
 # ::id 25688010
 # ::tok Inzwischen hatte Ned Land den Kapitän frei gemacht .
+# ::alignments 0-1.1 2-1.2.2 3-1.2.2 4-1.2.3.1 5-1.2.3.2 6-1.2.4 7-1.2.4
 (v1 / label
-    :L (v2 / label)
+    :L (v2 / label~e.0)
     :H (v3 / label
-           :A (v4 / label)
+           :A (v4 / label~e.2,3)
            :A (v5 / label
-                  :E (v7 / label)
-                  :C (v8 / label))
-           :P (v6 / label)))
+                  :E (v7 / label~e.4)
+                  :C (v8 / label~e.5))
+           :P (v6 / label~e.6,7)))

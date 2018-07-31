@@ -1,10 +1,11 @@
 # ::id 25641015
 # ::tok Gegen die Gestade Europas ?
+# ::alignments 0-1.1.2.1 1-1.1.2.3 2-1.1.2.4 3-1.1.2.2
 (v1 / label
     :H (v2 / label
            :P (v3 / label)
            :A (v4 / label
-                  :R (v5 / label)
-                  :E (v6 / label)
-                  :E (v7 / label)
-                  :C (v8 / label))))
+                  :R (v5 / label~e.0)
+                  :E (v6 / label~e.3)
+                  :E (v7 / label~e.1)
+                  :C (v8 / label~e.2))))

@@ -1,22 +1,23 @@
 # ::id 25607007
 # ::tok »192.000 Jahre , mein wackerer Conseil , wodurch die Tage der Bibel sehr lange werden .
+# ::alignments 0-1.1.2 1-1.1.2 3-1.1.3.1 4-1.1.3.2 5-1.1.3.3 7-1.2 8-1.3.1.1 9-1.3.1.2 10-1.3.1.3.1 11-1.3.1.3.2 12-1.3.2.1 13-1.3.2.2 14-1.3.3
 (v1 / label
     :H (v2 / label
            :S (v5 / label)
-           :A (v6 / label)
+           :A (v6 / label~e.0,1)
            :A (v7 / label
-                  :E (v11 / label)
-                  :E (v12 / label)
-                  :C (v13 / label)))
-    :L (v3 / label)
+                  :E (v11 / label~e.3)
+                  :E (v12 / label~e.4)
+                  :C (v13 / label~e.5)))
+    :L (v3 / label~e.7)
     :H (v4 / label
            :A (v8 / label
-                  :E (v14 / label)
-                  :C (v15 / label)
+                  :E (v14 / label~e.8)
+                  :C (v15 / label~e.9)
                   :E (v16 / label
-                          :R (v19 / label)
-                          :C (v20 / label)))
+                          :R (v19 / label~e.10)
+                          :C (v20 / label~e.11)))
            :D (v9 / label
-                  :E (v17 / label)
-                  :C (v18 / label))
-           :S (v10 / label)))
+                  :E (v17 / label~e.12)
+                  :C (v18 / label~e.13))
+           :S (v10 / label~e.14)))

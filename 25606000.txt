@@ -1,6 +1,7 @@
 # ::id 25606000
 # ::tok Florida , Sunderland.Vanikoro
+# ::alignments 0-1.1.1 2-1.1.2
 (v1 / label
     :H (v2 / label
-           :C (v3 / label)
-           :E (v4 / label)))
+           :C (v3 / label~e.0)
+           :E (v4 / label~e.2)))

@@ -1,12 +1,13 @@
 # ::id 25624019
 # ::tok »Nun , halten Sie sich gefaßt , etwas Saftiges zu verzehren .
+# ::alignments 2-1.1.2 3-1.1.3 4-1.1.2 5-1.1.4 7-1.2.1.1 8-1.2.1.2 10-1.2.3
 (v1 / label
     :H (v2 / label
-           :P (v4 / label)
-           :A (v5 / label)
-           :D (v6 / label))
+           :P (v4 / label~e.2,4)
+           :A (v5 / label~e.3)
+           :D (v6 / label~e.5))
     :H (v3 / label
            :A (v7 / label
-                  :E (v9 / label)
-                  :C (v10 / label))
-           :P (v8 / label)))
+                  :E (v9 / label~e.7)
+                  :C (v10 / label~e.8))
+           :P (v8 / label~e.10)))

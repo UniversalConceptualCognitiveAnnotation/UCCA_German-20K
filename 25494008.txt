@@ -1,31 +1,32 @@
 # ::id 25494008
 # ::tok »Sie begreifen also , mein Herr« , fuhr der Unbekannte fort , »daß ich Sie als Feinde zu behandeln berechtigt bin.« »Ich blieb die Antwort schuldig .
+# ::alignments 0-1.1.1.1 1-1.1.1.2 4-1.1.1.4.1 5-1.1.1.4.2 7-1.1.2 8-1.1.3.1 9-1.1.3.2 10-1.1.2 12-1.1.1.5.1 13-1.1.1.5.2 14-1.1.1.5.3.2 15-1.1.1.5.3.3.1 16-1.1.1.5.3.3.2 18-1.1.1.5.3.5 19-1.1.1.5.4 21-1.2.1 22-1.2.2 23-1.2.3.1 24-1.2.3.2 25-1.2.2
 (v1 / label
     :H (v2 / label
            :A (v4 / label
-                  :A (v10 / label)
-                  :P (v11 / label)
+                  :A (v10 / label~e.0)
+                  :P (v11 / label~e.1)
                   :G (v12 / label
-                          :E (v18 / label)
-                          :C (v19 / label))
+                          :E (v18 / label~e.4)
+                          :C (v19 / label~e.5))
                   :A (v13 / label
-                          :R (v20 / label)
-                          :A (v21 / label)
+                          :R (v20 / label~e.12)
+                          :A (v21 / label~e.13)
                           :A (v22 / label
                                   :A v21
-                                  :A (v24 / label)
+                                  :A (v24 / label~e.14)
                                   :A (v25 / label
-                                          :R (v27 / label)
-                                          :C (v28 / label))
-                                  :P (v26 / label))
-                          :S (v23 / label)))
-           :P (v5 / label)
+                                          :R (v27 / label~e.15)
+                                          :C (v28 / label~e.16))
+                                  :P (v26 / label~e.18))
+                          :S (v23 / label~e.19)))
+           :P (v5 / label~e.7,10)
            :A (v6 / label
-                  :E (v14 / label)
-                  :C (v15 / label)))
+                  :E (v14 / label~e.8)
+                  :C (v15 / label~e.9)))
     :H (v3 / label
-           :A (v7 / label)
-           :P (v8 / label)
+           :A (v7 / label~e.21)
+           :P (v8 / label~e.22,25)
            :A (v9 / label
-                  :E (v16 / label)
-                  :C (v17 / label))))
+                  :E (v16 / label~e.23)
+                  :C (v17 / label~e.24))))

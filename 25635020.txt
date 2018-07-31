@@ -1,37 +1,38 @@
 # ::id 25635020
 # ::tok Doch da ich nicht eben Lust habe gefressen zu werden , wenn auch mit Anstand , so will ich mich hüten , denn der Kommandant der " Nautilus " scheint keine Vorsichts maßregeln zu ergreifen .
+# ::alignments 0-1.1 1-1.2 2-1.3.1 3-1.3.2.1 4-1.3.2.2 5-1.3.3 6-1.3.3 7-1.3.4 11-1.4 12-1.4 13-1.5.1.1 14-1.5.1.2 16-1.6 17-1.7.1 18-1.7.2 19-1.7.3 20-1.7.3 22-1.8 23-1.9.1.2 24-1.9.1.3 25-1.9.1.1.1 27-1.9.1.1.2 29-1.9.2 30-1.9.3.1 31-1.9.3.2 32-1.9.3.3 34-1.9.5
 (v1 / label
-    :L (v2 / label)
-    :L (v3 / label)
+    :L (v2 / label~e.0)
+    :L (v3 / label~e.1)
     :H (v4 / label
-           :A (v11 / label)
+           :A (v11 / label~e.2)
            :D (v12 / label
-                   :C (v23 / label)
-                   :C (v24 / label))
-           :D (v13 / label)
-           :P (v14 / label))
-    :L (v5 / label)
+                   :C (v23 / label~e.3)
+                   :C (v24 / label~e.4))
+           :D (v13 / label~e.5,6)
+           :P (v14 / label~e.7))
+    :L (v5 / label~e.11,12)
     :H (v6 / label
            :A (v15 / label
-                   :R (v25 / label)
-                   :C (v26 / label))
+                   :R (v25 / label~e.13)
+                   :C (v26 / label~e.14))
            :P v14)
-    :L (v7 / label)
+    :L (v7 / label~e.16)
     :H (v8 / label
-           :D (v16 / label)
-           :A (v17 / label)
-           :P (v18 / label))
-    :L (v9 / label)
+           :D (v16 / label~e.17)
+           :A (v17 / label~e.18)
+           :P (v18 / label~e.19,20))
+    :L (v9 / label~e.22)
     :H (v10 / label
             :A (v19 / label
                     :E (v27 / label
-                            :R (v33 / label)
-                            :C (v34 / label))
-                    :E (v28 / label)
-                    :C (v29 / label))
-            :D (v20 / label)
+                            :R (v33 / label~e.25)
+                            :C (v34 / label~e.27))
+                    :E (v28 / label~e.23)
+                    :C (v29 / label~e.24))
+            :D (v20 / label~e.29)
             :A (v21 / label
-                    :E (v30 / label)
-                    :E (v31 / label)
-                    :C (v32 / label))
-            :P (v22 / label)))
+                    :E (v30 / label~e.30)
+                    :E (v31 / label~e.31)
+                    :C (v32 / label~e.32))
+            :P (v22 / label~e.34)))

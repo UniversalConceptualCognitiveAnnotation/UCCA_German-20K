@@ -1,22 +1,23 @@
 # ::id 25517001
 # ::tok « »Nicht mehr , Herr Arronax , und die Richtigkeit der Berechnung ist leicht zu erkennen .
+# ::alignments 1-1.1.3.1 2-1.1.3.2 4-1.1.4.1 5-1.1.4.2 7-1.2 8-1.3.1.2 9-1.3.1.3 10-1.3.1.1.1 11-1.3.1.1.2 13-1.3.3 15-1.3.5
 (v1 / label
     :H (v2 / label
            :S (v5 / label)
            :A (v6 / label)
            :D (v7 / label
-                  :E (v12 / label)
-                  :C (v13 / label))
+                  :E (v12 / label~e.1)
+                  :C (v13 / label~e.2))
            :A (v8 / label
-                  :E (v14 / label)
-                  :C (v15 / label)))
-    :L (v3 / label)
+                  :E (v14 / label~e.4)
+                  :C (v15 / label~e.5)))
+    :L (v3 / label~e.7)
     :H (v4 / label
            :A (v9 / label
                   :E (v16 / label
-                          :R (v19 / label)
-                          :C (v20 / label))
-                  :E (v17 / label)
-                  :C (v18 / label))
-           :D (v10 / label)
-           :P (v11 / label)))
+                          :R (v19 / label~e.10)
+                          :C (v20 / label~e.11))
+                  :E (v17 / label~e.8)
+                  :C (v18 / label~e.9))
+           :D (v10 / label~e.13)
+           :P (v11 / label~e.15)))

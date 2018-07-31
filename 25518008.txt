@@ -1,11 +1,12 @@
 # ::id 25518008
 # ::tok »Ah ! Bravo , dreimal Bravo ! Kapitän .
+# ::alignments 0-1.1.2 2-1.1.3 4-1.1.4.1 5-1.1.4.2 7-1.1.6
 (v1 / label
     :H (v2 / label
            :S (v3 / label)
-           :A (v4 / label)
-           :D (v5 / label)
+           :A (v4 / label~e.0)
+           :D (v5 / label~e.2)
            :D (v6 / label
-                  :E (v8 / label)
-                  :C (v9 / label))
-           :A (v7 / label)))
+                  :E (v8 / label~e.4)
+                  :C (v9 / label~e.5))
+           :A (v7 / label~e.7)))

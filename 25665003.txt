@@ -1,18 +1,19 @@
 # ::id 25665003
 # ::tok Stets dasselbe Mißtrauen , das wilde , unversöhnliche , gegen die menschliche Gesellschaft !
+# ::alignments 0-1.1.1 1-1.1.2.4 2-1.1.2.5 4-1.1.2.1.1 5-1.1.2.1.2.1 7-1.1.2.1.2.2 9-1.1.2.2.1 10-1.1.2.2.2 11-1.1.2.2.3 12-1.1.2.2.4
 (v1 / label
     :H (v2 / label
-           :S (v3 / label)
+           :S (v3 / label~e.0)
            :A (v4 / label
                   :E (v5 / label
-                         :E (v9 / label)
+                         :E (v9 / label~e.4)
                          :C (v10 / label
-                                 :C (v15 / label)
-                                 :C (v16 / label)))
+                                 :C (v15 / label~e.5)
+                                 :C (v16 / label~e.7)))
                   :E (v6 / label
-                         :R (v11 / label)
-                         :E (v12 / label)
-                         :E (v13 / label)
-                         :C (v14 / label))
-                  :E (v7 / label)
-                  :C (v8 / label))))
+                         :R (v11 / label~e.9)
+                         :E (v12 / label~e.10)
+                         :E (v13 / label~e.11)
+                         :C (v14 / label~e.12))
+                  :E (v7 / label~e.1)
+                  :C (v8 / label~e.2))))

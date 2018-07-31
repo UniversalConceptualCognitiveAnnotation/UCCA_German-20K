@@ -1,17 +1,18 @@
 # ::id 25624009
 # ::tok Währenddessen sammelte ich nebst Conseil die schönsten Früchte des Baums .
+# ::alignments 0-1.1 1-1.2.1 2-1.2.2 3-1.2.3.1 4-1.2.3.2 5-1.2.4.2 6-1.2.4.3 7-1.2.4.4 8-1.2.4.1.1 9-1.2.4.1.2
 (v1 / label
-    :L (v2 / label)
+    :L (v2 / label~e.0)
     :H (v3 / label
-           :P (v4 / label)
-           :A (v5 / label)
+           :P (v4 / label~e.1)
+           :A (v5 / label~e.2)
            :A (v6 / label
-                  :E (v8 / label)
-                  :C (v9 / label))
+                  :E (v8 / label~e.3)
+                  :C (v9 / label~e.4))
            :A (v7 / label
                   :E (v10 / label
-                          :R (v14 / label)
-                          :C (v15 / label))
-                  :E (v11 / label)
-                  :E (v12 / label)
-                  :C (v13 / label))))
+                          :R (v14 / label~e.8)
+                          :C (v15 / label~e.9))
+                  :E (v11 / label~e.5)
+                  :E (v12 / label~e.6)
+                  :C (v13 / label~e.7))))

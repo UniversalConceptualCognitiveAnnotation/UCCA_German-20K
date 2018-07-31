@@ -1,19 +1,20 @@
 # ::id 25633014
 # ::tok Und zudem , sind denn die , die Sie Wilde nennen , schlimmer als die anderen ? «
+# ::alignments 0-1.1 1-1.2.1 5-1.2.4.1 7-1.2.4.2.2 8-1.2.4.2.3 9-1.2.4.2.4 10-1.2.4.2.5 12-1.2.5 13-1.2.6.1 14-1.2.6.2 15-1.2.6.3
 (v1 / label
-    :L (v2 / label)
+    :L (v2 / label~e.0)
     :H (v3 / label
-           :D (v4 / label)
+           :D (v4 / label~e.1)
            :A (v5 / label
-                  :C (v8 / label)
+                  :C (v8 / label~e.5)
                   :E (v9 / label
                          :A v8
-                         :R (v13 / label)
-                         :A (v14 / label)
-                         :A (v15 / label)
-                         :P (v16 / label)))
-           :S (v6 / label)
+                         :R (v13 / label~e.7)
+                         :A (v14 / label~e.8)
+                         :A (v15 / label~e.9)
+                         :P (v16 / label~e.10)))
+           :S (v6 / label~e.12)
            :A (v7 / label
-                  :R (v10 / label)
-                  :E (v11 / label)
-                  :C (v12 / label))))
+                  :R (v10 / label~e.13)
+                  :E (v11 / label~e.14)
+                  :C (v12 / label~e.15))))

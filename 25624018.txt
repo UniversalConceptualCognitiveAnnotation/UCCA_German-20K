@@ -1,7 +1,8 @@
 # ::id 25624018
 # ::tok »Nein , Ned.«
+# ::alignments 0-1.1.2 2-1.1.3
 (v1 / label
     :H (v2 / label
            :P (v3 / label)
-           :D (v4 / label)
-           :A (v5 / label)))
+           :D (v4 / label~e.0)
+           :A (v5 / label~e.2)))

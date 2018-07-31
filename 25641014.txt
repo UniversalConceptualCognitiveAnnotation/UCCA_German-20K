@@ -1,10 +1,11 @@
 # ::id 25641014
 # ::tok Nach den Küsten Asiens ?
+# ::alignments 0-1.1.2.1 1-1.1.2.2 2-1.1.2.3 3-1.1.2.4
 (v1 / label
     :H (v2 / label
            :P (v3 / label)
            :A (v4 / label
-                  :R (v5 / label)
-                  :E (v6 / label)
-                  :C (v7 / label)
-                  :E (v8 / label))))
+                  :R (v5 / label~e.0)
+                  :E (v6 / label~e.1)
+                  :C (v7 / label~e.2)
+                  :E (v8 / label~e.3))))

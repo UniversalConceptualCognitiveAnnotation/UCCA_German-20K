@@ -1,27 +1,28 @@
 # ::id 25586009
 # ::tok Sein oberer Teil bildet eine Kapsel , woraus die Luft vermittels einer Balgvorrichtung nur in normaler Spannung herausdringen kann .
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.3 3-1.1.2 4-1.1.3.1 5-1.1.3.2 7-1.2.1 8-1.2.2.1 9-1.2.2.2 10-1.2.3 11-1.2.4.1 12-1.2.4.2 13-1.2.5 14-1.2.6.1 15-1.2.6.2 16-1.2.6.3 17-1.2.7
 (v1 / label
     :H (v2 / label
            :A (v4 / label
-                  :E (v14 / label)
-                  :E (v15 / label)
-                  :C (v16 / label))
-           :S (v5 / label)
+                  :E (v14 / label~e.0)
+                  :E (v15 / label~e.1)
+                  :C (v16 / label~e.2))
+           :S (v5 / label~e.3)
            :A (v6 / label
-                  :E (v17 / label)
-                  :C (v18 / label)))
+                  :E (v17 / label~e.4)
+                  :C (v18 / label~e.5)))
     :H (v3 / label
-           :R (v7 / label)
+           :R (v7 / label~e.7)
            :A (v8 / label
-                  :E (v19 / label)
-                  :C (v20 / label))
-           :D (v9 / label)
+                  :E (v19 / label~e.8)
+                  :C (v20 / label~e.9))
+           :D (v9 / label~e.10)
            :A (v10 / label
-                   :E (v21 / label)
-                   :C (v22 / label))
-           :D (v11 / label)
+                   :E (v21 / label~e.11)
+                   :C (v22 / label~e.12))
+           :D (v11 / label~e.13)
            :A (v12 / label
-                   :R (v23 / label)
-                   :E (v24 / label)
-                   :C (v25 / label))
-           :P (v13 / label)))
+                   :R (v23 / label~e.14)
+                   :E (v24 / label~e.15)
+                   :C (v25 / label~e.16))
+           :P (v13 / label~e.17)))

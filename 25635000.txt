@@ -1,21 +1,22 @@
 # ::id 25635000
 # ::tok Einer dieser Häuptlinge kam ziemlich nah an die " Nautilus " heran und forschte aufmerksam .
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.3.3 3-1.1.2 4-1.1.3.1 5-1.1.3.2 6-1.1.4.1 7-1.1.4.2 9-1.1.4.3 11-1.1.2 12-1.2 13-1.3.1 14-1.3.2
 (v1 / label
     :H (v2 / label
            :A (v5 / label
-                  :E (v12 / label)
-                  :E (v13 / label)
-                  :C (v11 / label))
-           :P (v6 / label)
+                  :E (v12 / label~e.0)
+                  :E (v13 / label~e.1)
+                  :C (v11 / label~e.2))
+           :P (v6 / label~e.3,11)
            :D (v7 / label
-                  :E (v14 / label)
-                  :C (v15 / label))
+                  :E (v14 / label~e.4)
+                  :C (v15 / label~e.5))
            :A (v8 / label
-                  :R (v16 / label)
-                  :E (v17 / label)
-                  :C (v18 / label)))
-    :L (v3 / label)
+                  :R (v16 / label~e.6)
+                  :E (v17 / label~e.7)
+                  :C (v18 / label~e.9)))
+    :L (v3 / label~e.12)
     :H (v4 / label
-           :P (v9 / label)
-           :D (v10 / label)
+           :P (v9 / label~e.13)
+           :D (v10 / label~e.14)
            :A v11))

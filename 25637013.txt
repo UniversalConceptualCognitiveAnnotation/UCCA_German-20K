@@ -1,7 +1,8 @@
 # ::id 25637013
 # ::tok »Nun denn , so mögen sie kommen .
+# ::alignments 4-1.1.4 5-1.1.5 6-1.1.6
 (v1 / label
     :H (v2 / label
-           :D (v3 / label)
-           :A (v4 / label)
-           :P (v5 / label)))
+           :D (v3 / label~e.4)
+           :A (v4 / label~e.5)
+           :P (v5 / label~e.6)))

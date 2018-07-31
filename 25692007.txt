@@ -1,32 +1,33 @@
 # ::id 25692007
 # ::tok Ich glaubte wohl , Kapitän Nemo werde , nachdem wir so weit gekommen , zurückkehren , aber ich irrte , und zu meiner großen Überraschung war es anders .
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3 4-1.1.4.1.1.1 5-1.1.4.1.1.2 8-1.1.4.2 9-1.1.4.3.1 10-1.1.4.3.2 11-1.1.4.3.3 12-1.1.4.3.4 14-1.1.4.1.3 16-1.2 17-1.3.1 18-1.3.2 20-1.4 21-1.5.1.1 22-1.5.1.2 23-1.5.1.3 24-1.5.1.4 26-1.5.3 27-1.5.4
 (v1 / label
     :H (v2 / label
-           :A (v7 / label)
-           :P (v8 / label)
-           :D (v9 / label)
+           :A (v7 / label~e.0)
+           :P (v8 / label~e.1)
+           :D (v9 / label~e.2)
            :A (v10 / label
                    :H (v16 / label
                            :A (v23 / label
-                                   :E (v29 / label)
-                                   :C (v30 / label))
-                           :P (v24 / label))
-                   :L (v17 / label)
+                                   :E (v29 / label~e.4)
+                                   :C (v30 / label~e.5))
+                           :P (v24 / label~e.14))
+                   :L (v17 / label~e.8)
                    :H (v18 / label
-                           :A (v25 / label)
-                           :D (v26 / label)
-                           :D (v27 / label)
-                           :P (v28 / label))))
-    :L (v3 / label)
+                           :A (v25 / label~e.9)
+                           :D (v26 / label~e.10)
+                           :D (v27 / label~e.11)
+                           :P (v28 / label~e.12))))
+    :L (v3 / label~e.16)
     :H (v4 / label
-           :A (v11 / label)
-           :P (v12 / label))
-    :L (v5 / label)
+           :A (v11 / label~e.17)
+           :P (v12 / label~e.18))
+    :L (v5 / label~e.20)
     :H (v6 / label
            :G (v13 / label
-                   :R (v19 / label)
-                   :E (v20 / label)
-                   :E (v21 / label)
-                   :C (v22 / label))
-           :A (v14 / label)
-           :S (v15 / label)))
+                   :R (v19 / label~e.21)
+                   :E (v20 / label~e.22)
+                   :E (v21 / label~e.23)
+                   :C (v22 / label~e.24))
+           :A (v14 / label~e.26)
+           :S (v15 / label~e.27)))

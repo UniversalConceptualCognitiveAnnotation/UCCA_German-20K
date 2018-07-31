@@ -1,13 +1,14 @@
 # ::id 25496011
 # ::tok »Nein , mein Herr , Gnade ist ’s .
+# ::alignments 0-1.1.1.2 2-1.1.1.3.1 3-1.1.1.3.2 5-1.1.2.1 6-1.1.2.2
 (v1 / label
     :H (v2 / label
            :H (v3 / label
                   :S (v5 / label)
-                  :D (v6 / label)
+                  :D (v6 / label~e.0)
                   :G (v7 / label
-                         :E (v10 / label)
-                         :C (v11 / label)))
+                         :E (v10 / label~e.2)
+                         :C (v11 / label~e.3)))
            :H (v4 / label
-                  :A (v8 / label)
-                  :S (v9 / label))))
+                  :A (v8 / label~e.5)
+                  :S (v9 / label~e.6))))
