@@ -45,7 +45,9 @@ jobs:
       env: FORMAT=conll
     - script: curl $SCRIPTS/evaluate.sh | bash -s $FORMAT
       env: FORMAT=conllu
-    - script: curl $SCRIPTS/evaluate.sh | bash -s $FORMAT
+    - script: curl $SCRIPTS/evaluate.sh | bash -s $FORMAT "25[0-6]"
+      env: FORMAT=amr
+    - script: curl $SCRIPTS/evaluate.sh | bash -s $FORMAT "25[7-9]"
       env: FORMAT=amr
     - script: curl $SCRIPTS/evaluate.sh | bash -s $FORMAT
       env: FORMAT=export
