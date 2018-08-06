@@ -18,10 +18,12 @@ jobs:
     - stage: convert
       script: curl $SCRIPTS/validate_sentences.sh | bash -s -- --no-linkage || echo Ignoring validation failures
       env: FORMAT=validate
-    - script: curl $SCRIPTS/visualize.sh | bash -s "25[0-6]"
-      env: FORMAT=visualize-1
-    - script: curl $SCRIPTS/visualize.sh | bash -s "25[7-9]"
-      env: FORMAT=visualize-2
+    - script: curl $SCRIPTS/visualize.sh | bash -s "25[0-5]"
+      env: FORMAT=visualize
+    - script: curl $SCRIPTS/visualize.sh | bash -s "257"
+      env: FORMAT=visualize
+    - script: curl $SCRIPTS/visualize.sh | bash -s "25[68-9]"
+      env: FORMAT=visualize
     - script: curl $SCRIPTS/sentences_to_xml.sh | bash
       env: FORMAT=xml
     - script: curl $SCRIPTS/convert.sh | bash -s $FORMAT
@@ -30,9 +32,11 @@ jobs:
       env: FORMAT=conll
     - script: curl $SCRIPTS/convert.sh | bash -s $FORMAT
       env: FORMAT=conllu
-    - script: curl $SCRIPTS/convert.sh | bash -s $FORMAT "25[0-6]"
+    - script: curl $SCRIPTS/convert.sh | bash -s $FORMAT "25[0-5]"
       env: FORMAT=amr
-    - script: curl $SCRIPTS/convert.sh | bash -s $FORMAT "25[7-9]"
+    - script: curl $SCRIPTS/convert.sh | bash -s $FORMAT "257"
+      env: FORMAT=amr
+    - script: curl $SCRIPTS/convert.sh | bash -s $FORMAT "25[68-9]"
       env: FORMAT=amr
     - script: curl $SCRIPTS/convert.sh | bash -s $FORMAT
       env: FORMAT=export
@@ -45,9 +49,11 @@ jobs:
       env: FORMAT=conll
     - script: curl $SCRIPTS/evaluate.sh | bash -s $FORMAT
       env: FORMAT=conllu
-    - script: curl $SCRIPTS/evaluate.sh | bash -s $FORMAT "25[0-6]"
+    - script: curl $SCRIPTS/evaluate.sh | bash -s $FORMAT "25[0-5]"
       env: FORMAT=amr
-    - script: curl $SCRIPTS/evaluate.sh | bash -s $FORMAT "25[7-9]"
+    - script: curl $SCRIPTS/evaluate.sh | bash -s $FORMAT "257"
+      env: FORMAT=amr
+    - script: curl $SCRIPTS/evaluate.sh | bash -s $FORMAT "25[68-9]"
       env: FORMAT=amr
     - script: curl $SCRIPTS/evaluate.sh | bash -s $FORMAT
       env: FORMAT=export
