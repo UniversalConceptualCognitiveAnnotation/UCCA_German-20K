@@ -1,12 +1,14 @@
 # ::id 25782019
-# ::tok »Was will das bedeuten ? « rief ich aus .
-# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.3 3-1.1.1.4 6-1.1.2 7-1.1.3 8-1.1.2
+# ::tok »Man muß Kapitän Nemo fragen« , sagte Conseil .
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.3.1 3-1.1.1.3.2 4-1.1.1.4 6-1.1.2 7-1.1.3
 (v1 / label
     :H (v2 / label
            :A (v3 / label
                   :A (v6 / label~e.0)
                   :D (v7 / label~e.1)
-                  :A (v8 / label~e.2)
-                  :S (v9 / label~e.3))
-           :P (v4 / label~e.6,8)
+                  :A (v8 / label
+                         :E (v10 / label~e.2)
+                         :C (v11 / label~e.3))
+                  :P (v9 / label~e.4))
+           :P (v4 / label~e.6)
            :A (v5 / label~e.7)))

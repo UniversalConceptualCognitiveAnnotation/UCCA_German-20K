@@ -1,14 +1,34 @@
 # ::id 25797020
-# ::tok »Doch nicht allzusehr , offen gesagt .
-# ::alignments 0-1.1.1.1.3 1-1.1.1.1.4 2-1.1.1.1.5 4-1.1.1.2 5-1.1.1.3
+# ::tok »Doch nicht allzusehr , offen gesagt . Es fehlten mir zwar einige Schluck Luft , aber ich glaube , ich würde mich schon darein gefunden haben.«
+# ::alignments 0-1.1.3.1.1.3 1-1.1.3.1.1.4 2-1.1.3.1.1.5 4-1.1.3.1.2 5-1.1.3.1.3 8-1.1.3.2.2 9-1.1.3.2.3 10-1.1.3.2.4 11-1.1.3.2.5.1 12-1.1.3.2.5.2 13-1.1.3.2.5.3 15-1.1.3.3 16-1.1.3.4.1 17-1.1.3.4.2 19-1.1.3.4.3.1 20-1.1.3.4.3.2 21-1.1.3.4.3.3 22-1.1.3.4.3.4 23-1.1.3.4.3.3 24-1.1.3.4.3.3
 (v1 / label
     :H (v2 / label
-           :H (v3 / label
-                  :A (v4 / label
-                         :S (v7 / label)
-                         :A (v8 / label)
-                         :D (v9 / label~e.0)
-                         :D (v10 / label~e.1)
-                         :D (v11 / label~e.2))
-                  :D (v5 / label~e.4)
-                  :P (v6 / label~e.5))))
+           :A (v3 / label)
+           :P (v4 / label)
+           :A (v5 / label
+                  :H (v6 / label
+                         :A (v10 / label
+                                 :S (v20 / label)
+                                 :A (v21 / label)
+                                 :D (v22 / label~e.0)
+                                 :D (v23 / label~e.1)
+                                 :D (v24 / label~e.2))
+                         :D (v11 / label~e.4)
+                         :P (v12 / label~e.5))
+                  :H (v7 / label
+                         :P (v13 / label~e.8)
+                         :A (v14 / label~e.9)
+                         :D (v15 / label~e.10)
+                         :A (v16 / label
+                                 :E (v25 / label~e.11)
+                                 :E (v26 / label~e.12)
+                                 :C (v27 / label~e.13)))
+                  :L (v8 / label~e.15)
+                  :H (v9 / label
+                         :A (v17 / label~e.16)
+                         :S (v18 / label~e.17)
+                         :A (v19 / label
+                                 :A (v28 / label~e.19)
+                                 :D (v29 / label~e.20)
+                                 :P (v30 / label~e.21,23,24)
+                                 :D (v31 / label~e.22))))))

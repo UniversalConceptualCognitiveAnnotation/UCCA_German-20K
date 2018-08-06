@@ -1,10 +1,14 @@
 # ::id 25781000
 # ::tok »In wessen Namen , Kapitän ? «
-# ::alignments 0-1.1.2 1-1.1.3 2-1.1.4 4-1.1.6
+# ::alignments 0-1.1.3.2.1 1-1.1.3.2.2 2-1.1.3.2.3 4-1.1.3.3
 (v1 / label
     :H (v2 / label
            :P (v3 / label)
-           :R (v4 / label~e.0)
-           :A (v5 / label~e.1)
-           :A (v6 / label~e.2)
-           :A (v7 / label~e.4)))
+           :A (v4 / label)
+           :A (v5 / label
+                  :P (v6 / label)
+                  :A (v7 / label
+                         :R (v9 / label~e.0)
+                         :E (v10 / label~e.1)
+                         :C (v11 / label~e.2))
+                  :G (v8 / label~e.4))))

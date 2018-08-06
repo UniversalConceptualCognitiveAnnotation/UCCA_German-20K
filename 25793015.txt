@@ -1,10 +1,11 @@
 # ::id 25793015
-# ::tok Aber er schien sie abzuweisen .
-# ::alignments 0-1.1 1-1.2.1 2-1.2.2 3-1.2.3 4-1.2.4
+# ::tok Er antwortete sich mit Nein .
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3 3-1.1.4.1 4-1.1.4.2
 (v1 / label
-    :L (v2 / label~e.0)
-    :H (v3 / label
-           :A (v4 / label~e.1)
-           :D (v5 / label~e.2)
-           :A (v6 / label~e.3)
-           :P (v7 / label~e.4)))
+    :H (v2 / label
+           :A (v3 / label~e.0)
+           :P (v4 / label~e.1)
+           :A (v5 / label~e.2)
+           :A (v6 / label
+                  :R (v7 / label~e.3)
+                  :C (v8 / label~e.4))))

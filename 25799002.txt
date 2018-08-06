@@ -1,6 +1,6 @@
 # ::id 25799002
 # ::tok »Jedenfalls« , fügte Conseil bei , »ist dieser Kapitän Nemo ein ganzer Mann , und wir werden nicht bedauern , seine Bekanntschaft gemacht zu haben.«
-# ::alignments 0-1.1.1.1.1 2-1.1.2 3-1.1.3 4-1.1.2 7-1.1.1.1.3.1 8-1.1.1.1.3.2 9-1.1.1.1.3.3 10-1.1.1.1.4.1 11-1.1.1.1.5 12-1.1.1.1.4.2 14-1.1.1.2 15-1.1.1.3.1 17-1.1.1.3.3 18-1.1.1.3.4 20-1.1.1.3.5.1 21-1.1.1.3.5.2
+# ::alignments 0-1.1.1.1.1 2-1.1.2 3-1.1.3 4-1.1.2 7-1.1.1.1.3.1 8-1.1.1.1.3.2 9-1.1.1.1.3.3 10-1.1.1.1.4.1 11-1.1.1.1.5 12-1.1.1.1.4.2 14-1.1.1.2 15-1.1.1.3.1 17-1.1.1.3.3 18-1.1.1.3.4 20-1.1.1.3.5.2.1 21-1.1.1.3.5.2.2
 (v1 / label
     :H (v2 / label
            :A (v3 / label
@@ -18,9 +18,11 @@
                   :H (v8 / label
                          :A (v13 / label~e.15)
                          :D (v14 / label~e.17)
-                         :D (v15 / label~e.18)
-                         :P (v16 / label
-                                 :E (v22 / label~e.20)
-                                 :C (v23 / label~e.21))))
+                         :S (v15 / label~e.18)
+                         :A (v16 / label
+                                 :A v13
+                                 :P (v22 / label
+                                         :E (v23 / label~e.20)
+                                         :C (v24 / label~e.21)))))
            :P (v4 / label~e.2,4)
            :A (v5 / label~e.3)))

@@ -1,6 +1,6 @@
 # ::id 25769011
 # ::tok Ich setzte mich nebst Conseil in den Salon , und wir betrachteten durch die freien Fenster die unteren Schichten es Süd-Ozeans .
-# ::alignments 0-1.1.1 1-1.1.2 2-1.1.2 3-1.1.3.1 4-1.1.3.2 5-1.1.4.1 6-1.1.4.2 7-1.1.4.3 9-1.2 10-1.3.1 11-1.3.2 12-1.3.3.1 13-1.3.3.2 14-1.3.3.3 15-1.3.3.4 16-1.3.4.2 17-1.3.4.3 18-1.3.4.4 19-1.3.4.1.1 20-1.3.4.1.2
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.2 3-1.1.3.1 4-1.1.3.2 5-1.1.4.1 6-1.1.4.2 7-1.1.4.3 9-1.2 10-1.3.1 11-1.3.2 12-1.3.3.1 13-1.3.3.2 14-1.3.3.3 15-1.3.3.4 16-1.3.4.1 17-1.3.4.2 18-1.3.4.3 19-1.3.4.4.1 20-1.3.4.4.2
 (v1 / label
     :H (v2 / label
            :A (v5 / label~e.0)
@@ -22,9 +22,9 @@
                    :E (v20 / label~e.14)
                    :C (v21 / label~e.15))
            :A (v12 / label
-                   :E (v22 / label
+                   :E (v22 / label~e.16)
+                   :E (v23 / label~e.17)
+                   :C (v24 / label~e.18)
+                   :E (v25 / label
                            :R (v26 / label~e.19)
-                           :C (v27 / label~e.20))
-                   :E (v23 / label~e.16)
-                   :E (v24 / label~e.17)
-                   :C (v25 / label~e.18))))
+                           :C (v27 / label~e.20)))))

@@ -1,6 +1,6 @@
 # ::id 25731013
 # ::tok Dieses Geräusch wurde mitunter stärker und erzeugte gleichsam ein anhaltendes Knistern .
-# ::alignments 0-1.1.1.1 1-1.3.4 3-1.1.3 4-1.1.4 5-1.2 6-1.3.1 7-1.3.2 8-1.3.3.2 9-1.3.3.1.1 10-1.3.3.3
+# ::alignments 0-1.1.1.1 1-1.3.4 3-1.1.3 4-1.1.4 5-1.2 6-1.3.1 7-1.3.2 8-1.3.3.1 9-1.3.3.2.2 10-1.3.3.3
 (v1 / label
     :H (v2 / label
            :A (v5 / label
@@ -13,9 +13,9 @@
            :P (v8 / label~e.6)
            :D (v9 / label~e.7)
            :A (v10 / label
-                   :E (v13 / label
-                           :S (v16 / label~e.9)
-                           :A (v15 / label~e.10))
-                   :E (v14 / label~e.8)
+                   :E (v13 / label~e.8)
+                   :E (v14 / label
+                           :A (v15 / label~e.10)
+                           :S (v16 / label~e.9))
                    :C v15)
            :A v11))

@@ -1,6 +1,6 @@
 # ::id 25777006
 # ::tok Doch hatte ich keine Hoffnung , daß die Sonne an diesem Tag zum Vorschein kommen werde , da der mit gebrochenem Gewölk bedeckte Horizont sie unserem Anblick entzog .
-# ::alignments 0-1.1 2-1.2.2 3-1.2.3 4-1.2.4 6-1.2.5.1 7-1.2.5.2.1 8-1.2.5.2.2 9-1.2.5.3.1 10-1.2.5.3.2 11-1.2.5.3.3 12-1.2.5.4.1 13-1.2.5.4.2 14-1.2.5.5 17-1.3 18-1.4.1.2 19-1.4.1.1.1 20-1.4.1.1.2.1 21-1.4.1.1.2.2 22-1.4.1.1.3 23-1.4.1.3 24-1.4.2 25-1.4.3.1 26-1.4.3.2 27-1.4.4
+# ::alignments 0-1.1 2-1.2.2 3-1.2.3 4-1.2.4 6-1.2.5.1 7-1.2.5.2.1 8-1.2.5.2.2 9-1.2.5.3.1 10-1.2.5.3.2 11-1.2.5.3.3 12-1.2.5.4.1 13-1.2.5.4.2 14-1.2.5.5 17-1.3 18-1.4.1.1 19-1.4.1.2.2.1 20-1.4.1.2.2.2 21-1.4.1.2.2.3 22-1.4.1.2.3 23-1.4.1.3 24-1.4.2 25-1.4.3.1 26-1.4.3.2 27-1.4.4
 (v1 / label
     :L (v2 / label~e.0)
     :H (v3 / label
@@ -23,14 +23,14 @@
     :L (v4 / label~e.17)
     :H (v5 / label
            :A (v10 / label
-                   :E (v19 / label
-                           :R (v31 / label~e.19)
-                           :A (v32 / label
+                   :E (v19 / label~e.18)
+                   :E (v20 / label
+                           :A (v21 / label~e.23)
+                           :A (v31 / label
+                                   :R (v33 / label~e.19)
                                    :E (v34 / label~e.20)
                                    :C (v35 / label~e.21))
-                           :S (v33 / label~e.22)
-                           :A (v21 / label~e.23))
-                   :E (v20 / label~e.18)
+                           :S (v32 / label~e.22))
                    :C v21)
            :A (v11 / label~e.24)
            :A (v12 / label
