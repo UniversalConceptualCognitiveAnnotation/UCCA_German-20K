@@ -1,31 +1,35 @@
 # ::id 25618013
 # ::tok »Aber ein Zwischenfall« , entgegnete ich , »der Sie vielleicht nötigen wird , wieder ein Bewohner des Landes zu werden , das Sie fliehen.«
-# ::alignments 0-1.1 1-1.2.1.2 2-1.2.1.3 4-1.2.2 5-1.2.3 7-1.2.1.1.1 8-1.2.1.1.2 9-1.2.1.1.3 10-1.2.1.1.4 13-1.2.1.1.6.1 14-1.2.1.1.6.2.1 15-1.2.1.1.6.2.2 16-1.2.1.1.6.3.2 17-1.2.1.1.6.3.3 19-1.2.1.1.6.5 21-1.2.1.1.6.3.1.1 22-1.2.1.1.6.3.1.2 23-1.2.1.1.6.3.1.3
+# ::alignments 0-1.1.1.1 1-1.1.1.2.1.1 2-1.1.1.2.1.2 4-1.1.2 5-1.1.3 7-1.1.1.2.1.3.2 8-1.1.1.2.1.3.3 9-1.1.1.2.1.3.4 10-1.1.1.2.1.3.5 13-1.1.1.2.1.3.7.2 14-1.1.1.2.1.3.7.3.1 15-1.1.1.2.1.3.7.3.2 16-1.1.1.2.1.3.7.4.1 17-1.1.1.2.1.3.7.4.2 19-1.1.1.2.1.3.7.6 21-1.1.1.2.1.3.7.4.3.2 22-1.1.1.2.1.3.7.4.3.3 23-1.1.1.2.1.3.7.4.3.4
 (v1 / label
-    :L (v2 / label~e.0)
-    :H (v3 / label
-           :A (v4 / label
-                  :E (v7 / label
-                         :R (v10 / label~e.7)
-                         :A (v11 / label~e.8)
-                         :D (v12 / label~e.9)
-                         :P (v13 / label~e.10)
-                         :A (v14 / label
-                                 :D (v15 / label~e.13)
-                                 :A (v16 / label
-                                         :E (v19 / label~e.14)
-                                         :C (v20 / label~e.15))
-                                 :A (v17 / label
-                                         :E (v21 / label
-                                                 :R (v24 / label~e.21)
-                                                 :A (v25 / label~e.22)
-                                                 :P (v26 / label~e.23)
-                                                 :A (v23 / label~e.17))
-                                         :R (v22 / label~e.16)
-                                         :C v23)
-                                 :P (v18 / label~e.19))
-                         :A (v9 / label~e.2))
-                  :E (v8 / label~e.1)
-                  :C v9)
-           :P (v5 / label~e.4)
-           :A (v6 / label~e.5)))
+    :H (v2 / label
+           :A (v3 / label
+                  :L (v6 / label~e.0)
+                  :H (v7 / label
+                         :A (v8 / label
+                                :E (v10 / label~e.1)
+                                :C (v11 / label~e.2)
+                                :E (v12 / label
+                                        :A v11
+                                        :R (v13 / label~e.7)
+                                        :A (v14 / label~e.8)
+                                        :G (v15 / label~e.9)
+                                        :P (v16 / label~e.10)
+                                        :A (v17 / label
+                                                :A v14
+                                                :D (v18 / label~e.13)
+                                                :A (v19 / label
+                                                        :E (v22 / label~e.14)
+                                                        :C (v23 / label~e.15))
+                                                :A (v20 / label
+                                                        :R (v24 / label~e.16)
+                                                        :C (v25 / label~e.17)
+                                                        :E (v26 / label
+                                                                :A v25
+                                                                :R (v27 / label~e.21)
+                                                                :A (v28 / label~e.22)
+                                                                :P (v29 / label~e.23)))
+                                                :P (v21 / label~e.19))))
+                         :S (v9 / label)))
+           :P (v4 / label~e.4)
+           :A (v5 / label~e.5)))

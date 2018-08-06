@@ -4,7 +4,7 @@
 (v1 / label
     :H (v2 / label
            :A (v5 / label~e.0)
-           :D (v6 / label~e.1)
+           :G (v6 / label~e.1)
            :A (v7 / label
                   :E (v14 / label~e.2)
                   :C (v15 / label~e.3))
@@ -19,4 +19,5 @@
            :P (v12 / label
                    :R (v18 / label~e.11)
                    :C (v19 / label~e.13))
-           :D (v13 / label~e.12)))
+           :D (v13 / label~e.12)
+           :A v5))

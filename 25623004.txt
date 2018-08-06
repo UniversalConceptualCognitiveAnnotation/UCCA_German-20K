@@ -1,18 +1,9 @@
 # ::id 25623004
-# ::tok »He ! He ! « rief Ned Land , mit sehr bezeichnender Bewegung der Kinn backen .
-# ::alignments 5-1.1.2 6-1.1.3 7-1.1.3 9-1.2.1 10-1.2.2.1 11-1.2.2.2 12-1.2.3 13-1.2.4.1 14-1.2.4.2 15-1.2.4.3
+# ::tok »Ei ! Ned ! « rief Conseil .
+# ::alignments 2-1.1.1.3 5-1.1.2 6-1.1.3
 (v1 / label
     :H (v2 / label
-           :A (v4 / label)
-           :P (v5 / label~e.5)
-           :A (v6 / label~e.6,7))
-    :H (v3 / label
-           :R (v7 / label~e.9)
-           :D (v8 / label
-                  :E (v11 / label~e.10)
-                  :C (v12 / label~e.11))
-           :P (v9 / label~e.12)
-           :A (v10 / label
-                   :R (v13 / label~e.13)
-                   :E (v14 / label~e.14)
-                   :C (v15 / label~e.15))))
+           :A (v3 / label
+                  :G (v6 / label~e.2))
+           :P (v4 / label~e.5)
+           :A (v5 / label~e.6)))

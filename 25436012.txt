@@ -1,6 +1,6 @@
 # ::id 25436012
 # ::tok Aber hier war auch die Grenze seines Wissens .
-# ::alignments 0-1.1 1-1.2.1 2-1.2.2 3-1.2.3 4-1.2.4.2 5-1.2.4.3 6-1.2.4.1.1 7-1.2.4.1.2
+# ::alignments 0-1.1 1-1.2.1 2-1.2.2 3-1.2.3 4-1.2.4.1 5-1.2.4.2 6-1.2.4.3.1 7-1.2.4.3.2
 (v1 / label
     :L (v2 / label~e.0)
     :H (v3 / label
@@ -8,8 +8,8 @@
            :S (v5 / label~e.2)
            :D (v6 / label~e.3)
            :A (v7 / label
-                  :E (v8 / label
-                         :R (v11 / label~e.6)
-                         :C (v12 / label~e.7))
-                  :E (v9 / label~e.4)
-                  :C (v10 / label~e.5))))
+                  :E (v8 / label~e.4)
+                  :C (v9 / label~e.5)
+                  :E (v10 / label
+                          :R (v11 / label~e.6)
+                          :C (v12 / label~e.7)))))

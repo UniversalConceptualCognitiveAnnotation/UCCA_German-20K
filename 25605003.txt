@@ -1,11 +1,13 @@
 # ::id 25605003
 # ::tok »Schauen Sie doch , mein Herr.«
-# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3 4-1.1.4.1 5-1.1.4.2
+# ::alignments 0-1.1.3.1 2-1.1.3.3 4-1.1.3.4.1 5-1.1.3.4.2
 (v1 / label
     :H (v2 / label
-           :P (v3 / label~e.0)
-           :A (v4 / label~e.1)
-           :D (v5 / label~e.2)
-           :A (v6 / label
-                  :E (v7 / label~e.4)
-                  :C (v8 / label~e.5))))
+           :A (v3 / label)
+           :P (v4 / label)
+           :A (v5 / label
+                  :P (v6 / label~e.0)
+                  :D (v7 / label~e.2)
+                  :G (v8 / label
+                         :E (v9 / label~e.4)
+                         :C (v10 / label~e.5)))))

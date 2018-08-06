@@ -1,22 +1,29 @@
 # ::id 25631005
-# ::tok Welchen Vorrat für die " Nautilus " ! Zwei , drei , fünf liegen auf dem Boden !
-# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.2.1 3-1.1.2.2 5-1.1.2.4 8-1.2.1.1 10-1.2.1.2 12-1.2.1.3 13-1.2.2 14-1.2.3.1 15-1.2.3.2 16-1.2.3.3
+# ::tok Ich glaube , hätte der Kanadier nicht so viel gesprochen , so hätte er mit seiner Freude den ganzen Trupp erlegt !
+# ::alignments 0-1.1.1 1-1.1.2 4-1.1.3.1.2.1 5-1.1.3.1.2.2 6-1.1.3.1.3 7-1.1.3.1.4.1 8-1.1.3.1.4.2 9-1.1.3.1.5 11-1.1.3.2 13-1.1.3.3.2 14-1.1.3.3.3.1 15-1.1.3.3.3.2 16-1.1.3.3.3.3 17-1.1.3.3.4.1 18-1.1.3.3.4.2 19-1.1.3.3.4.3 20-1.1.3.3.5
 (v1 / label
     :H (v2 / label
-           :S (v4 / label
-                  :E (v9 / label~e.0)
-                  :C (v10 / label~e.1))
+           :A (v3 / label~e.0)
+           :P (v4 / label~e.1)
            :A (v5 / label
-                  :R (v11 / label~e.2)
-                  :E (v12 / label~e.3)
-                  :C (v13 / label~e.5)))
-    :H (v3 / label
-           :A (v6 / label
-                  :C (v14 / label~e.8)
-                  :C (v15 / label~e.10)
-                  :C (v16 / label~e.12))
-           :P (v7 / label~e.13)
-           :A (v8 / label
-                  :R (v17 / label~e.14)
-                  :E (v18 / label~e.15)
-                  :C (v19 / label~e.16))))
+                  :H (v6 / label
+                         :A (v9 / label
+                                :E (v17 / label~e.4)
+                                :C (v18 / label~e.5))
+                         :D (v10 / label~e.6)
+                         :D (v11 / label
+                                 :E (v19 / label~e.7)
+                                 :C (v20 / label~e.8))
+                         :P (v12 / label~e.9))
+                  :L (v7 / label~e.11)
+                  :H (v8 / label
+                         :A (v13 / label~e.13)
+                         :A (v14 / label
+                                 :R (v21 / label~e.14)
+                                 :E (v22 / label~e.15)
+                                 :C (v23 / label~e.16))
+                         :A (v15 / label
+                                 :E (v24 / label~e.17)
+                                 :E (v25 / label~e.18)
+                                 :C (v26 / label~e.19))
+                         :P (v16 / label~e.20)))))

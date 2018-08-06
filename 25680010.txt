@@ -1,12 +1,12 @@
 # ::id 25680010
 # ::tok Eine Perle von 10 Millionen
-# ::alignments 0-1.1.1.2 1-1.1.1.3 2-1.1.1.1.1 3-1.1.1.1.2 4-1.1.1.1.3
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.3.1 3-1.1.1.3.2 4-1.1.1.3.3
 (v1 / label
     :H (v2 / label
            :A (v3 / label
-                  :E (v4 / label
+                  :E (v4 / label~e.0)
+                  :C (v5 / label~e.1)
+                  :E (v6 / label
                          :R (v7 / label~e.2)
                          :E (v8 / label~e.3)
-                         :C (v9 / label~e.4))
-                  :E (v5 / label~e.0)
-                  :C (v6 / label~e.1))))
+                         :C (v9 / label~e.4)))))

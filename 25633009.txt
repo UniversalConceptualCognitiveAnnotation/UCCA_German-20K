@@ -1,10 +1,7 @@
 # ::id 25633009
-# ::tok »Was für Zweifüßler ? «
-# ::alignments 0-1.1.2 1-1.1.3.1 2-1.1.3.2
+# ::tok »Wilde.«
+# ::alignments 0-1.1.2
 (v1 / label
     :H (v2 / label
-           :P (v3 / label)
-           :A (v4 / label~e.0)
-           :A (v5 / label
-                  :R (v6 / label~e.1)
-                  :C (v7 / label~e.2))))
+           :S (v3 / label)
+           :A (v4 / label~e.0)))

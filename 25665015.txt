@@ -1,6 +1,6 @@
 # ::id 25665015
 # ::tok Dennoch hat Ned Land die Hoffnung nicht aufgegeben , wieder die Freiheit zu erlangen .
-# ::alignments 0-1.1 2-1.2.2 3-1.2.2 4-1.2.3.1 5-1.2.3.2 6-1.2.4 7-1.2.5 9-1.2.6.1 10-1.2.6.2.1 11-1.2.6.2.2 13-1.2.6.4
+# ::alignments 0-1.1 2-1.2.2 3-1.2.2 4-1.2.3.1 5-1.2.3.2 6-1.2.4 7-1.2.5 9-1.2.6.2 10-1.2.6.3.1 11-1.2.6.3.2 13-1.2.6.5
 (v1 / label
     :L (v2 / label~e.0)
     :H (v3 / label
@@ -11,6 +11,7 @@
            :D (v6 / label~e.6)
            :P (v7 / label~e.7)
            :A (v8 / label
+                  :A v4
                   :D (v11 / label~e.9)
                   :A (v12 / label
                           :E (v14 / label~e.10)

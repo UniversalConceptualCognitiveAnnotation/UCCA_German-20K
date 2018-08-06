@@ -1,6 +1,6 @@
 # ::id 25605020
 # ::tok Die vier Matrosen sahen schrecklich aus , da sie mit krampfhaften Bewegungen von dem Tauwerk , das sie fesselte , sich loszumachen getrachtet hatten .
-# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.3 3-1.1.2 4-1.1.3 5-1.1.2 7-1.2 8-1.3.1 9-1.3.2.1 10-1.3.2.2 11-1.3.2.3 12-1.3.3.1 13-1.3.3.3 14-1.3.3.4 16-1.3.3.2.1 17-1.3.3.2.2 18-1.3.3.2.3 20-1.3.4 21-1.3.4 22-1.3.5
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.3 3-1.1.2 4-1.1.3 5-1.1.2 7-1.2 8-1.3.1 9-1.3.2.1 10-1.3.2.2 11-1.3.2.3 12-1.3.3.1 13-1.3.3.2 14-1.3.3.3 16-1.3.3.4.2 17-1.3.3.4.3 18-1.3.3.4.4 20-1.3.4 21-1.3.4 22-1.3.5
 (v1 / label
     :H (v2 / label
            :A (v5 / label
@@ -18,12 +18,12 @@
                   :C (v18 / label~e.11))
            :A (v10 / label
                    :R (v19 / label~e.12)
-                   :E (v20 / label
+                   :E (v20 / label~e.13)
+                   :C (v21 / label~e.14)
+                   :E (v22 / label
+                           :A v21
                            :R (v23 / label~e.16)
                            :A (v24 / label~e.17)
-                           :P (v25 / label~e.18)
-                           :A (v22 / label~e.14))
-                   :E (v21 / label~e.13)
-                   :C v22)
+                           :P (v25 / label~e.18)))
            :P (v11 / label~e.20,21)
            :D (v12 / label~e.22)))

@@ -1,7 +1,62 @@
 # ::id 25633010
-# ::tok »Wilde.«
-# ::alignments 0-1.1.2
+# ::tok » Wilde ! « erwiderte Kapitän Nemo in ironischem Ton . »Und Sie wundern sich , Herr Professor , daß Sie , sowie Sie einen Fuß an Land setzen , Wilde darauf antreffen ? Wo gibt s denn nicht Wilde ? Und zudem , sind denn die , die Sie Wilde nennen , schlimmer als die anderen ? «
+# ::alignments 1-1.1.1.1.2 4-1.1.2 5-1.1.3.1 6-1.1.3.2 7-1.1.4.1 8-1.1.4.2 9-1.1.4.3 11-1.1.1.2 12-1.1.1.3.1 13-1.1.1.3.2 14-1.1.1.3.2 16-1.1.1.3.3.1 17-1.1.1.3.3.2 19-1.1.1.3.4.1 20-1.1.1.3.4.2.1 22-1.1.1.3.4.3 23-1.1.1.3.4.4.1 24-1.1.1.3.4.4.2.1 25-1.1.1.3.4.4.2.2 26-1.1.1.3.4.4.3.1 27-1.1.1.3.4.4.3.2 28-1.1.1.3.4.4.4 30-1.1.1.3.4.2.2 31-1.1.1.3.4.2.3 32-1.1.1.3.4.2.4 34-1.1.1.4.1 35-1.1.1.4.2 38-1.1.1.4.5 39-1.1.1.4.6 41-1.1.1.5 42-1.1.1.6.1 46-1.1.1.6.4.1 48-1.1.1.6.4.2.2 49-1.1.1.6.4.2.3 50-1.1.1.6.4.2.4 51-1.1.1.6.4.2.5 53-1.1.1.6.5 54-1.1.1.6.6.1 55-1.1.1.6.6.2 56-1.1.1.6.6.3
 (v1 / label
     :H (v2 / label
-           :S (v3 / label)
-           :A (v4 / label~e.0)))
+           :A (v3 / label
+                  :H (v7 / label
+                         :S (v18 / label)
+                         :A (v19 / label~e.1))
+                  :L (v8 / label~e.11)
+                  :H (v9 / label
+                         :A (v20 / label~e.12)
+                         :P (v21 / label~e.13,14)
+                         :G (v22 / label
+                                 :E (v32 / label~e.16)
+                                 :C (v33 / label~e.17))
+                         :A (v23 / label
+                                 :R (v34 / label~e.19)
+                                 :H (v35 / label
+                                         :A (v43 / label~e.20)
+                                         :A (v44 / label~e.30)
+                                         :A (v45 / label~e.31)
+                                         :P (v46 / label~e.32))
+                                 :L (v36 / label~e.22)
+                                 :H (v37 / label
+                                         :A (v47 / label~e.23)
+                                         :A (v48 / label
+                                                 :E (v55 / label~e.24)
+                                                 :C (v56 / label~e.25))
+                                         :A (v49 / label
+                                                 :R (v57 / label~e.26)
+                                                 :C (v58 / label~e.27))
+                                         :P (v50 / label~e.28))))
+                  :H (v10 / label
+                          :A (v24 / label~e.34)
+                          :S (v25 / label~e.35)
+                          :D (v26 / label~e.38)
+                          :A (v27 / label~e.39))
+                  :L (v11 / label~e.41)
+                  :H (v12 / label
+                          :D (v28 / label~e.42)
+                          :A (v29 / label
+                                  :C (v38 / label~e.46)
+                                  :E (v39 / label
+                                          :A v38
+                                          :R (v51 / label~e.48)
+                                          :A (v52 / label~e.49)
+                                          :A (v53 / label~e.50)
+                                          :P (v54 / label~e.51)))
+                          :S (v30 / label~e.53)
+                          :A (v31 / label
+                                  :R (v40 / label~e.54)
+                                  :E (v41 / label~e.55)
+                                  :C (v42 / label~e.56))))
+           :P (v4 / label~e.4)
+           :A (v5 / label
+                  :E (v13 / label~e.5)
+                  :C (v14 / label~e.6))
+           :A (v6 / label
+                  :R (v15 / label~e.7)
+                  :E (v16 / label~e.8)
+                  :C (v17 / label~e.9))))

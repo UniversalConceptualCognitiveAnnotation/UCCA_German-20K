@@ -1,0 +1,18 @@
+# ::id 25690016
+# ::tok Das konnte den Kanadier nicht befriedigen , der die Frage aufwarf .
+# ::alignments 1-1.1.2 2-1.1.3.1 3-1.1.3.2 4-1.1.4 5-1.1.5 7-1.1.3.3.2 8-1.1.3.3.3.1 9-1.1.3.3.3.2 10-1.1.3.3.4
+(v1 / label
+    :H (v2 / label
+           :D (v3 / label~e.1)
+           :A (v4 / label
+                  :E (v7 / label~e.2)
+                  :C (v8 / label~e.3)
+                  :E (v9 / label
+                         :A v8
+                         :R (v10 / label~e.7)
+                         :A (v11 / label
+                                 :E (v13 / label~e.8)
+                                 :C (v14 / label~e.9))
+                         :P (v12 / label~e.10)))
+           :D (v5 / label~e.4)
+           :P (v6 / label~e.5)))

@@ -1,8 +1,9 @@
 # ::id 25633002
 # ::tok »Kapitän ! « sagte ich .
-# ::alignments 0-1.1.1 3-1.1.3 4-1.1.4
+# ::alignments 0-1.1.1.1 3-1.1.2 4-1.1.3
 (v1 / label
     :H (v2 / label
-           :A (v3 / label~e.0)
+           :A (v3 / label
+                  :G (v6 / label~e.0))
            :P (v4 / label~e.3)
            :A (v5 / label~e.4)))
