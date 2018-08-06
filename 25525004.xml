@@ -20,11 +20,19 @@
       <extra orig_paragraph="4" />
     </node>
     <node ID="0.5" type="Word">
-      <attributes paragraph="1" paragraph_position="5" text="aufzumuntern" />
+      <attributes paragraph="1" paragraph_position="5" text="auf" />
       <extra orig_paragraph="4" />
     </node>
-    <node ID="0.6" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="6" text="." />
+    <node ID="0.6" type="Word">
+      <attributes paragraph="1" paragraph_position="6" text="zu" />
+      <extra orig_paragraph="4" />
+    </node>
+    <node ID="0.7" type="Word">
+      <attributes paragraph="1" paragraph_position="7" text="muntern" />
+      <extra orig_paragraph="4" />
+    </node>
+    <node ID="0.8" type="Punctuation">
+      <attributes paragraph="1" paragraph_position="8" text="." />
       <extra orig_paragraph="4" />
     </node>
   </layer>
@@ -56,10 +64,13 @@
       <edge toID="1.8" type="P">
         <attributes />
       </edge>
+      <edge toID="1.9" type="F">
+        <attributes />
+      </edge>
     </node>
     <node ID="1.3" type="PNCT">
       <attributes />
-      <edge toID="0.6" type="Terminal">
+      <edge toID="0.8" type="Terminal">
         <attributes />
       </edge>
     </node>
@@ -90,6 +101,15 @@
     <node ID="1.8" type="FN">
       <attributes />
       <edge toID="0.5" type="Terminal">
+        <attributes />
+      </edge>
+      <edge toID="0.7" type="Terminal">
+        <attributes />
+      </edge>
+    </node>
+    <node ID="1.9" type="FN">
+      <attributes />
+      <edge toID="0.6" type="Terminal">
         <attributes />
       </edge>
     </node>

@@ -75,7 +75,7 @@
     </node>
     <node ID="1.2" type="FN">
       <attributes />
-      <edge toID="1.12" type="D">
+      <edge toID="1.12" type="G">
         <attributes />
       </edge>
       <edge toID="1.13" type="S">
@@ -101,6 +101,9 @@
       </edge>
       <edge toID="1.8" type="A">
         <attributes />
+      </edge>
+      <edge toID="1.16" type="A">
+        <attributes remote="True" />
       </edge>
     </node>
     <node ID="1.5" type="PNCT">

@@ -37,13 +37,13 @@
     </node>
     <node ID="1.2" type="FN">
       <attributes />
-      <edge toID="1.4" type="A">
+      <edge toID="1.4" type="S">
         <attributes />
       </edge>
-      <edge toID="1.5" type="S">
+      <edge toID="1.5" type="F">
         <attributes />
       </edge>
-      <edge toID="1.6" type="D">
+      <edge toID="1.6" type="A">
         <attributes />
       </edge>
     </node>
@@ -70,6 +70,7 @@
     </node>
     <node ID="1.6" type="FN">
       <attributes />
+      <extra remarks="oder das S?" />
       <edge toID="0.4" type="Terminal">
         <attributes />
       </edge>
