@@ -1,15 +1,15 @@
 # ::id 25770000
 # ::tok Während eines Teils der Nacht hielt die Neuheit der Lage uns , Conseil und mich , am Fenster des Salons .
-# ::alignments 0-1.1.1.1 1-1.1.1.3 2-1.1.1.4 3-1.1.1.2.1 4-1.1.1.2.2 5-1.1.2 6-1.1.3.1.1 7-1.1.3.1.2 8-1.1.3.2.1 9-1.1.3.2.2 10-1.1.4.1 12-1.1.4.2.1 13-1.1.4.2.2 14-1.1.4.2.3 16-1.1.5.1 17-1.1.5.2 18-1.1.5.3 19-1.1.5.4
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.3 3-1.1.1.4.1 4-1.1.1.4.2 5-1.1.2 6-1.1.3.1.1 7-1.1.3.1.2 8-1.1.3.2.1 9-1.1.3.2.2 10-1.1.4.1 12-1.1.4.2.1 13-1.1.4.2.2 14-1.1.4.2.3 16-1.1.5.1 17-1.1.5.2 18-1.1.5.3 19-1.1.5.4
 (v1 / label
     :H (v2 / label
            :A (v3 / label
                   :R (v8 / label~e.0)
-                  :E (v9 / label
-                         :R (v20 / label~e.3)
-                         :C (v21 / label~e.4))
-                  :R (v10 / label~e.1)
-                  :C (v11 / label~e.2))
+                  :R (v9 / label~e.1)
+                  :C (v10 / label~e.2)
+                  :E (v11 / label
+                          :R (v20 / label~e.3)
+                          :C (v21 / label~e.4)))
            :P (v4 / label~e.5)
            :A (v5 / label
                   :S (v12 / label

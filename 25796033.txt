@@ -1,27 +1,61 @@
 # ::id 25796033
-# ::tok Darauf mit voller Dampfkraft getrieben , griff sie die Eis decke wie ein furchtbarer Widder von unten an .
-# ::alignments 0-1.1 1-1.2.2 2-1.2.3.1 3-1.2.3.2 4-1.2.4 6-1.3.1 7-1.2.1 8-1.3.3.1 9-1.3.3.2 10-1.3.3.3 11-1.3.4.1 12-1.3.4.2 13-1.3.4.3 14-1.3.4.4 15-1.3.5.1 16-1.3.5.2 17-1.3.1
+# ::tok Sie brachte sie allmählich zum Bersten , zog sich zurück und schoß mit größter Schnelligkeit wieder dagegen , zersprengte sie und gelangte durch einen letzten , mit äußerstem Ungestüm geführten Stoß auf die Oberfläche des Eises , das sie mit ihrem Gewicht zerdrückte .
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3 3-1.1.4 4-1.1.5.1 5-1.1.5.2 7-1.2.1 8-1.2.1 9-1.2.1 10-1.3 11-1.4.1 12-1.4.2.1 13-1.4.2.2 14-1.4.2.3 15-1.4.3 16-1.4.4 18-1.5.1 19-1.5.2 20-1.6 21-1.7.1 22-1.7.2.1 23-1.7.2.2 24-1.7.2.3.2 26-1.7.2.3.3.1 27-1.7.2.3.3.2 28-1.7.2.3.3.3 29-1.7.2.3.4 30-1.7.2.4 31-1.7.3.1 32-1.7.3.2.1 33-1.7.3.2.2 34-1.7.3.3 35-1.7.3.4 37-1.7.3.5.2 38-1.7.3.5.3 39-1.7.3.5.4.1 40-1.7.3.5.4.2 41-1.7.3.5.4.3 42-1.7.3.5.5
 (v1 / label
-    :L (v2 / label~e.0)
+    :H (v2 / label
+           :A (v9 / label~e.0)
+           :D (v10 / label~e.1)
+           :A (v11 / label~e.2)
+           :D (v12 / label~e.3)
+           :P (v13 / label
+                   :R (v24 / label~e.4)
+                   :C (v25 / label~e.5)))
     :H (v3 / label
-           :A (v5 / label~e.7)
-           :R (v6 / label~e.1)
-           :A (v7 / label
-                  :E (v13 / label~e.2)
-                  :C (v14 / label~e.3))
-           :P (v8 / label~e.4))
-    :H (v4 / label
-           :P (v9 / label~e.6,17)
-           :A v5
-           :A (v10 / label
-                   :E (v15 / label~e.8)
-                   :E (v16 / label~e.9)
-                   :C (v17 / label~e.10))
-           :A (v11 / label
-                   :R (v18 / label~e.11)
-                   :E (v19 / label~e.12)
-                   :E (v20 / label~e.13)
-                   :C (v21 / label~e.14))
-           :A (v12 / label
-                   :R (v22 / label~e.15)
-                   :C (v23 / label~e.16))))
+           :P (v14 / label~e.7,8,9)
+           :A v9)
+    :L (v4 / label~e.10)
+    :H (v5 / label
+           :P (v15 / label~e.11)
+           :A (v16 / label
+                   :R (v26 / label~e.12)
+                   :E (v27 / label~e.13)
+                   :C (v28 / label~e.14))
+           :D (v17 / label~e.15)
+           :A (v18 / label~e.16)
+           :A v9)
+    :H (v6 / label
+           :P (v19 / label~e.18)
+           :A (v20 / label~e.19)
+           :A v9)
+    :L (v7 / label~e.20)
+    :H (v8 / label
+           :P (v21 / label~e.21)
+           :A (v22 / label
+                   :R (v29 / label~e.22)
+                   :E (v30 / label~e.23)
+                   :E (v31 / label
+                           :A (v32 / label~e.30)
+                           :D (v38 / label~e.24)
+                           :D (v39 / label
+                                   :R (v47 / label~e.26)
+                                   :E (v48 / label~e.27)
+                                   :C (v49 / label~e.28))
+                           :P (v40 / label~e.29))
+                   :C v32)
+           :A (v23 / label
+                   :R (v33 / label~e.31)
+                   :E (v34 / label
+                           :E (v41 / label~e.32)
+                           :C (v42 / label~e.33))
+                   :R (v35 / label~e.34)
+                   :C (v36 / label~e.35)
+                   :E (v37 / label
+                           :A v36
+                           :R (v43 / label~e.37)
+                           :A (v44 / label~e.38)
+                           :A (v45 / label
+                                   :R (v50 / label~e.39)
+                                   :E (v51 / label~e.40)
+                                   :C (v52 / label~e.41))
+                           :P (v46 / label~e.42)))
+           :A v11))

@@ -1,6 +1,6 @@
 # ::id 25762018
 # ::tok Einige dieser Massen zeigten grüne Adern , als seien sie mit wellenförmigen Streifen schwefelsauren Kupfers überzogen .
-# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.3 3-1.1.2 4-1.1.3.1 5-1.1.3.2 7-1.2.1 8-1.2.2 9-1.2.3 10-1.2.4.1 11-1.2.4.3 12-1.2.4.4 13-1.2.4.2.1 14-1.2.4.2.2 15-1.2.5
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.3 3-1.1.2 4-1.1.3.1 5-1.1.3.2 7-1.2.1 8-1.2.2 9-1.2.3 10-1.2.4.1 11-1.2.4.2 12-1.2.4.3 13-1.2.4.4.1 14-1.2.4.4.2 15-1.2.5
 (v1 / label
     :H (v2 / label
            :A (v4 / label
@@ -17,9 +17,9 @@
            :A (v9 / label~e.9)
            :A (v10 / label
                    :R (v17 / label~e.10)
-                   :E (v18 / label
+                   :E (v18 / label~e.11)
+                   :C (v19 / label~e.12)
+                   :E (v20 / label
                            :E (v21 / label~e.13)
-                           :C (v22 / label~e.14))
-                   :E (v19 / label~e.11)
-                   :C (v20 / label~e.12))
+                           :C (v22 / label~e.14)))
            :S (v11 / label~e.15)))

@@ -1,6 +1,6 @@
 # ::id 25790000
-# ::tok Die spezifische Schwere ergab den merkwürdigen Erfolg , daß diese Blöcke , weil sie leichter als das Wasser waren , zur Decke des Tunnels sozusagen emporflogen , so daß diese um so viel an Dicke zunahm , als der Boden dünner wurde .
-# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.3 3-1.1.2 4-1.1.3.1.1 5-1.1.3.2 6-1.1.3.1.2 8-1.1.3.3.1 9-1.1.3.3.2.2 10-1.1.3.3.2.3 12-1.1.3.3.2.1.1 13-1.1.3.3.2.1.2 14-1.1.3.3.2.1.3 15-1.1.3.3.2.1.4.1 16-1.1.3.3.2.1.4.2 17-1.1.3.3.2.1.4.3 20-1.1.3.3.3.2 21-1.1.3.3.3.3 22-1.1.3.3.3.1.1 23-1.1.3.3.3.1.2 24-1.1.3.3.4 25-1.1.3.3.5 27-1.2 28-1.2 29-1.3.1 30-1.3.2.1 31-1.3.2.2 32-1.3.2.3 33-1.3.3.1 34-1.3.3.2 35-1.3.4 37-1.3.5.1 38-1.3.5.2.1 39-1.3.5.2.2 40-1.3.5.3
+# ::tok Die spezifische Schwere ergab den merkwürdigen Erfolg , dass diese Blöcke , weil sie leichter als das Wasser waren , zur Decke des Tunnels sozusagen emporflogen , so dass diese um so viel an Dicke zunahm , als der Boden dünner wurde .
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.3 3-1.1.2 4-1.1.3.1.1 5-1.1.3.2 6-1.1.3.1.2 8-1.1.3.3.1 9-1.1.3.3.2.1 10-1.1.3.3.2.2 12-1.1.3.3.2.3.1 13-1.1.3.3.2.3.2 14-1.1.3.3.2.3.3 15-1.1.3.3.2.3.4.1 16-1.1.3.3.2.3.4.2 17-1.1.3.3.2.3.4.3 20-1.1.3.3.3.1 21-1.1.3.3.3.2 22-1.1.3.3.3.3.1 23-1.1.3.3.3.3.2 24-1.1.3.3.4 25-1.1.3.3.5 27-1.2 28-1.2 29-1.3.1 30-1.3.2.1 31-1.3.2.2 32-1.3.2.3 33-1.3.3.1 34-1.3.3.2 35-1.3.4 37-1.3.5.1 38-1.3.5.2.1 39-1.3.5.2.2 40-1.3.5.3
 (v1 / label
     :H (v2 / label
            :A (v5 / label
@@ -16,22 +16,22 @@
                   :A (v18 / label
                           :R (v29 / label~e.8)
                           :A (v30 / label
-                                  :E (v36 / label
+                                  :E (v36 / label~e.9)
+                                  :C (v37 / label~e.10)
+                                  :E (v38 / label
                                           :R (v42 / label~e.12)
                                           :A (v43 / label~e.13)
                                           :S (v44 / label~e.14)
                                           :A (v45 / label
                                                   :R (v48 / label~e.15)
                                                   :E (v49 / label~e.16)
-                                                  :C (v50 / label~e.17)))
-                                  :E (v37 / label~e.9)
-                                  :C (v38 / label~e.10))
+                                                  :C (v50 / label~e.17))))
                           :A (v31 / label
-                                  :E (v39 / label
+                                  :R (v39 / label~e.20)
+                                  :C (v40 / label~e.21)
+                                  :E (v41 / label
                                           :R (v46 / label~e.22)
-                                          :C (v47 / label~e.23))
-                                  :R (v40 / label~e.20)
-                                  :C (v41 / label~e.21))
+                                          :C (v47 / label~e.23)))
                           :G (v32 / label~e.24)
                           :P (v33 / label~e.25))))
     :L (v3 / label~e.27,28)

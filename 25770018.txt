@@ -1,6 +1,6 @@
 # ::id 25770018
-# ::tok Manchmal fand man , daß die Dicke 1.200 Meter betrug ; das war noch das Doppelte der Höhe des Eises , wie sie zur Zeit des Untertauchens war .
-# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3 4-1.1.4.1 5-1.1.4.2.1 6-1.1.4.2.2 7-1.1.4.3.1 8-1.1.4.3.2 9-1.1.4.4 11-1.2.1 13-1.2.3 14-1.2.4.1 15-1.2.4.2 16-1.2.5.2 17-1.2.5.3 18-1.2.5.1.1 19-1.2.5.1.2 21-1.3.1 22-1.3.2 23-1.4.2.1 24-1.4.2.2 25-1.4.3.1 26-1.4.3.2 27-1.3.3
+# ::tok Manchmal fand man , dass die Dicke 1.200 Meter betrug ; das war noch das Doppelte der Höhe des Eises , wie sie zur Zeit des Untertauchens war .
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3 4-1.1.4.1 5-1.1.4.2.1 6-1.1.4.2.2 7-1.1.4.3.1 8-1.1.4.3.2 9-1.1.4.4 11-1.2.1 13-1.2.3 14-1.2.4.1 15-1.2.4.2 16-1.2.5.1 17-1.2.5.2 18-1.2.5.3.1 19-1.2.5.3.2 21-1.3.1 22-1.3.2 23-1.4.2.1 24-1.4.2.2 25-1.4.3.1 26-1.4.3.2 27-1.3.3
 (v1 / label
     :H (v2 / label
            :T (v6 / label~e.0)
@@ -22,11 +22,11 @@
                    :E (v24 / label~e.14)
                    :C (v25 / label~e.15))
            :A (v13 / label
-                   :E (v26 / label
+                   :R (v26 / label~e.16)
+                   :C (v27 / label~e.17)
+                   :E (v28 / label
                            :R (v37 / label~e.18)
-                           :C (v38 / label~e.19))
-                   :R (v27 / label~e.16)
-                   :C (v28 / label~e.17)))
+                           :C (v38 / label~e.19))))
     :H (v4 / label
            :R (v14 / label~e.21)
            :A (v15 / label~e.22)

@@ -1,6 +1,6 @@
 # ::id 25730001
-# ::tok Er hoffte noch , daß hinter diesem Nebel sich das so ersehnte Land zeigen werde .
-# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3 4-1.1.4.1 5-1.1.4.2.1 6-1.1.4.2.2 7-1.1.4.2.3 8-1.1.4.3 9-1.1.4.4.2 10-1.1.4.4.1.1 11-1.1.4.4.1.2 12-1.1.4.4.3 13-1.1.4.3
+# ::tok Er hoffte noch , dass hinter diesem Nebel sich das so ersehnte Land zeigen werde .
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3 4-1.1.4.1 5-1.1.4.2.1 6-1.1.4.2.2 7-1.1.4.2.3 8-1.1.4.3 9-1.1.4.4.1 10-1.1.4.4.2.2 11-1.1.4.4.2.3 12-1.1.4.4.3 13-1.1.4.3
 (v1 / label
     :H (v2 / label
            :A (v3 / label~e.0)
@@ -14,9 +14,9 @@
                          :C (v13 / label~e.7))
                   :P (v9 / label~e.8,13)
                   :A (v10 / label
-                          :E (v14 / label
+                          :E (v14 / label~e.9)
+                          :E (v15 / label
+                                  :A (v16 / label~e.12)
                                   :D (v17 / label~e.10)
-                                  :S (v18 / label~e.11)
-                                  :A (v16 / label~e.12))
-                          :E (v15 / label~e.9)
+                                  :S (v18 / label~e.11))
                           :C v16))))

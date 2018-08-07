@@ -1,20 +1,20 @@
 # ::id 25743005
-# ::tok Mitunter wurden sie von tiefen Schluchten unterbrochen , über die man setzen mußte .
-# ::alignments 0-1.1.1 2-1.1.3 3-1.1.4.2 4-1.1.4.3 5-1.1.4.4 6-1.1.5 8-1.1.4.1.1.1 9-1.1.4.1.1.2 10-1.1.4.1.2 11-1.1.4.1.3 12-1.1.4.1.4
+# ::tok Mitunter wurden sie von tiefen Schluchten unterbrochen , über die man setzen musste .
+# ::alignments 0-1.1.1 2-1.1.3 3-1.1.4.1 4-1.1.4.2 5-1.1.4.3 6-1.1.5 8-1.1.4.4.2.1 9-1.1.4.4.2.2 10-1.1.4.4.3 11-1.1.4.4.4 12-1.1.4.4.5
 (v1 / label
     :H (v2 / label
            :T (v3 / label~e.0)
            :A (v4 / label~e.2)
            :A (v5 / label
-                  :E (v7 / label
-                         :R (v11 / label
-                                 :E (v15 / label~e.8)
-                                 :C (v16 / label~e.9))
-                         :A (v12 / label~e.10)
-                         :P (v13 / label~e.11)
-                         :D (v14 / label~e.12)
-                         :A (v10 / label~e.5))
-                  :R (v8 / label~e.3)
-                  :E (v9 / label~e.4)
-                  :C v10)
+                  :R (v7 / label~e.3)
+                  :E (v8 / label~e.4)
+                  :C (v9 / label~e.5)
+                  :E (v10 / label
+                          :A v9
+                          :R (v11 / label
+                                  :E (v15 / label~e.8)
+                                  :C (v16 / label~e.9))
+                          :A (v12 / label~e.10)
+                          :P (v13 / label~e.11)
+                          :D (v14 / label~e.12)))
            :S (v6 / label~e.6)))

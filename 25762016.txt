@@ -1,10 +1,14 @@
 # ::id 25762016
 # ::tok Ein solcher Schein , den auch das dichteste Gewölk nicht verdüstert , kündigt die Nähe einer Eisbank an .
-# ::alignments 0-1.1.1.2 1-1.1.1.3 2-1.1.1.4 4-1.1.1.1.1 5-1.1.1.1.2 6-1.1.1.1.3.1.1 7-1.1.1.1.3.1.2 8-1.1.1.1.3.2 9-1.1.1.1.4 10-1.1.1.1.5 12-1.1.2 13-1.1.3.1.1 14-1.1.3.1.2 15-1.1.3.2.1 16-1.1.3.2.2 17-1.1.2
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.3 4-1.1.1.4.2 5-1.1.1.4.3 6-1.1.1.4.4.1.1 7-1.1.1.4.4.1.2 8-1.1.1.4.4.2 9-1.1.1.4.5 10-1.1.1.4.6 12-1.1.2 13-1.1.3.1.1 14-1.1.3.1.2 15-1.1.3.2.1 16-1.1.3.2.2 17-1.1.2
 (v1 / label
     :H (v2 / label
            :A (v3 / label
-                  :E (v6 / label
+                  :E (v6 / label~e.0)
+                  :E (v7 / label~e.1)
+                  :C (v8 / label~e.2)
+                  :E (v9 / label
+                         :A v8
                          :R (v12 / label~e.4)
                          :D (v13 / label~e.5)
                          :A (v14 / label
@@ -13,11 +17,7 @@
                                          :C (v24 / label~e.7))
                                  :C (v22 / label~e.8))
                          :D (v15 / label~e.9)
-                         :P (v16 / label~e.10)
-                         :A (v9 / label~e.2))
-                  :E (v7 / label~e.0)
-                  :E (v8 / label~e.1)
-                  :C v9)
+                         :P (v16 / label~e.10)))
            :P (v4 / label~e.12,17)
            :A (v5 / label
                   :S (v10 / label

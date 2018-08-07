@@ -1,6 +1,6 @@
 # ::id 25720002
 # ::tok Hier gibt  s zwei Strömungen : die obere , die längst bekannt ist , führt die Gewässer aus dem Ozean in das Becken des Mittelmeers , sodann eine tiefer in entgegengesetzter Richtung , deren Existenz nun durch Folgerungen bewiesen ist .
-# ::alignments 0-1.1.1 1-1.1.2 4-1.1.5.1 5-1.1.5.2 7-1.2.1.2 8-1.2.1.3 10-1.2.1.1.1 11-1.2.1.1.2 12-1.2.1.1.3 15-1.2.2 16-1.2.3.1 17-1.2.3.2 18-1.2.4.1 19-1.2.4.2 20-1.2.4.3 21-1.2.5.1 22-1.2.5.3 23-1.2.5.4 24-1.2.5.2.1 25-1.2.5.2.2 27-1.3 28-1.4.1.1 29-1.4.2 30-1.4.3.1.1 31-1.4.3.2 32-1.4.3.1.2 34-1.4.1.2.2.1 35-1.4.1.2.2.2 37-1.4.1.2.4.1 38-1.4.1.2.4.2 39-1.4.1.2.5
+# ::alignments 0-1.1.1 1-1.1.2 4-1.1.4.1 5-1.1.4.2 7-1.2.1.1 8-1.2.1.2 10-1.2.1.3.2 11-1.2.1.3.3 12-1.2.1.3.4 15-1.2.2 16-1.2.3.1 17-1.2.3.2 18-1.2.4.1 19-1.2.4.2 20-1.2.4.3 21-1.2.5.1 22-1.2.5.2 23-1.2.5.3 24-1.2.5.4.1 25-1.2.5.4.2 27-1.3 28-1.4.1.1 29-1.4.2 30-1.4.3.1.1 31-1.4.3.2 32-1.4.3.1.2 34-1.4.1.2.2.1 35-1.4.1.2.2.2 37-1.4.1.2.4.1 38-1.4.1.2.4.2 39-1.4.1.2.5
 (v1 / label
     :H (v2 / label
            :A (v6 / label~e.0)
@@ -10,13 +10,13 @@
                   :C (v18 / label~e.5)))
     :H (v3 / label
            :A (v9 / label
-                  :E (v19 / label
+                  :E (v19 / label~e.7)
+                  :C (v20 / label~e.8)
+                  :E (v21 / label
+                          :A v20
                           :R (v35 / label~e.10)
                           :D (v36 / label~e.11)
-                          :S (v37 / label~e.12)
-                          :A (v21 / label~e.8))
-                  :E (v20 / label~e.7)
-                  :C v21)
+                          :S (v37 / label~e.12)))
            :P (v10 / label~e.15)
            :A (v11 / label
                    :E (v22 / label~e.16)
@@ -27,11 +27,11 @@
                    :C (v26 / label~e.20))
            :A (v13 / label
                    :R (v27 / label~e.21)
-                   :E (v28 / label
+                   :E (v28 / label~e.22)
+                   :C (v29 / label~e.23)
+                   :E (v30 / label
                            :R (v38 / label~e.24)
-                           :C (v39 / label~e.25))
-                   :E (v29 / label~e.22)
-                   :C (v30 / label~e.23)))
+                           :C (v39 / label~e.25))))
     :L (v4 / label~e.27)
     :H (v5 / label
            :A (v14 / label

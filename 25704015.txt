@@ -1,6 +1,6 @@
 # ::id 25704015
 # ::tok Man verfolgte ihn eine Stunde lang unablässig , und ich fing an zu glauben , es werde sehr schwierig sein , seiner Meister zu werden , als dem Tier der unglückselige Gedanke sich zu rächen kam , den es jedoch zu bereuen hatte .
-# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3 3-1.1.4.1 4-1.1.4.2 5-1.1.5 6-1.1.6 8-1.2 9-1.3.1 10-1.3.2 11-1.3.2 13-1.3.4 17-1.3.5.3 18-1.3.5.4 21-1.3.5.6.1.1 22-1.3.5.6.1.2 24-1.3.5.6.3 26-1.4 27-1.5.1.1 28-1.6.3 29-1.5.2.2 30-1.5.2.3 31-1.5.2.4 32-1.6.1 34-1.6.1 35-1.5.3 37-1.5.2.1.1 38-1.5.2.1.2 39-1.5.2.1.3 41-1.5.2.1.5
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3 3-1.1.4.1 4-1.1.4.2 5-1.1.5 6-1.1.6 8-1.2 9-1.3.1 10-1.3.2 11-1.3.2 13-1.3.4 17-1.3.5.3 18-1.3.5.4 21-1.3.5.6.1.1 22-1.3.5.6.1.2 24-1.3.5.6.3 26-1.4 27-1.5.1.1 28-1.6.3 29-1.5.2.1 30-1.5.2.2 31-1.5.2.3 32-1.6.1 34-1.6.1 35-1.5.3 37-1.5.2.4.2 38-1.5.2.4.3 39-1.5.2.4.4 41-1.5.2.4.6
 (v1 / label
     :H (v2 / label
            :A (v8 / label~e.0)
@@ -30,15 +30,15 @@
                    :E (v28 / label~e.27)
                    :C (v22 / label~e.28))
            :A (v19 / label
-                   :E (v29 / label
+                   :R (v29 / label~e.29)
+                   :E (v30 / label~e.30)
+                   :C (v31 / label~e.31)
+                   :E (v32 / label
+                           :A v31
                            :R (v35 / label~e.37)
                            :A (v36 / label~e.38)
                            :D (v37 / label~e.39)
-                           :P (v38 / label~e.41)
-                           :A (v32 / label~e.31))
-                   :R (v30 / label~e.29)
-                   :E (v31 / label~e.30)
-                   :C v32)
+                           :P (v38 / label~e.41)))
            :P (v20 / label~e.35))
     :H (v7 / label
            :P (v21 / label~e.32,34)

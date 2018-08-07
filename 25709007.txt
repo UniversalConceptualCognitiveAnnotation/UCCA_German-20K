@@ -1,6 +1,6 @@
 # ::id 25709007
 # ::tok Ich konnte mich daher nicht dem Gedanken anschließen , die Nautilus vor Voll-endung unserer Forschungen zu verlassen .
-# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3 3-1.1.4 4-1.1.5 5-1.1.6.2 6-1.1.6.3 7-1.1.3 9-1.1.6.1.2.1 10-1.1.6.1.2.2 11-1.1.6.1.3.1 12-1.1.6.1.3.2 13-1.1.6.1.3.3.1 14-1.1.6.1.3.3.2 16-1.1.6.1.5
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3 3-1.1.4 4-1.1.5 5-1.1.6.1 6-1.1.6.2 7-1.1.3 9-1.1.6.3.2.1 10-1.1.6.3.2.2 11-1.1.6.3.3.1 12-1.1.6.3.3.2 13-1.1.6.3.3.3.1 14-1.1.6.3.3.3.2 16-1.1.6.3.5
 (v1 / label
     :H (v2 / label
            :A (v3 / label~e.0)
@@ -9,17 +9,17 @@
            :A (v6 / label~e.3)
            :D (v7 / label~e.4)
            :A (v8 / label
-                  :E (v9 / label
-                         :A v3
-                         :A (v12 / label
-                                 :E (v15 / label~e.9)
-                                 :C (v16 / label~e.10))
-                         :A (v13 / label
-                                 :R (v17 / label~e.11)
-                                 :C (v18 / label~e.12)
-                                 :E (v19 / label
-                                         :R (v20 / label~e.13)
-                                         :C (v21 / label~e.14)))
-                         :P (v14 / label~e.16))
-                  :E (v10 / label~e.5)
-                  :C (v11 / label~e.6))))
+                  :E (v9 / label~e.5)
+                  :C (v10 / label~e.6)
+                  :E (v11 / label
+                          :A v3
+                          :A (v12 / label
+                                  :E (v15 / label~e.9)
+                                  :C (v16 / label~e.10))
+                          :A (v13 / label
+                                  :R (v17 / label~e.11)
+                                  :C (v18 / label~e.12)
+                                  :E (v19 / label
+                                          :R (v20 / label~e.13)
+                                          :C (v21 / label~e.14)))
+                          :P (v14 / label~e.16)))))
