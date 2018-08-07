@@ -55,10 +55,10 @@
       <edge toID="1.5" type="A">
         <attributes />
       </edge>
-      <edge toID="1.6" type="A">
+      <edge toID="1.6" type="U">
         <attributes />
       </edge>
-      <edge toID="1.7" type="U">
+      <edge toID="1.7" type="A">
         <attributes />
       </edge>
     </node>
@@ -80,7 +80,13 @@
         <attributes />
       </edge>
     </node>
-    <node ID="1.6" type="FN">
+    <node ID="1.6" type="PNCT">
+      <attributes />
+      <edge toID="0.3" type="Terminal">
+        <attributes />
+      </edge>
+    </node>
+    <node ID="1.7" type="FN">
       <attributes />
       <edge toID="1.8" type="R">
         <attributes />
@@ -92,12 +98,6 @@
         <attributes />
       </edge>
       <edge toID="1.11" type="P">
-        <attributes />
-      </edge>
-    </node>
-    <node ID="1.7" type="PNCT">
-      <attributes />
-      <edge toID="0.3" type="Terminal">
         <attributes />
       </edge>
     </node>
