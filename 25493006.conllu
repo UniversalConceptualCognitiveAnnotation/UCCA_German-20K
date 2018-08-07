@@ -1,10 +1,11 @@
 # sent_id = 25493006
-# text = Nahm er Anstand zu reden ?
+# text = Bereute er die soeben gesprochenen Worte ?
 # doc_id = 
-1	Nahm	_	Word	Word	_	0	root	0:root	_
+1	Bereute	_	Word	Word	_	0	root	0:root	_
 2	er	_	Word	Word	_	1	A	1:A	_
-3	Anstand	_	Word	Word	_	5	A	5:A	_
-4	zu	_	Word	Word	_	5	F	5:F	_
-5	reden	_	Word	Word	_	1	orphan	1:orphan	_
-6	?	_	Punctuation	Punctuation	_	5	punct	5:punct	_
+3	die	_	Word	Word	_	6	E	6:E	_
+4	soeben	_	Word	Word	_	6	E	6:E	_
+5	gesprochenen	_	Word	Word	_	6	E	6:E	_
+6	Worte	_	Word	Word	_	1	orphan	1:orphan	_
+7	?	_	Punctuation	Punctuation	_	6	punct	6:punct	_
 

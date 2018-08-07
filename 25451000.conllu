@@ -1,5 +1,5 @@
 # sent_id = 25451000
-# text = »Ungefähr 17.000.« »So viele?« »Und da in Wirklichkeit der atmosphärische Druck etwas mehr als ein Kilogramm auf den Quadratzentimeter beträgt, so haben Ihre 17.000 Quadratzentimeter in diesem Augenblick einen Druck von 17.568 Kilogramm aus zu halten .
+# text = »Ungefähr 17.000.« »So viele?« »Und da in Wirklichkeit der atmosphärische Druck etwas mehr als ein Kilogramm auf den Quadratzentimeter beträgt, so haben Ihre 17.000 Quadratzentimeter in diesem Augenblick einen Druck von 17.568 Kilogramm aus zu halten . « »Ohne daß ich ’s merke?«
 # doc_id = 
 1	»Ungefähr	_	Word	Word	_	2	D	2:D	_
 2	17.000.«	_	Word	Word	_	0	root	0:root	_
@@ -37,5 +37,11 @@
 34	aus	_	Word	Word	_	2	orphan	2:orphan	_
 35	zu	_	Word	Word	_	34	F	34:F	_
 36	halten	_	Word	Word	_	34	flat	34:flat	_
-37	.	_	Punctuation	Punctuation	_	34	punct	34:punct	_
+37	.	_	Punctuation	Punctuation	_	2	punct	2:punct	_
+38	«	_	Punctuation	Punctuation	_	2	punct	2:punct	_
+39	»Ohne	_	Word	Word	_	43	D	43:D	_
+40	daß	_	Word	Word	_	39	flat	39:flat	_
+41	ich	_	Word	Word	_	43	A	43:A	_
+42	’s	_	Word	Word	_	43	A	43:A	_
+43	merke?«	_	Word	Word	_	2	orphan	2:orphan	_
 

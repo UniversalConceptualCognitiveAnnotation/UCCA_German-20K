@@ -1,5 +1,5 @@
 # sent_id = 25518007
-# text = »Herr Professor , es tut mir leid um eins der besten Schiffe dieser tüchtigen amerikanischen Marine , aber ich wurde angegriffen und mußte mich verteidigen ! Ich habe mich jedoch darauf beschränkt , die Fregatte außer Stand zu setzen , mir zu schaden – es wird sie nicht viel kosten , ihren Schaden im nächsten Hafen aus zu bessern .
+# text = »Herr Professor , es tut mir leid um eins der besten Schiffe dieser tüchtigen amerikanischen Marine , aber ich wurde angegriffen und mußte mich verteidigen ! Ich habe mich jedoch darauf beschränkt , die Fregatte außer Stand zu setzen , mir zu schaden – es wird sie nicht viel kosten , ihren Schaden im nächsten Hafen aus zu bessern . « »Ah ! Kommandant« , rief ich mit Überzeugung , »Ihre ›Nautilus‹ ist wirklich ein wundervolles Fahrzeug ! «
 # doc_id = 
 1	»Herr	_	Word	Word	_	2	E	2:E	_
 2	Professor	_	Word	Word	_	0	root	0:root	_
@@ -60,5 +60,24 @@
 57	aus	_	Word	Word	_	2	orphan	2:orphan	_
 58	zu	_	Word	Word	_	57	F	57:F	_
 59	bessern	_	Word	Word	_	57	flat	57:flat	_
-60	.	_	Punctuation	Punctuation	_	57	punct	57:punct	_
+60	.	_	Punctuation	Punctuation	_	5	punct	5:punct	_
+61	«	_	Punctuation	Punctuation	_	5	punct	5:punct	_
+62	»Ah	_	Word	Word	_	73	F	73:F	_
+63	!	_	Punctuation	Punctuation	_	73	punct	73:punct	_
+64	Kommandant«	_	Word	Word	_	73	G	73:G	_
+65	,	_	Punctuation	Punctuation	_	66	punct	66:punct	_
+66	rief	_	Word	Word	_	2	orphan	2:orphan	_
+67	ich	_	Word	Word	_	66	A	66:A	_
+68	mit	_	Word	Word	_	69	R	69:R	_
+69	Überzeugung	_	Word	Word	_	2	orphan	2:orphan	_
+70	,	_	Punctuation	Punctuation	_	66	punct	66:punct	_
+71	»Ihre	_	Word	Word	_	72	E	72:E	_
+72	›Nautilus‹	_	Word	Word	_	2	orphan	2:orphan	_
+73	ist	_	Word	Word	_	2	orphan	2:orphan	_
+74	wirklich	_	Word	Word	_	73	G	73:G	_
+75	ein	_	Word	Word	_	77	E	77:E	_
+76	wundervolles	_	Word	Word	_	77	E	77:E	_
+77	Fahrzeug	_	Word	Word	_	2	orphan	2:orphan	_
+78	!	_	Punctuation	Punctuation	_	77	punct	77:punct	_
+79	«	_	Punctuation	Punctuation	_	77	punct	77:punct	_
 
