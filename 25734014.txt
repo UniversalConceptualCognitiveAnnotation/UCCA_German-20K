@@ -1,34 +1,34 @@
 # ::id 25734014
 # ::tok Es waren die Augen riesenmäßiger Schaltiere , die in ihren Löchern hockten , kolossale Hummern , die sich wie Hellebardiere reckten , Krabben wie Kanonen auf ihren Lafetten und gräßliche Polypen , die ihre Fühlhörner gleich einem lebendigen Schlangengebüsch verschlungen ausstreckten .
-# ::alignments 1-1.1.2 2-1.1.3.1 3-1.1.3.2 4-1.1.3.3.1 5-1.1.3.3.2 7-1.1.3.3.3.2 8-1.1.3.3.3.3.1 9-1.1.3.3.3.3.2 10-1.1.3.3.3.3.3 11-1.1.3.3.3.4 13-1.1.4.1 14-1.1.4.2 16-1.1.4.3.2 17-1.1.4.3.3 18-1.1.4.4.1 19-1.1.4.4.2 20-1.1.4.3.3 22-1.1.5.1.1 23-1.1.5.1.2.2 24-1.1.5.1.2.3 25-1.1.5.1.2.4.1 26-1.1.5.1.2.4.2 27-1.1.5.1.2.4.3 28-1.1.5.2 29-1.1.5.3.1 30-1.1.5.3.2 32-1.1.5.3.3.2 33-1.1.5.3.3.3.1 34-1.1.5.3.3.3.2 35-1.1.5.3.4.1 36-1.1.5.3.4.2.1 37-1.1.5.3.4.2.2.2 38-1.1.5.3.4.2.3 39-1.1.5.3.3.4 40-1.1.5.3.3.5
+# ::alignments 1-1.1.2 2-1.1.3.2 3-1.1.3.3 4-1.1.3.1.2 5-1.1.3.1.3 7-1.1.3.1.1.1 8-1.1.3.1.1.2.1 9-1.1.3.1.1.2.2 10-1.1.3.1.1.2.3 11-1.1.3.1.1.3 13-1.1.4.3 14-1.1.4.4 16-1.1.4.1.1 17-1.1.4.1.2 18-1.1.4.2.1 19-1.1.4.2.2 20-1.1.4.1.2 22-1.1.5.1.1 23-1.1.5.1.2.2 24-1.1.5.1.2.3 25-1.1.5.1.2.4.1 26-1.1.5.1.2.4.2 27-1.1.5.1.2.4.3 28-1.1.5.2 29-1.1.5.3.3 30-1.1.5.3.4 32-1.1.5.3.1.1 33-1.1.5.3.1.2.1 34-1.1.5.3.1.2.2 35-1.1.5.3.2.1 36-1.1.5.3.2.2.2 37-1.1.5.3.2.2.1.1 38-1.1.5.3.2.2.3 39-1.1.5.3.1.3 40-1.1.5.3.1.4
 (v1 / label
     :H (v2 / label
            :S (v3 / label~e.1)
            :A (v4 / label
-                  :E (v7 / label~e.2)
-                  :C (v8 / label~e.3)
-                  :E (v9 / label
-                         :E (v17 / label~e.4)
-                         :C (v18 / label~e.5)
-                         :E (v19 / label
-                                 :A v18
+                  :E (v7 / label
+                         :E (v17 / label
                                  :R (v30 / label~e.7)
                                  :A (v31 / label
                                          :R (v42 / label~e.8)
                                          :E (v43 / label~e.9)
                                          :C (v44 / label~e.10))
-                                 :S (v32 / label~e.11))))
+                                 :S (v32 / label~e.11)
+                                 :A (v19 / label~e.5))
+                         :E (v18 / label~e.4)
+                         :C v19)
+                  :E (v8 / label~e.2)
+                  :C (v9 / label~e.3))
            :A (v5 / label
-                  :E (v10 / label~e.13)
-                  :C (v11 / label~e.14)
-                  :E (v12 / label
-                          :A v11
+                  :E (v10 / label
                           :R (v20 / label~e.16)
-                          :P (v21 / label~e.17,20))
-                  :E (v13 / label
+                          :P (v21 / label~e.17,20)
+                          :A (v13 / label~e.14))
+                  :E (v11 / label
                           :R (v22 / label~e.18)
                           :A (v23 / label~e.19)
-                          :P v21))
+                          :P v21)
+                  :E (v12 / label~e.13)
+                  :C v13)
            :A (v6 / label
                   :C (v14 / label
                           :C (v24 / label~e.22)
@@ -42,22 +42,22 @@
                                           :C (v47 / label~e.27))))
                   :N (v15 / label~e.28)
                   :C (v16 / label
-                          :E (v26 / label~e.29)
-                          :C (v27 / label~e.30)
-                          :E (v28 / label
-                                  :A v27
+                          :E (v26 / label
                                   :R (v36 / label~e.32)
                                   :A (v37 / label
                                           :E (v48 / label~e.33)
                                           :C (v49 / label~e.34))
                                   :D (v38 / label~e.39)
-                                  :P (v39 / label~e.40))
-                          :E (v29 / label
+                                  :P (v39 / label~e.40)
+                                  :A (v29 / label~e.30))
+                          :E (v27 / label
                                   :R (v40 / label~e.35)
                                   :A (v41 / label
-                                          :E (v50 / label~e.36)
-                                          :E (v51 / label
-                                                  :A (v52 / label~e.38)
-                                                  :S (v53 / label~e.37))
+                                          :E (v50 / label
+                                                  :S (v53 / label~e.37)
+                                                  :A (v52 / label~e.38))
+                                          :E (v51 / label~e.36)
                                           :C v52)
-                                  :P v39)))))
+                                  :P v39)
+                          :E (v28 / label~e.29)
+                          :C v29))))

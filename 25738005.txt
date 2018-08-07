@@ -1,6 +1,6 @@
 # ::id 25738005
 # ::tok Um 4 Uhr abends zeigte das Erdreich , das im allgemeinen aus dichtem Schlamm mit mineralisiertem Gezweig vermischt bestand , allmählich eine andere Beschaffenheit ; es wurde steinig und schien bedeckt mit einem Gemenge von Basalttuff mit einigen Lagen Lava mit schwefligem Obsidian .
-# ::alignments 0-1.1.1.1 1-1.1.1.2.1 2-1.1.1.2.2 3-1.1.1.3 4-1.1.2 5-1.1.3.1 6-1.1.3.2 8-1.1.3.3.2 9-1.1.3.3.3.1 10-1.1.3.3.3.2 11-1.1.3.3.4.1.1 12-1.1.3.3.4.1.2 13-1.1.3.3.4.1.3 14-1.1.3.3.4.2.1 15-1.1.3.3.4.2.2 16-1.1.3.3.4.2.3 17-1.1.3.3.4.3 18-1.1.3.3.5 20-1.1.4 21-1.1.5.1 22-1.1.5.2 23-1.1.5.3 25-1.2.1 26-1.4.3 27-1.2.3 28-1.3 29-1.4.1 30-1.4.2.1 31-1.4.2.2.1 32-1.4.2.2.2 33-1.4.2.2.3 34-1.4.2.2.4.1 35-1.4.2.2.4.2 36-1.4.2.3.1 37-1.4.2.3.2.1 38-1.4.2.3.2.2 39-1.4.2.3.3 40-1.4.2.3.4.1 41-1.4.2.3.4.2 42-1.4.2.3.4.3
+# ::alignments 0-1.1.1.1 1-1.1.1.2.1 2-1.1.1.2.2 3-1.1.1.3 4-1.1.2 5-1.1.3.2 6-1.1.3.3 8-1.1.3.1.1 9-1.1.3.1.2.1 10-1.1.3.1.2.2 11-1.1.3.1.3.1.1 12-1.1.3.1.3.1.2 13-1.1.3.1.3.1.3 14-1.1.3.1.3.2.1 15-1.1.3.1.3.2.2 16-1.1.3.1.3.2.3 17-1.1.3.1.3.3 18-1.1.3.1.4 20-1.1.4 21-1.1.5.1 22-1.1.5.2 23-1.1.5.3 25-1.2.1 26-1.4.3 27-1.2.3 28-1.3 29-1.4.1 30-1.4.2.1 31-1.4.2.2.2 32-1.4.2.2.3 33-1.4.2.2.4 34-1.4.2.2.1.1 35-1.4.2.2.1.2 36-1.4.2.3.1 37-1.4.2.3.3.1 38-1.4.2.3.3.2 39-1.4.2.3.4 40-1.4.2.3.2.1 41-1.4.2.3.2.2 42-1.4.2.3.2.3
 (v1 / label
     :H (v2 / label
            :T (v6 / label
@@ -11,10 +11,7 @@
                   :C (v18 / label~e.3))
            :P (v7 / label~e.4)
            :A (v8 / label
-                  :E (v19 / label~e.5)
-                  :C (v20 / label~e.6)
-                  :E (v21 / label
-                          :A v20
+                  :E (v19 / label
                           :R (v30 / label~e.8)
                           :D (v31 / label
                                   :R (v42 / label~e.9)
@@ -29,7 +26,10 @@
                                           :E (v58 / label~e.15)
                                           :C (v59 / label~e.16))
                                   :S (v46 / label~e.17))
-                          :S (v33 / label~e.18)))
+                          :S (v33 / label~e.18)
+                          :A (v21 / label~e.6))
+                  :E (v20 / label~e.5)
+                  :C v21)
            :D (v9 / label~e.20)
            :A (v10 / label
                    :E (v22 / label~e.21)
@@ -44,20 +44,20 @@
            :A (v14 / label
                    :S (v25 / label~e.30)
                    :A (v26 / label
-                           :R (v34 / label~e.31)
-                           :E (v35 / label~e.32)
-                           :C (v36 / label~e.33)
-                           :E (v37 / label
+                           :E (v34 / label
                                    :R (v47 / label~e.34)
-                                   :C (v48 / label~e.35)))
+                                   :C (v48 / label~e.35))
+                           :R (v35 / label~e.31)
+                           :E (v36 / label~e.32)
+                           :C (v37 / label~e.33))
                    :A (v27 / label
                            :R (v38 / label~e.36)
                            :E (v39 / label
-                                   :E (v49 / label~e.37)
-                                   :C (v50 / label~e.38))
-                           :C (v40 / label~e.39)
-                           :E (v41 / label
-                                   :R (v51 / label~e.40)
-                                   :E (v52 / label~e.41)
-                                   :C (v53 / label~e.42))))
+                                   :R (v49 / label~e.40)
+                                   :E (v50 / label~e.41)
+                                   :C (v51 / label~e.42))
+                           :E (v40 / label
+                                   :E (v52 / label~e.37)
+                                   :C (v53 / label~e.38))
+                           :C (v41 / label~e.39)))
            :A (v15 / label~e.26)))

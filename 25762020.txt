@@ -1,6 +1,6 @@
 # ::id 25762020
 # ::tok Je mehr wir weiter nach Süden kamen , desto zahlreicher und bedeutender wurden diese schwimmenden Inseln .
-# ::alignments 0-1.1 1-1.2.1 2-1.2.2 3-1.2.3 4-1.2.4.1 5-1.2.4.2 6-1.2.5 8-1.3 9-1.4.1.1 10-1.4.1.2 11-1.4.1.3 13-1.4.3.1 14-1.4.3.2.2 15-1.4.3.3
+# ::alignments 0-1.1 1-1.2.1 2-1.2.2 3-1.2.3 4-1.2.4.1 5-1.2.4.2 6-1.2.5 8-1.3 9-1.4.1.1 10-1.4.1.2 11-1.4.1.3 13-1.4.3.2 14-1.4.3.1.1 15-1.4.3.3
 (v1 / label
     :L (v2 / label~e.0)
     :H (v3 / label
@@ -18,8 +18,8 @@
                    :N (v16 / label~e.10)
                    :C (v17 / label~e.11))
            :A (v12 / label
-                   :E (v18 / label~e.13)
-                   :E (v19 / label
-                           :A (v20 / label~e.15)
-                           :S (v21 / label~e.14))
+                   :E (v18 / label
+                           :S (v21 / label~e.14)
+                           :A (v20 / label~e.15))
+                   :E (v19 / label~e.13)
                    :C v20)))

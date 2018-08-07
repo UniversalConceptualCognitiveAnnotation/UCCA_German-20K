@@ -1,17 +1,17 @@
 # ::id 25743010
 # ::tok An der Stelle der Konglomerate und Trachyte traten schwarze Basalte ; diese zogen teils in blasigen Streifen , teils bildeten sie regelmäßige Prismen , die sich wie eine Kolonnade reihten , auf der das ungeheure Gewölbe ruhte , ein staunenswertes Muster natürlicher Architektur .
-# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.3 3-1.1.1.4.1 4-1.1.1.4.2 5-1.1.1.4.3 6-1.1.1.4.4 7-1.1.2 8-1.1.3.1 9-1.1.3.2 11-1.2.1 12-1.2.2 13-1.2.3 14-1.2.4.1 15-1.2.4.2 16-1.2.4.3 18-1.3.1 19-1.3.2 20-1.3.3 21-1.3.4.1 22-1.3.4.2 24-1.3.4.3.2 25-1.3.4.3.3 26-1.3.4.3.4.1 27-1.3.4.3.4.2 28-1.3.4.3.4.3 29-1.3.4.3.3 31-1.3.4.3.4.4.2.1 32-1.3.4.3.4.4.2.2 33-1.3.4.3.4.4.3.1 34-1.3.4.3.4.4.3.2 35-1.3.4.3.4.4.3.3 36-1.3.4.3.4.4.4 38-1.3.5.1 39-1.3.5.2 40-1.3.5.3 41-1.3.5.4.1 42-1.3.5.4.2
+# ::alignments 0-1.1.1.2 1-1.1.1.3 2-1.1.1.4 3-1.1.1.1.1 4-1.1.1.1.2 5-1.1.1.1.3 6-1.1.1.1.4 7-1.1.2 8-1.1.3.1 9-1.1.3.2 11-1.2.1 12-1.2.2 13-1.2.3 14-1.2.4.1 15-1.2.4.2 16-1.2.4.3 18-1.3.1 19-1.3.2 20-1.3.3 21-1.3.4.2 22-1.3.4.3 24-1.3.4.1.1 25-1.3.4.1.2 26-1.3.4.1.3.1 27-1.3.4.1.3.3 28-1.3.4.1.3.4 29-1.3.4.1.2 31-1.3.4.1.3.2.1.1 32-1.3.4.1.3.2.1.2 33-1.3.4.1.3.2.2.2 34-1.3.4.1.3.2.2.1 35-1.3.4.1.3.2.2.3 36-1.3.4.1.3.2.3 38-1.3.5.2 39-1.3.5.3 40-1.3.5.4 41-1.3.5.1.1 42-1.3.5.1.2
 (v1 / label
     :H (v2 / label
            :A (v5 / label
-                  :R (v17 / label~e.0)
-                  :E (v18 / label~e.1)
-                  :C (v19 / label~e.2)
-                  :E (v20 / label
+                  :E (v17 / label
                           :R (v33 / label~e.3)
                           :C (v34 / label~e.4)
                           :N (v35 / label~e.5)
-                          :C (v36 / label~e.6)))
+                          :C (v36 / label~e.6))
+                  :R (v18 / label~e.0)
+                  :E (v19 / label~e.1)
+                  :C (v20 / label~e.2))
            :P (v6 / label~e.7)
            :A (v7 / label
                   :E (v21 / label~e.8)
@@ -29,30 +29,30 @@
            :S (v13 / label~e.19)
            :A (v14 / label~e.20)
            :A (v15 / label
-                   :E (v26 / label~e.21)
-                   :C (v27 / label~e.22)
-                   :E (v28 / label
-                           :A v27
+                   :E (v26 / label
                            :R (v37 / label~e.24)
                            :S (v38 / label~e.25,29)
                            :A (v39 / label
                                    :R (v42 / label~e.26)
-                                   :E (v43 / label~e.27)
-                                   :C (v44 / label~e.28)
-                                   :E (v45 / label
-                                           :A v44
+                                   :E (v43 / label
                                            :R (v46 / label
                                                    :R (v49 / label~e.31)
                                                    :C (v50 / label~e.32))
                                            :A (v47 / label
-                                                   :E (v51 / label~e.33)
-                                                   :E (v52 / label~e.34)
+                                                   :E (v51 / label~e.34)
+                                                   :E (v52 / label~e.33)
                                                    :C (v53 / label~e.35))
-                                           :S (v48 / label~e.36)))))
+                                           :S (v48 / label~e.36)
+                                           :A (v45 / label~e.28))
+                                   :E (v44 / label~e.27)
+                                   :C v45)
+                           :A (v28 / label~e.22))
+                   :E (v27 / label~e.21)
+                   :C v28)
            :A (v16 / label
-                   :E (v29 / label~e.38)
-                   :E (v30 / label~e.39)
-                   :C (v31 / label~e.40)
-                   :E (v32 / label
+                   :E (v29 / label
                            :E (v40 / label~e.41)
-                           :C (v41 / label~e.42)))))
+                           :C (v41 / label~e.42))
+                   :E (v30 / label~e.38)
+                   :E (v31 / label~e.39)
+                   :C (v32 / label~e.40))))

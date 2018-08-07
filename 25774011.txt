@@ -1,6 +1,6 @@
 # ::id 25774011
 # ::tok Es waren Robben verschiedener Gattung , teils auf dem Boden gelagert , teils auf treibenden Eisblöcken ; manche kamen aus dem Meer heraus oder gingen wieder hinein .
-# ::alignments 1-1.1.2 2-1.2.4 3-1.1.3.2.1 4-1.1.3.2.2 6-1.2.1 7-1.2.2.1 8-1.2.2.2 9-1.2.2.3 10-1.2.3 12-1.3.1 13-1.3.2.1 14-1.3.2.2.2 15-1.3.2.3 17-1.4.1 18-1.4.2 19-1.4.3.1 20-1.4.3.2 21-1.4.3.3 22-1.4.2 23-1.5 24-1.6.1 25-1.6.2 26-1.6.1
+# ::alignments 1-1.1.2 2-1.2.4 3-1.1.3.2.1 4-1.1.3.2.2 6-1.2.1 7-1.2.2.1 8-1.2.2.2 9-1.2.2.3 10-1.2.3 12-1.3.1 13-1.3.2.2 14-1.3.2.1.1 15-1.3.2.3 17-1.4.1 18-1.4.2 19-1.4.3.1 20-1.4.3.2 21-1.4.3.3 22-1.4.2 23-1.5 24-1.6.1 25-1.6.2 26-1.6.1
 (v1 / label
     :H (v2 / label
            :S (v8 / label~e.1)
@@ -20,10 +20,10 @@
     :H (v4 / label
            :D (v14 / label~e.12)
            :A (v15 / label
-                   :R (v25 / label~e.13)
-                   :E (v26 / label
-                           :A (v27 / label~e.15)
-                           :P (v33 / label~e.14))
+                   :E (v25 / label
+                           :P (v33 / label~e.14)
+                           :A (v27 / label~e.15))
+                   :R (v26 / label~e.13)
                    :C v27)
            :S v12
            :A v13)
