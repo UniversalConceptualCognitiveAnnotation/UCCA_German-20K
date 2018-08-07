@@ -1,5 +1,5 @@
 # sent_id = 25723002
-# text = Ich wollte nachsehen , ob die Richtung der Nautilus uns wirklich der Küste näher oder von ihr weg führte .
+# text = Ich wollte nachsehen , ob die Richtung der Nautilus uns wirklich der Küste näher oder von ihr weg führte . Nein .
 # doc_id = 
 1	Ich	_	Word	Word	_	3	A	3:A	_
 2	wollte	_	Word	Word	_	3	D	3:D	_
@@ -20,5 +20,7 @@
 17	ihr	_	Word	Word	_	3	orphan	3:orphan	_
 18	weg	_	Word	Word	_	19	D	19:D	_
 19	führte	_	Word	Word	_	3	orphan	3:orphan	_
-20	.	_	Punctuation	Punctuation	_	7	punct	7:punct	_
+20	.	_	Punctuation	Punctuation	_	21	punct	21:punct	_
+21	Nein	_	Word	Word	_	3	orphan	3:orphan	_
+22	.	_	Punctuation	Punctuation	_	21	punct	21:punct	_
 

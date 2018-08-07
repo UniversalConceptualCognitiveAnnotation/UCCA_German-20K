@@ -1,6 +1,23 @@
 # sent_id = 25686008
-# text = Nein .
+# text = Mit einem Wink befahl er , an seiner Seite in einer Krümmung uns auf den Boden zu ducken .
 # doc_id = 
-1	Nein	_	Word	Word	_	0	root	0:root	_
-2	.	_	Punctuation	Punctuation	_	1	punct	1:punct	_
+1	Mit	_	Word	Word	_	3	R	3:R	_
+2	einem	_	Word	Word	_	3	E	3:E	_
+3	Wink	_	Word	Word	_	0	root	0:root	_
+4	befahl	_	Word	Word	_	3	orphan	3:orphan	_
+5	er	_	Word	Word	_	4	A	4:A	_
+6	,	_	Punctuation	Punctuation	_	4	punct	4:punct	_
+7	an	_	Word	Word	_	9	R	9:R	_
+8	seiner	_	Word	Word	_	9	E	9:E	_
+9	Seite	_	Word	Word	_	3	orphan	3:orphan	_
+10	in	_	Word	Word	_	12	R	12:R	_
+11	einer	_	Word	Word	_	12	E	12:E	_
+12	Krümmung	_	Word	Word	_	3	orphan	3:orphan	_
+13	uns	_	Word	Word	_	18	A	18:A	_
+14	auf	_	Word	Word	_	16	R	16:R	_
+15	den	_	Word	Word	_	16	E	16:E	_
+16	Boden	_	Word	Word	_	3	orphan	3:orphan	_
+17	zu	_	Word	Word	_	18	F	18:F	_
+18	ducken	_	Word	Word	_	3	orphan	3:orphan	_
+19	.	_	Punctuation	Punctuation	_	18	punct	18:punct	_
 

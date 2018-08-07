@@ -1,5 +1,5 @@
 # sent_id = 25810011
-# text = Das Maul des Ungeheuers  ein hörnerner Schnabel von Gestalt wie der eines Papageis  öffnete und schloß sich vertikal wie eine Blech schere .
+# text = Das Maul des Ungeheuers  ein hörnerner Schnabel von Gestalt wie der eines Papageis  öffnete und schloß sich vertikal wie eine Blech schere . Aus dieser streckte es zischend eine Zunge von Horn substanz , die ebenfalls mit mehreren Reihen spitzer Zähne besetzt war .
 # doc_id = 
 1	Das	_	Word	Word	_	2	E	2:E	_
 2	Maul	_	Word	Word	_	0	root	0:root	_
@@ -25,5 +25,26 @@
 22	eine	_	Word	Word	_	24	E	24:E	_
 23	Blech	_	Word	Word	_	24	E	24:E	_
 24	schere	_	Word	Word	_	2	orphan	2:orphan	_
-25	.	_	Punctuation	Punctuation	_	24	punct	24:punct	_
+25	.	_	Punctuation	Punctuation	_	27	punct	27:punct	_
+26	Aus	_	Word	Word	_	27	R	27:R	_
+27	dieser	_	Word	Word	_	2	orphan	2:orphan	_
+28	streckte	_	Word	Word	_	2	orphan	2:orphan	_
+29	es	_	Word	Word	_	28	A	28:A	_
+30	zischend	_	Word	Word	_	28	D	28:D	_
+31	eine	_	Word	Word	_	32	E	32:E	_
+32	Zunge	_	Word	Word	_	2	orphan	2:orphan	_
+33	von	_	Word	Word	_	35	R	35:R	_
+34	Horn	_	Word	Word	_	35	E	35:E	_
+35	substanz	_	Word	Word	_	2	orphan	2:orphan	_
+36	,	_	Punctuation	Punctuation	_	44	punct	44:punct	_
+37	die	_	Word	Word	_	44	R	44:R	_
+38	ebenfalls	_	Word	Word	_	44	D	44:D	_
+39	mit	_	Word	Word	_	43	R	43:R	_
+40	mehreren	_	Word	Word	_	41	E	41:E	_
+41	Reihen	_	Word	Word	_	2	orphan	2:orphan	_
+42	spitzer	_	Word	Word	_	43	E	43:E	_
+43	Zähne	_	Word	Word	_	2	orphan	2:orphan	_
+44	besetzt	_	Word	Word	_	2	orphan	2:orphan	_
+45	war	_	Word	Word	_	44	F	44:F	_
+46	.	_	Punctuation	Punctuation	_	44	punct	44:punct	_
 
