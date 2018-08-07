@@ -1,6 +1,6 @@
 # ::id 25420000
 # ::tok Bei meiner Ankunft zu New York erwiesen mir manche Männer die Ehre, mich über die fragliche Erscheinung um meine Ansicht zu ersuchen. Ich hatte in Frankreich einen zweibändigen Quartanten unter dem Titel: ›Die Geheimnisse der großen unterseeischen Tiefe‹, erscheinen lassen. Dieses besonders von der gelehrten Welt gut aufgenommene Buch machte aus mir eine Spezialität in diesem noch ziemlich unklaren Teil der Naturwissenschaft. Es wurde mein Gutachten begehrt. Solange ich die Wirklichkeit des Tatsächlichen in Abrede stellen konnte, verhielt ich mich durchaus verneinend.
-# ::alignments 0-1.1.2.1 1-1.1.2.2 2-1.1.2.3 3-1.1.3.1 4-1.1.3.2 5-1.1.3.2 6-1.2.1 7-1.2.2 8-1.2.3.1 9-1.2.3.2 10-1.2.4.1 11-1.2.4.2 12-1.2.4.3.2 13-1.2.4.3.3.1 14-1.2.4.3.3.2 15-1.2.4.3.3.3 16-1.2.4.3.3.4 17-1.2.4.3.4.1 18-1.2.4.3.4.2 19-1.2.4.3.4.3 21-1.2.4.3.6 22-1.3.1 24-1.3.3.1 25-1.3.3.2 26-1.3.4.1 27-1.3.4.2 28-1.3.4.3 29-1.3.4.4.1 30-1.3.4.4.2 31-1.3.4.4.3 32-1.3.4.4.4 33-1.3.4.4.4 34-1.3.4.4.4 35-1.3.4.4.4 36-1.3.4.4.4 37-1.3.4.4.4 38-1.3.5 39-1.3.5 40-1.4.1.1 41-1.4.1.2.2 42-1.4.1.2.3.1 43-1.4.1.2.3.2 44-1.4.1.2.3.3 45-1.4.1.2.3.4 46-1.4.1.2.4 47-1.4.1.2.5 48-1.4.1.3 49-1.4.2 50-1.4.3.1 51-1.4.3.2 52-1.4.4.1 53-1.4.4.2 54-1.4.5.1 55-1.4.5.2 56-1.4.5.3.1 57-1.4.5.3.2 58-1.4.5.3.3 59-1.4.5.4 60-1.4.5.5.1 61-1.4.5.5.2 64-1.5.3.1 65-1.5.3.2 66-1.5.4 67-1.6 68-1.7.1 69-1.7.2.1 70-1.7.2.2 71-1.7.2.3.1 72-1.7.2.3.2 73-1.7.3 74-1.7.3 75-1.7.3 76-1.7.4 77-1.8.1 78-1.8.2 79-1.8.1 80-1.8.3 81-1.8.4
+# ::alignments 0-1.1.2.1 1-1.1.2.2 2-1.1.2.3 3-1.1.3.1 4-1.1.3.2 5-1.1.3.2 6-1.2.1 7-1.2.2 8-1.2.3.1 9-1.2.3.2 10-1.2.4.2 11-1.2.4.3 12-1.2.4.1.1 13-1.2.4.1.2.1 14-1.2.4.1.2.2 15-1.2.4.1.2.3 16-1.2.4.1.2.4 17-1.2.4.1.3.1 18-1.2.4.1.3.2 19-1.2.4.1.3.3 21-1.2.4.1.5 22-1.3.1 24-1.3.3.1 25-1.3.3.2 26-1.3.4.2 27-1.3.4.3 28-1.3.4.4 29-1.3.4.1.1 30-1.3.4.1.3 31-1.3.4.1.4 32-1.3.4.1.2 33-1.3.4.1.2 34-1.3.4.1.2 35-1.3.4.1.2 36-1.3.4.1.2 37-1.3.4.1.2 38-1.3.5 39-1.3.5 40-1.4.1.2 41-1.4.1.1.1 42-1.4.1.1.2.1 43-1.4.1.1.2.2 44-1.4.1.1.2.3 45-1.4.1.1.2.4 46-1.4.1.1.3 47-1.4.1.1.4 48-1.4.1.3 49-1.4.2 50-1.4.3.1 51-1.4.3.2 52-1.4.4.1 53-1.4.4.2 54-1.4.5.2 55-1.4.5.4 56-1.4.5.1.1 57-1.4.5.1.2 58-1.4.5.1.3 59-1.4.5.5 60-1.4.5.3.1 61-1.4.5.3.2 64-1.5.3.1 65-1.5.3.2 66-1.5.4 67-1.6 68-1.7.1 69-1.7.2.2 70-1.7.2.3 71-1.7.2.1.1 72-1.7.2.1.2 73-1.7.3 74-1.7.3 75-1.7.3 76-1.7.4 77-1.8.1 78-1.8.2 79-1.8.1 80-1.8.3 81-1.8.4
 (v1 / label
     :H (v2 / label
            :A (v10 / label)
@@ -18,10 +18,7 @@
                    :E (v41 / label~e.8)
                    :C (v42 / label~e.9))
            :A (v16 / label
-                   :E (v43 / label~e.10)
-                   :C (v44 / label~e.11)
-                   :E (v45 / label
-                           :A v44
+                   :E (v43 / label
                            :A (v69 / label~e.12)
                            :A (v70 / label
                                    :R (v88 / label~e.13)
@@ -32,27 +29,28 @@
                                    :R (v92 / label~e.17)
                                    :E (v93 / label~e.18)
                                    :C (v94 / label~e.19))
-                           :P (v72 / label~e.21))))
+                           :P (v72 / label~e.21)
+                           :A (v45 / label~e.11))
+                   :E (v44 / label~e.10)
+                   :C v45))
     :H (v4 / label
            :A (v17 / label~e.22)
            :A (v18 / label
                    :R (v46 / label~e.24)
                    :C (v47 / label~e.25))
            :A (v19 / label
-                   :E (v48 / label~e.26)
-                   :E (v49 / label~e.27)
-                   :C (v50 / label~e.28)
-                   :E (v51 / label
+                   :E (v48 / label
                            :R (v73 / label~e.29)
-                           :E (v74 / label~e.30)
-                           :C (v75 / label~e.31)
-                           :E (v76 / label~e.32,33,34,35,36,37)))
+                           :E (v74 / label~e.32,33,34,35,36,37)
+                           :E (v75 / label~e.30)
+                           :C (v76 / label~e.31))
+                   :E (v49 / label~e.26)
+                   :E (v50 / label~e.27)
+                   :C (v51 / label~e.28))
            :P (v20 / label~e.38,39))
     :H (v5 / label
            :A (v21 / label
-                   :E (v52 / label~e.40)
-                   :E (v53 / label
-                           :A (v54 / label~e.48)
+                   :E (v52 / label
                            :D (v77 / label~e.41)
                            :A (v78 / label
                                    :R (v95 / label~e.42)
@@ -60,7 +58,9 @@
                                    :E (v97 / label~e.44)
                                    :C (v98 / label~e.45))
                            :D (v79 / label~e.46)
-                           :P (v80 / label~e.47))
+                           :P (v80 / label~e.47)
+                           :A (v54 / label~e.48))
+                   :E (v53 / label~e.40)
                    :C v54)
            :P (v22 / label~e.49)
            :A (v23 / label
@@ -70,16 +70,16 @@
                    :E (v57 / label~e.52)
                    :C (v58 / label~e.53))
            :A (v25 / label
-                   :R (v59 / label~e.54)
-                   :E (v60 / label~e.55)
-                   :E (v61 / label
+                   :E (v59 / label
                            :E (v81 / label~e.56)
                            :E (v82 / label~e.57)
                            :C (v83 / label~e.58))
-                   :C (v62 / label~e.59)
-                   :E (v63 / label
+                   :R (v60 / label~e.54)
+                   :E (v61 / label
                            :R (v84 / label~e.60)
-                           :C (v85 / label~e.61))))
+                           :C (v85 / label~e.61))
+                   :E (v62 / label~e.55)
+                   :C (v63 / label~e.59)))
     :H (v6 / label
            :A (v26 / label
                    :E (v64 / label~e.64)
@@ -89,11 +89,11 @@
     :H (v8 / label
            :A (v28 / label~e.68)
            :A (v29 / label
-                   :E (v66 / label~e.69)
-                   :C (v67 / label~e.70)
-                   :E (v68 / label
+                   :E (v66 / label
                            :E (v86 / label~e.71)
-                           :C (v87 / label~e.72)))
+                           :C (v87 / label~e.72))
+                   :E (v67 / label~e.69)
+                   :C (v68 / label~e.70))
            :P (v30 / label~e.73,74,75)
            :D (v31 / label~e.76))
     :H (v9 / label

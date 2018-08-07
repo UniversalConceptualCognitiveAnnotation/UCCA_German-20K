@@ -1,6 +1,6 @@
 # ::id 25497000
 # ::tok Diese Worte gaben zu erkennen , daß der Kommandant einen Entschluß gefaßt hatte , gegen den kein Argument durchdringen konnte .
-# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.2 4-1.1.4 6-1.1.5.1 7-1.1.5.2.1 8-1.1.5.2.2 9-1.1.5.3.1 10-1.1.5.3.2 11-1.1.5.4 14-1.1.5.3.3.2.1 15-1.1.5.3.3.2.2 16-1.1.5.3.3.3.1 17-1.1.5.3.3.3.2 18-1.1.5.3.3.4 19-1.1.5.3.3.5
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.2 4-1.1.4 6-1.1.5.1 7-1.1.5.2.1 8-1.1.5.2.2 9-1.1.5.3.2 10-1.1.5.3.3 11-1.1.5.4 14-1.1.5.3.1.1.1 15-1.1.5.3.1.1.2 16-1.1.5.3.1.2.1 17-1.1.5.3.1.2.2 18-1.1.5.3.1.3 19-1.1.5.3.1.4
 (v1 / label
     :H (v2 / label
            :A (v3 / label
@@ -14,10 +14,7 @@
                           :E (v13 / label~e.7)
                           :C (v14 / label~e.8))
                   :A (v11 / label
-                          :E (v15 / label~e.9)
-                          :C (v16 / label~e.10)
-                          :E (v17 / label
-                                  :A v16
+                          :E (v15 / label
                                   :R (v18 / label
                                           :R (v22 / label~e.14)
                                           :C (v23 / label~e.15))
@@ -25,5 +22,8 @@
                                           :E (v24 / label~e.16)
                                           :C (v25 / label~e.17))
                                   :P (v20 / label~e.18)
-                                  :D (v21 / label~e.19)))
+                                  :D (v21 / label~e.19)
+                                  :A (v17 / label~e.10))
+                          :E (v16 / label~e.9)
+                          :C v17)
                   :P (v12 / label~e.11))))

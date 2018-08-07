@@ -1,6 +1,6 @@
 # ::id 25595008
 # ::tok Daher schlossen sich auch alsbald meine Augen hinter ihrem dichten Glas , und ich sank in eine unwiderstehliche Schlaftrunkenheit , die bisher nur durch die Bewegung des Gehens zu bekämpfen möglich war .
-# ::alignments 0-1.1 1-1.2.1 2-1.2.1 3-1.2.2 4-1.2.3 5-1.2.4.1 6-1.2.4.2 7-1.2.5.1 8-1.2.5.2 9-1.2.5.3 10-1.2.5.4 12-1.3 13-1.4.1 14-1.4.2 15-1.4.3.1 16-1.4.3.2 17-1.4.3.3 18-1.4.3.4 20-1.4.3.5.2 21-1.4.3.5.3 22-1.4.3.5.4 23-1.4.3.5.5.1 24-1.4.3.5.5.2 25-1.4.3.5.5.3 26-1.4.3.5.5.4.1 27-1.4.3.5.5.4.2 29-1.4.3.5.7 30-1.4.3.5.8
+# ::alignments 0-1.1 1-1.2.1 2-1.2.1 3-1.2.2 4-1.2.3 5-1.2.4.1 6-1.2.4.2 7-1.2.5.1 8-1.2.5.2 9-1.2.5.3 10-1.2.5.4 12-1.3 13-1.4.1 14-1.4.2 15-1.4.3.2 16-1.4.3.3 17-1.4.3.4 18-1.4.3.5 20-1.4.3.1.1 21-1.4.3.1.2 22-1.4.3.1.3 23-1.4.3.1.4.1 24-1.4.3.1.4.3 25-1.4.3.1.4.4 26-1.4.3.1.4.2.1 27-1.4.3.1.4.2.2 29-1.4.3.1.6 30-1.4.3.1.7
 (v1 / label
     :L (v2 / label~e.0)
     :H (v3 / label
@@ -20,21 +20,21 @@
            :A (v11 / label~e.13)
            :P (v12 / label~e.14)
            :A (v13 / label
-                   :R (v20 / label~e.15)
-                   :E (v21 / label~e.16)
-                   :E (v22 / label~e.17)
-                   :C (v23 / label~e.18)
-                   :E (v24 / label
-                           :A v23
+                   :E (v20 / label
                            :R (v25 / label~e.20)
                            :T (v26 / label~e.21)
                            :D (v27 / label~e.22)
                            :A (v28 / label
                                    :R (v31 / label~e.23)
-                                   :E (v32 / label~e.24)
-                                   :C (v33 / label~e.25)
-                                   :E (v34 / label
+                                   :E (v32 / label
                                            :R (v35 / label~e.26)
-                                           :C (v36 / label~e.27)))
+                                           :C (v36 / label~e.27))
+                                   :E (v33 / label~e.24)
+                                   :C (v34 / label~e.25))
                            :P (v29 / label~e.29)
-                           :D (v30 / label~e.30)))))
+                           :D (v30 / label~e.30)
+                           :A (v24 / label~e.18))
+                   :R (v21 / label~e.15)
+                   :E (v22 / label~e.16)
+                   :E (v23 / label~e.17)
+                   :C v24)))
