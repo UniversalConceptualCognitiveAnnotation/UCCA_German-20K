@@ -1,6 +1,6 @@
 # ::id 25528017
-# ::tok »Bei einer sechsten Ordnung endlich ist der Kieferknochen an der Seite festgeheftet und die Gaumenwölbung durch eine Naht mit dem Schädel eingezahnt , so daß sie unbeweglich wird . Diese Ordnung hat keine eigentlichen Bauchflossen und besteht aus zwei Familien , wozu der Mondfisch gehört.«
-# ::alignments 0-1.1.3.1.1.1 1-1.1.3.1.1.2 2-1.1.3.1.1.3 3-1.1.3.1.1.4 4-1.1.3.1.2 6-1.1.3.1.4.1 7-1.1.3.1.4.2 8-1.1.3.1.5.1 9-1.1.3.1.5.2 10-1.1.3.1.5.3 11-1.1.3.1.6 12-1.1.3.2 13-1.1.3.3.1.1 14-1.1.3.3.1.2 15-1.1.3.3.2.1 16-1.1.3.3.2.2 17-1.1.3.3.2.3 18-1.1.3.3.3.1 19-1.1.3.3.3.2 20-1.1.3.3.3.3 21-1.1.3.3.4 23-1.1.3.4 24-1.1.3.4 25-1.1.3.5.1 26-1.1.3.5.2 29-1.1.3.6.1.1 30-1.1.3.8.3 31-1.1.3.6.2 32-1.1.3.6.3 33-1.1.3.6.4.1 34-1.1.3.6.4.2 35-1.1.3.7 36-1.1.3.8.1 37-1.1.3.8.2.2 38-1.1.3.8.2.3 39-1.1.3.8.2.4 41-1.1.3.8.2.1.1 42-1.1.3.8.2.1.2.1 43-1.1.3.8.2.1.2.2 44-1.1.3.8.2.1.3
+# ::tok »Bei einer sechsten Ordnung endlich ist der Kieferknochen an der Seite festgeheftet und die Gaumenwölbung durch eine Naht mit dem Schädel eingezahnt , so dass sie unbeweglich wird . Diese Ordnung hat keine eigentlichen Bauchflossen und besteht aus zwei Familien , wozu der Mondfisch gehört.«
+# ::alignments 0-1.1.3.1.1.1 1-1.1.3.1.1.2 2-1.1.3.1.1.3 3-1.1.3.1.1.4 4-1.1.3.1.2 6-1.1.3.1.4.1 7-1.1.3.1.4.2 8-1.1.3.1.5.1 9-1.1.3.1.5.2 10-1.1.3.1.5.3 11-1.1.3.1.6 12-1.1.3.2 13-1.1.3.3.1.1 14-1.1.3.3.1.2 15-1.1.3.3.2.1 16-1.1.3.3.2.2 17-1.1.3.3.2.3 18-1.1.3.3.3.1 19-1.1.3.3.3.2 20-1.1.3.3.3.3 21-1.1.3.3.4 23-1.1.3.4 24-1.1.3.4 25-1.1.3.5.1 26-1.1.3.5.2 29-1.1.3.6.1.1 30-1.1.3.8.3 31-1.1.3.6.2 32-1.1.3.6.3 33-1.1.3.6.4.1 34-1.1.3.6.4.2 35-1.1.3.7 36-1.1.3.8.1 37-1.1.3.8.2.1 38-1.1.3.8.2.2 39-1.1.3.8.2.3 41-1.1.3.8.2.4.2 42-1.1.3.8.2.4.3.1 43-1.1.3.8.2.4.3.2 44-1.1.3.8.2.4.4
 (v1 / label
     :H (v2 / label
            :A (v3 / label)
@@ -52,14 +52,14 @@
                   :H (v13 / label
                           :S (v29 / label~e.36)
                           :A (v30 / label
-                                  :E (v52 / label
+                                  :R (v52 / label~e.37)
+                                  :E (v53 / label~e.38)
+                                  :C (v54 / label~e.39)
+                                  :E (v55 / label
+                                          :A v54
                                           :R (v56 / label~e.41)
                                           :A (v57 / label
                                                   :E (v59 / label~e.42)
                                                   :C (v60 / label~e.43))
-                                          :S (v58 / label~e.44)
-                                          :A (v55 / label~e.39))
-                                  :R (v53 / label~e.37)
-                                  :E (v54 / label~e.38)
-                                  :C v55)
+                                          :S (v58 / label~e.44)))
                           :A v31))))

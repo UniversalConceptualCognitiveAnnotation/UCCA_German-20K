@@ -1,6 +1,6 @@
 # ::id 25409000
-# ::tok In der That begegnete am 20 . Juli 1866 das Dampf boot Governor Higginson , der Calcutta and Burnach steam navigation Company gehörig , dieser schwimmenden Masse fünf Meilen östlich von den Küsten Australiens .
-# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.3 3-1.1.2 4-1.1.3.1 5-1.1.3.2 7-1.1.3.2 8-1.1.3.2 9-1.1.4.2 10-1.1.4.4 11-1.1.4.5 12-1.1.4.3.1 13-1.1.4.3.2 15-1.1.4.1.1.1 16-1.1.4.1.1.2 17-1.1.4.1.1.2 18-1.1.4.1.1.2 19-1.1.4.1.1.2 20-1.1.4.1.1.2 21-1.1.4.1.1.2 22-1.1.4.1.2 24-1.1.5.1.1 25-1.1.5.2 26-1.1.5.1.2 27-1.1.6.1.2 28-1.1.6.1.3 29-1.1.6.1.1.1 30-1.1.6.1.1.2 31-1.1.6.2 32-1.1.6.3 33-1.1.6.4
+# ::tok In der Tat begegnete am 20 . Juli 1866 das Dampf boot Governor Higginson , der Calcutta and Burnach steam navigation Company gehörig , dieser schwimmenden Masse fünf Meilen östlich von den Küsten Australiens .
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.3 3-1.1.2 4-1.1.3.1 5-1.1.3.2 7-1.1.3.2 8-1.1.3.2 9-1.1.4.1 10-1.1.4.2 11-1.1.4.3 12-1.1.4.4.1 13-1.1.4.4.2 15-1.1.4.5.2.1 16-1.1.4.5.2.2 17-1.1.4.5.2.2 18-1.1.4.5.2.2 19-1.1.4.5.2.2 20-1.1.4.5.2.2 21-1.1.4.5.2.2 22-1.1.4.5.3 24-1.1.5.1.1 25-1.1.5.2 26-1.1.5.1.2 27-1.1.6.1.1 28-1.1.6.1.2 29-1.1.6.1.3.1 30-1.1.6.1.3.2 31-1.1.6.2 32-1.1.6.3 33-1.1.6.4
 (v1 / label
     :H (v2 / label
            :G (v3 / label
@@ -12,18 +12,18 @@
                   :E (v12 / label~e.4)
                   :C (v13 / label~e.5,7,8))
            :A (v6 / label
-                  :E (v14 / label
-                          :A (v25 / label
+                  :E (v14 / label~e.9)
+                  :E (v15 / label~e.10)
+                  :C (v16 / label~e.11)
+                  :E (v17 / label
+                          :E (v25 / label~e.12)
+                          :C (v26 / label~e.13))
+                  :E (v18 / label
+                          :A v16
+                          :A (v27 / label
                                   :E (v34 / label~e.15)
                                   :C (v35 / label~e.16,17,18,19,20,21))
-                          :S (v26 / label~e.22)
-                          :A (v18 / label~e.11))
-                  :E (v15 / label~e.9)
-                  :E (v16 / label
-                          :E (v27 / label~e.12)
-                          :C (v28 / label~e.13))
-                  :E (v17 / label~e.10)
-                  :C v18)
+                          :S (v28 / label~e.22)))
            :A (v7 / label
                   :A (v19 / label
                           :E (v29 / label~e.24)
@@ -31,11 +31,11 @@
                   :S (v20 / label~e.25))
            :A (v8 / label
                   :E (v21 / label
-                          :E (v31 / label
+                          :E (v31 / label~e.27)
+                          :C (v32 / label~e.28)
+                          :E (v33 / label
                                   :C (v36 / label~e.29)
-                                  :R (v37 / label~e.30))
-                          :E (v32 / label~e.27)
-                          :C (v33 / label~e.28))
+                                  :R (v37 / label~e.30)))
                   :E (v22 / label~e.31)
                   :C (v23 / label~e.32)
                   :E (v24 / label~e.33))))
