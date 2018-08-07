@@ -1,28 +1,34 @@
 # ::id 25634010
-# ::tok Einige benutzten die Ebbe , näherten sich auf den Spitzen der Korallen auf kaum 2 Kabellängen der " Nautilus " .
-# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.1 3-1.1.3.2 5-1.2.1 6-1.2.1 7-1.2.2.1 8-1.2.2.3 9-1.2.2.4 10-1.2.2.2.1 11-1.2.2.2.2 12-1.2.3.1 13-1.2.3.2 14-1.2.3.4 15-1.2.3.5 16-1.2.3.3.1 18-1.2.3.3.2
+# ::tok Einige benutzten die Ebbe , näherten sich auf den Spitzen der Korallen auf kaum 2 Kabellängen der " Nautilus " . Ich konnte sie leicht erkennen .
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.1 3-1.1.3.2 5-1.2.1 6-1.2.1 7-1.2.2.1 8-1.2.2.2 9-1.2.2.3 10-1.2.2.4.1 11-1.2.2.4.2 12-1.2.3.1 13-1.2.3.2 14-1.2.3.3 15-1.2.3.4 16-1.2.3.5.1 18-1.2.3.5.2 21-1.3.1 22-1.3.2 23-1.3.3 24-1.3.4 25-1.3.5
 (v1 / label
     :H (v2 / label
-           :A (v4 / label~e.0)
-           :P (v5 / label~e.1)
-           :A (v6 / label
-                  :E (v10 / label~e.2)
-                  :C (v11 / label~e.3)))
+           :A (v5 / label~e.0)
+           :P (v6 / label~e.1)
+           :A (v7 / label
+                  :E (v16 / label~e.2)
+                  :C (v17 / label~e.3)))
     :H (v3 / label
-           :P (v7 / label~e.5,6)
-           :A (v8 / label
-                  :R (v12 / label~e.7)
-                  :E (v13 / label
-                          :R (v21 / label~e.10)
-                          :C (v22 / label~e.11))
-                  :E (v14 / label~e.8)
-                  :C (v15 / label~e.9))
+           :P (v8 / label~e.5,6)
            :A (v9 / label
-                  :R (v16 / label~e.12)
-                  :E (v17 / label~e.13)
-                  :E (v18 / label
-                          :E (v23 / label~e.16)
-                          :C (v24 / label~e.18))
-                  :E (v19 / label~e.14)
-                  :C (v20 / label~e.15))
-           :A v4))
+                  :R (v18 / label~e.7)
+                  :E (v19 / label~e.8)
+                  :C (v20 / label~e.9)
+                  :E (v21 / label
+                          :R (v27 / label~e.10)
+                          :C (v28 / label~e.11)))
+           :A (v10 / label
+                   :R (v22 / label~e.12)
+                   :E (v23 / label~e.13)
+                   :E (v24 / label~e.14)
+                   :C (v25 / label~e.15)
+                   :E (v26 / label
+                           :E (v29 / label~e.16)
+                           :C (v30 / label~e.18)))
+           :A v5)
+    :H (v4 / label
+           :A (v11 / label~e.21)
+           :D (v12 / label~e.22)
+           :A (v13 / label~e.23)
+           :D (v14 / label~e.24)
+           :P (v15 / label~e.25)))

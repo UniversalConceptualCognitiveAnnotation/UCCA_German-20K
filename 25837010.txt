@@ -1,6 +1,6 @@
 # ::id 25837010
 # ::tok Die Läden wurden nach diesem schrecklichen Anblick geschlossen , aber das Licht im Salon nicht wieder angezündet .
-# ::alignments 0-1.1.1.1 1-1.1.1.2 3-1.1.3.1 4-1.1.3.2 5-1.1.3.3 6-1.1.3.4 7-1.1.4 9-1.2 10-1.3.1.2 11-1.3.1.3 12-1.3.1.1.1 13-1.3.1.1.2 14-1.3.2 15-1.3.3 16-1.3.4
+# ::alignments 0-1.1.1.1 1-1.1.1.2 3-1.1.3.1 4-1.1.3.2 5-1.1.3.3 6-1.1.3.4 7-1.1.4 9-1.2 10-1.3.1.1 11-1.3.1.2 12-1.3.1.3.1 13-1.3.1.3.2 14-1.3.2 15-1.3.3 16-1.3.4
 (v1 / label
     :H (v2 / label
            :A (v5 / label
@@ -15,11 +15,11 @@
     :L (v3 / label~e.9)
     :H (v4 / label
            :A (v8 / label
-                  :E (v18 / label
+                  :E (v18 / label~e.10)
+                  :C (v19 / label~e.11)
+                  :E (v20 / label
                           :R (v21 / label~e.12)
-                          :C (v22 / label~e.13))
-                  :E (v19 / label~e.10)
-                  :C (v20 / label~e.11))
+                          :C (v22 / label~e.13)))
            :D (v9 / label~e.14)
            :D (v10 / label~e.15)
            :P (v11 / label~e.16)))

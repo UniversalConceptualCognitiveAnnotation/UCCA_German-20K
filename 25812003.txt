@@ -1,6 +1,6 @@
 # ::id 25812003
-# ::tok »Ja , mein Herr , die Schraube steht still . Ich glaube , daß der hörnerne Schnabel eines solchen Kalmars zwischen ihren Schaufeln steckt , so daß sie dadurch gehemmt ist.«
-# ::alignments 0-1.1.3.1.2 2-1.1.3.1.4.1 3-1.1.3.1.4.2 5-1.1.3.2.1.1 6-1.1.3.2.1.2 7-1.1.3.2.2 8-1.1.3.2.2 10-1.1.3.3.1 11-1.1.3.3.2 13-1.1.3.3.3.1 14-1.1.3.3.3.2.2 15-1.1.3.3.3.2.3 16-1.1.3.3.3.2.4 17-1.1.3.3.3.2.1.1 18-1.1.3.3.3.2.1.2 19-1.1.3.3.3.2.1.3 20-1.1.3.3.3.3.1 21-1.1.3.3.3.3.2 22-1.1.3.3.3.3.3 23-1.1.3.3.3.4 25-1.1.3.4 26-1.1.3.4 27-1.1.3.5.1 28-1.1.3.5.2 29-1.1.3.5.3
+# ::tok »Ja , mein Herr , die Schraube steht still . Ich glaube , dass der hörnerne Schnabel eines solchen Kalmars zwischen ihren Schaufeln steckt , so dass sie dadurch gehemmt ist.«
+# ::alignments 0-1.1.3.1.2 2-1.1.3.1.3.1 3-1.1.3.1.3.2 5-1.1.3.2.1.1 6-1.1.3.2.1.2 7-1.1.3.2.2 8-1.1.3.2.2 10-1.1.3.3.1 11-1.1.3.3.2 13-1.1.3.3.3.1 14-1.1.3.3.3.2.1 15-1.1.3.3.3.2.2 16-1.1.3.3.3.2.3 17-1.1.3.3.3.2.4.1 18-1.1.3.3.3.2.4.2 19-1.1.3.3.3.2.4.3 20-1.1.3.3.3.3.1 21-1.1.3.3.3.3.2 22-1.1.3.3.3.3.3 23-1.1.3.3.3.4 25-1.1.3.4 26-1.1.3.4 27-1.1.3.5.1 28-1.1.3.5.2 29-1.1.3.5.3
 (v1 / label
     :H (v2 / label
            :A (v3 / label)
@@ -23,13 +23,13 @@
                          :A (v18 / label
                                  :R (v26 / label~e.13)
                                  :A (v27 / label
-                                         :E (v30 / label
+                                         :E (v30 / label~e.14)
+                                         :E (v31 / label~e.15)
+                                         :C (v32 / label~e.16)
+                                         :E (v33 / label
                                                  :R (v37 / label~e.17)
                                                  :E (v38 / label~e.18)
-                                                 :C (v39 / label~e.19))
-                                         :E (v31 / label~e.14)
-                                         :E (v32 / label~e.15)
-                                         :C (v33 / label~e.16))
+                                                 :C (v39 / label~e.19)))
                                  :A (v28 / label
                                          :R (v34 / label~e.20)
                                          :E (v35 / label~e.21)

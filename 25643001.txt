@@ -1,6 +1,6 @@
 # ::id 25643001
 # ::tok Ich verneinte seine Frage mit dem Beifügen , es mangele der Wissenschaft an strengen Beobachtungen über diesen Punkt .
-# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.1 3-1.1.3.2 4-1.2 5-1.3.1.1 6-1.3.1.2 9-1.3.2.2 10-1.3.2.3.1 11-1.3.2.3.2 12-1.3.2.4.2 13-1.3.2.4.3 14-1.3.2.4.4 15-1.3.2.4.1.1 16-1.3.2.4.1.2 17-1.3.2.4.1.3
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.1 3-1.1.3.2 4-1.2 5-1.3.1.1 6-1.3.1.2 9-1.3.2.2 10-1.3.2.3.1 11-1.3.2.3.2 12-1.3.2.4.1 13-1.3.2.4.2 14-1.3.2.4.3 15-1.3.2.4.4.1 16-1.3.2.4.4.2 17-1.3.2.4.4.3
 (v1 / label
     :H (v2 / label
            :A (v5 / label~e.0)
@@ -19,11 +19,11 @@
                           :E (v17 / label~e.10)
                           :C (v18 / label~e.11))
                   :A (v16 / label
-                          :E (v19 / label
+                          :R (v19 / label~e.12)
+                          :E (v20 / label~e.13)
+                          :C (v21 / label~e.14)
+                          :E (v22 / label
                                   :R (v23 / label~e.15)
                                   :E (v24 / label~e.16)
-                                  :C (v25 / label~e.17))
-                          :R (v20 / label~e.12)
-                          :E (v21 / label~e.13)
-                          :C (v22 / label~e.14)))
+                                  :C (v25 / label~e.17))))
            :A v5))

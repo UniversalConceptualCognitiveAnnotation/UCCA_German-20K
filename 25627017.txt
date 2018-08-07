@@ -1,6 +1,6 @@
 # ::id 25627017
 # ::tok Nunmehr freilich schwatzten sie in Gesellschaft mit Verwandten aller Farben , Kakadus , Loris , Kolaos , lasurblauen Papuas und einer Mannigfaltigkeit reizenden Geflügels , das im allgemeinen wenig eßbar war .
-# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3 3-1.1.4 4-1.1.5.1 5-1.1.5.2 6-1.1.6.1 7-1.1.6.2 8-1.1.6.3.1 9-1.1.6.3.2 11-1.1.7.1 13-1.1.7.2 15-1.1.7.3 17-1.1.7.4.1 18-1.1.7.4.2 19-1.1.7.5 20-1.1.7.6.1.1 21-1.1.7.6.1.2 22-1.1.7.6.3 23-1.1.7.6.4 25-1.1.7.6.2.1 26-1.1.7.6.2.2.1 27-1.1.7.6.2.2.2 28-1.1.7.6.2.3 29-1.1.7.6.2.4
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3 3-1.1.4 4-1.1.5.1 5-1.1.5.2 6-1.1.6.1 7-1.1.6.2 8-1.1.6.3.1 9-1.1.6.3.2 11-1.1.7.1 13-1.1.7.2 15-1.1.7.3 17-1.1.7.4.1 18-1.1.7.4.2 19-1.1.7.5 20-1.1.7.6.1.1 21-1.1.7.6.1.2 22-1.1.7.6.2 23-1.1.7.6.3 25-1.1.7.6.4.2 26-1.1.7.6.4.3.1 27-1.1.7.6.4.3.2 28-1.1.7.6.4.4 29-1.1.7.6.4.5
 (v1 / label
     :H (v2 / label
            :D (v3 / label~e.0)
@@ -28,13 +28,13 @@
                           :E (v25 / label
                                   :E (v29 / label~e.20)
                                   :C (v30 / label~e.21))
-                          :E (v26 / label
+                          :E (v26 / label~e.22)
+                          :C (v27 / label~e.23)
+                          :E (v28 / label
+                                  :A v27
                                   :R (v31 / label~e.25)
                                   :D (v32 / label
                                           :R (v35 / label~e.26)
                                           :C (v36 / label~e.27))
                                   :D (v33 / label~e.28)
-                                  :S (v34 / label~e.29)
-                                  :A (v28 / label~e.23))
-                          :E (v27 / label~e.22)
-                          :C v28))))
+                                  :S (v34 / label~e.29))))))

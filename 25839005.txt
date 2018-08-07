@@ -1,13 +1,16 @@
 # ::id 25839005
 # ::tok Ich begab mich auf die Plattform , wo ich mich gegen den Wellen schlag kaum halten konnte .
-# ::alignments 0-1.1.1 1-1.1.2 2-1.1.2 3-1.1.3.1 4-1.1.3.3 5-1.1.3.4 7-1.1.3.2.1 8-1.1.3.2.2 9-1.1.3.2.3 10-1.1.3.2.4.1 11-1.1.3.2.4.2 12-1.1.3.2.4.3 13-1.1.3.2.4.4 14-1.1.3.2.5 15-1.1.3.2.3 16-1.1.3.2.6
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.2 3-1.1.3.1 4-1.1.3.2 5-1.1.3.3 7-1.1.3.4.2 8-1.1.3.4.3 9-1.1.3.4.4 10-1.1.3.4.5.1 11-1.1.3.4.5.2 12-1.1.3.4.5.3 13-1.1.3.4.5.4 14-1.1.3.4.6 15-1.1.3.4.4 16-1.1.3.4.7
 (v1 / label
     :H (v2 / label
            :A (v3 / label~e.0)
            :P (v4 / label~e.1,2)
            :A (v5 / label
                   :R (v6 / label~e.3)
-                  :E (v7 / label
+                  :E (v7 / label~e.4)
+                  :C (v8 / label~e.5)
+                  :E (v9 / label
+                         :A v8
                          :R (v10 / label~e.7)
                          :A (v11 / label~e.8)
                          :P (v12 / label~e.9,15)
@@ -17,7 +20,4 @@
                                  :E (v18 / label~e.12)
                                  :C (v19 / label~e.13))
                          :D (v14 / label~e.14)
-                         :D (v15 / label~e.16)
-                         :A (v9 / label~e.5))
-                  :E (v8 / label~e.4)
-                  :C v9)))
+                         :D (v15 / label~e.16)))))

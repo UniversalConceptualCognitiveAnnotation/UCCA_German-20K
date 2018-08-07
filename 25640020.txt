@@ -1,6 +1,6 @@
 # ::id 25640020
 # ::tok Aber in diesem Moment verließ die " Nautilus " , durch die Wogen der Flut gehoben , ihr Korallen lager , genau in der 40 . Minute , wie Kapitän Nemo bestimmt hatte .
-# ::alignments 0-1.1 1-1.2.1.1 2-1.2.1.2 3-1.2.1.3 4-1.2.2 5-1.2.3.2 7-1.2.3.4 10-1.2.3.1.1 11-1.2.3.1.2.2 12-1.2.3.1.2.3 13-1.2.3.1.2.1.1 14-1.2.3.1.2.1.2 15-1.2.3.1.3 17-1.2.4.1 18-1.2.4.2 19-1.2.4.3 21-1.2.5 22-1.2.6.1 23-1.2.6.2 24-1.2.6.3 26-1.2.6.3 28-1.3 29-1.4.1.1 30-1.4.1.2 31-1.4.2
+# ::alignments 0-1.1 1-1.2.1.1 2-1.2.1.2 3-1.2.1.3 4-1.2.2 5-1.2.3.1 7-1.2.3.2 10-1.2.3.3.2 11-1.2.3.3.3.1 12-1.2.3.3.3.2 13-1.2.3.3.3.3.1 14-1.2.3.3.3.3.2 15-1.2.3.3.4 17-1.2.4.1 18-1.2.4.2 19-1.2.4.3 21-1.2.5 22-1.2.6.1 23-1.2.6.2 24-1.2.6.3 26-1.2.6.3 28-1.3 29-1.4.1.1 30-1.4.1.2 31-1.4.2
 (v1 / label
     :L (v2 / label~e.0)
     :H (v3 / label
@@ -10,18 +10,18 @@
                   :C (v16 / label~e.3))
            :P (v7 / label~e.4)
            :A (v8 / label
-                  :E (v17 / label
+                  :E (v17 / label~e.5)
+                  :C (v18 / label~e.7)
+                  :E (v19 / label
+                          :A v18
                           :R (v28 / label~e.10)
                           :A (v29 / label
-                                  :E (v31 / label
+                                  :E (v31 / label~e.11)
+                                  :C (v32 / label~e.12)
+                                  :E (v33 / label
                                           :R (v34 / label~e.13)
-                                          :C (v35 / label~e.14))
-                                  :E (v32 / label~e.11)
-                                  :C (v33 / label~e.12))
-                          :P (v30 / label~e.15)
-                          :A (v19 / label~e.7))
-                  :E (v18 / label~e.5)
-                  :C v19)
+                                          :C (v35 / label~e.14)))
+                          :P (v30 / label~e.15)))
            :A (v9 / label
                   :E (v20 / label~e.17)
                   :E (v21 / label~e.18)

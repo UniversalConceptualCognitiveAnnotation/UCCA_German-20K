@@ -1,6 +1,6 @@
 # ::id 25830018
 # ::tok »Mit Erlaubnis , mein Herr ...  Gut « , sagte Conseil und schüttelte das Wasser ab , womit eine abermalige Kugel ihn bespritzt hatte .
-# ::alignments 0-1.1.1.1.2.1 1-1.1.1.1.2.2 3-1.1.1.1.3.1 4-1.1.1.1.3.2 7-1.1.1.2.3 10-1.1.2 11-1.1.3 12-1.2 13-1.3.1 14-1.3.2.2 15-1.3.2.3 16-1.3.1 18-1.3.2.1.1 19-1.3.2.1.2.1 20-1.3.2.1.2.2 21-1.3.2.1.2.3 22-1.3.2.1.3 23-1.3.2.1.4
+# ::alignments 0-1.1.1.1.1.1 1-1.1.1.1.1.2 3-1.1.1.1.2.1 4-1.1.1.1.2.2 7-1.1.1.2.3 10-1.1.2 11-1.1.3 12-1.2 13-1.3.1 14-1.3.2.1 15-1.3.2.2 16-1.3.1 18-1.3.2.3.1 19-1.3.2.3.2.1 20-1.3.2.3.2.2 21-1.3.2.3.2.3 22-1.3.2.3.3 23-1.3.2.3.4
 (v1 / label
     :H (v2 / label
            :A (v5 / label
@@ -21,13 +21,13 @@
     :H (v4 / label
            :P (v8 / label~e.13,16)
            :A (v9 / label
-                  :E (v12 / label
+                  :E (v12 / label~e.14)
+                  :C (v13 / label~e.15)
+                  :E (v14 / label
                           :R (v20 / label~e.18)
                           :A (v21 / label
                                   :E (v28 / label~e.19)
                                   :E (v29 / label~e.20)
                                   :C (v30 / label~e.21))
                           :A (v22 / label~e.22)
-                          :P (v23 / label~e.23))
-                  :E (v13 / label~e.14)
-                  :C (v14 / label~e.15))))
+                          :P (v23 / label~e.23)))))

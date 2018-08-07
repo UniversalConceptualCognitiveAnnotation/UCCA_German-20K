@@ -1,6 +1,6 @@
 # ::id 25840013
 # ::tok Da erschien mir Kapitän Nemo über die Maßen groß , als ein Charakter von übermenschlichen Verhältnissen , der seinesgleichen nicht hatte .
-# ::alignments 0-1.1.1 1-1.1.2 2-1.1.2 3-1.1.3.1 4-1.1.3.2 5-1.1.4.1 6-1.1.4.2 7-1.1.4.3 8-1.1.5 10-1.2.1.1 11-1.2.1.3 12-1.2.1.4 13-1.2.2.1 14-1.2.3 15-1.2.2.2 17-1.2.1.2.1 18-1.2.1.2.2 19-1.2.1.2.3
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.2 3-1.1.3.1 4-1.1.3.2 5-1.1.4.1 6-1.1.4.2 7-1.1.4.3 8-1.1.5 10-1.2.1.1 11-1.2.1.2 12-1.2.1.3 13-1.2.2.1 14-1.2.3 15-1.2.2.2 17-1.2.1.4.2 18-1.2.1.4.3 19-1.2.1.4.4
 (v1 / label
     :H (v2 / label
            :A (v4 / label~e.0)
@@ -16,13 +16,13 @@
     :H (v3 / label
            :A (v9 / label
                   :R (v17 / label~e.10)
-                  :E (v18 / label
+                  :E (v18 / label~e.11)
+                  :C (v19 / label~e.12)
+                  :E (v20 / label
+                          :A v19
                           :R (v23 / label~e.17)
                           :S (v24 / label~e.18)
-                          :D (v25 / label~e.19)
-                          :A (v20 / label~e.12))
-                  :E (v19 / label~e.11)
-                  :C v20)
+                          :D (v25 / label~e.19)))
            :S (v10 / label
                    :R (v21 / label~e.13)
                    :C (v22 / label~e.15))
