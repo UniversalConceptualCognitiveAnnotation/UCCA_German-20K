@@ -1,36 +1,36 @@
 # ::id 25683012
 # ::tok Ich erkannte eine 8 Dezimeter lange Meer schlange mit blau schwarzem Bauch , die man leicht mit dem Meer aal verwechseln könnte , hätte nicht dieser gold farbene Streifen an den Seiten .
-# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.1 3-1.1.3.2.1 4-1.1.3.2.2 5-1.1.3.2.3 6-1.1.3.3 7-1.1.3.4 8-1.1.3.5.1 9-1.1.3.5.2.1 10-1.1.3.5.2.2 11-1.1.3.5.3 13-1.1.3.6.2 14-1.1.3.6.3 15-1.1.3.6.4 16-1.1.3.6.5.1 17-1.1.3.6.5.2 18-1.1.3.6.5.3 19-1.1.3.6.5.4 20-1.1.3.6.6 21-1.1.3.6.7 23-1.2.1 24-1.2.2 25-1.2.3 26-1.2.4.1.1 27-1.2.4.1.2 28-1.2.4.2 29-1.2.5.1 30-1.2.5.2 31-1.2.5.3
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.5 3-1.1.3.3.2 4-1.1.3.3.3 5-1.1.3.3.1 6-1.1.3.6 7-1.1.3.7 8-1.1.3.1.1 9-1.1.3.1.2.1 10-1.1.3.1.2.2 11-1.1.3.1.3 13-1.1.3.2.1 14-1.1.3.2.2 15-1.1.3.2.3 16-1.1.3.2.4.1 17-1.1.3.2.4.2 18-1.1.3.2.4.3 19-1.1.3.2.4.4 20-1.1.3.2.5 21-1.1.3.2.6 23-1.2.1 24-1.2.2 25-1.2.3 26-1.2.4.1.1 27-1.2.4.1.2 28-1.2.4.2 29-1.2.5.1 30-1.2.5.2 31-1.2.5.3
 (v1 / label
     :H (v2 / label
            :A (v4 / label~e.0)
            :P (v5 / label~e.1)
            :A (v6 / label
-                  :E (v12 / label~e.2)
-                  :E (v13 / label
-                          :E (v23 / label~e.3)
-                          :C (v24 / label~e.4)
-                          :E (v25 / label~e.5))
-                  :E (v14 / label~e.6)
-                  :C (v15 / label~e.7)
-                  :E (v16 / label
-                          :R (v26 / label~e.8)
-                          :E (v27 / label
+                  :E (v12 / label
+                          :R (v23 / label~e.8)
+                          :E (v24 / label
                                   :C (v37 / label~e.9)
                                   :C (v38 / label~e.10))
-                          :C (v28 / label~e.11))
-                  :E (v17 / label
-                          :A v15
-                          :R (v29 / label~e.13)
-                          :A (v30 / label~e.14)
-                          :D (v31 / label~e.15)
-                          :A (v32 / label
+                          :C (v25 / label~e.11))
+                  :E (v13 / label
+                          :R (v26 / label~e.13)
+                          :A (v27 / label~e.14)
+                          :D (v28 / label~e.15)
+                          :A (v29 / label
                                   :R (v39 / label~e.16)
                                   :E (v40 / label~e.17)
                                   :E (v41 / label~e.18)
                                   :C (v42 / label~e.19))
-                          :P (v33 / label~e.20)
-                          :D (v34 / label~e.21))))
+                          :P (v30 / label~e.20)
+                          :D (v31 / label~e.21)
+                          :A (v17 / label~e.7))
+                  :E (v14 / label
+                          :E (v32 / label~e.5)
+                          :E (v33 / label~e.3)
+                          :C (v34 / label~e.4))
+                  :E (v15 / label~e.2)
+                  :E (v16 / label~e.6)
+                  :C v17))
     :H (v3 / label
            :P (v7 / label~e.23)
            :D (v8 / label~e.24)

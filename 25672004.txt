@@ -1,6 +1,6 @@
 # ::id 25672004
 # ::tok Ich suchte in der Bibliothek nach einem Buch über diese Insel , die eine der fruchtbarsten der Erde ist , und fand gerade einen Band von Sir H . O . Esq . , mit dem Titel Ceylon und Cingalesen .
-# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.1 3-1.1.3.2 4-1.1.3.3 5-1.1.4.1 6-1.1.4.2 7-1.1.4.3 8-1.1.4.4.1 9-1.1.4.4.2 10-1.1.4.4.3 12-1.1.4.4.4.2 13-1.1.4.4.4.3 14-1.1.4.4.4.3 15-1.1.4.4.4.3 16-1.1.4.4.4.4.1 17-1.1.4.4.4.4.2 20-1.2 21-1.3.1 22-1.3.2 23-1.3.3.1 24-1.3.3.2 25-1.3.3.3.1 26-1.3.3.3.2 27-1.3.3.3.3 29-1.3.3.3.3 31-1.3.3.3.3 34-1.3.3.4.1.1 35-1.3.3.4.1.2 36-1.3.3.4.1.3 37-1.3.3.4.2 38-1.3.3.4.2 39-1.3.3.4.2
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.1 3-1.1.3.2 4-1.1.3.3 5-1.1.4.2 6-1.1.4.3 7-1.1.4.4 8-1.1.4.1.2 9-1.1.4.1.3 10-1.1.4.1.4 12-1.1.4.1.1.1 13-1.1.4.1.1.2 14-1.1.4.1.1.2 15-1.1.4.1.1.2 16-1.1.4.1.1.3.1 17-1.1.4.1.1.3.2 20-1.2 21-1.3.1 22-1.3.2 23-1.3.3.3 24-1.3.3.4 25-1.3.3.2.1 26-1.3.3.2.2 27-1.3.3.2.3 29-1.3.3.2.3 31-1.3.3.2.3 34-1.3.3.1.1.1 35-1.3.3.1.1.2 36-1.3.3.1.1.3 37-1.3.3.1.2 38-1.3.3.1.2 39-1.3.3.1.2
 (v1 / label
     :H (v2 / label
            :A (v5 / label~e.0)
@@ -10,35 +10,35 @@
                   :E (v13 / label~e.3)
                   :C (v14 / label~e.4))
            :A (v8 / label
-                  :R (v15 / label~e.5)
-                  :E (v16 / label~e.6)
-                  :C (v17 / label~e.7)
-                  :E (v18 / label
-                          :R (v23 / label~e.8)
-                          :E (v24 / label~e.9)
-                          :C (v25 / label~e.10)
-                          :E (v26 / label
-                                  :A v25
+                  :E (v15 / label
+                          :E (v23 / label
                                   :R (v32 / label~e.12)
                                   :S (v33 / label~e.13,14,15)
                                   :A (v34 / label
                                           :R (v38 / label~e.16)
-                                          :C (v39 / label~e.17))))))
+                                          :C (v39 / label~e.17))
+                                  :A (v26 / label~e.10))
+                          :R (v24 / label~e.8)
+                          :E (v25 / label~e.9)
+                          :C v26)
+                  :R (v16 / label~e.5)
+                  :E (v17 / label~e.6)
+                  :C (v18 / label~e.7)))
     :L (v3 / label~e.20)
     :H (v4 / label
            :P (v9 / label~e.21)
            :D (v10 / label~e.22)
            :A (v11 / label
-                   :E (v19 / label~e.23)
-                   :C (v20 / label~e.24)
-                   :E (v21 / label
-                           :R (v27 / label~e.25)
-                           :E (v28 / label~e.26)
-                           :C (v29 / label~e.27,29,31))
-                   :E (v22 / label
-                           :E (v30 / label
+                   :E (v19 / label
+                           :E (v27 / label
                                    :R (v35 / label~e.34)
                                    :E (v36 / label~e.35)
                                    :C (v37 / label~e.36))
-                           :C (v31 / label~e.37,38,39)))
+                           :C (v28 / label~e.37,38,39))
+                   :E (v20 / label
+                           :R (v29 / label~e.25)
+                           :E (v30 / label~e.26)
+                           :C (v31 / label~e.27,29,31))
+                   :E (v21 / label~e.23)
+                   :C (v22 / label~e.24))
            :A v5))

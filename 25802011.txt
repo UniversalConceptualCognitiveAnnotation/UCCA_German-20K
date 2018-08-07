@@ -19,7 +19,8 @@
            :A (v12 / label
                    :R (v24 / label~e.11)
                    :C (v25 / label~e.12))
-           :P (v13 / label~e.14))
+           :P (v13 / label~e.14)
+           :A v6)
     :L (v4 / label~e.16)
     :H (v5 / label
            :D (v14 / label~e.17,18,19)
@@ -31,4 +32,5 @@
            :A (v16 / label
                    :E (v30 / label~e.25)
                    :C (v31 / label~e.26))
-           :P (v17 / label~e.28)))
+           :P (v17 / label~e.28)
+           :A v6))

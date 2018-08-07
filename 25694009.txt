@@ -1,43 +1,25 @@
 # ::id 25694009
 # ::tok Da wuchsen Schwämme von allen Formen , gestielte , blatt förmige , kugel runde , gefingerte , die ziemlich genau den Namen entsprechen , welche die Fischer ihnen geben , nämlich Körbe , Kelche , Spindeln , Elendshorn , Löwenfuß , Pfauenschweif , Neptunshandschuhe .
-# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.1 3-1.1.3.2.1 4-1.1.3.2.2 5-1.1.3.2.3 7-1.1.3.2.4.1 9-1.1.3.2.4.2.1 10-1.1.3.2.4.2.2 12-1.1.3.2.4.3.1 13-1.1.3.2.4.3.2 15-1.1.3.2.4.4 17-1.1.3.3.2 18-1.1.3.3.3.1 19-1.1.3.3.3.2 20-1.1.3.3.4.1 21-1.1.3.3.4.2 22-1.1.3.3.5 24-1.1.3.3.4.3.2 25-1.1.3.3.4.3.3.1 26-1.1.3.3.4.3.3.2 27-1.1.3.3.4.3.4 28-1.1.3.3.4.3.5 30-1.1.3.3.4.3.6.1 31-1.1.3.3.4.3.6.2.1 33-1.1.3.3.4.3.6.2.2 35-1.1.3.3.4.3.6.2.3 37-1.1.3.3.4.3.6.2.4 39-1.1.3.3.4.3.6.2.5 41-1.1.3.3.4.3.6.2.6 43-1.1.3.3.4.3.6.2.7
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.2 3-1.1.3.3.3 4-1.1.3.3.4 5-1.1.3.3.5 7-1.1.3.3.2.2 9-1.1.3.3.2.4.1 10-1.1.3.3.2.4.2 12-1.1.3.3.2.6.1 13-1.1.3.3.2.6.2 15-1.1.3.3.2.7 17-1.1.3.1.1 18-1.1.3.1.2.1 19-1.1.3.1.2.2 20-1.1.3.1.3.2 21-1.1.3.1.3.3 22-1.1.3.1.4 24-1.1.3.1.3.1.1 25-1.1.3.1.3.1.2.1 26-1.1.3.1.3.1.2.2 27-1.1.3.1.3.1.3 28-1.1.3.1.3.1.4 30-1.1.3.1.3.1.5.1 31-1.1.3.1.3.1.5.2.1 33-1.1.3.1.3.1.5.2.2 35-1.1.3.1.3.1.5.2.3 37-1.1.3.1.3.1.5.2.4 39-1.1.3.1.3.1.5.2.5 41-1.1.3.1.3.1.5.2.6 43-1.1.3.1.3.1.5.2.7
 (v1 / label
     :H (v2 / label
            :A (v3 / label~e.0)
            :P (v4 / label~e.1)
            :A (v5 / label
-                  :C (v6 / label~e.2)
-                  :E (v7 / label
-                         :R (v9 / label~e.3)
-                         :E (v10 / label~e.4)
-                         :C (v11 / label~e.5)
-                         :E (v12 / label
-                                 :C (v17 / label~e.7)
-                                 :C (v18 / label
-                                         :C (v26 / label~e.9)
-                                         :E (v27 / label~e.10))
-                                 :C (v19 / label
-                                         :E (v28 / label~e.12)
-                                         :C (v29 / label~e.13))
-                                 :C (v20 / label~e.15)))
-                  :E (v8 / label
-                         :A v6
-                         :R (v13 / label~e.17)
-                         :D (v14 / label
-                                 :E (v21 / label~e.18)
-                                 :C (v22 / label~e.19))
-                         :A (v15 / label
-                                 :R (v23 / label~e.20)
-                                 :C (v24 / label~e.21)
-                                 :E (v25 / label
-                                         :A v24
-                                         :R (v30 / label~e.24)
-                                         :A (v31 / label
+                  :E (v6 / label
+                         :R (v9 / label~e.17)
+                         :D (v10 / label
+                                 :E (v17 / label~e.18)
+                                 :C (v18 / label~e.19))
+                         :A (v11 / label
+                                 :E (v19 / label
+                                         :R (v26 / label~e.24)
+                                         :A (v27 / label
                                                  :E (v35 / label~e.25)
                                                  :C (v36 / label~e.26))
-                                         :A (v32 / label~e.27)
-                                         :P (v33 / label~e.28)
-                                         :A (v34 / label
+                                         :A (v28 / label~e.27)
+                                         :P (v29 / label~e.28)
+                                         :A (v30 / label
                                                  :E (v37 / label~e.30)
                                                  :C (v38 / label
                                                          :C (v39 / label~e.31)
@@ -46,5 +28,23 @@
                                                          :C (v42 / label~e.37)
                                                          :C (v43 / label~e.39)
                                                          :C (v44 / label~e.41)
-                                                         :C (v45 / label~e.43)))))
-                         :P (v16 / label~e.22)))))
+                                                         :C (v45 / label~e.43)))
+                                         :A (v21 / label~e.21))
+                                 :R (v20 / label~e.20)
+                                 :C v21)
+                         :P (v12 / label~e.22)
+                         :A (v7 / label~e.2))
+                  :C v7
+                  :E (v8 / label
+                         :E (v13 / label
+                                 :C (v22 / label~e.7)
+                                 :C (v23 / label
+                                         :C (v31 / label~e.9)
+                                         :E (v32 / label~e.10))
+                                 :C (v24 / label
+                                         :E (v33 / label~e.12)
+                                         :C (v34 / label~e.13))
+                                 :C (v25 / label~e.15))
+                         :R (v14 / label~e.3)
+                         :E (v15 / label~e.4)
+                         :C (v16 / label~e.5)))))

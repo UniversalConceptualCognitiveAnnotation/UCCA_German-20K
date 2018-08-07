@@ -1,6 +1,6 @@
 # ::id 25815009
 # ::tok Darauf lud ich ihn ein , seine Hände in die Strömung zu tauchen .
-# ::alignments 0-1.1 1-1.2.1 2-1.2.2 3-1.2.3 4-1.2.1 6-1.2.4.1.1 7-1.2.4.1.2 8-1.2.4.2.1 9-1.2.4.2.2 10-1.2.4.2.3 12-1.2.4.4
+# ::alignments 0-1.1 1-1.2.1 2-1.2.2 3-1.2.3 4-1.2.1 6-1.2.4.2.1 7-1.2.4.2.2 8-1.2.4.3.1 9-1.2.4.3.2 10-1.2.4.3.3 12-1.2.4.5
 (v1 / label
     :L (v2 / label~e.0)
     :H (v3 / label
@@ -8,6 +8,7 @@
            :A (v5 / label~e.2)
            :A (v6 / label~e.3)
            :A (v7 / label
+                  :A v6
                   :A (v8 / label
                          :E (v11 / label~e.6)
                          :C (v12 / label~e.7))

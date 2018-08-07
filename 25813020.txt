@@ -1,27 +1,29 @@
 # ::id 25813020
 # ::tok Gerieten außer uns : Zehn bis zwölf Polypen hatten die Plattform und die Seiten der Nautilus angefallen .
-# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3 4-1.2.1.1.1 5-1.2.1.1.2 6-1.2.1.1.3 7-1.2.1.2 9-1.2.3.1.1 10-1.2.3.1.2 11-1.2.3.2 12-1.2.3.3.2 13-1.2.3.3.3 14-1.2.3.3.1.1 15-1.2.3.3.1.2 16-1.2.4
+# ::alignments 0-1.1.2 1-1.1.3.1 2-1.1.3.2 4-1.2.1.1.1 5-1.2.1.1.2 6-1.2.1.1.3 7-1.2.1.2 9-1.2.3.1.1 10-1.2.3.1.2 11-1.2.3.2 12-1.2.3.3.2 13-1.2.3.3.3 14-1.2.3.3.1.1 15-1.2.3.3.1.2 16-1.2.4
 (v1 / label
     :H (v2 / label
-           :P (v4 / label~e.0)
-           :D (v5 / label~e.1)
-           :A (v6 / label~e.2))
+           :A (v4 / label)
+           :P (v5 / label~e.0)
+           :A (v6 / label
+                  :R (v10 / label~e.1)
+                  :C (v11 / label~e.2)))
     :H (v3 / label
            :A (v7 / label
-                  :E (v10 / label
-                          :C (v15 / label~e.4)
-                          :N (v16 / label~e.5)
-                          :C (v17 / label~e.6))
-                  :C (v11 / label~e.7))
+                  :E (v12 / label
+                          :C (v17 / label~e.4)
+                          :N (v18 / label~e.5)
+                          :C (v19 / label~e.6))
+                  :C (v13 / label~e.7))
            :A (v8 / label
-                  :C (v12 / label
-                          :E (v18 / label~e.9)
-                          :C (v19 / label~e.10))
-                  :N (v13 / label~e.11)
                   :C (v14 / label
-                          :E (v20 / label
-                                  :R (v23 / label~e.14)
-                                  :C (v24 / label~e.15))
-                          :E (v21 / label~e.12)
-                          :C (v22 / label~e.13)))
+                          :E (v20 / label~e.9)
+                          :C (v21 / label~e.10))
+                  :N (v15 / label~e.11)
+                  :C (v16 / label
+                          :E (v22 / label
+                                  :R (v25 / label~e.14)
+                                  :C (v26 / label~e.15))
+                          :E (v23 / label~e.12)
+                          :C (v24 / label~e.13)))
            :P (v9 / label~e.16)))

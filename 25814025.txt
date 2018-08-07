@@ -1,6 +1,6 @@
 # ::id 25814025
 # ::tok Ihre Schraube war wieder frei , und doch gebrauchte sie sie kaum , segelte aufs Geratewohl .
-# ::alignments 0-1.1.1.1 1-1.1.1.2 3-1.1.3 4-1.1.4 6-1.2 7-1.3 8-1.4.1 9-1.4.2 10-1.4.3 11-1.4.4 13-1.5.1 14-1.5.2.1 15-1.5.2.2
+# ::alignments 0-1.1.1.1 1-1.1.1.2 3-1.1.3 4-1.1.4 6-1.2 7-1.3 8-1.4.1 9-1.4.2 10-1.4.3 11-1.4.4 13-1.5.1 14-1.5.2 15-1.5.2
 (v1 / label
     :H (v2 / label
            :A (v7 / label
@@ -17,7 +17,5 @@
            :D (v13 / label~e.11))
     :H (v6 / label
            :P (v14 / label~e.13)
-           :A (v15 / label
-                   :R (v18 / label~e.14)
-                   :C (v19 / label~e.15))
+           :D (v15 / label~e.14,15)
            :A v11))
