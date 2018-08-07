@@ -40,7 +40,7 @@
       <extra orig_paragraph="3" />
     </node>
     <node ID="0.10" type="Word">
-      <attributes paragraph="1" paragraph_position="10" text="da&#223;" />
+      <attributes paragraph="1" paragraph_position="10" text="dass" />
       <extra orig_paragraph="3" />
     </node>
     <node ID="0.11" type="Word">
@@ -96,10 +96,10 @@
       <edge toID="1.8" type="P">
         <attributes />
       </edge>
-      <edge toID="1.9" type="U">
+      <edge toID="1.9" type="A">
         <attributes />
       </edge>
-      <edge toID="1.10" type="A">
+      <edge toID="1.10" type="U">
         <attributes />
       </edge>
     </node>
@@ -148,13 +148,7 @@
         <attributes />
       </edge>
     </node>
-    <node ID="1.9" type="PNCT">
-      <attributes />
-      <edge toID="0.9" type="Terminal">
-        <attributes />
-      </edge>
-    </node>
-    <node ID="1.10" type="FN">
+    <node ID="1.9" type="FN">
       <attributes />
       <edge toID="1.11" type="R">
         <attributes />
@@ -169,6 +163,12 @@
         <attributes />
       </edge>
       <edge toID="1.15" type="S">
+        <attributes />
+      </edge>
+    </node>
+    <node ID="1.10" type="PNCT">
+      <attributes />
+      <edge toID="0.9" type="Terminal">
         <attributes />
       </edge>
     </node>

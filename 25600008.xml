@@ -8,7 +8,7 @@
       <extra orig_paragraph="2" />
     </node>
     <node ID="0.2" type="Word">
-      <attributes paragraph="1" paragraph_position="2" text="mu&#223;te" />
+      <attributes paragraph="1" paragraph_position="2" text="musste" />
       <extra orig_paragraph="2" />
     </node>
     <node ID="0.3" type="Word">
@@ -65,10 +65,10 @@
       <edge toID="1.7" type="P">
         <attributes />
       </edge>
-      <edge toID="1.8" type="U">
+      <edge toID="1.8" type="A">
         <attributes />
       </edge>
-      <edge toID="1.9" type="A">
+      <edge toID="1.9" type="U">
         <attributes />
       </edge>
     </node>
@@ -102,13 +102,7 @@
         <attributes />
       </edge>
     </node>
-    <node ID="1.8" type="PNCT">
-      <attributes />
-      <edge toID="0.5" type="Terminal">
-        <attributes />
-      </edge>
-    </node>
-    <node ID="1.9" type="FN">
+    <node ID="1.8" type="FN">
       <attributes />
       <edge toID="1.4" type="A">
         <attributes remote="True" />
@@ -120,6 +114,12 @@
         <attributes />
       </edge>
       <edge toID="1.12" type="P">
+        <attributes />
+      </edge>
+    </node>
+    <node ID="1.9" type="PNCT">
+      <attributes />
+      <edge toID="0.5" type="Terminal">
         <attributes />
       </edge>
     </node>
