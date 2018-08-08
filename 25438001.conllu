@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 25438001
-# text = Darauf stieg ich in Conseils Begleitung in einen Wagen , der uns um 20 Franc durch Broadway , Fourth Avenue und Katsin Street zum 34 . Pier * fuhr , wo ein Fahrzeug uns samt Wagen und Pferden aufnahm und nach Brooklyn brachte , dem großen Quartier von New York am linken Ufer des östlichen Flusses , wo wir in einigen Minuten an dem Kai anlangten , bei dem die ›Abraham Lincoln‹ aus seinen zwei Rauch fängen schwarze Säulen emporwirbelte .
+# text = Darauf stieg ich in Conseils Begleitung in einen Wagen , der uns um 20 Franc durch Broadway , Fourth Avenue und Katsin Street zum 34 Pier . * fuhr , wo ein Fahrzeug uns samt Wagen und Pferden aufnahm und nach Brooklyn brachte , dem großen Quartier von New York am linken Ufer des östlichen Flusses , wo wir in einigen Minuten an dem Kai anlangten , bei dem die ›Abraham Lincoln‹ aus seinen zwei Rauch fängen schwarze Säulen emporwirbelte .
 # doc_id = 
 1	Darauf	_	Word	Word	_	2	D	2:D	_
 2	stieg	_	Word	Word	_	0	root	0:root	_
@@ -27,8 +27,8 @@
 23	Street	_	Word	Word	_	22	flat	22:flat	_
 24	zum	_	Word	Word	_	25	R	25:R	_
 25	34	_	Word	Word	_	2	orphan	2:orphan	_
-26	.	_	Punctuation	Punctuation	_	25	punct	25:punct	_
-27	Pier	_	Word	Word	_	25	flat	25:flat	_
+26	Pier	_	Word	Word	_	25	flat	25:flat	_
+27	.	_	Punctuation	Punctuation	_	29	punct	29:punct	_
 28	*	_	Punctuation	Punctuation	_	29	punct	29:punct	_
 29	fuhr	_	Word	Word	_	2	orphan	2:orphan	_
 30	,	_	Punctuation	Punctuation	_	29	punct	29:punct	_
