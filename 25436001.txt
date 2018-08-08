@@ -1,55 +1,57 @@
 # ::id 25436001
 # ::tok 3 Sekunden nachdem ich den Brief des ehrenwerten Marine ministers gelesen , begriff ich endlich , dass mein wahrer Beruf , das einzige Ziel meines Lebens , darin bestehe , das beunruhigende Ungeheuer zu verjagen und die Welt von ihm zu befreien .
-# ::alignments 0-1.1.1 1-1.1.1 2-1.1.2 3-1.1.3 4-1.1.4.1 5-1.1.4.2 6-1.1.4.3.1 7-1.1.4.3.2 8-1.1.4.3.3 9-1.1.4.3.4 10-1.1.5 12-1.2.1 13-1.2.2 14-1.2.3 16-1.2.4.1 17-1.2.4.2.1 18-1.2.4.2.2 19-1.2.4.2.3 21-1.2.4.2.4.1.1 22-1.2.4.2.4.2 23-1.2.4.2.4.1.2 24-1.2.4.2.4.3.1 25-1.2.4.2.4.3.2 27-1.2.4.3 28-1.2.4.4 30-1.2.4.5.2.1.1 31-1.2.4.5.2.2 32-1.2.4.5.2.1.2 34-1.2.4.5.4 35-1.3 36-1.4.2.1 37-1.4.2.2 38-1.4.3.1 39-1.4.3.2 41-1.4.5
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.2 3-1.3.1 4-1.3.2.1 5-1.3.2.2 6-1.3.2.3.1 7-1.3.2.3.2 8-1.3.2.3.3 9-1.3.2.3.4 10-1.3.3 12-1.1.2 13-1.1.3 14-1.1.4 16-1.1.5.1 17-1.1.5.2.1 18-1.1.5.2.2 19-1.1.5.2.3 21-1.1.5.2.4.1.1 22-1.1.5.2.4.2 23-1.1.5.2.4.1.2 24-1.1.5.2.4.3.1 25-1.1.5.2.4.3.2 28-1.1.5.4 30-1.1.5.5.3.1.1 31-1.1.5.5.3.2 32-1.1.5.5.3.1.2 34-1.1.5.5.5 35-1.4 36-1.5.2.1 37-1.5.2.2 38-1.5.3.1 39-1.5.3.2 41-1.5.5
 (v1 / label
     :H (v2 / label
-           :T (v6 / label~e.0,1)
-           :D (v7 / label~e.2)
-           :A (v8 / label~e.3)
-           :A (v9 / label
-                  :E (v19 / label~e.4)
-                  :C (v20 / label~e.5)
-                  :E (v21 / label
-                          :R (v31 / label~e.6)
-                          :E (v32 / label~e.7)
-                          :E (v33 / label~e.8)
-                          :C (v34 / label~e.9)))
-           :P (v10 / label~e.10))
-    :H (v3 / label
-           :P (v11 / label~e.12)
-           :A (v12 / label~e.13)
-           :D (v13 / label~e.14)
-           :A (v14 / label
-                   :R (v22 / label~e.16)
-                   :A (v23 / label
-                           :E (v35 / label~e.17)
-                           :E (v36 / label~e.18)
-                           :C (v37 / label~e.19)
-                           :E (v38 / label
-                                   :S (v42 / label
-                                           :E (v47 / label~e.21)
-                                           :C (v48 / label~e.23))
-                                   :D (v43 / label~e.22)
-                                   :A (v44 / label
-                                           :E (v49 / label~e.24)
-                                           :C (v50 / label~e.25))))
-                   :D (v24 / label~e.27)
-                   :S (v25 / label~e.28)
-                   :A (v26 / label
-                           :A (v39 / label)
-                           :A (v40 / label
+           :T (v7 / label
+                  :E (v19 / label~e.0)
+                  :C (v20 / label~e.1))
+           :P (v8 / label~e.12)
+           :A (v9 / label~e.13)
+           :D (v10 / label~e.14)
+           :A (v11 / label
+                   :R (v21 / label~e.16)
+                   :A (v22 / label
+                           :E (v32 / label~e.17)
+                           :E (v33 / label~e.18)
+                           :C (v34 / label~e.19)
+                           :E (v35 / label
+                                   :S (v43 / label
+                                           :E (v48 / label~e.21)
+                                           :C (v49 / label~e.23))
+                                   :D (v44 / label~e.22)
                                    :A (v45 / label
-                                           :E (v51 / label~e.30)
-                                           :C (v52 / label~e.32))
-                                   :S (v46 / label~e.31))
-                           :P (v41 / label~e.34))))
-    :L (v4 / label~e.35)
-    :H (v5 / label
+                                           :E (v50 / label~e.24)
+                                           :C (v51 / label~e.25))))
+                   :S (v23 / label~e.28)
+                   :A (v24 / label
+                           :A v9
+                           :A (v36 / label)
+                           :A (v37 / label
+                                   :A (v46 / label
+                                           :E (v52 / label~e.30)
+                                           :C (v53 / label~e.32))
+                                   :S (v47 / label~e.31))
+                           :P (v38 / label~e.34))))
+    :L (v3 / label~e.2)
+    :H (v4 / label
+           :A (v12 / label~e.3)
+           :A (v13 / label
+                   :E (v25 / label~e.4)
+                   :C (v26 / label~e.5)
+                   :E (v27 / label
+                           :R (v39 / label~e.6)
+                           :E (v40 / label~e.7)
+                           :E (v41 / label~e.8)
+                           :C (v42 / label~e.9)))
+           :P (v14 / label~e.10))
+    :L (v5 / label~e.35)
+    :H (v6 / label
            :A (v15 / label)
            :A (v16 / label
-                   :E (v27 / label~e.36)
-                   :C (v28 / label~e.37))
+                   :E (v28 / label~e.36)
+                   :C (v29 / label~e.37))
            :A (v17 / label
-                   :R (v29 / label~e.38)
-                   :C (v30 / label~e.39))
+                   :R (v30 / label~e.38)
+                   :C (v31 / label~e.39))
            :P (v18 / label~e.41)))

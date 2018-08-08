@@ -1,31 +1,32 @@
 # ::id 25460001
 # ::tok Doch konnte man bei einer Gelegenheit , welche die merkwürdige Geschicklichkeit Ned Land s kundgab , erkennen , welches Vertrauen man auf ihn setzen konnte .
-# ::alignments 0-1.1 2-1.2.2 3-1.2.3.1 4-1.2.3.2 5-1.2.3.3 7-1.2.3.4.2 8-1.2.3.4.3.1 9-1.2.3.4.3.2 10-1.2.3.4.3.3 11-1.2.3.4.4.1 12-1.2.3.4.4.1 13-1.2.3.4.4.2 14-1.2.3.4.5 16-1.2.4 18-1.2.5.1 19-1.2.5.2 20-1.2.5.3 21-1.2.5.4.1 22-1.2.5.4.2 23-1.2.5.2 24-1.2.5.5
+# ::alignments 0-1.1 1-1.2.1 2-1.2.2 3-1.2.3.1 4-1.2.3.2 5-1.2.3.3 7-1.2.3.4.2 8-1.2.3.4.3.1 9-1.2.3.4.3.2 10-1.2.3.4.3.3 11-1.2.3.4.4.1 12-1.2.3.4.4.1 13-1.2.3.4.4.2 14-1.2.3.4.5 16-1.2.4 18-1.2.5.1 19-1.2.5.2 20-1.2.5.3 21-1.2.5.4.1 22-1.2.5.4.2 23-1.2.5.2 24-1.2.5.5
 (v1 / label
     :L (v2 / label~e.0)
     :H (v3 / label
-           :A (v4 / label~e.2)
-           :A (v5 / label
-                  :R (v8 / label~e.3)
-                  :E (v9 / label~e.4)
-                  :C (v10 / label~e.5)
-                  :E (v11 / label
-                          :A v10
-                          :R (v17 / label~e.7)
-                          :A (v18 / label
-                                  :E (v23 / label~e.8)
-                                  :E (v24 / label~e.9)
-                                  :C (v25 / label~e.10))
+           :D (v4 / label~e.1)
+           :A (v5 / label~e.2)
+           :A (v6 / label
+                  :R (v9 / label~e.3)
+                  :E (v10 / label~e.4)
+                  :C (v11 / label~e.5)
+                  :E (v12 / label
+                          :A v11
+                          :R (v18 / label~e.7)
                           :A (v19 / label
-                                  :C (v26 / label~e.11,12)
-                                  :R (v27 / label~e.13))
-                          :P (v20 / label~e.14)))
-           :P (v6 / label~e.16)
-           :A (v7 / label
-                  :D (v12 / label~e.18)
-                  :P (v13 / label~e.19,23)
-                  :A (v14 / label~e.20)
-                  :A (v15 / label
-                          :R (v21 / label~e.21)
-                          :C (v22 / label~e.22))
-                  :D (v16 / label~e.24))))
+                                  :E (v24 / label~e.8)
+                                  :E (v25 / label~e.9)
+                                  :C (v26 / label~e.10))
+                          :A (v20 / label
+                                  :C (v27 / label~e.11,12)
+                                  :R (v28 / label~e.13))
+                          :P (v21 / label~e.14)))
+           :P (v7 / label~e.16)
+           :A (v8 / label
+                  :D (v13 / label~e.18)
+                  :P (v14 / label~e.19,23)
+                  :A (v15 / label~e.20)
+                  :A (v16 / label
+                          :R (v22 / label~e.21)
+                          :C (v23 / label~e.22))
+                  :D (v17 / label~e.24))))
