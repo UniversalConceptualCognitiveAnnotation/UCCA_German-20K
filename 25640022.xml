@@ -88,11 +88,11 @@
       <extra orig_paragraph="11" />
     </node>
     <node ID="0.22" type="Word">
-      <attributes paragraph="1" paragraph_position="22" text="Torres." />
+      <attributes paragraph="1" paragraph_position="22" text="Torres" />
       <extra orig_paragraph="11" />
     </node>
-    <node ID="0.23" type="Word">
-      <attributes paragraph="1" paragraph_position="23" text="Fiebertr&#228;ume" />
+    <node ID="0.23" type="Punctuation">
+      <attributes paragraph="1" paragraph_position="23" text="." />
       <extra orig_paragraph="11" />
     </node>
   </layer>
@@ -115,7 +115,7 @@
       <edge toID="1.6" type="H">
         <attributes />
       </edge>
-      <edge toID="1.7" type="H">
+      <edge toID="1.7" type="U">
         <attributes />
       </edge>
       <edge toID="1.8" type="U">
@@ -173,16 +173,15 @@
         <attributes remote="True" />
       </edge>
     </node>
-    <node ID="1.7" type="FN">
+    <node ID="1.7" type="PNCT">
       <attributes />
-      <extra remarks="kann es so bleiben? Als A?" />
-      <edge toID="0.23" type="Terminal">
+      <edge toID="0.8" type="Terminal">
         <attributes />
       </edge>
     </node>
     <node ID="1.8" type="PNCT">
       <attributes />
-      <edge toID="0.8" type="Terminal">
+      <edge toID="0.23" type="Terminal">
         <attributes />
       </edge>
     </node>
