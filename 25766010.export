@@ -1,6 +1,7 @@
 #BOS 25766010
-»Wir	Word	--	Terminal	500
-stecken	Word	--	Terminal	501
+»	Punctuation	--	Terminal	500
+Wir	Word	--	Terminal	501
+stecken	Word	--	Terminal	502
 fest	Word	--	Terminal	502
 !	Punctuation	--	Terminal	503
 Was	Word	--	Terminal	504
@@ -9,9 +10,9 @@ Sie	Word	--	Terminal	506
 damit	Word	--	Terminal	507
 ?	Punctuation	--	Terminal	508
 «	Punctuation	--	Terminal	509
-#500	FN	--	A	510
-#501	FN	--	S	510
-#502	FN	--	D	510
+#500	PNCT	--	U	512
+#501	FN	--	A	510
+#502	FN	--	S	510
 #503	PNCT	--	U	512
 #504	FN	--	A	511
 #505	FN	--	S	511
@@ -22,8 +23,8 @@ damit	Word	--	Terminal	507
 #510	FN	--	H	512
 #511	FN	--	H	512
 #512	FN	--	A	515
-#513	FN	--	P	515
-#514	FN	--	A	515
+#513	FN	--	A	515
+#514	FN	--	P	515
 #515	FN	--	H	516
 #516	FN	--	--	0
 #EOS 25766010

@@ -42,11 +42,11 @@ Urteil	Word	--	Terminal	538
 darüber	Word	--	Terminal	539
 gewinnen	Word	--	Terminal	540
 .	Punctuation	--	Terminal	541
-#500	FN	--	P	554
-#501	FN	--	A	554
-#502	FN	--	C	553
-#503	FN	--	A	554
-#504	PNCT	--	U	554
+#500	FN	--	P	555
+#501	FN	--	A	555
+#502	FN	--	C	553	A*	552
+#503	FN	--	C	554
+#504	PNCT	--	U	555
 #505	FN	--	R	552
 #506	FN	--	R	549
 #507	FN	--	E	549
@@ -56,12 +56,12 @@ gewinnen	Word	--	Terminal	540
 #511	FN	--	E	542
 #512	FN	--	C	542
 #513	FN	--	P	552
-#514	PNCT	--	U	555
-#515	FN	--	L	555
+#514	PNCT	--	U	556
+#515	FN	--	L	556
 #516	FN	--	F	551
 #517	FN	--	E	543
 #518	FN	--	C	543
-#519	FN	--	D	551
+#519	FN	--	G	551
 #520	FN	--	E	550
 #521	FN	--	C	550
 #522	FN	--	R	544
@@ -69,8 +69,8 @@ gewinnen	Word	--	Terminal	540
 #524	FN	--	E	545
 #525	FN	--	E	545
 #526	FN	--	C	545
-#527	FN	--	P	551
-#528	PNCT	--	U	555
+#527	FN	--	S	551
+#528	PNCT	--	U	556
 #529	FN	--	A	548
 #530	FN	--	D	548
 #531	FN	--	A	548
@@ -81,7 +81,7 @@ gewinnen	Word	--	Terminal	540
 #536	FN	--	C	546
 #537	FN	--	E	547
 #538	FN	--	C	547
-#539	FN	--	D	548
+#539	FN	--	A	548
 #540	FN	--	P	548
 #541	PNCT	--	U	548
 #542	FN	--	E	549
@@ -90,12 +90,13 @@ gewinnen	Word	--	Terminal	540
 #545	FN	--	A	551
 #546	FN	--	A	548
 #547	FN	--	A	548
-#548	FN	--	H	555
+#548	FN	--	H	556
 #549	FN	--	A	552
 #550	FN	--	A	551
-#551	FN	--	H	555
+#551	FN	--	H	556
 #552	FN	--	E	553
-#553	FN	--	A	554
-#554	FN	--	H	555
-#555	FN	--	--	0
+#553	FN	--	E	554
+#554	FN	--	A	555
+#555	FN	--	H	556
+#556	FN	--	--	0
 #EOS 25527000

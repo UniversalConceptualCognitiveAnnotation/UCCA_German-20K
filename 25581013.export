@@ -38,12 +38,12 @@ Farben	Word	--	Terminal	534
 bewahrt	Word	--	Terminal	535
 hatten	Word	--	Terminal	536
 .	Punctuation	--	Terminal	537
-#500	FN	--	A	546
-#501	FN	--	P	546
+#500	FN	--	A	547	A*	551	A*	546
+#501	FN	--	P	547
 #502	FN	--	R	538
 #503	FN	--	E	538
 #504	FN	--	C	538
-#505	FN	--	E	545
+#505	FN	--	R	545
 #506	FN	--	C	545	A*	540
 #507	PNCT	--	U	545
 #508	FN	--	R	540
@@ -52,23 +52,23 @@ hatten	Word	--	Terminal	536
 #511	FN	--	C	539
 #512	FN	--	S	540
 #513	FN	--	F	540
-#514	PNCT	--	U	549
-#515	FN	--	P	548
-#516	FN	--	D	548
+#514	PNCT	--	U	552
+#515	FN	--	P	551
+#516	FN	--	D	551
 #517	FN	--	E	541
 #518	FN	--	E	541
 #519	FN	--	C	541
-#520	FN	--	D	548
-#521	FN	--	E	547
-#522	FN	--	E	547
-#523	FN	--	E	547
-#524	FN	--	C	547	A*	544
-#525	PNCT	--	U	547
+#520	FN	--	S	550
+#521	FN	--	R	549
+#522	FN	--	E	549
+#523	FN	--	E	549
+#524	FN	--	C	549	A*	544	A*	542
+#525	PNCT	--	U	549
 #526	FN	--	R	544
-#527	PNCT	--	U	544
-#528	FN	--	E	542
-#529	FN	--	C	542
-#530	PNCT	--	U	544
+#527	PNCT	--	U	548
+#528	FN	--	L	548
+#529	FN	--	S	542
+#530	PNCT	--	U	548
 #531	FN	--	D	544
 #532	FN	--	E	543
 #533	FN	--	E	543
@@ -76,16 +76,19 @@ hatten	Word	--	Terminal	536
 #535	FN	--	S	544
 #536	FN	--	F	544
 #537	PNCT	--	U	544
-#538	FN	--	A	546
+#538	FN	--	S	546
 #539	FN	--	A	540
 #540	FN	--	E	545
-#541	FN	--	A	548
-#542	FN	--	D	544
+#541	FN	--	A	550
+#542	FN	--	H	548
 #543	FN	--	A	544
-#544	FN	--	E	547
+#544	FN	--	H	548
 #545	FN	--	A	546
-#546	FN	--	H	549
-#547	FN	--	A	548
-#548	FN	--	H	549
-#549	FN	--	--	0
+#546	FN	--	A	547
+#547	FN	--	H	552
+#548	FN	--	E	549
+#549	FN	--	A	550
+#550	FN	--	A	551
+#551	FN	--	H	552
+#552	FN	--	--	0
 #EOS 25581013

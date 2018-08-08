@@ -16,9 +16,9 @@ etwas	Word	--	Terminal	512
 zu	Word	--	Terminal	513
 erwidern	Word	--	Terminal	514
 .	Punctuation	--	Terminal	515
-#500	FN	--	A	520
+#500	FN	--	A	520	A*	521
 #501	FN	--	S	520
-#502	FN	--	A	520
+#502	FN	--	A	520	A*	518
 #503	FN	--	E	516
 #504	FN	--	E	516
 #505	FN	--	C	516
@@ -26,16 +26,17 @@ erwidern	Word	--	Terminal	514
 #507	FN	--	R	517
 #508	FN	--	C	517
 #509	FN	--	P	518
-#510	PNCT	--	U	521
-#511	FN	--	L	521
-#512	FN	--	A	519
-#513	FN	--	F	519
-#514	FN	--	P	519
-#515	PNCT	--	U	519
+#510	PNCT	--	U	522
+#511	FN	--	L	522
+#512	FN	--	A	521
+#513	FN	--	F	521
+#514	FN	--	P	521
+#515	PNCT	--	U	521
 #516	FN	--	A	518
 #517	FN	--	A	518
 #518	FN	--	A	520
-#519	FN	--	H	521
-#520	FN	--	H	521
-#521	FN	--	--	0
+#519	FN	--	D	521
+#520	FN	--	H	522
+#521	FN	--	H	522
+#522	FN	--	--	0
 #EOS 25783002
