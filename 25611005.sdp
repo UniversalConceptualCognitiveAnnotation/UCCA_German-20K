@@ -1,3 +1,4 @@
+# format = ucca
 1	Hier	_	Word	-	-	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_
 2	sammelte	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
 3	er	_	Word	-	-	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_
@@ -30,22 +31,24 @@
 30	der	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_
 31	Inschrift	_	Word	-	+	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_
 32	:	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_
-33	»Bazin	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_
-34	hat	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	F	_	_	_	_	_
-35	mich	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_
-36	verfertigt«	_	Word	-	+	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_
-37	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_
-38	die	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_
-39	das	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_
-40	Kennzeichen	_	Word	-	+	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_
-41	der	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_
-42	Gießerei	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_
-43	des	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_
-44	Arsenals	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_
-45	zu	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_
-46	Brest	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_
-47	um	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E
-48	1785	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	T	_	_	_	_
-49	war	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	F	_	_	_	_
-50	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_
+33	»	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_
+34	Bazin	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_
+35	hat	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	F	_	_	_	_	_
+36	mich	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_
+37	verfertigt	_	Word	-	+	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_
+38	«	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_
+39	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_
+40	die	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_
+41	das	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_
+42	Kennzeichen	_	Word	-	+	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_
+43	der	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_
+44	Gießerei	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_
+45	des	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_
+46	Arsenals	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_
+47	zu	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_
+48	Brest	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_
+49	um	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E
+50	1785	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	T	_	_	_	_
+51	war	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	F	_	_	_	_
+52	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_
 

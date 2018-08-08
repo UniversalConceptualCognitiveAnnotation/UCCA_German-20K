@@ -1,3 +1,4 @@
+# format = ucca
 1	Diese	_	Word	-	-	_	E	_	_	_	_	_	_	_
 2	Gruppe	_	Word	-	+	_	_	A	_	_	_	_	_	_
 3	besteht	_	Word	-	+	_	_	_	_	_	_	_	_	_
@@ -12,16 +13,20 @@
 12	einer	_	Word	-	-	_	_	_	_	E	_	_	_	_
 13	Reihe	_	Word	-	+	_	_	_	_	_	_	_	_	A
 14	zwischen	_	Word	-	-	_	_	_	_	_	N	_	_	_
-15	15°	_	Word	-	+	_	_	_	_	_	_	_	_	A
-16	und	_	Word	-	-	_	_	_	_	_	N	_	_	_
-17	2°	_	Word	-	-	_	_	_	_	_	C	_	_	_
-18	südlicher	_	Word	-	+	_	_	_	_	_	E	_	_	_
-19	Breite	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_
-20	und	_	Word	-	-	_	_	_	_	_	N	_	_	_
-21	164°	_	Word	-	+	_	_	_	_	_	C	_	_	_
-22	bis	_	Word	-	-	_	_	_	_	_	_	_	N	_
-23	168°	_	Word	-	-	_	_	_	_	_	_	_	C	_
-24	Länge	_	Word	-	-	_	_	_	_	_	_	_	E	_
-25	liegen	_	Word	-	+	_	_	_	E	_	_	_	_	_
-26	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
+15	15	_	Word	-	+	_	_	_	_	_	_	_	_	A
+16	°	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_
+17	und	_	Word	-	-	_	_	_	_	_	N	_	_	_
+18	2	_	Word	-	-	_	_	_	_	_	C	_	_	_
+19	°	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_
+20	südlicher	_	Word	-	+	_	_	_	_	_	E	_	_	_
+21	Breite	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_
+22	und	_	Word	-	-	_	_	_	_	_	N	_	_	_
+23	164	_	Word	-	+	_	_	_	_	_	C	_	_	_
+24	°	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_
+25	bis	_	Word	-	-	_	_	_	_	_	_	_	N	_
+26	168	_	Word	-	-	_	_	_	_	_	_	_	C	_
+27	°	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_
+28	Länge	_	Word	-	-	_	_	_	_	_	_	_	E	_
+29	liegen	_	Word	-	+	_	_	_	E	_	_	_	_	_
+30	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
 

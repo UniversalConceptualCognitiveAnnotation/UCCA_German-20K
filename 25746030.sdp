@@ -1,21 +1,47 @@
-1	Dieses	_	Word	-	-	_	A	_	_	_	_	_
-2	war	_	Word	-	+	_	_	_	_	_	_	_
-3	auch	_	Word	-	-	_	D	_	_	_	_	_
-4	einer	_	Word	-	-	_	_	E	_	_	_	_
-5	der	_	Word	-	-	_	_	R	_	_	_	_
-6	Gründe	_	Word	-	+	_	A	_	_	_	_	_
-7	,	_	Punctuation	-	-	_	_	U	_	_	_	_
-8	die	_	Word	-	-	_	_	_	_	R	_	_
-9	Kolumbus	_	Word	-	-	_	_	_	_	A	_	_
-10	auf	_	Word	-	-	_	_	_	R	_	_	_
-11	die	_	Word	-	-	_	_	_	E	_	_	_
-12	Vermutung	_	Word	-	+	_	_	_	_	A	_	_
-13	brachten	_	Word	-	+	_	_	E	_	_	_	_
-14	,	_	Punctuation	-	-	_	_	_	_	U	_	_
-15	es	_	Word	-	-	_	_	_	_	_	F	_
-16	existiere	_	Word	-	+	_	_	_	E	_	_	_
-17	eine	_	Word	-	-	_	_	_	_	_	_	E
-18	Neue	_	Word	-	+	_	_	_	_	_	A	_
-19	Welt	_	Word	-	-	_	_	_	_	_	_	Terminal
-20	.	_	Punctuation	-	-	_	_	_	_	_	_	U
+# format = ucca
+1	Als	_	Word	-	-	_	_	_	_	L	_	_	_	_	_	_	_	_	_	_	_
+2	die	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	Fahrzeuge	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_
+4	dieses	_	Word	-	-	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	kühnen	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	Entdeckers	_	Word	-	+	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	in	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_
+8	das	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_
+9	Tangmeer	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_
+10	kamen	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_
+12	konnten	_	Word	-	-	_	_	_	_	_	_	_	D	_	_	_	_	_	_	_	_
+13	sie	_	Word	-	-	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_
+14	nur	_	Word	-	-	_	_	_	_	_	_	_	D	_	_	_	_	_	_	_	_
+15	mit	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_
+16	Mühe	_	Word	-	+	_	_	_	_	_	_	_	D	_	_	_	_	_	_	_	_
+17	inmitten	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_
+18	der	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_
+19	Kräuter	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_
+20	fortkommen	_	Word	-	+	_	_	_	_	H	_	_	_	_	_	_	_	_	_	_	_
+21	,	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_
+22	die	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_
+23	zum	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_
+24	großen	_	Word	-	-	_	_	_	_	_	_	_	_	D	_	_	_	_	_	_	_
+25	Schrecken	_	Word	-	+	_	_	_	_	H	_	_	_	_	_	_	_	_	_	_	_
+26	der	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_
+27	Mannschaft	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_
+28	den	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_
+29	Lauf	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_
+30	der	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_
+31	Schiffe	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_
+32	hemmten	_	Word	-	+	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_
+33	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_
+34	und	_	Word	-	-	_	_	_	_	L	_	_	_	_	_	_	_	_	_	_	_
+35	sie	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_
+36	verloren	_	Word	-	+	_	_	_	_	H	_	_	_	_	_	_	_	_	_	_	_
+37	3	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_
+38	lange	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_
+39	Wochen	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	T	_	_
+40	damit	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	F
+41	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+42	über	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R
+43	sie	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A
+44	hinauszukommen	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_
+45	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
 

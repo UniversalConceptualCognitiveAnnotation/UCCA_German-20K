@@ -1,38 +1,45 @@
-1	Hier	_	Word	-	-	_	_	_	_	D	_	_	_	_	_	_	_	_	_
-2	boten	_	Word	-	-	_	_	_	_	D	_	_	_	_	_	_	_	_	_
-3	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_	_
-4	in	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_	_
-5	Ermangelung	_	Word	-	+	_	_	_	_	H	_	_	_	_	_	_	_	_	_
-6	von	_	Word	-	-	_	_	R	_	_	_	_	_	_	_	_	_	_	_
-7	Naturmerkwürdigkeiten	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_	_	_	_
-8	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_	_
-9	die	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_	_	_
-10	Gewässer	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_	_	_	_
-11	den	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_	_
-12	Anblick	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-13	rührender	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_	_	_	_
-14	und	_	Word	-	-	_	_	_	_	_	N	_	_	_	_	_	_	_	_
-15	furchtbarer	_	Word	-	-	_	_	_	_	_	C	_	_	_	_	_	_	_	_
-16	Szenen	_	Word	-	-	_	_	_	_	_	A	_	_	_	_	_	_	_	_
-17	;	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_	_
-18	denn	_	Word	-	-	_	_	_	_	L	_	_	_	_	_	_	_	_	_
-19	auf	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_	_	_	_
-20	diesem	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_	_
-21	Teil	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A	_	_	_
-22	des	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_	_	_
-23	Mittelmeers	_	Word	-	+	_	_	_	_	_	_	E	_	_	_	_	_	_	_
-24	sind	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	F	_	_	_
-25	am	_	Word	-	-	_	_	_	_	_	_	_	_	F	_	_	_	_	_
-26	häufigsten	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	D	_	_	_
-27	Unglücksfälle	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A	_	_	_
-28	eingetreten	_	Word	-	+	_	_	_	_	H	_	_	_	_	_	_	_	_	_
-29	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U	_	_	_
-30	durch	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R	_	_
-31	Schiff	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	A	_	_
-32	bruch	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_	_	_
-33	oder	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	L	_	_
-34	Versinken	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	H	_	_
-35	von	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	R
-36	Schiffen	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	A	_
-37	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+# format = ucca
+1	In	_	Word	-	-	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	Vergleichung	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	mit	_	Word	-	-	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	dem	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	Pazifik	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	ist	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	das	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	Mittelmeers	_	Word	-	+	_	_	_	_	_	_	A	_	_	A	A	_	_	A	_	A	_	_	A
+9	nur	_	Word	-	-	_	_	_	D	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	ein	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	See	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+13	aber	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+14	ein	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_
+15	launischer	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_
+16	See	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+17	mit	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_
+18	tückisch	_	Word	-	-	_	_	_	_	_	_	_	D	_	_	_	_	_	_	_	_	_	_	_
+19	wechselnden	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_
+20	Wogen	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_
+21	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+22	heute	_	Word	-	-	_	_	_	_	_	_	_	_	_	T	_	_	_	_	_	_	_	_	_
+23	günstig	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+24	und	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+25	schmeichelnd	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+26	für	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_
+27	eine	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_
+28	zerbrechliche	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_
+29	Tartane	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_
+30	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+31	morgen	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	T	_	_	_	_	_
+32	wütend	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	D	_	_	_	_	_
+33	aufgeregt	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+34	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+35	von	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_
+36	Stürmen	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_
+37	gepeitscht	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+38	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+39	die	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_
+40	stärksten	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_
+41	Schiffe	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A
+42	zertrümmernd	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+43	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
 

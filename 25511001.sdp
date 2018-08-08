@@ -1,37 +1,69 @@
-1	»Es	_	Word	-	-	_	A	_	_	_	_	_	_	_	_
-2	ist	_	Word	-	-	_	F	_	_	_	_	_	_	_	_
-3	wunderbar«	_	Word	-	+	_	_	A	_	_	_	_	_	_	_
-4	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_
-5	erwiderte	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
-6	ich	_	Word	-	-	_	_	A	_	_	_	_	_	_	_
-7	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_
-8	»und	_	Word	-	-	_	L	_	_	_	_	_	_	_	_
-9	ich	_	Word	-	-	_	_	_	A	_	_	_	_	_	_
-10	sehe	_	Word	-	+	_	H	_	_	_	_	_	_	_	_
-11	wohl	_	Word	-	-	_	_	_	G	_	_	_	_	_	_
-12	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_
-13	Kapitän	_	Word	-	-	_	_	_	G	_	_	_	_	_	_
-14	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_
-15	dass	_	Word	-	-	_	_	_	_	R	_	_	_	_	_
-16	Sie	_	Word	-	-	_	_	_	_	A	_	A	_	_	_
-17	Grund	_	Word	-	+	_	_	_	A	_	_	_	_	_	_
-18	hatten	_	Word	-	-	_	_	_	_	F	_	_	_	_	_
-19	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_
-20	dieses	_	Word	-	-	_	_	_	_	_	E	_	_	_	_
-21	Agens	_	Word	-	+	_	_	_	_	_	_	A	_	_	_
-22	zu	_	Word	-	-	_	_	_	_	_	_	F	_	_	_
-23	gebrauchen	_	Word	-	+	_	_	_	_	A	_	_	_	_	_
-24	,	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_
-25	dem	_	Word	-	-	_	_	_	_	_	_	_	R	_	_
-26	es	_	Word	-	-	_	_	_	_	_	_	_	F	_	_
-27	bestimmt	_	Word	-	+	_	_	_	_	_	E	_	_	_	_
-28	ist	_	Word	-	-	_	_	_	_	_	_	_	F	_	_
-29	,	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_
-30	Wind	_	Word	-	+	_	_	_	_	_	_	_	_	_	A
-31	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_
-32	Wasser	_	Word	-	-	_	_	_	_	_	_	_	_	C	_
-33	und	_	Word	-	-	_	_	_	_	_	_	_	_	N	_
-34	Dampf	_	Word	-	-	_	_	_	_	_	_	_	_	C	_
-35	zu	_	Word	-	-	_	_	_	_	_	_	_	_	_	F
-36	ersetzen.«	_	Word	-	+	_	_	_	_	_	_	_	A	_	_
+# format = ucca
+1	«	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	»	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	Eine	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	andere	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	Anwendung	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	der	_	Word	-	-	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	Elektrizität	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	.	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	Dieses	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	Zifferblatt	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	vor	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	unseren	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+13	Augen	_	Word	-	+	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+14	gibt	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+15	mir	_	Word	-	-	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+16	die	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+17	Schnelligkeit	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+18	der	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_
+19	›Nautilus‹	_	Word	-	+	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+20	an	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+21	.	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+22	Ein	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_
+23	elektrischer	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_
+24	Draht	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_
+25	bringt	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+26	es	_	Word	-	-	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_
+27	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_
+28	Verbindung	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_
+29	mit	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_
+30	der	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
+31	Schraube	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_
+32	des	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_
+33	Log	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
+34	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+35	und	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+36	sein	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_
+37	Zeiger	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_
+38	gibt	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+39	mir	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_
+40	die	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_
+41	wirkliche	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_
+42	Geschwindigkeit	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_
+43	des	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_
+44	Fahrzeugs	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_
+45	an	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_
+46	.	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+47	Und	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+48	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+49	sehen	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+50	Sie	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	F	_	_	_	_
+51	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_
+52	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_
+53	diesem	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_
+54	Augenblick	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	T	_	_
+55	fahren	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_
+56	wir	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_
+57	mit	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_
+58	der	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_
+59	mäßigen	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_
+60	Geschwindigkeit	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_
+61	von	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R
+62	15	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E
+63	Meilen	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_
+64	die	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal
+65	Stunde	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal
+66	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+67	«	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
 

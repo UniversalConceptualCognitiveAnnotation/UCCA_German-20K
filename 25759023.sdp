@@ -1,3 +1,4 @@
+# format = ucca
 1	Im	_	Word	-	-	_	R	_	_	_	_	_	_	_	_
 2	oberen	_	Word	-	-	_	E	_	_	_	_	_	_	_	_
 3	Teil	_	Word	-	+	_	_	_	_	_	_	A	_	_	_
@@ -23,8 +24,10 @@
 23	Öls	_	Word	-	+	_	_	_	_	_	_	A	_	_	_
 24	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_
 25	das	_	Word	-	-	_	_	_	_	_	_	_	_	_	R
-26	»Walrat«	_	Word	-	-	_	_	_	_	_	_	_	_	_	A
-27	genannt	_	Word	-	+	_	_	_	_	_	_	_	_	E	_
-28	wird	_	Word	-	-	_	_	_	_	_	_	_	_	_	F
-29	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
+26	»	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
+27	Walrat	_	Word	-	-	_	_	_	_	_	_	_	_	_	A
+28	«	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
+29	genannt	_	Word	-	+	_	_	_	_	_	_	_	_	E	_
+30	wird	_	Word	-	-	_	_	_	_	_	_	_	_	_	F
+31	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
 

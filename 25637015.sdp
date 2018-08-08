@@ -1,30 +1,54 @@
-1	Unter	_	Word	-	-	_	R	_	_	_	_	_	_	_
-2	anderem	_	Word	-	+	_	_	_	_	A	_	_	_	_
-3	kamen	_	Word	-	-	_	_	_	_	F	_	_	_	_
-4	wir	_	Word	-	-	_	_	_	_	A	_	_	_	_
-5	auf	_	Word	-	-	_	_	R	_	_	_	_	_	_
-6	die	_	Word	-	-	_	_	E	_	_	_	_	_	_
-7	Lage	_	Word	-	+	_	_	_	_	A	_	_	_	_
-8	der	_	Word	-	-	_	_	_	R	_	_	_	_	_
-9	"	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_
-10	Nautilus	_	Word	-	+	_	_	A	_	_	_	_	_	_
-11	"	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_
-12	zu	_	Word	-	-	_	_	_	_	F	_	_	_	_
-13	sprechen	_	Word	-	+	_	_	_	_	_	_	_	_	_
-14	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_
-15	die	_	Word	-	-	_	_	_	_	_	_	R	_	_
-16	gerade	_	Word	-	-	_	_	_	_	_	_	D	_	_
-17	an	_	Word	-	-	_	_	_	_	_	R	_	_	_
-18	derselben	_	Word	-	-	_	_	_	_	_	E	_	_	_
-19	Stelle	_	Word	-	+	_	_	_	_	_	_	A	_	_
-20	festsaß	_	Word	-	+	_	_	_	E	_	_	_	_	_
-21	,	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_
-22	wo	_	Word	-	-	_	_	_	_	_	_	_	_	R
-23	Dumont	_	Word	-	+	_	_	_	_	_	_	_	_	A
-24	dUrville	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_
-25	beinah	_	Word	-	-	_	_	_	_	_	_	_	_	D
-26	zugrunde	_	Word	-	+	_	_	_	_	_	E	_	_	_
-27	gegangen	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal
-28	wäre	_	Word	-	-	_	_	_	_	_	_	_	_	F
-29	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
+# format = ucca
+1	Bei	_	Word	-	-	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	diesem	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	Anlaß	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	sagte	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	er	_	Word	-	-	_	_	A	_	_	A	_	_	_	_	_	_	_	_	_	_	_
+6	:	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_
+7	»	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_
+8	Dieser	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	dUrville	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_
+10	ist	_	Word	-	-	_	_	_	_	_	F	_	_	_	_	_	_	_	_	_	_	_
+11	einer	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_
+12	Ihrer	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_
+13	großen	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_
+14	Seemänner	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_
+15	gewesen	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+16	,	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_
+17	Ihrer	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
+18	einsichtsvollsten	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
+19	Seefahrer	_	Word	-	+	_	_	_	_	_	H	_	_	_	_	_	_	_	_	_	_	_
+20	.	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_
+21	Der	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_
+22	arme	_	Word	-	+	_	_	_	_	_	H	_	_	_	_	_	_	_	_	_	_	_
+23	Gelehrte	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_
+24	!	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_
+25	Nachdem	_	Word	-	-	_	_	_	_	_	L	_	_	_	_	_	_	_	_	_	_	_
+26	er	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_
+27	mutig	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	D	_	_
+28	die	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_
+29	Eisbänke	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_
+30	des	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_
+31	Südpols	_	Word	-	+	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_
+32	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_
+33	die	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_
+34	Korallen	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_
+35	Ozeaniens	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_
+36	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_
+37	die	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_
+38	Kannibalen	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_
+39	des	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_
+40	Pazifiks	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_
+41	bestanden	_	Word	-	+	_	_	_	_	_	H	_	_	_	_	_	_	_	_	_	_	_
+42	hatte	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	F	_	_
+43	,	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_
+44	musste	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	D
+45	er	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A
+46	jämmerlich	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	D
+47	auf	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_
+48	einer	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_
+49	Eisenbahn	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A
+50	verunglücken	_	Word	-	+	_	_	_	_	_	H	_	_	_	_	_	_	_	_	_	_	_
+51	!	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+52	«	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
 
