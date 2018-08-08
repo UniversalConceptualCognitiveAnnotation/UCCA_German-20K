@@ -1,5 +1,6 @@
+# format = ucca
 # sent_id = 25528006
-# text = Die erste , mit vollständigen beweglichen Oberkiefern und Kiemen in Gestalt eines Kammes , begreift fünfzehn Familien , die drei Viertel der bekannten Fische ausmachen , darunter der gemeine Barsch.«
+# text = Die erste , mit vollständigen beweglichen Oberkiefern und Kiemen in Gestalt eines Kammes , begreift fünfzehn Familien , die drei Viertel der bekannten Fische ausmachen , darunter der gemeine Barsch . «
 # doc_id = 
 1	Die	_	Word	Word	_	2	E	2:E	_
 2	erste	_	Word	Word	_	0	root	0:root	_
@@ -30,5 +31,7 @@
 27	darunter	_	Word	Word	_	2	orphan	2:orphan	_
 28	der	_	Word	Word	_	30	E	30:E	_
 29	gemeine	_	Word	Word	_	30	E	30:E	_
-30	Barsch.«	_	Word	Word	_	2	orphan	2:orphan	_
+30	Barsch	_	Word	Word	_	2	orphan	2:orphan	_
+31	.	_	Punctuation	Punctuation	_	30	punct	30:punct	_
+32	«	_	Punctuation	Punctuation	_	30	punct	30:punct	_
 

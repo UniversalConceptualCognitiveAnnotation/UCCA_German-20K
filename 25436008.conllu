@@ -1,9 +1,13 @@
+# format = ucca
 # sent_id = 25436008
-# text = Conseil war mein Diener .
+# text = » Conseil ! « rief ich ungeduldig .
 # doc_id = 
-1	Conseil	_	Word	Word	_	2	A	2:A	_
-2	war	_	Word	Word	_	0	root	0:root	_
-3	mein	_	Word	Word	_	4	E	4:E	_
-4	Diener	_	Word	Word	_	2	orphan	2:orphan	_
-5	.	_	Punctuation	Punctuation	_	4	punct	4:punct	_
+1	»	_	Punctuation	Punctuation	_	5	punct	5:punct	_
+2	Conseil	_	Word	Word	_	5	A	5:A	_
+3	!	_	Punctuation	Punctuation	_	5	punct	5:punct	_
+4	«	_	Punctuation	Punctuation	_	5	punct	5:punct	_
+5	rief	_	Word	Word	_	0	root	0:root	_
+6	ich	_	Word	Word	_	5	A	5:A	_
+7	ungeduldig	_	Word	Word	_	5	D	5:D	_
+8	.	_	Punctuation	Punctuation	_	5	punct	5:punct	_
 

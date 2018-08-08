@@ -1,5 +1,6 @@
+# format = ucca
 # sent_id = 25609004
-# text = Diese Gruppe besteht hauptsächlich aus neun großen Inseln , die in einer Reihe zwischen 15° und 2° südlicher Breite und 164° bis 168° Länge liegen .
+# text = Diese Gruppe besteht hauptsächlich aus neun großen Inseln , die in einer Reihe zwischen 15 ° und 2 ° südlicher Breite und 164 ° bis 168 ° Länge liegen .
 # doc_id = 
 1	Diese	_	Word	Word	_	2	E	2:E	_
 2	Gruppe	_	Word	Word	_	0	root	0:root	_
@@ -10,21 +11,25 @@
 7	großen	_	Word	Word	_	8	E	8:E	_
 8	Inseln	_	Word	Word	_	2	orphan	2:orphan	_
 9	,	_	Punctuation	Punctuation	_	8	punct	8:punct	_
-10	die	_	Word	Word	_	25	R	25:R	_
+10	die	_	Word	Word	_	29	R	29:R	_
 11	in	_	Word	Word	_	13	R	13:R	_
 12	einer	_	Word	Word	_	13	E	13:E	_
 13	Reihe	_	Word	Word	_	2	orphan	2:orphan	_
 14	zwischen	_	Word	Word	_	15	N	15:N	_
-15	15°	_	Word	Word	_	2	orphan	2:orphan	_
-16	und	_	Word	Word	_	15	N	15:N	_
-17	2°	_	Word	Word	_	15	C	15:C	_
-18	südlicher	_	Word	Word	_	15	E	15:E	_
-19	Breite	_	Word	Word	_	18	flat	18:flat	_
-20	und	_	Word	Word	_	15	N	15:N	_
-21	164°	_	Word	Word	_	2	orphan	2:orphan	_
-22	bis	_	Word	Word	_	21	N	21:N	_
-23	168°	_	Word	Word	_	21	C	21:C	_
-24	Länge	_	Word	Word	_	21	E	21:E	_
-25	liegen	_	Word	Word	_	2	orphan	2:orphan	_
-26	.	_	Punctuation	Punctuation	_	25	punct	25:punct	_
+15	15	_	Word	Word	_	2	orphan	2:orphan	_
+16	°	_	Punctuation	Punctuation	_	15	punct	15:punct	_
+17	und	_	Word	Word	_	15	N	15:N	_
+18	2	_	Word	Word	_	15	C	15:C	_
+19	°	_	Punctuation	Punctuation	_	15	punct	15:punct	_
+20	südlicher	_	Word	Word	_	15	E	15:E	_
+21	Breite	_	Word	Word	_	20	flat	20:flat	_
+22	und	_	Word	Word	_	15	N	15:N	_
+23	164	_	Word	Word	_	2	orphan	2:orphan	_
+24	°	_	Punctuation	Punctuation	_	23	punct	23:punct	_
+25	bis	_	Word	Word	_	23	N	23:N	_
+26	168	_	Word	Word	_	23	C	23:C	_
+27	°	_	Punctuation	Punctuation	_	23	punct	23:punct	_
+28	Länge	_	Word	Word	_	23	E	23:E	_
+29	liegen	_	Word	Word	_	2	orphan	2:orphan	_
+30	.	_	Punctuation	Punctuation	_	29	punct	29:punct	_
 

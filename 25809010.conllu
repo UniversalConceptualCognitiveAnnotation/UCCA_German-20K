@@ -1,7 +1,16 @@
+# format = ucca
 # sent_id = 25809010
-# text = » Gerade so.«
+# text = » Waren nicht seine vorstehenden Augen von ansehnlicher Größe ? «
 # doc_id = 
 1	»	_	Punctuation	Punctuation	_	2	punct	2:punct	_
-2	Gerade	_	Word	Word	_	0	root	0:root	_
-3	so.«	_	Word	Word	_	2	flat	2:flat	_
+2	Waren	_	Word	Word	_	0	root	0:root	_
+3	nicht	_	Word	Word	_	2	D	2:D	_
+4	seine	_	Word	Word	_	6	E	6:E	_
+5	vorstehenden	_	Word	Word	_	2	orphan	2:orphan	_
+6	Augen	_	Word	Word	_	2	orphan	2:orphan	_
+7	von	_	Word	Word	_	9	R	9:R	_
+8	ansehnlicher	_	Word	Word	_	9	E	9:E	_
+9	Größe	_	Word	Word	_	2	orphan	2:orphan	_
+10	?	_	Punctuation	Punctuation	_	9	punct	9:punct	_
+11	«	_	Punctuation	Punctuation	_	9	punct	9:punct	_
 

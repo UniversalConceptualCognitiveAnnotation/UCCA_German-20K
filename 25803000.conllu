@@ -1,5 +1,6 @@
+# format = ucca
 # sent_id = 25803000
-# text = Aber plötzlich lag er zu Boden geworfen und streckte die Beine in die Luft ; an der Hälfte seines Körpers gelähmt , schrie er :
+# text = Aber plötzlich lag er zu Boden geworfen und streckte die Beine in die Luft ; an der Hälfte seines Körpers gelähmt , schrie er : » Ach ! Mein Herr ! Mein Herr ! Zu Hilfe ! «
 # doc_id = 
 1	Aber	_	Word	Word	_	3	L	3:L	_
 2	plötzlich	_	Word	Word	_	3	D	3:D	_
@@ -25,5 +26,18 @@
 22	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 23	schrie	_	Word	Word	_	3	orphan	3:orphan	_
 24	er	_	Word	Word	_	23	A	23:A	_
-25	:	_	Punctuation	Punctuation	_	21	punct	21:punct	_
+25	:	_	Punctuation	Punctuation	_	36	punct	36:punct	_
+26	»	_	Punctuation	Punctuation	_	36	punct	36:punct	_
+27	Ach	_	Word	Word	_	36	F	36:F	_
+28	!	_	Punctuation	Punctuation	_	36	punct	36:punct	_
+29	Mein	_	Word	Word	_	30	E	30:E	_
+30	Herr	_	Word	Word	_	3	orphan	3:orphan	_
+31	!	_	Punctuation	Punctuation	_	36	punct	36:punct	_
+32	Mein	_	Word	Word	_	33	E	33:E	_
+33	Herr	_	Word	Word	_	3	orphan	3:orphan	_
+34	!	_	Punctuation	Punctuation	_	36	punct	36:punct	_
+35	Zu	_	Word	Word	_	36	F	36:F	_
+36	Hilfe	_	Word	Word	_	3	orphan	3:orphan	_
+37	!	_	Punctuation	Punctuation	_	36	punct	36:punct	_
+38	«	_	Punctuation	Punctuation	_	36	punct	36:punct	_
 

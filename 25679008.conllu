@@ -1,10 +1,34 @@
+# format = ucca
 # sent_id = 25679008
-# text = » Und warum nicht ? «
+# text = » Was sollen uns an Bord der Nautilus Millionen nützen ? « » An Bord nicht « , sagte Ned Land , » aber ... sonst wo . «
 # doc_id = 
-1	»	_	Punctuation	Punctuation	_	3	punct	3:punct	_
-2	Und	_	Word	Word	_	3	L	3:L	_
-3	warum	_	Word	Word	_	0	root	0:root	_
-4	nicht	_	Word	Word	_	3	D	3:D	_
-5	?	_	Punctuation	Punctuation	_	3	punct	3:punct	_
-6	«	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+1	»	_	Punctuation	Punctuation	_	10	punct	10:punct	_
+2	Was	_	Word	Word	_	10	A	10:A	_
+3	sollen	_	Word	Word	_	10	D	10:D	_
+4	uns	_	Word	Word	_	10	A	10:A	_
+5	an	_	Word	Word	_	6	R	6:R	_
+6	Bord	_	Word	Word	_	0	root	0:root	_
+7	der	_	Word	Word	_	8	R	8:R	_
+8	Nautilus	_	Word	Word	_	6	orphan	6:orphan	_
+9	Millionen	_	Word	Word	_	10	A	10:A	_
+10	nützen	_	Word	Word	_	6	orphan	6:orphan	_
+11	?	_	Punctuation	Punctuation	_	15	punct	15:punct	_
+12	«	_	Punctuation	Punctuation	_	15	punct	15:punct	_
+13	»	_	Punctuation	Punctuation	_	15	punct	15:punct	_
+14	An	_	Word	Word	_	15	R	15:R	_
+15	Bord	_	Word	Word	_	6	orphan	6:orphan	_
+16	nicht	_	Word	Word	_	15	D	15:D	_
+17	«	_	Punctuation	Punctuation	_	19	punct	19:punct	_
+18	,	_	Punctuation	Punctuation	_	19	punct	19:punct	_
+19	sagte	_	Word	Word	_	6	orphan	6:orphan	_
+20	Ned	_	Word	Word	_	19	A	19:A	_
+21	Land	_	Word	Word	_	20	flat	20:flat	_
+22	,	_	Punctuation	Punctuation	_	19	punct	19:punct	_
+23	»	_	Punctuation	Punctuation	_	19	punct	19:punct	_
+24	aber	_	Word	Word	_	15	L	15:L	_
+25	...	_	Punctuation	Punctuation	_	15	punct	15:punct	_
+26	sonst	_	Word	Word	_	27	D	27:D	_
+27	wo	_	Word	Word	_	6	orphan	6:orphan	_
+28	.	_	Punctuation	Punctuation	_	27	punct	27:punct	_
+29	«	_	Punctuation	Punctuation	_	27	punct	27:punct	_
 

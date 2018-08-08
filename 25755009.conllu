@@ -1,5 +1,6 @@
+# format = ucca
 # sent_id = 25755009
-# text = » ... Das macht 625 . Das will ebensoviel heißen , wie dass die Nautilus strenggenommen soviel Luft faßt , wie für 625 Mann während 24 Stunden erforderlich ist.«
+# text = » ... Das macht 625 . Das will ebensoviel heißen , wie dass die Nautilus strenggenommen soviel Luft faßt , wie für 625 Mann während 24 Stunden erforderlich ist . «
 # doc_id = 
 1	»	_	Punctuation	Punctuation	_	4	punct	4:punct	_
 2	...	_	Punctuation	Punctuation	_	4	punct	4:punct	_
@@ -29,5 +30,7 @@
 26	24	_	Word	Word	_	27	E	27:E	_
 27	Stunden	_	Word	Word	_	4	orphan	4:orphan	_
 28	erforderlich	_	Word	Word	_	4	orphan	4:orphan	_
-29	ist.«	_	Word	Word	_	28	F	28:F	_
+29	ist	_	Word	Word	_	28	F	28:F	_
+30	.	_	Punctuation	Punctuation	_	28	punct	28:punct	_
+31	«	_	Punctuation	Punctuation	_	28	punct	28:punct	_
 

@@ -1,9 +1,10 @@
+# format = ucca
 # sent_id = 25633015
-# text = »Aber diese Eingeborenen sind zahlreich.«
+# text = » Mindestens hundert . «
 # doc_id = 
-1	»Aber	_	Word	Word	_	5	L	5:L	_
-2	diese	_	Word	Word	_	3	E	3:E	_
-3	Eingeborenen	_	Word	Word	_	0	root	0:root	_
-4	sind	_	Word	Word	_	5	F	5:F	_
-5	zahlreich.«	_	Word	Word	_	3	orphan	3:orphan	_
+1	»	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+2	Mindestens	_	Word	Word	_	3	D	3:D	_
+3	hundert	_	Word	Word	_	0	root	0:root	_
+4	.	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+5	«	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 

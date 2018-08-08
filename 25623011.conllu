@@ -1,5 +1,6 @@
+# format = ucca
 # sent_id = 25623011
-# text = Ich meine den Brotbaum , der auf der Insel Queboroar sehr reichlich wächst ; besonders fiel mir die Varietät ohne Körner auf , die im Malayischen »Rima« genannt wird .
+# text = Ich meine den Brotbaum , der auf der Insel Queboroar sehr reichlich wächst ; besonders fiel mir die Varietät ohne Körner auf , die im Malayischen » Rima « genannt wird .
 # doc_id = 
 1	Ich	_	Word	Word	_	2	A	2:A	_
 2	meine	_	Word	Word	_	0	root	0:root	_
@@ -24,11 +25,13 @@
 21	Körner	_	Word	Word	_	2	orphan	2:orphan	_
 22	auf	_	Word	Word	_	16	flat	16:flat	_
 23	,	_	Punctuation	Punctuation	_	16	punct	16:punct	_
-24	die	_	Word	Word	_	28	R	28:R	_
+24	die	_	Word	Word	_	30	R	30:R	_
 25	im	_	Word	Word	_	26	R	26:R	_
 26	Malayischen	_	Word	Word	_	2	orphan	2:orphan	_
-27	»Rima«	_	Word	Word	_	28	A	28:A	_
-28	genannt	_	Word	Word	_	2	orphan	2:orphan	_
-29	wird	_	Word	Word	_	28	F	28:F	_
-30	.	_	Punctuation	Punctuation	_	28	punct	28:punct	_
+27	»	_	Punctuation	Punctuation	_	30	punct	30:punct	_
+28	Rima	_	Word	Word	_	30	A	30:A	_
+29	«	_	Punctuation	Punctuation	_	30	punct	30:punct	_
+30	genannt	_	Word	Word	_	2	orphan	2:orphan	_
+31	wird	_	Word	Word	_	30	F	30:F	_
+32	.	_	Punctuation	Punctuation	_	30	punct	30:punct	_
 

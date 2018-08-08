@@ -1,5 +1,6 @@
+# format = ucca
 # sent_id = 25812007
-# text = » Allerdings . Die elektrischen Kugeln sind unwirksam gegen dieses weiche Fleisch , und sie finden nicht Widerstand genug , um zu platzen . Aber wir greifen sie mit dem Beil an.«
+# text = » Allerdings . Die elektrischen Kugeln sind unwirksam gegen dieses weiche Fleisch , und sie finden nicht Widerstand genug , um zu platzen . Aber wir greifen sie mit dem Beil an . «
 # doc_id = 
 1	»	_	Punctuation	Punctuation	_	2	punct	2:punct	_
 2	Allerdings	_	Word	Word	_	0	root	0:root	_
@@ -32,5 +33,7 @@
 29	mit	_	Word	Word	_	31	R	31:R	_
 30	dem	_	Word	Word	_	31	E	31:E	_
 31	Beil	_	Word	Word	_	2	orphan	2:orphan	_
-32	an.«	_	Word	Word	_	27	flat	27:flat	_
+32	an	_	Word	Word	_	27	flat	27:flat	_
+33	.	_	Punctuation	Punctuation	_	27	punct	27:punct	_
+34	«	_	Punctuation	Punctuation	_	27	punct	27:punct	_
 

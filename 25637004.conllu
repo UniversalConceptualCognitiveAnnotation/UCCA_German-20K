@@ -1,14 +1,18 @@
+# format = ucca
 # sent_id = 25637004
-# text = »Nein , Kapitän , aber es gibt noch eine Gefahr.«
+# text = » Nein , Kapitän , aber es gibt noch eine Gefahr . «
 # doc_id = 
-1	»Nein	_	Word	Word	_	0	root	0:root	_
-2	,	_	Punctuation	Punctuation	_	1	punct	1:punct	_
-3	Kapitän	_	Word	Word	_	1	G	1:G	_
-4	,	_	Punctuation	Punctuation	_	1	punct	1:punct	_
-5	aber	_	Word	Word	_	1	L	1:L	_
-6	es	_	Word	Word	_	7	F	7:F	_
-7	gibt	_	Word	Word	_	1	orphan	1:orphan	_
-8	noch	_	Word	Word	_	9	E	9:E	_
-9	eine	_	Word	Word	_	1	orphan	1:orphan	_
-10	Gefahr.«	_	Word	Word	_	1	orphan	1:orphan	_
+1	»	_	Punctuation	Punctuation	_	2	punct	2:punct	_
+2	Nein	_	Word	Word	_	0	root	0:root	_
+3	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
+4	Kapitän	_	Word	Word	_	2	G	2:G	_
+5	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
+6	aber	_	Word	Word	_	2	L	2:L	_
+7	es	_	Word	Word	_	8	F	8:F	_
+8	gibt	_	Word	Word	_	2	orphan	2:orphan	_
+9	noch	_	Word	Word	_	10	E	10:E	_
+10	eine	_	Word	Word	_	2	orphan	2:orphan	_
+11	Gefahr	_	Word	Word	_	2	orphan	2:orphan	_
+12	.	_	Punctuation	Punctuation	_	11	punct	11:punct	_
+13	«	_	Punctuation	Punctuation	_	11	punct	11:punct	_
 

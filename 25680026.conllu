@@ -1,10 +1,19 @@
+# format = ucca
 # sent_id = 25680026
-# text = Es war noch dunkle Nacht .
+# text = Wolken streifen bedeckten den Himmel und ließen nur hie und da Sterne erblicken .
 # doc_id = 
-1	Es	_	Word	Word	_	4	F	4:F	_
-2	war	_	Word	Word	_	4	F	4:F	_
-3	noch	_	Word	Word	_	4	D	4:D	_
-4	dunkle	_	Word	Word	_	0	root	0:root	_
-5	Nacht	_	Word	Word	_	4	A	4:A	_
-6	.	_	Punctuation	Punctuation	_	4	punct	4:punct	_
+1	Wolken	_	Word	Word	_	2	E	2:E	_
+2	streifen	_	Word	Word	_	0	root	0:root	_
+3	bedeckten	_	Word	Word	_	2	orphan	2:orphan	_
+4	den	_	Word	Word	_	5	E	5:E	_
+5	Himmel	_	Word	Word	_	2	orphan	2:orphan	_
+6	und	_	Word	Word	_	3	L	3:L	_
+7	ließen	_	Word	Word	_	13	D	13:D	_
+8	nur	_	Word	Word	_	13	D	13:D	_
+9	hie	_	Word	Word	_	13	A	13:A	_
+10	und	_	Word	Word	_	9	flat	9:flat	_
+11	da	_	Word	Word	_	9	flat	9:flat	_
+12	Sterne	_	Word	Word	_	13	A	13:A	_
+13	erblicken	_	Word	Word	_	2	orphan	2:orphan	_
+14	.	_	Punctuation	Punctuation	_	13	punct	13:punct	_
 

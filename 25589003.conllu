@@ -1,10 +1,40 @@
+# format = ucca
 # sent_id = 25589003
-# text = »Man muß wohl , Meister Ned.«
+# text = » Es steht Ihnen frei , mein Herr « , erwiderte der Harpunier mit Achselzucken , » aber ich meinesteils ziehe sie niemals an , wofern man mich nicht mit Gewalt dazu zwingt . «
 # doc_id = 
-1	»Man	_	Word	Word	_	0	root	0:root	_
-2	muß	_	Word	Word	_	1	D	1:D	_
-3	wohl	_	Word	Word	_	1	G	1:G	_
-4	,	_	Punctuation	Punctuation	_	1	punct	1:punct	_
-5	Meister	_	Word	Word	_	6	E	6:E	_
-6	Ned.«	_	Word	Word	_	1	orphan	1:orphan	_
+1	»	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+2	Es	_	Word	Word	_	3	F	3:F	_
+3	steht	_	Word	Word	_	0	root	0:root	_
+4	Ihnen	_	Word	Word	_	3	A	3:A	_
+5	frei	_	Word	Word	_	3	flat	3:flat	_
+6	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+7	mein	_	Word	Word	_	8	E	8:E	_
+8	Herr	_	Word	Word	_	3	orphan	3:orphan	_
+9	«	_	Punctuation	Punctuation	_	11	punct	11:punct	_
+10	,	_	Punctuation	Punctuation	_	11	punct	11:punct	_
+11	erwiderte	_	Word	Word	_	3	orphan	3:orphan	_
+12	der	_	Word	Word	_	13	E	13:E	_
+13	Harpunier	_	Word	Word	_	3	orphan	3:orphan	_
+14	mit	_	Word	Word	_	15	R	15:R	_
+15	Achselzucken	_	Word	Word	_	3	orphan	3:orphan	_
+16	,	_	Punctuation	Punctuation	_	11	punct	11:punct	_
+17	»	_	Punctuation	Punctuation	_	11	punct	11:punct	_
+18	aber	_	Word	Word	_	3	L	3:L	_
+19	ich	_	Word	Word	_	21	A	21:A	_
+20	meinesteils	_	Word	Word	_	21	D	21:D	_
+21	ziehe	_	Word	Word	_	3	orphan	3:orphan	_
+22	sie	_	Word	Word	_	21	A	21:A	_
+23	niemals	_	Word	Word	_	21	D	21:D	_
+24	an	_	Word	Word	_	21	flat	21:flat	_
+25	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+26	wofern	_	Word	Word	_	3	L	3:L	_
+27	man	_	Word	Word	_	33	A	33:A	_
+28	mich	_	Word	Word	_	33	A	33:A	_
+29	nicht	_	Word	Word	_	33	D	33:D	_
+30	mit	_	Word	Word	_	31	R	31:R	_
+31	Gewalt	_	Word	Word	_	3	orphan	3:orphan	_
+32	dazu	_	Word	Word	_	33	A	33:A	_
+33	zwingt	_	Word	Word	_	3	orphan	3:orphan	_
+34	.	_	Punctuation	Punctuation	_	33	punct	33:punct	_
+35	«	_	Punctuation	Punctuation	_	33	punct	33:punct	_
 

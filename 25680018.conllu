@@ -1,8 +1,13 @@
+# format = ucca
 # sent_id = 25680018
-# text = »Folgen Sie mir gefälligst.«
+# text = » Und meine Gefährten , Kapitän ? «
 # doc_id = 
-1	»Folgen	_	Word	Word	_	0	root	0:root	_
-2	Sie	_	Word	Word	_	1	A	1:A	_
-3	mir	_	Word	Word	_	1	A	1:A	_
-4	gefälligst.«	_	Word	Word	_	1	D	1:D	_
+1	»	_	Punctuation	Punctuation	_	4	punct	4:punct	_
+2	Und	_	Word	Word	_	4	L	4:L	_
+3	meine	_	Word	Word	_	4	E	4:E	_
+4	Gefährten	_	Word	Word	_	0	root	0:root	_
+5	,	_	Punctuation	Punctuation	_	4	punct	4:punct	_
+6	Kapitän	_	Word	Word	_	4	G	4:G	_
+7	?	_	Punctuation	Punctuation	_	4	punct	4:punct	_
+8	«	_	Punctuation	Punctuation	_	4	punct	4:punct	_
 

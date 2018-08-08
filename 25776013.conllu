@@ -1,10 +1,13 @@
+# format = ucca
 # sent_id = 25776013
-# text = »Sie sind im Kampf ? «
+# text = » Im Kampf oder beim Spiel . «
 # doc_id = 
-1	»Sie	_	Word	Word	_	4	A	4:A	_
-2	sind	_	Word	Word	_	4	F	4:F	_
-3	im	_	Word	Word	_	4	R	4:R	_
-4	Kampf	_	Word	Word	_	0	root	0:root	_
-5	?	_	Punctuation	Punctuation	_	4	punct	4:punct	_
-6	«	_	Punctuation	Punctuation	_	4	punct	4:punct	_
+1	»	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+2	Im	_	Word	Word	_	3	R	3:R	_
+3	Kampf	_	Word	Word	_	0	root	0:root	_
+4	oder	_	Word	Word	_	3	L	3:L	_
+5	beim	_	Word	Word	_	6	R	6:R	_
+6	Spiel	_	Word	Word	_	3	orphan	3:orphan	_
+7	.	_	Punctuation	Punctuation	_	6	punct	6:punct	_
+8	«	_	Punctuation	Punctuation	_	6	punct	6:punct	_
 

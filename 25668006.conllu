@@ -1,5 +1,6 @@
+# format = ucca
 # sent_id = 25668006
-# text = Unter den viereckigen führe ich die mit vier Buckeln auf dem Rücken an ; die Dromedare mit dicken kegel förmigen Höckern , von hartem , zähem Fleisch ; ferner Trigonen , die mit Stacheln versehen sind , die durch Verlängerung ihrer beinigen Schale entstehen , und die man ihres eigentümlichen Grunzens wegen »Meerschweine« genannt hat .
+# text = Unter den viereckigen führe ich die mit vier Buckeln auf dem Rücken an ; die Dromedare mit dicken kegel förmigen Höckern , von hartem , zähem Fleisch ; ferner Trigonen , die mit Stacheln versehen sind , die durch Verlängerung ihrer beinigen Schale entstehen , und die man ihres eigentümlichen Grunzens wegen » Meerschweine « genannt hat .
 # doc_id = 
 1	Unter	_	Word	Word	_	3	R	3:R	_
 2	den	_	Word	Word	_	3	E	3:E	_
@@ -47,14 +48,16 @@
 44	entstehen	_	Word	Word	_	3	orphan	3:orphan	_
 45	,	_	Punctuation	Punctuation	_	35	punct	35:punct	_
 46	und	_	Word	Word	_	35	N	35:N	_
-47	die	_	Word	Word	_	54	R	54:R	_
-48	man	_	Word	Word	_	54	A	54:A	_
+47	die	_	Word	Word	_	56	R	56:R	_
+48	man	_	Word	Word	_	56	A	56:A	_
 49	ihres	_	Word	Word	_	51	E	51:E	_
 50	eigentümlichen	_	Word	Word	_	51	D	51:D	_
 51	Grunzens	_	Word	Word	_	3	orphan	3:orphan	_
 52	wegen	_	Word	Word	_	51	R	51:R	_
-53	»Meerschweine«	_	Word	Word	_	54	A	54:A	_
-54	genannt	_	Word	Word	_	3	orphan	3:orphan	_
-55	hat	_	Word	Word	_	54	F	54:F	_
-56	.	_	Punctuation	Punctuation	_	54	punct	54:punct	_
+53	»	_	Punctuation	Punctuation	_	56	punct	56:punct	_
+54	Meerschweine	_	Word	Word	_	56	A	56:A	_
+55	«	_	Punctuation	Punctuation	_	56	punct	56:punct	_
+56	genannt	_	Word	Word	_	3	orphan	3:orphan	_
+57	hat	_	Word	Word	_	56	F	56:F	_
+58	.	_	Punctuation	Punctuation	_	56	punct	56:punct	_
 

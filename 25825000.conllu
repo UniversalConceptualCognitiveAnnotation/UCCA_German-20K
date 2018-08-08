@@ -1,8 +1,10 @@
+# format = ucca
 # sent_id = 25825000
-# text = »Was denn ? «
+# text = » Was denn ? «
 # doc_id = 
-1	»Was	_	Word	Word	_	0	root	0:root	_
-2	denn	_	Word	Word	_	1	D	1:D	_
-3	?	_	Punctuation	Punctuation	_	1	punct	1:punct	_
-4	«	_	Punctuation	Punctuation	_	1	punct	1:punct	_
+1	»	_	Punctuation	Punctuation	_	2	punct	2:punct	_
+2	Was	_	Word	Word	_	0	root	0:root	_
+3	denn	_	Word	Word	_	2	D	2:D	_
+4	?	_	Punctuation	Punctuation	_	2	punct	2:punct	_
+5	«	_	Punctuation	Punctuation	_	2	punct	2:punct	_
 

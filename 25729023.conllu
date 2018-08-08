@@ -1,15 +1,19 @@
+# format = ucca
 # sent_id = 25729023
-# text = »Nun denn ! So werden wir zu Mittag die Aufnahme sehen.«
+# text = » Nun denn ! So werden wir zu Mittag die Aufnahme sehen . «
 # doc_id = 
-1	»Nun	_	Word	Word	_	0	root	0:root	_
-2	denn	_	Word	Word	_	1	flat	1:flat	_
-3	!	_	Punctuation	Punctuation	_	1	punct	1:punct	_
-4	So	_	Word	Word	_	1	L	1:L	_
-5	werden	_	Word	Word	_	11	F	11:F	_
-6	wir	_	Word	Word	_	11	A	11:A	_
-7	zu	_	Word	Word	_	8	R	8:R	_
-8	Mittag	_	Word	Word	_	1	orphan	1:orphan	_
-9	die	_	Word	Word	_	10	E	10:E	_
-10	Aufnahme	_	Word	Word	_	1	orphan	1:orphan	_
-11	sehen.«	_	Word	Word	_	1	orphan	1:orphan	_
+1	»	_	Punctuation	Punctuation	_	2	punct	2:punct	_
+2	Nun	_	Word	Word	_	0	root	0:root	_
+3	denn	_	Word	Word	_	2	flat	2:flat	_
+4	!	_	Punctuation	Punctuation	_	2	punct	2:punct	_
+5	So	_	Word	Word	_	2	L	2:L	_
+6	werden	_	Word	Word	_	12	F	12:F	_
+7	wir	_	Word	Word	_	12	A	12:A	_
+8	zu	_	Word	Word	_	9	R	9:R	_
+9	Mittag	_	Word	Word	_	2	orphan	2:orphan	_
+10	die	_	Word	Word	_	11	E	11:E	_
+11	Aufnahme	_	Word	Word	_	2	orphan	2:orphan	_
+12	sehen	_	Word	Word	_	2	orphan	2:orphan	_
+13	.	_	Punctuation	Punctuation	_	12	punct	12:punct	_
+14	«	_	Punctuation	Punctuation	_	12	punct	12:punct	_
 

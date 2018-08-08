@@ -1,15 +1,29 @@
+# format = ucca
 # sent_id = 25438024
-# text = Der Dampf zischte , indem er in die Behälter drang .
+# text = Auf diesen Befehl , der vermittels eines Apparats mit verdichteter Luft zur Maschine befördert wurde , setzten die Maschinenleute das Rad in Bewegung .
 # doc_id = 
-1	Der	_	Word	Word	_	2	E	2:E	_
-2	Dampf	_	Word	Word	_	0	root	0:root	_
-3	zischte	_	Word	Word	_	2	orphan	2:orphan	_
+1	Auf	_	Word	Word	_	3	R	3:R	_
+2	diesen	_	Word	Word	_	3	E	3:E	_
+3	Befehl	_	Word	Word	_	0	root	0:root	_
 4	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
-5	indem	_	Word	Word	_	3	L	3:L	_
-6	er	_	Word	Word	_	10	A	10:A	_
-7	in	_	Word	Word	_	9	R	9:R	_
-8	die	_	Word	Word	_	9	E	9:E	_
-9	Behälter	_	Word	Word	_	2	orphan	2:orphan	_
-10	drang	_	Word	Word	_	2	orphan	2:orphan	_
-11	.	_	Punctuation	Punctuation	_	10	punct	10:punct	_
+5	der	_	Word	Word	_	14	R	14:R	_
+6	vermittels	_	Word	Word	_	8	R	8:R	_
+7	eines	_	Word	Word	_	8	E	8:E	_
+8	Apparats	_	Word	Word	_	3	orphan	3:orphan	_
+9	mit	_	Word	Word	_	11	R	11:R	_
+10	verdichteter	_	Word	Word	_	11	E	11:E	_
+11	Luft	_	Word	Word	_	3	orphan	3:orphan	_
+12	zur	_	Word	Word	_	13	R	13:R	_
+13	Maschine	_	Word	Word	_	3	orphan	3:orphan	_
+14	befördert	_	Word	Word	_	3	orphan	3:orphan	_
+15	wurde	_	Word	Word	_	14	F	14:F	_
+16	,	_	Punctuation	Punctuation	_	17	punct	17:punct	_
+17	setzten	_	Word	Word	_	3	orphan	3:orphan	_
+18	die	_	Word	Word	_	19	E	19:E	_
+19	Maschinenleute	_	Word	Word	_	3	orphan	3:orphan	_
+20	das	_	Word	Word	_	21	E	21:E	_
+21	Rad	_	Word	Word	_	3	orphan	3:orphan	_
+22	in	_	Word	Word	_	17	flat	17:flat	_
+23	Bewegung	_	Word	Word	_	17	flat	17:flat	_
+24	.	_	Punctuation	Punctuation	_	17	punct	17:punct	_
 

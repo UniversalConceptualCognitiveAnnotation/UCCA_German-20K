@@ -1,5 +1,6 @@
+# format = ucca
 # sent_id = 25665014
-# text = Wir sind nur Gefangene , deren Eigenschaft als solche durch einen Anschein von Höflichkeit mit der Benennung »Gäste« verdeckt ist .
+# text = Wir sind nur Gefangene , deren Eigenschaft als solche durch einen Anschein von Höflichkeit mit der Benennung » Gäste « verdeckt ist .
 # doc_id = 
 1	Wir	_	Word	Word	_	2	A	2:A	_
 2	sind	_	Word	Word	_	0	root	0:root	_
@@ -18,8 +19,10 @@
 15	mit	_	Word	Word	_	17	R	17:R	_
 16	der	_	Word	Word	_	17	E	17:E	_
 17	Benennung	_	Word	Word	_	2	orphan	2:orphan	_
-18	»Gäste«	_	Word	Word	_	17	A	17:A	_
-19	verdeckt	_	Word	Word	_	2	orphan	2:orphan	_
-20	ist	_	Word	Word	_	19	F	19:F	_
-21	.	_	Punctuation	Punctuation	_	19	punct	19:punct	_
+18	»	_	Punctuation	Punctuation	_	17	punct	17:punct	_
+19	Gäste	_	Word	Word	_	17	A	17:A	_
+20	«	_	Punctuation	Punctuation	_	21	punct	21:punct	_
+21	verdeckt	_	Word	Word	_	2	orphan	2:orphan	_
+22	ist	_	Word	Word	_	21	F	21:F	_
+23	.	_	Punctuation	Punctuation	_	21	punct	21:punct	_
 

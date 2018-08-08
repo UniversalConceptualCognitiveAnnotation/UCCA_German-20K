@@ -1,9 +1,35 @@
+# format = ucca
 # sent_id = 25730015
-# text = » Recht gern . «
+# text = » Dieser Spaziergang wird ermüdend sein , sag ich zum voraus . Man muß weit gehen und einen Berg hinauf . Die Wege sind nicht sehr gut gebahnt . «
 # doc_id = 
-1	»	_	Punctuation	Punctuation	_	3	punct	3:punct	_
-2	Recht	_	Word	Word	_	3	E	3:E	_
-3	gern	_	Word	Word	_	0	root	0:root	_
-4	.	_	Punctuation	Punctuation	_	3	punct	3:punct	_
-5	«	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+1	»	_	Punctuation	Punctuation	_	5	punct	5:punct	_
+2	Dieser	_	Word	Word	_	3	E	3:E	_
+3	Spaziergang	_	Word	Word	_	0	root	0:root	_
+4	wird	_	Word	Word	_	5	F	5:F	_
+5	ermüdend	_	Word	Word	_	3	orphan	3:orphan	_
+6	sein	_	Word	Word	_	5	F	5:F	_
+7	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_
+8	sag	_	Word	Word	_	3	orphan	3:orphan	_
+9	ich	_	Word	Word	_	8	A	8:A	_
+10	zum	_	Word	Word	_	11	R	11:R	_
+11	voraus	_	Word	Word	_	3	orphan	3:orphan	_
+12	.	_	Punctuation	Punctuation	_	5	punct	5:punct	_
+13	Man	_	Word	Word	_	16	A	16:A	_
+14	muß	_	Word	Word	_	16	D	16:D	_
+15	weit	_	Word	Word	_	16	D	16:D	_
+16	gehen	_	Word	Word	_	3	orphan	3:orphan	_
+17	und	_	Word	Word	_	5	L	5:L	_
+18	einen	_	Word	Word	_	19	E	19:E	_
+19	Berg	_	Word	Word	_	3	orphan	3:orphan	_
+20	hinauf	_	Word	Word	_	19	D	19:D	_
+21	.	_	Punctuation	Punctuation	_	5	punct	5:punct	_
+22	Die	_	Word	Word	_	23	E	23:E	_
+23	Wege	_	Word	Word	_	3	orphan	3:orphan	_
+24	sind	_	Word	Word	_	28	F	28:F	_
+25	nicht	_	Word	Word	_	28	D	28:D	_
+26	sehr	_	Word	Word	_	27	E	27:E	_
+27	gut	_	Word	Word	_	3	orphan	3:orphan	_
+28	gebahnt	_	Word	Word	_	3	orphan	3:orphan	_
+29	.	_	Punctuation	Punctuation	_	28	punct	28:punct	_
+30	«	_	Punctuation	Punctuation	_	28	punct	28:punct	_
 

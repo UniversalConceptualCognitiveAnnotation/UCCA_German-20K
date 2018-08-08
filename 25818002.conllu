@@ -1,8 +1,19 @@
+# format = ucca
 # sent_id = 25818002
-# text = »Ja , mein Herr.«
+# text = » Und das , obwohl er sie bereits zu erkennen gegeben hat ? «
 # doc_id = 
-1	»Ja	_	Word	Word	_	0	root	0:root	_
-2	,	_	Punctuation	Punctuation	_	1	punct	1:punct	_
-3	mein	_	Word	Word	_	4	E	4:E	_
-4	Herr.«	_	Word	Word	_	1	orphan	1:orphan	_
+1	»	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+2	Und	_	Word	Word	_	3	L	3:L	_
+3	das	_	Word	Word	_	0	root	0:root	_
+4	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+5	obwohl	_	Word	Word	_	3	L	3:L	_
+6	er	_	Word	Word	_	10	A	10:A	_
+7	sie	_	Word	Word	_	10	A	10:A	_
+8	bereits	_	Word	Word	_	10	D	10:D	_
+9	zu	_	Word	Word	_	10	F	10:F	_
+10	erkennen	_	Word	Word	_	3	orphan	3:orphan	_
+11	gegeben	_	Word	Word	_	10	D	10:D	_
+12	hat	_	Word	Word	_	10	F	10:F	_
+13	?	_	Punctuation	Punctuation	_	10	punct	10:punct	_
+14	«	_	Punctuation	Punctuation	_	10	punct	10:punct	_
 

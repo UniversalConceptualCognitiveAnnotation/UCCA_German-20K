@@ -1,9 +1,12 @@
+# format = ucca
 # sent_id = 25712003
-# text = » Gern , Herr Arronax.«
+# text = » Gern , Herr Arronax . «
 # doc_id = 
 1	»	_	Punctuation	Punctuation	_	2	punct	2:punct	_
 2	Gern	_	Word	Word	_	0	root	0:root	_
 3	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
 4	Herr	_	Word	Word	_	5	E	5:E	_
-5	Arronax.«	_	Word	Word	_	2	orphan	2:orphan	_
+5	Arronax	_	Word	Word	_	2	orphan	2:orphan	_
+6	.	_	Punctuation	Punctuation	_	5	punct	5:punct	_
+7	«	_	Punctuation	Punctuation	_	5	punct	5:punct	_
 

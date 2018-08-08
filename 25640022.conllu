@@ -1,5 +1,6 @@
+# format = ucca
 # sent_id = 25640022
-# text = Seine Schnelligkeit nahm nach und nach zu , und er verließ an der Oberfläche fahrend unverletzt und wohlbehalten die gefährliche Straße Torres. Fieberträume
+# text = Seine Schnelligkeit nahm nach und nach zu , und er verließ an der Oberfläche fahrend unverletzt und wohlbehalten die gefährliche Straße Torres .
 # doc_id = 
 1	Seine	_	Word	Word	_	2	E	2:E	_
 2	Schnelligkeit	_	Word	Word	_	0	root	0:root	_
@@ -22,6 +23,6 @@
 19	die	_	Word	Word	_	22	E	22:E	_
 20	gefährliche	_	Word	Word	_	22	E	22:E	_
 21	Straße	_	Word	Word	_	22	E	22:E	_
-22	Torres.	_	Word	Word	_	2	orphan	2:orphan	_
-23	Fieberträume	_	Word	Word	_	3	H	3:H	_
+22	Torres	_	Word	Word	_	2	orphan	2:orphan	_
+23	.	_	Punctuation	Punctuation	_	22	punct	22:punct	_
 

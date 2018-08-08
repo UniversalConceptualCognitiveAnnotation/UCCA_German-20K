@@ -1,5 +1,6 @@
+# format = ucca
 # sent_id = 25409005
-# text = Vierzehn Tage später als zweitausend Meilen von da die Helvetia , von der Company Nationale , und der Schannon , von der Royal-Mail , in dem zwischen den Vereinigten Staaten und Europa gelegenen Teil des Atlantischen Meeres in entgegengesetzter Richtung fuhren , signalisierten sie sich das Ungeheuer unterm 42° 15 ' nördl . Breite und 60° 35 ' westl . Länge vom Meridian zu Greenwich aus .
+# text = Vierzehn Tage später als zweitausend Meilen von da die Helvetia , von der Company Nationale , und der Schannon , von der Royal-Mail , in dem zwischen den Vereinigten Staaten und Europa gelegenen Teil des Atlantischen Meeres in entgegengesetzter Richtung fuhren , signalisierten sie sich das Ungeheuer unterm 42 ° 15 ' nördl . Breite und 60 ° 35 ' westl . Länge vom Meridian zu Greenwich aus .
 # doc_id = 
 1	Vierzehn	_	Word	Word	_	2	E	2:E	_
 2	Tage	_	Word	Word	_	0	root	0:root	_
@@ -49,23 +50,25 @@
 46	das	_	Word	Word	_	47	E	47:E	_
 47	Ungeheuer	_	Word	Word	_	2	orphan	2:orphan	_
 48	unterm	_	Word	Word	_	49	R	49:R	_
-49	42°	_	Word	Word	_	2	orphan	2:orphan	_
-50	15	_	Word	Word	_	49	flat	49:flat	_
-51	'	_	Punctuation	Punctuation	_	49	punct	49:punct	_
-52	nördl	_	Word	Word	_	49	flat	49:flat	_
-53	.	_	Punctuation	Punctuation	_	49	punct	49:punct	_
-54	Breite	_	Word	Word	_	49	flat	49:flat	_
-55	und	_	Word	Word	_	49	N	49:N	_
-56	60°	_	Word	Word	_	49	C	49:C	_
-57	35	_	Word	Word	_	56	flat	56:flat	_
-58	'	_	Punctuation	Punctuation	_	49	punct	49:punct	_
-59	westl	_	Word	Word	_	56	flat	56:flat	_
-60	.	_	Punctuation	Punctuation	_	49	punct	49:punct	_
-61	Länge	_	Word	Word	_	56	flat	56:flat	_
-62	vom	_	Word	Word	_	63	R	63:R	_
-63	Meridian	_	Word	Word	_	2	orphan	2:orphan	_
-64	zu	_	Word	Word	_	63	N	63:N	_
-65	Greenwich	_	Word	Word	_	63	C	63:C	_
-66	aus	_	Word	Word	_	63	R	63:R	_
-67	.	_	Punctuation	Punctuation	_	63	punct	63:punct	_
+49	42	_	Word	Word	_	2	orphan	2:orphan	_
+50	°	_	Punctuation	Punctuation	_	49	punct	49:punct	_
+51	15	_	Word	Word	_	49	flat	49:flat	_
+52	'	_	Punctuation	Punctuation	_	49	punct	49:punct	_
+53	nördl	_	Word	Word	_	49	flat	49:flat	_
+54	.	_	Punctuation	Punctuation	_	49	punct	49:punct	_
+55	Breite	_	Word	Word	_	49	flat	49:flat	_
+56	und	_	Word	Word	_	49	N	49:N	_
+57	60	_	Word	Word	_	49	C	49:C	_
+58	°	_	Punctuation	Punctuation	_	49	punct	49:punct	_
+59	35	_	Word	Word	_	57	flat	57:flat	_
+60	'	_	Punctuation	Punctuation	_	49	punct	49:punct	_
+61	westl	_	Word	Word	_	57	flat	57:flat	_
+62	.	_	Punctuation	Punctuation	_	49	punct	49:punct	_
+63	Länge	_	Word	Word	_	57	flat	57:flat	_
+64	vom	_	Word	Word	_	65	R	65:R	_
+65	Meridian	_	Word	Word	_	2	orphan	2:orphan	_
+66	zu	_	Word	Word	_	65	N	65:N	_
+67	Greenwich	_	Word	Word	_	65	C	65:C	_
+68	aus	_	Word	Word	_	65	R	65:R	_
+69	.	_	Punctuation	Punctuation	_	65	punct	65:punct	_
 

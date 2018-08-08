@@ -1,5 +1,6 @@
+# format = ucca
 # sent_id = 25790009
-# text = » 5 Nächte und 4 Tage ! « sagte ich zu meinen Gefährten , und wir haben nur noch für 2 Tage Luft in den Behältern.«
+# text = » 5 Nächte und 4 Tage ! « sagte ich zu meinen Gefährten , und wir haben nur noch für 2 Tage Luft in den Behältern . «
 # doc_id = 
 1	»	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 2	5	_	Word	Word	_	3	E	3:E	_
@@ -26,5 +27,7 @@
 23	Luft	_	Word	Word	_	17	A	17:A	_
 24	in	_	Word	Word	_	26	R	26:R	_
 25	den	_	Word	Word	_	26	E	26:E	_
-26	Behältern.«	_	Word	Word	_	3	orphan	3:orphan	_
+26	Behältern	_	Word	Word	_	3	orphan	3:orphan	_
+27	.	_	Punctuation	Punctuation	_	26	punct	26:punct	_
+28	«	_	Punctuation	Punctuation	_	26	punct	26:punct	_
 

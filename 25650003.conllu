@@ -1,19 +1,24 @@
+# format = ucca
 # sent_id = 25650003
-# text = »Sind Sie Arzt ? « fragte er nochmals . »Manche Ihrer Kollegen haben Medizin studiert.«
+# text = » Sind Sie Arzt ? « fragte er nochmals . » Manche Ihrer Kollegen haben Medizin studiert . «
 # doc_id = 
-1	»Sind	_	Word	Word	_	0	root	0:root	_
-2	Sie	_	Word	Word	_	1	A	1:A	_
-3	Arzt	_	Word	Word	_	1	A	1:A	_
-4	?	_	Punctuation	Punctuation	_	6	punct	6:punct	_
-5	«	_	Punctuation	Punctuation	_	6	punct	6:punct	_
-6	fragte	_	Word	Word	_	1	orphan	1:orphan	_
-7	er	_	Word	Word	_	6	A	6:A	_
-8	nochmals	_	Word	Word	_	6	D	6:D	_
-9	.	_	Punctuation	Punctuation	_	6	punct	6:punct	_
-10	»Manche	_	Word	Word	_	12	E	12:E	_
-11	Ihrer	_	Word	Word	_	12	E	12:E	_
-12	Kollegen	_	Word	Word	_	1	orphan	1:orphan	_
-13	haben	_	Word	Word	_	15	F	15:F	_
-14	Medizin	_	Word	Word	_	15	A	15:A	_
-15	studiert.«	_	Word	Word	_	1	orphan	1:orphan	_
+1	»	_	Punctuation	Punctuation	_	2	punct	2:punct	_
+2	Sind	_	Word	Word	_	0	root	0:root	_
+3	Sie	_	Word	Word	_	2	A	2:A	_
+4	Arzt	_	Word	Word	_	2	A	2:A	_
+5	?	_	Punctuation	Punctuation	_	7	punct	7:punct	_
+6	«	_	Punctuation	Punctuation	_	7	punct	7:punct	_
+7	fragte	_	Word	Word	_	2	orphan	2:orphan	_
+8	er	_	Word	Word	_	7	A	7:A	_
+9	nochmals	_	Word	Word	_	7	D	7:D	_
+10	.	_	Punctuation	Punctuation	_	7	punct	7:punct	_
+11	»	_	Punctuation	Punctuation	_	7	punct	7:punct	_
+12	Manche	_	Word	Word	_	14	E	14:E	_
+13	Ihrer	_	Word	Word	_	14	E	14:E	_
+14	Kollegen	_	Word	Word	_	2	orphan	2:orphan	_
+15	haben	_	Word	Word	_	17	F	17:F	_
+16	Medizin	_	Word	Word	_	17	A	17:A	_
+17	studiert	_	Word	Word	_	2	orphan	2:orphan	_
+18	.	_	Punctuation	Punctuation	_	17	punct	17:punct	_
+19	«	_	Punctuation	Punctuation	_	17	punct	17:punct	_
 

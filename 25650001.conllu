@@ -1,12 +1,14 @@
+# format = ucca
 # sent_id = 25650001
-# text = »Sind Sie Arzt , Herr Arronax ? «
+# text = » Sind Sie Arzt , Herr Arronax ? «
 # doc_id = 
-1	»Sind	_	Word	Word	_	0	root	0:root	_
-2	Sie	_	Word	Word	_	1	A	1:A	_
-3	Arzt	_	Word	Word	_	1	A	1:A	_
-4	,	_	Punctuation	Punctuation	_	1	punct	1:punct	_
-5	Herr	_	Word	Word	_	6	E	6:E	_
-6	Arronax	_	Word	Word	_	1	orphan	1:orphan	_
-7	?	_	Punctuation	Punctuation	_	6	punct	6:punct	_
-8	«	_	Punctuation	Punctuation	_	6	punct	6:punct	_
+1	»	_	Punctuation	Punctuation	_	2	punct	2:punct	_
+2	Sind	_	Word	Word	_	0	root	0:root	_
+3	Sie	_	Word	Word	_	2	A	2:A	_
+4	Arzt	_	Word	Word	_	2	A	2:A	_
+5	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
+6	Herr	_	Word	Word	_	7	E	7:E	_
+7	Arronax	_	Word	Word	_	2	orphan	2:orphan	_
+8	?	_	Punctuation	Punctuation	_	7	punct	7:punct	_
+9	«	_	Punctuation	Punctuation	_	7	punct	7:punct	_
 

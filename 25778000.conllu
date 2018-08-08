@@ -1,9 +1,11 @@
+# format = ucca
 # sent_id = 25778000
-# text = »Warum , Kapitän ? «
+# text = » Warum , Kapitän ? «
 # doc_id = 
-1	»Warum	_	Word	Word	_	0	root	0:root	_
-2	,	_	Punctuation	Punctuation	_	1	punct	1:punct	_
-3	Kapitän	_	Word	Word	_	1	G	1:G	_
-4	?	_	Punctuation	Punctuation	_	1	punct	1:punct	_
-5	«	_	Punctuation	Punctuation	_	1	punct	1:punct	_
+1	»	_	Punctuation	Punctuation	_	2	punct	2:punct	_
+2	Warum	_	Word	Word	_	0	root	0:root	_
+3	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
+4	Kapitän	_	Word	Word	_	2	G	2:G	_
+5	?	_	Punctuation	Punctuation	_	2	punct	2:punct	_
+6	«	_	Punctuation	Punctuation	_	2	punct	2:punct	_
 

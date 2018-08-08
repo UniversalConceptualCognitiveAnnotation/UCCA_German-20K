@@ -1,5 +1,6 @@
+# format = ucca
 # sent_id = 25804002
-# text = Dann werden sie , voll Polypen , Quallen , Kalmar , ungeheure Herde der Verpestung , weil es nicht mehr die weiten Mägen gibt , die von Gott beauftragt sind , die Oberfläche des Meeres ab zu schäumen. «
+# text = Dann werden sie , voll Polypen , Quallen , Kalmar , ungeheure Herde der Verpestung , weil es nicht mehr die weiten Mägen gibt , die von Gott beauftragt sind , die Oberfläche des Meeres ab zu schäumen . «
 # doc_id = 
 1	Dann	_	Word	Word	_	2	L	2:L	_
 2	werden	_	Word	Word	_	0	root	0:root	_
@@ -38,6 +39,7 @@
 35	Meeres	_	Word	Word	_	2	orphan	2:orphan	_
 36	ab	_	Word	Word	_	2	orphan	2:orphan	_
 37	zu	_	Word	Word	_	36	F	36:F	_
-38	schäumen.	_	Word	Word	_	36	flat	36:flat	_
-39	«	_	Punctuation	Punctuation	_	36	punct	36:punct	_
+38	schäumen	_	Word	Word	_	36	flat	36:flat	_
+39	.	_	Punctuation	Punctuation	_	36	punct	36:punct	_
+40	«	_	Punctuation	Punctuation	_	36	punct	36:punct	_
 

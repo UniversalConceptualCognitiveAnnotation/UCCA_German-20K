@@ -1,7 +1,11 @@
+# format = ucca
 # sent_id = 25808009
-# text = »Ja , Ned.«
+# text = » Ja , Ned . «
 # doc_id = 
-1	»Ja	_	Word	Word	_	3	D	3:D	_
-2	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
-3	Ned.«	_	Word	Word	_	0	root	0:root	_
+1	»	_	Punctuation	Punctuation	_	4	punct	4:punct	_
+2	Ja	_	Word	Word	_	4	D	4:D	_
+3	,	_	Punctuation	Punctuation	_	4	punct	4:punct	_
+4	Ned	_	Word	Word	_	0	root	0:root	_
+5	.	_	Punctuation	Punctuation	_	4	punct	4:punct	_
+6	«	_	Punctuation	Punctuation	_	4	punct	4:punct	_
 

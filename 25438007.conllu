@@ -1,17 +1,26 @@
+# format = ucca
 # sent_id = 25438007
-# text = Die ›Abraham Lincoln‹ war für ihre neue Bestimmung trefflich ausgewählt und eingerichtet .
+# text = « Ich grüßte , ließ den Kommandanten bei seiner Beschäftigung und folgte einem Begleiter in die für mich bestimmte Kabine .
 # doc_id = 
-1	Die	_	Word	Word	_	2	E	2:E	_
-2	›Abraham	_	Word	Word	_	0	root	0:root	_
-3	Lincoln‹	_	Word	Word	_	2	flat	2:flat	_
-4	war	_	Word	Word	_	10	F	10:F	_
-5	für	_	Word	Word	_	8	R	8:R	_
-6	ihre	_	Word	Word	_	8	E	8:E	_
-7	neue	_	Word	Word	_	8	E	8:E	_
-8	Bestimmung	_	Word	Word	_	2	orphan	2:orphan	_
-9	trefflich	_	Word	Word	_	10	D	10:D	_
-10	ausgewählt	_	Word	Word	_	2	orphan	2:orphan	_
-11	und	_	Word	Word	_	10	N	10:N	_
-12	eingerichtet	_	Word	Word	_	10	C	10:C	_
-13	.	_	Punctuation	Punctuation	_	10	punct	10:punct	_
+1	«	_	Punctuation	Punctuation	_	12	punct	12:punct	_
+2	Ich	_	Word	Word	_	3	A	3:A	_
+3	grüßte	_	Word	Word	_	0	root	0:root	_
+4	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+5	ließ	_	Word	Word	_	3	orphan	3:orphan	_
+6	den	_	Word	Word	_	7	E	7:E	_
+7	Kommandanten	_	Word	Word	_	3	orphan	3:orphan	_
+8	bei	_	Word	Word	_	10	R	10:R	_
+9	seiner	_	Word	Word	_	10	E	10:E	_
+10	Beschäftigung	_	Word	Word	_	3	orphan	3:orphan	_
+11	und	_	Word	Word	_	3	L	3:L	_
+12	folgte	_	Word	Word	_	3	orphan	3:orphan	_
+13	einem	_	Word	Word	_	14	E	14:E	_
+14	Begleiter	_	Word	Word	_	3	orphan	3:orphan	_
+15	in	_	Word	Word	_	20	R	20:R	_
+16	die	_	Word	Word	_	20	E	20:E	_
+17	für	_	Word	Word	_	18	R	18:R	_
+18	mich	_	Word	Word	_	3	orphan	3:orphan	_
+19	bestimmte	_	Word	Word	_	3	orphan	3:orphan	_
+20	Kabine	_	Word	Word	_	3	orphan	3:orphan	_
+21	.	_	Punctuation	Punctuation	_	20	punct	20:punct	_
 

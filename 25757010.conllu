@@ -1,8 +1,12 @@
+# format = ucca
 # sent_id = 25757010
-# text = »Fast ebenso , Ned.«
+# text = » Fast ebenso , Ned . «
 # doc_id = 
-1	»Fast	_	Word	Word	_	2	E	2:E	_
-2	ebenso	_	Word	Word	_	0	root	0:root	_
-3	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
-4	Ned.«	_	Word	Word	_	2	G	2:G	_
+1	»	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+2	Fast	_	Word	Word	_	3	E	3:E	_
+3	ebenso	_	Word	Word	_	0	root	0:root	_
+4	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+5	Ned	_	Word	Word	_	3	G	3:G	_
+6	.	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+7	«	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 

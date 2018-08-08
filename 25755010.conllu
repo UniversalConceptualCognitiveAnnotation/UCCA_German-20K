@@ -1,9 +1,12 @@
+# format = ucca
 # sent_id = 25755010
-# text = »625« , wiederholte Ned .
+# text = » 625 « , wiederholte Ned .
 # doc_id = 
-1	»625«	_	Word	Word	_	3	A	3:A	_
-2	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
-3	wiederholte	_	Word	Word	_	0	root	0:root	_
-4	Ned	_	Word	Word	_	3	A	3:A	_
-5	.	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+1	»	_	Punctuation	Punctuation	_	5	punct	5:punct	_
+2	625	_	Word	Word	_	5	A	5:A	_
+3	«	_	Punctuation	Punctuation	_	5	punct	5:punct	_
+4	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_
+5	wiederholte	_	Word	Word	_	0	root	0:root	_
+6	Ned	_	Word	Word	_	5	A	5:A	_
+7	.	_	Punctuation	Punctuation	_	5	punct	5:punct	_
 

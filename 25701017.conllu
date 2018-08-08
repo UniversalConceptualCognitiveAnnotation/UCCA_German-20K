@@ -1,5 +1,6 @@
+# format = ucca
 # sent_id = 25701017
-# text = » Eine Sirene « , rief Conseil , » eine echte Sirene , nehmen Sie  s nicht übel , mein Herr.«
+# text = » Eine Sirene « , rief Conseil , » eine echte Sirene , nehmen Sie  s nicht übel , mein Herr . «
 # doc_id = 
 1	»	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 2	Eine	_	Word	Word	_	3	E	3:E	_
@@ -22,5 +23,7 @@
 19	übel	_	Word	Word	_	14	flat	14:flat	_
 20	,	_	Punctuation	Punctuation	_	14	punct	14:punct	_
 21	mein	_	Word	Word	_	22	E	22:E	_
-22	Herr.«	_	Word	Word	_	3	orphan	3:orphan	_
+22	Herr	_	Word	Word	_	3	orphan	3:orphan	_
+23	.	_	Punctuation	Punctuation	_	22	punct	22:punct	_
+24	«	_	Punctuation	Punctuation	_	22	punct	22:punct	_
 

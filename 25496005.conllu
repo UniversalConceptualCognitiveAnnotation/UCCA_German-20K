@@ -1,10 +1,19 @@
+# format = ucca
 # sent_id = 25496005
-# text = Offenbar verstanden wir uns nicht .
+# text = « » Ich frage Sie also , was Sie unter dieser Freiheit verstehen .
 # doc_id = 
-1	Offenbar	_	Word	Word	_	2	G	2:G	_
-2	verstanden	_	Word	Word	_	0	root	0:root	_
-3	wir	_	Word	Word	_	2	A	2:A	_
-4	uns	_	Word	Word	_	2	flat	2:flat	_
-5	nicht	_	Word	Word	_	2	D	2:D	_
-6	.	_	Punctuation	Punctuation	_	2	punct	2:punct	_
+1	«	_	Punctuation	Punctuation	_	4	punct	4:punct	_
+2	»	_	Punctuation	Punctuation	_	4	punct	4:punct	_
+3	Ich	_	Word	Word	_	4	A	4:A	_
+4	frage	_	Word	Word	_	0	root	0:root	_
+5	Sie	_	Word	Word	_	4	A	4:A	_
+6	also	_	Word	Word	_	4	F	4:F	_
+7	,	_	Punctuation	Punctuation	_	4	punct	4:punct	_
+8	was	_	Word	Word	_	13	A	13:A	_
+9	Sie	_	Word	Word	_	13	A	13:A	_
+10	unter	_	Word	Word	_	12	R	12:R	_
+11	dieser	_	Word	Word	_	12	E	12:E	_
+12	Freiheit	_	Word	Word	_	4	orphan	4:orphan	_
+13	verstehen	_	Word	Word	_	4	orphan	4:orphan	_
+14	.	_	Punctuation	Punctuation	_	13	punct	13:punct	_
 

@@ -1,7 +1,8 @@
+# format = ucca
 # sent_id = 25673004
-# text = » Ja « , sagte ich , » s ist ein trauriges Gewerbe und dient doch nur , um einige Launen zu befriedigen . Aber , sagen Sie mir , Kapitän , wieviel Muscheln kann ein Boot während eines Tages fischen ? «
+# text = » Ja « , sagte ich , » s ist ein trauriges Gewerbe und dient doch nur , um einige Launen zu befriedigen . Aber , sagen Sie mir , Kapitän , wieviel Muscheln kann ein Boot während eines Tages fischen ? « » Etwa 40- bis 50.000 . Man sagt sogar , dass im Jahr 1814 , als die englische Regierung auf eigene Rechnung fischen ließ , ihre Taucher binnen 20 Tagen 76 Millionen Muscheln zutage förderten . «
 # doc_id = 
-1	»	_	Punctuation	Punctuation	_	12	punct	12:punct	_
+1	»	_	Punctuation	Punctuation	_	5	punct	5:punct	_
 2	Ja	_	Word	Word	_	12	D	12:D	_
 3	«	_	Punctuation	Punctuation	_	5	punct	5:punct	_
 4	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_
@@ -42,6 +43,43 @@
 39	eines	_	Word	Word	_	40	E	40:E	_
 40	Tages	_	Word	Word	_	5	orphan	5:orphan	_
 41	fischen	_	Word	Word	_	5	orphan	5:orphan	_
-42	?	_	Punctuation	Punctuation	_	41	punct	41:punct	_
-43	«	_	Punctuation	Punctuation	_	41	punct	41:punct	_
+42	?	_	Punctuation	Punctuation	_	46	punct	46:punct	_
+43	«	_	Punctuation	Punctuation	_	46	punct	46:punct	_
+44	»	_	Punctuation	Punctuation	_	46	punct	46:punct	_
+45	Etwa	_	Word	Word	_	46	E	46:E	_
+46	40-	_	Word	Word	_	5	orphan	5:orphan	_
+47	bis	_	Word	Word	_	46	R	46:R	_
+48	50.000	_	Word	Word	_	46	C	46:C	_
+49	.	_	Punctuation	Punctuation	_	46	punct	46:punct	_
+50	Man	_	Word	Word	_	51	A	51:A	_
+51	sagt	_	Word	Word	_	5	orphan	5:orphan	_
+52	sogar	_	Word	Word	_	51	D	51:D	_
+53	,	_	Punctuation	Punctuation	_	51	punct	51:punct	_
+54	dass	_	Word	Word	_	77	R	77:R	_
+55	im	_	Word	Word	_	56	R	56:R	_
+56	Jahr	_	Word	Word	_	5	orphan	5:orphan	_
+57	1814	_	Word	Word	_	56	flat	56:flat	_
+58	,	_	Punctuation	Punctuation	_	77	punct	77:punct	_
+59	als	_	Word	Word	_	77	L	77:L	_
+60	die	_	Word	Word	_	62	E	62:E	_
+61	englische	_	Word	Word	_	62	E	62:E	_
+62	Regierung	_	Word	Word	_	5	orphan	5:orphan	_
+63	auf	_	Word	Word	_	65	R	65:R	_
+64	eigene	_	Word	Word	_	65	E	65:E	_
+65	Rechnung	_	Word	Word	_	5	orphan	5:orphan	_
+66	fischen	_	Word	Word	_	5	orphan	5:orphan	_
+67	ließ	_	Word	Word	_	66	D	66:D	_
+68	,	_	Punctuation	Punctuation	_	77	punct	77:punct	_
+69	ihre	_	Word	Word	_	70	E	70:E	_
+70	Taucher	_	Word	Word	_	5	orphan	5:orphan	_
+71	binnen	_	Word	Word	_	72	R	72:R	_
+72	20	_	Word	Word	_	5	orphan	5:orphan	_
+73	Tagen	_	Word	Word	_	72	flat	72:flat	_
+74	76	_	Word	Word	_	76	E	76:E	_
+75	Millionen	_	Word	Word	_	74	flat	74:flat	_
+76	Muscheln	_	Word	Word	_	5	orphan	5:orphan	_
+77	zutage	_	Word	Word	_	5	orphan	5:orphan	_
+78	förderten	_	Word	Word	_	77	flat	77:flat	_
+79	.	_	Punctuation	Punctuation	_	77	punct	77:punct	_
+80	«	_	Punctuation	Punctuation	_	77	punct	77:punct	_
 

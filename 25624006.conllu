@@ -1,9 +1,12 @@
+# format = ucca
 # sent_id = 25624006
-# text = Machen Sie nur einen Versuch.«
+# text = Machen Sie nur einen Versuch . «
 # doc_id = 
 1	Machen	_	Word	Word	_	5	F	5:F	_
 2	Sie	_	Word	Word	_	5	F	5:F	_
 3	nur	_	Word	Word	_	5	D	5:D	_
 4	einen	_	Word	Word	_	5	E	5:E	_
-5	Versuch.«	_	Word	Word	_	0	root	0:root	_
+5	Versuch	_	Word	Word	_	0	root	0:root	_
+6	.	_	Punctuation	Punctuation	_	5	punct	5:punct	_
+7	«	_	Punctuation	Punctuation	_	5	punct	5:punct	_
 

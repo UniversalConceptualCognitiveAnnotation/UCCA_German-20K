@@ -1,5 +1,16 @@
+# format = ucca
 # sent_id = 25783014
-# text = »Nein.«
+# text = » Die Nautilus sitzt fest ? « » Ja . «
 # doc_id = 
-1	»Nein.«	_	Word	Word	_	0	root	0:root	_
+1	»	_	Punctuation	Punctuation	_	4	punct	4:punct	_
+2	Die	_	Word	Word	_	3	E	3:E	_
+3	Nautilus	_	Word	Word	_	0	root	0:root	_
+4	sitzt	_	Word	Word	_	3	orphan	3:orphan	_
+5	fest	_	Word	Word	_	4	flat	4:flat	_
+6	?	_	Punctuation	Punctuation	_	9	punct	9:punct	_
+7	«	_	Punctuation	Punctuation	_	9	punct	9:punct	_
+8	»	_	Punctuation	Punctuation	_	9	punct	9:punct	_
+9	Ja	_	Word	Word	_	3	orphan	3:orphan	_
+10	.	_	Punctuation	Punctuation	_	9	punct	9:punct	_
+11	«	_	Punctuation	Punctuation	_	9	punct	9:punct	_
 

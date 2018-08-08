@@ -1,5 +1,6 @@
+# format = ucca
 # sent_id = 25706011
-# text = » Der schwimmende Pharus von Suez « , wiederholte er . »Wir werden gleich zur Mündung des Tunnels gelangen.«
+# text = » Der schwimmende Pharus von Suez « , wiederholte er . » Wir werden gleich zur Mündung des Tunnels gelangen . «
 # doc_id = 
 1	»	_	Punctuation	Punctuation	_	4	punct	4:punct	_
 2	Der	_	Word	Word	_	4	E	4:E	_
@@ -12,12 +13,15 @@
 9	wiederholte	_	Word	Word	_	4	orphan	4:orphan	_
 10	er	_	Word	Word	_	9	A	9:A	_
 11	.	_	Punctuation	Punctuation	_	9	punct	9:punct	_
-12	»Wir	_	Word	Word	_	19	A	19:A	_
-13	werden	_	Word	Word	_	19	F	19:F	_
-14	gleich	_	Word	Word	_	19	D	19:D	_
-15	zur	_	Word	Word	_	16	R	16:R	_
-16	Mündung	_	Word	Word	_	4	orphan	4:orphan	_
-17	des	_	Word	Word	_	18	R	18:R	_
-18	Tunnels	_	Word	Word	_	4	orphan	4:orphan	_
-19	gelangen.«	_	Word	Word	_	4	orphan	4:orphan	_
+12	»	_	Punctuation	Punctuation	_	9	punct	9:punct	_
+13	Wir	_	Word	Word	_	20	A	20:A	_
+14	werden	_	Word	Word	_	20	F	20:F	_
+15	gleich	_	Word	Word	_	20	D	20:D	_
+16	zur	_	Word	Word	_	17	R	17:R	_
+17	Mündung	_	Word	Word	_	4	orphan	4:orphan	_
+18	des	_	Word	Word	_	19	R	19:R	_
+19	Tunnels	_	Word	Word	_	4	orphan	4:orphan	_
+20	gelangen	_	Word	Word	_	4	orphan	4:orphan	_
+21	.	_	Punctuation	Punctuation	_	20	punct	20:punct	_
+22	«	_	Punctuation	Punctuation	_	20	punct	20:punct	_
 

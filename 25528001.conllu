@@ -1,5 +1,6 @@
+# format = ucca
 # sent_id = 25528001
-# text = » O ja ! « erwiderte der Harpunier . Sie werden eingeteilt in Fische , die man ißt , und solche , die man nicht ißt.«
+# text = » O ja ! « erwiderte der Harpunier . Sie werden eingeteilt in Fische , die man ißt , und solche , die man nicht ißt . «
 # doc_id = 
 1	»	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 2	O	_	Word	Word	_	3	F	3:F	_
@@ -26,5 +27,7 @@
 23	die	_	Word	Word	_	26	R	26:R	_
 24	man	_	Word	Word	_	26	A	26:A	_
 25	nicht	_	Word	Word	_	26	D	26:D	_
-26	ißt.«	_	Word	Word	_	3	orphan	3:orphan	_
+26	ißt	_	Word	Word	_	3	orphan	3:orphan	_
+27	.	_	Punctuation	Punctuation	_	26	punct	26:punct	_
+28	«	_	Punctuation	Punctuation	_	26	punct	26:punct	_
 

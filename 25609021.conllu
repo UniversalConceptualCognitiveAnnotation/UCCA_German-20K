@@ -1,5 +1,6 @@
+# format = ucca
 # sent_id = 25609021
-# text = Wir befanden uns vor der eigentlich Vanikoro genannten Insel , der Dumont dUrville den Namen " Recherche " gab , und gerade vor dem kleinen Hafen Vanou , unter 16° 4 ? südlicher Breite und 164° 32 ? Länge .
+# text = Wir befanden uns vor der eigentlich Vanikoro genannten Insel , der Dumont dUrville den Namen " Recherche " gab , und gerade vor dem kleinen Hafen Vanou , unter 16 ° 4 ? südlicher Breite und 164 ° 32 ? Länge .
 # doc_id = 
 1	Wir	_	Word	Word	_	2	A	2:A	_
 2	befanden	_	Word	Word	_	0	root	0:root	_
@@ -29,16 +30,18 @@
 26	Hafen	_	Word	Word	_	2	orphan	2:orphan	_
 27	Vanou	_	Word	Word	_	2	orphan	2:orphan	_
 28	,	_	Punctuation	Punctuation	_	27	punct	27:punct	_
-29	unter	_	Word	Word	_	33	R	33:R	_
-30	16°	_	Word	Word	_	33	E	33:E	_
-31	4	_	Word	Word	_	30	flat	30:flat	_
-32	?	_	Punctuation	Punctuation	_	33	punct	33:punct	_
-33	südlicher	_	Word	Word	_	2	orphan	2:orphan	_
-34	Breite	_	Word	Word	_	33	flat	33:flat	_
-35	und	_	Word	Word	_	33	N	33:N	_
-36	164°	_	Word	Word	_	39	E	39:E	_
-37	32	_	Word	Word	_	36	flat	36:flat	_
-38	?	_	Punctuation	Punctuation	_	39	punct	39:punct	_
-39	Länge	_	Word	Word	_	2	orphan	2:orphan	_
-40	.	_	Punctuation	Punctuation	_	39	punct	39:punct	_
+29	unter	_	Word	Word	_	34	R	34:R	_
+30	16	_	Word	Word	_	34	E	34:E	_
+31	°	_	Punctuation	Punctuation	_	34	punct	34:punct	_
+32	4	_	Word	Word	_	30	flat	30:flat	_
+33	?	_	Punctuation	Punctuation	_	34	punct	34:punct	_
+34	südlicher	_	Word	Word	_	2	orphan	2:orphan	_
+35	Breite	_	Word	Word	_	34	flat	34:flat	_
+36	und	_	Word	Word	_	34	N	34:N	_
+37	164	_	Word	Word	_	41	E	41:E	_
+38	°	_	Punctuation	Punctuation	_	41	punct	41:punct	_
+39	32	_	Word	Word	_	37	flat	37:flat	_
+40	?	_	Punctuation	Punctuation	_	41	punct	41:punct	_
+41	Länge	_	Word	Word	_	2	orphan	2:orphan	_
+42	.	_	Punctuation	Punctuation	_	41	punct	41:punct	_
 

@@ -1,18 +1,12 @@
+# format = ucca
 # sent_id = 25498005
-# text = »Reden Sie , Herr Professor.« »Mit welchem Namen darf ich Sie nennen ? «
+# text = » Reden Sie , Herr Professor .
 # doc_id = 
-1	»Reden	_	Word	Word	_	0	root	0:root	_
-2	Sie	_	Word	Word	_	1	A	1:A	_
-3	,	_	Punctuation	Punctuation	_	1	punct	1:punct	_
-4	Herr	_	Word	Word	_	5	E	5:E	_
-5	Professor.«	_	Word	Word	_	1	orphan	1:orphan	_
-6	»Mit	_	Word	Word	_	8	R	8:R	_
-7	welchem	_	Word	Word	_	8	E	8:E	_
-8	Namen	_	Word	Word	_	1	orphan	1:orphan	_
-9	darf	_	Word	Word	_	12	D	12:D	_
-10	ich	_	Word	Word	_	12	A	12:A	_
-11	Sie	_	Word	Word	_	12	A	12:A	_
-12	nennen	_	Word	Word	_	1	orphan	1:orphan	_
-13	?	_	Punctuation	Punctuation	_	12	punct	12:punct	_
-14	«	_	Punctuation	Punctuation	_	12	punct	12:punct	_
+1	»	_	Punctuation	Punctuation	_	2	punct	2:punct	_
+2	Reden	_	Word	Word	_	0	root	0:root	_
+3	Sie	_	Word	Word	_	2	A	2:A	_
+4	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
+5	Herr	_	Word	Word	_	6	E	6:E	_
+6	Professor	_	Word	Word	_	2	orphan	2:orphan	_
+7	.	_	Punctuation	Punctuation	_	6	punct	6:punct	_
 

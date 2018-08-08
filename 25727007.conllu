@@ -1,5 +1,6 @@
+# format = ucca
 # sent_id = 25727007
-# text = Während man nun diesen Bescheid gab , erschien am 22 . Oktober 1702 die englische Flotte in der Bai von Vigo . Der Admiral Château-Renaud , obwohl schwächer an Streitkräften , kämpfte tapfer . Als er aber sah , dass die Schätze in die Hände der Feinde fallen mußten , steckte er seine Galionen in Brand und versenkte sie samt ihrer reichen Ladung.«
+# text = Während man nun diesen Bescheid gab , erschien am 22 . Oktober 1702 die englische Flotte in der Bai von Vigo . Der Admiral Château-Renaud , obwohl schwächer an Streitkräften , kämpfte tapfer . Als er aber sah , dass die Schätze in die Hände der Feinde fallen mußten , steckte er seine Galionen in Brand und versenkte sie samt ihrer reichen Ladung . «
 # doc_id = 
 1	Während	_	Word	Word	_	6	L	6:L	_
 2	man	_	Word	Word	_	6	A	6:A	_
@@ -63,5 +64,7 @@
 60	samt	_	Word	Word	_	63	R	63:R	_
 61	ihrer	_	Word	Word	_	63	E	63:E	_
 62	reichen	_	Word	Word	_	63	E	63:E	_
-63	Ladung.«	_	Word	Word	_	5	orphan	5:orphan	_
+63	Ladung	_	Word	Word	_	5	orphan	5:orphan	_
+64	.	_	Punctuation	Punctuation	_	63	punct	63:punct	_
+65	«	_	Punctuation	Punctuation	_	63	punct	63:punct	_
 

@@ -1,5 +1,6 @@
+# format = ucca
 # sent_id = 25672011
-# text = Ich will nach dem Golf Manaar fahren , wo wir in der Nacht ankommen werden.«
+# text = Ich will nach dem Golf Manaar fahren , wo wir in der Nacht ankommen werden . «
 # doc_id = 
 1	Ich	_	Word	Word	_	7	A	7:A	_
 2	will	_	Word	Word	_	7	D	7:D	_
@@ -15,5 +16,7 @@
 12	der	_	Word	Word	_	13	E	13:E	_
 13	Nacht	_	Word	Word	_	5	orphan	5:orphan	_
 14	ankommen	_	Word	Word	_	5	orphan	5:orphan	_
-15	werden.«	_	Word	Word	_	14	F	14:F	_
+15	werden	_	Word	Word	_	14	F	14:F	_
+16	.	_	Punctuation	Punctuation	_	14	punct	14:punct	_
+17	«	_	Punctuation	Punctuation	_	14	punct	14:punct	_
 

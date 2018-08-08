@@ -1,7 +1,11 @@
+# format = ucca
 # sent_id = 25775000
-# text = »Er hat recht.«
+# text = » Er hat recht . «
 # doc_id = 
-1	»Er	_	Word	Word	_	3	A	3:A	_
-2	hat	_	Word	Word	_	3	F	3:F	_
-3	recht.«	_	Word	Word	_	0	root	0:root	_
+1	»	_	Punctuation	Punctuation	_	4	punct	4:punct	_
+2	Er	_	Word	Word	_	4	A	4:A	_
+3	hat	_	Word	Word	_	4	F	4:F	_
+4	recht	_	Word	Word	_	0	root	0:root	_
+5	.	_	Punctuation	Punctuation	_	4	punct	4:punct	_
+6	«	_	Punctuation	Punctuation	_	4	punct	4:punct	_
 

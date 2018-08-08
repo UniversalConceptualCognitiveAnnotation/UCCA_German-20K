@@ -1,9 +1,12 @@
+# format = ucca
 # sent_id = 25622011
-# text = »Ausgesucht« , erwiderte Conseil .
+# text = » Ausgesucht « , erwiderte Conseil .
 # doc_id = 
-1	»Ausgesucht«	_	Word	Word	_	0	root	0:root	_
-2	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
-3	erwiderte	_	Word	Word	_	1	orphan	1:orphan	_
-4	Conseil	_	Word	Word	_	3	A	3:A	_
-5	.	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+1	»	_	Punctuation	Punctuation	_	5	punct	5:punct	_
+2	Ausgesucht	_	Word	Word	_	0	root	0:root	_
+3	«	_	Punctuation	Punctuation	_	5	punct	5:punct	_
+4	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_
+5	erwiderte	_	Word	Word	_	2	orphan	2:orphan	_
+6	Conseil	_	Word	Word	_	5	A	5:A	_
+7	.	_	Punctuation	Punctuation	_	5	punct	5:punct	_
 
