@@ -1,0 +1,13 @@
+# ::id 25482003
+# ::tok « Die Schnelligkeit der ›Abraham Lincoln‹ wurde demnach gesteigert .
+# ::alignments 1-1.1.1.1 2-1.1.1.2 3-1.1.1.3.1 4-1.1.1.3.2 5-1.1.1.3.2 7-1.2 8-1.1.3
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label
+                  :E (v6 / label~e.1)
+                  :C (v7 / label~e.2)
+                  :E (v8 / label
+                         :R (v9 / label~e.3)
+                         :C (v10 / label~e.4,5)))
+           :P (v5 / label~e.8))
+    :L (v3 / label~e.7))

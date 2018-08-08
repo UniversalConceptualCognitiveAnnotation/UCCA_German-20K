@@ -1,46 +1,12 @@
 # ::id 25507000
-# ::tok Ich konnte meinem Wirt nur dankbar sein. »Ihr Zimmer stößt an das meinige«, sagte er, indem er eine Tür öffnete, »und meines führt auf den Salon, worin wir uns eben befanden.«
-# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.1 3-1.1.3.2 4-1.1.4 5-1.1.5 7-1.2.1.1.1.1 8-1.2.1.1.1.2 9-1.2.1.1.2 10-1.2.1.1.3.1 11-1.2.1.1.3.2 12-1.2.1.1.3.3 13-1.2.2 14-1.2.3 15-1.3 16-1.4.1 17-1.4.2.1 18-1.4.2.2 19-1.4.3 20-1.2.1.2 21-1.2.1.3.1 22-1.2.1.3.2 23-1.2.1.3.3.1 24-1.2.1.3.3.2 25-1.2.1.3.3.3 26-1.2.1.3.3.4.2 27-1.2.1.3.3.4.3 28-1.2.1.3.3.4.4 29-1.2.1.3.3.4.5 30-1.2.1.3.3.4.4
+# ::tok Ich konnte meinem Wirt nur dankbar sein .
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.1 3-1.1.3.2 4-1.1.4 5-1.1.5
 (v1 / label
     :H (v2 / label
-           :A (v6 / label~e.0)
-           :D (v7 / label~e.1)
-           :A (v8 / label
-                  :E (v17 / label~e.2)
-                  :C (v18 / label~e.3))
-           :D (v9 / label~e.4)
-           :S (v10 / label~e.5))
-    :H (v3 / label
-           :A (v11 / label
-                   :H (v19 / label
-                           :A (v24 / label
-                                   :E (v30 / label~e.7)
-                                   :C (v31 / label~e.8))
-                           :P (v25 / label~e.9)
-                           :A (v26 / label
-                                   :R (v32 / label~e.10)
-                                   :E (v33 / label~e.11)
-                                   :C (v34 / label~e.12)))
-                   :L (v20 / label~e.20)
-                   :H (v21 / label
-                           :A (v27 / label~e.21)
-                           :S (v28 / label~e.22)
-                           :A (v29 / label
-                                   :R (v35 / label~e.23)
-                                   :E (v36 / label~e.24)
-                                   :C (v37 / label~e.25)
-                                   :E (v38 / label
-                                           :A v37
-                                           :R (v39 / label~e.26)
-                                           :A (v40 / label~e.27)
-                                           :S (v41 / label~e.28,30)
-                                           :T (v42 / label~e.29)))))
-           :P (v12 / label~e.13)
-           :A (v13 / label~e.14))
-    :L (v4 / label~e.15)
-    :H (v5 / label
-           :A (v14 / label~e.16)
-           :A (v15 / label
-                   :E (v22 / label~e.17)
-                   :C (v23 / label~e.18))
-           :P (v16 / label~e.19)))
+           :A (v3 / label~e.0)
+           :D (v4 / label~e.1)
+           :A (v5 / label
+                  :E (v8 / label~e.2)
+                  :C (v9 / label~e.3))
+           :D (v6 / label~e.4)
+           :S (v7 / label~e.5)))

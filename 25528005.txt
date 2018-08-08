@@ -1,27 +1,27 @@
 # ::id 25528005
-# ::tok »Nun so hören Sie , Freund Ned , und behalten Sie . Die Knochenfische zerfallen in sechs Ordnungen :
-# ::alignments 0-1.1.3.1 1-1.1.3.2.1 2-1.1.3.2.2 5-1.1.3.2.4.1 6-1.1.3.2.4.2 8-1.1.3.3 9-1.1.3.4.1 12-1.1.3.5.1.1 13-1.1.3.5.1.2 14-1.1.3.5.2 15-1.1.3.5.3.1 16-1.1.3.5.3.2 17-1.1.3.5.3.3
+# ::tok » Nun so hören Sie , Freund Ned , und behalten Sie . Die Knochenfische zerfallen in sechs Ordnungen :
+# ::alignments 1-1.1.3.1 2-1.1.3.2.1 3-1.1.3.2.2 6-1.1.3.2.4.1 7-1.1.3.2.4.2 9-1.1.3.3 10-1.1.3.4.1 13-1.1.3.5.1.1 14-1.1.3.5.1.2 15-1.1.3.5.2 16-1.1.3.5.3.1 17-1.1.3.5.3.2 18-1.1.3.5.3.3
 (v1 / label
     :H (v2 / label
-           :A (v3 / label)
-           :P (v4 / label)
+           :P (v3 / label)
+           :A (v4 / label)
            :A (v5 / label
-                  :L (v6 / label~e.0)
+                  :L (v6 / label~e.1)
                   :H (v7 / label
-                         :D (v11 / label~e.1)
-                         :P (v12 / label~e.2)
+                         :D (v11 / label~e.2)
+                         :P (v12 / label~e.3)
                          :G (v13 / label
-                                 :E (v18 / label~e.5)
-                                 :C (v19 / label~e.6)))
-                  :L (v8 / label~e.8)
+                                 :E (v18 / label~e.6)
+                                 :C (v19 / label~e.7)))
+                  :L (v8 / label~e.9)
                   :H (v9 / label
-                         :S (v14 / label~e.9))
+                         :S (v14 / label~e.10))
                   :H (v10 / label
                           :A (v15 / label
-                                  :E (v20 / label~e.12)
-                                  :C (v21 / label~e.13))
-                          :S (v16 / label~e.14)
+                                  :E (v20 / label~e.13)
+                                  :C (v21 / label~e.14))
+                          :S (v16 / label~e.15)
                           :A (v17 / label
-                                  :R (v22 / label~e.15)
-                                  :E (v23 / label~e.16)
-                                  :C (v24 / label~e.17))))))
+                                  :R (v22 / label~e.16)
+                                  :E (v23 / label~e.17)
+                                  :C (v24 / label~e.18))))))

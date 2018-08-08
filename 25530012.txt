@@ -1,0 +1,8 @@
+# ::id 25530012
+# ::tok Es war 5 Uhr .
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3 3-1.1.3
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label~e.0)
+           :S (v4 / label~e.1)
+           :T (v5 / label~e.2,3)))
