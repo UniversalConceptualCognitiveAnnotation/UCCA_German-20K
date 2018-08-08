@@ -1,53 +1,46 @@
 # ::id 25776023
-# ::tok Doch mangeln ihrem Unterkiefer die Hunde zähne und Schneide zähne , und ihre oberen bestehen aus zwei 80 Zentimeter langen Hauern , die an der Wurzel einen Umfang von 33 Zentimeter haben .
-# ::alignments 0-1.1 1-1.2.1 2-1.2.2.1 3-1.2.2.2 4-1.2.3.1.1 5-1.2.3.1.2 6-1.2.3.1.3 7-1.2.3.2 8-1.2.3.3.1 9-1.4.1.3 11-1.3 12-1.4.1.1 13-1.4.1.2 14-1.4.2 15-1.4.3.1 16-1.4.3.2 17-1.4.3.3.2.1 18-1.4.3.3.2.2 19-1.4.3.3.3 20-1.4.3.4 22-1.4.3.5.2 23-1.4.3.5.3.1 24-1.4.3.5.3.2 25-1.4.3.5.3.3 26-1.4.3.5.4.2.1 27-1.4.3.5.4.2.2 28-1.4.3.5.4.3.1 29-1.4.3.5.4.3.2 30-1.4.3.5.4.3.3 31-1.4.3.5.5
+# ::tok Diese Zähne , die aus gediegenem Elfenbein ohne Streifen bestehen , der härter wie das der Elefanten ist und nicht so leicht gelb wird , sind eine sehr gesuchte Ware .
+# ::alignments 0-1.1.1.1 1-1.1.1.2 3-1.1.1.3.2 4-1.1.1.3.3.1 5-1.1.1.3.3.2 6-1.1.1.3.3.3 7-1.1.1.3.3.4.1 8-1.1.1.3.3.4.2 9-1.1.1.3.4 11-1.1.1.3.3.5.1 12-1.1.1.3.3.5.2.2 13-1.1.1.3.3.5.2.3.1 14-1.1.1.3.3.5.2.3.2 15-1.1.1.3.3.5.2.3.3.1 16-1.1.1.3.3.5.2.3.3.2 18-1.1.1.3.3.5.3 19-1.1.1.3.3.5.4.2 20-1.1.1.3.3.5.4.3.1 21-1.1.1.3.3.5.4.3.2 22-1.1.1.3.3.5.4.4 25-1.1.2 26-1.1.3.1 27-1.1.3.2.2 28-1.1.3.2.3 29-1.1.3.3
 (v1 / label
-    :L (v2 / label~e.0)
-    :H (v3 / label
-           :S (v6 / label~e.1)
-           :A (v7 / label
-                  :E (v12 / label~e.2)
-                  :C (v13 / label~e.3))
-           :A (v8 / label
-                  :C (v14 / label
-                          :E (v25 / label~e.4)
-                          :E (v26 / label~e.5)
-                          :C (v27 / label~e.6))
-                  :N (v15 / label~e.7)
-                  :C (v16 / label
-                          :E (v28 / label~e.8)
-                          :C (v19 / label~e.9))))
-    :L (v4 / label~e.11)
-    :H (v5 / label
-           :A (v9 / label
-                  :E (v17 / label~e.12)
-                  :E (v18 / label~e.13)
-                  :C v19)
-           :S (v10 / label~e.14)
-           :A (v11 / label
-                   :R (v20 / label~e.15)
-                   :E (v21 / label~e.16)
-                   :E (v22 / label
-                           :A (v23 / label~e.20)
-                           :A (v29 / label
-                                   :E (v35 / label~e.17)
-                                   :C (v36 / label~e.18))
-                           :S (v30 / label~e.19))
-                   :C v23
-                   :E (v24 / label
-                           :A v23
-                           :R (v31 / label~e.22)
-                           :A (v32 / label
-                                   :R (v37 / label~e.23)
-                                   :E (v38 / label~e.24)
-                                   :C (v39 / label~e.25))
-                           :A (v33 / label
-                                   :A v23
-                                   :S (v40 / label
-                                           :E (v42 / label~e.26)
-                                           :C (v43 / label~e.27))
-                                   :A (v41 / label
-                                           :R (v44 / label~e.28)
-                                           :E (v45 / label~e.29)
-                                           :C (v46 / label~e.30)))
-                           :S (v34 / label~e.31)))))
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v6 / label~e.0)
+                  :C (v7 / label~e.1)
+                  :E (v8 / label
+                         :A v7
+                         :R (v12 / label~e.3)
+                         :A (v13 / label
+                                 :R (v17 / label~e.4)
+                                 :E (v18 / label~e.5)
+                                 :C (v19 / label~e.6)
+                                 :E (v20 / label
+                                         :E (v22 / label~e.7)
+                                         :C (v23 / label~e.8))
+                                 :E (v21 / label
+                                         :R (v24 / label~e.11)
+                                         :H (v25 / label
+                                                 :A v19
+                                                 :S (v28 / label~e.12)
+                                                 :A (v29 / label
+                                                         :R (v33 / label~e.13)
+                                                         :C (v34 / label~e.14)
+                                                         :E (v35 / label
+                                                                 :R (v38 / label~e.15)
+                                                                 :C (v39 / label~e.16))))
+                                         :L (v26 / label~e.18)
+                                         :H (v27 / label
+                                                 :A v19
+                                                 :D (v30 / label~e.19)
+                                                 :D (v31 / label
+                                                         :E (v36 / label~e.20)
+                                                         :C (v37 / label~e.21))
+                                                 :S (v32 / label~e.22))))
+                         :S (v14 / label~e.9)))
+           :S (v4 / label~e.25)
+           :A (v5 / label
+                  :E (v9 / label~e.26)
+                  :E (v10 / label
+                          :A (v11 / label~e.29)
+                          :D (v15 / label~e.27)
+                          :P (v16 / label~e.28))
+                  :C v11)))

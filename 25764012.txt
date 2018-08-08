@@ -1,6 +1,6 @@
 # ::id 25764012
-# ::tok Nach Hansten liegt dieser Pol in Wirklichkeit fast unter 70° Breite und 130° Länge und nach den Beobachtungen Duperreys unter 135° Länge und 70° 30 ? Breite .
-# ::alignments 0-1.1.2 1-1.1.3 2-1.2.1 3-1.2.2.1 4-1.5.3 5-1.2.3.1 6-1.2.3.2 7-1.2.4 8-1.2.5.1 9-1.2.5.2.1 10-1.2.5.2.2 11-1.2.5.3 12-1.2.5.4.1 13-1.2.5.4.2 14-1.3 15-1.4.1 16-1.4.2.1 17-1.4.2.2 18-1.4.3 19-1.5.1.1 20-1.5.1.2.1 21-1.5.1.2.2 22-1.5.1.3 23-1.5.1.4.1 24-1.5.1.4.1 26-1.5.1.4.2
+# ::tok Nach Hansten liegt dieser Pol in Wirklichkeit fast unter 70 ° Breite und 130 ° Länge und nach den Beobachtungen Duperreys unter 135 ° Länge und 70 ° 30 ? Breite .
+# ::alignments 0-1.1.2 1-1.1.3 2-1.2.1 3-1.2.2.1 4-1.5.3 5-1.2.3.1 6-1.2.3.2 7-1.2.4 8-1.2.5.1 9-1.2.5.2.1 11-1.2.5.2.2 12-1.2.5.3 13-1.2.5.4.1 15-1.2.5.4.2 16-1.3 17-1.4.1 18-1.4.2.1 19-1.4.2.2 20-1.4.3 21-1.5.1.1 22-1.5.1.2.1 24-1.5.1.2.2 25-1.5.1.3 26-1.5.1.4.1 28-1.5.1.4.1 30-1.5.1.4.2
 (v1 / label
     :H (v2 / label
            :S (v7 / label)
@@ -19,27 +19,27 @@
                    :R (v23 / label~e.8)
                    :C (v24 / label
                            :E (v33 / label~e.9)
-                           :C (v34 / label~e.10))
-                   :N (v25 / label~e.11)
+                           :C (v34 / label~e.11))
+                   :N (v25 / label~e.12)
                    :C (v26 / label
-                           :E (v35 / label~e.12)
-                           :C (v36 / label~e.13))))
-    :L (v4 / label~e.14)
+                           :E (v35 / label~e.13)
+                           :C (v36 / label~e.15))))
+    :L (v4 / label~e.16)
     :H (v5 / label
-           :R (v15 / label~e.15)
+           :R (v15 / label~e.17)
            :P (v16 / label
-                   :E (v27 / label~e.16)
-                   :C (v28 / label~e.17))
-           :A (v17 / label~e.18))
+                   :E (v27 / label~e.18)
+                   :C (v28 / label~e.19))
+           :A (v17 / label~e.20))
     :H (v6 / label
            :A (v18 / label
-                   :R (v29 / label~e.19)
+                   :R (v29 / label~e.21)
                    :C (v30 / label
-                           :E (v37 / label~e.20)
-                           :C (v38 / label~e.21))
-                   :N (v31 / label~e.22)
+                           :E (v37 / label~e.22)
+                           :C (v38 / label~e.24))
+                   :N (v31 / label~e.25)
                    :C (v32 / label
-                           :E (v39 / label~e.23,24)
-                           :C (v40 / label~e.26)))
+                           :E (v39 / label~e.26,28)
+                           :C (v40 / label~e.30)))
            :S v10
            :A v19))

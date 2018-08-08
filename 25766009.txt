@@ -1,14 +1,14 @@
 # ::id 25766009
-# ::tok »Ich denke , wir stecken fest , Kapitän.«
-# ::alignments 0-1.1.3.1 1-1.1.3.2 3-1.1.3.3.1 4-1.1.3.3.2 5-1.1.3.3.2 7-1.1.3.3.3
+# ::tok » Ich denke , wir stecken fest , Kapitän . «
+# ::alignments 1-1.1.3.1 2-1.1.3.2 4-1.1.3.3.1 5-1.1.3.3.2 6-1.1.3.3.2 8-1.1.3.3.3
 (v1 / label
     :H (v2 / label
-           :A (v3 / label)
-           :P (v4 / label)
+           :P (v3 / label)
+           :A (v4 / label)
            :A (v5 / label
-                  :A (v6 / label~e.0)
-                  :P (v7 / label~e.1)
+                  :A (v6 / label~e.1)
+                  :P (v7 / label~e.2)
                   :A (v8 / label
-                         :A (v9 / label~e.3)
-                         :S (v10 / label~e.4,5)
-                         :G (v11 / label~e.7)))))
+                         :A (v9 / label~e.4)
+                         :S (v10 / label~e.5,6)
+                         :G (v11 / label~e.8)))))

@@ -1,10 +1,15 @@
 # ::id 25768012
-# ::tok Doch verlor er keinen Augenblick .
-# ::alignments 0-1.1 1-1.2.1 2-1.2.2 3-1.2.3 4-1.2.4
+# ::tok Auf ein Signal erschien der Schiffslieutenant .
+# ::alignments 0-1.1.2.1 1-1.1.2.2 2-1.1.2.3 3-1.2.1 4-1.2.2.1 5-1.2.2.2
 (v1 / label
-    :L (v2 / label~e.0)
+    :H (v2 / label
+           :S (v4 / label)
+           :A (v5 / label
+                  :R (v8 / label~e.0)
+                  :E (v9 / label~e.1)
+                  :C (v10 / label~e.2)))
     :H (v3 / label
-           :P (v4 / label~e.1)
-           :A (v5 / label~e.2)
-           :D (v6 / label~e.3)
-           :A (v7 / label~e.4)))
+           :S (v6 / label~e.3)
+           :A (v7 / label
+                  :E (v11 / label~e.4)
+                  :C (v12 / label~e.5))))

@@ -1,15 +1,15 @@
 # ::id 25746002
-# ::tok »Was gibt  s ? « fragte ich und richtete mich etwas auf .
-# ::alignments 0-1.1.1.1 1-1.1.1.2 6-1.1.2 7-1.1.3 8-1.2 9-1.3.1 10-1.3.1 11-1.3.2 12-1.3.1
+# ::tok » Was gibt  s ? « fragte ich und richtete mich etwas auf .
+# ::alignments 1-1.1.1.1 2-1.1.1.2 7-1.1.2 8-1.1.3 9-1.2 10-1.3.1 11-1.3.1 12-1.3.2 13-1.3.1
 (v1 / label
     :H (v2 / label
            :A (v5 / label
-                  :A (v10 / label~e.0)
-                  :S (v11 / label~e.1))
-           :P (v6 / label~e.6)
-           :A (v7 / label~e.7))
-    :L (v3 / label~e.8)
+                  :A (v10 / label~e.1)
+                  :S (v11 / label~e.2))
+           :P (v6 / label~e.7)
+           :A (v7 / label~e.8))
+    :L (v3 / label~e.9)
     :H (v4 / label
-           :P (v8 / label~e.9,10,12)
-           :D (v9 / label~e.11)
+           :P (v8 / label~e.10,11,13)
+           :D (v9 / label~e.12)
            :A v7))

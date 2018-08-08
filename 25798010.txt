@@ -1,14 +1,12 @@
 # ::id 25798010
-# ::tok Wir mußten über diesen wichtigen Punkt bald im reinen sein .
-# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.1 3-1.1.3.2 4-1.1.3.3 5-1.1.3.4 6-1.1.4 7-1.1.5 8-1.1.5 9-1.1.5
+# ::tok Die Nautilus fuhr rasend schnell .
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.2 3-1.1.3.1 4-1.1.3.2
 (v1 / label
     :H (v2 / label
-           :A (v3 / label~e.0)
-           :D (v4 / label~e.1)
-           :A (v5 / label
-                  :R (v8 / label~e.2)
-                  :E (v9 / label~e.3)
-                  :E (v10 / label~e.4)
-                  :C (v11 / label~e.5))
-           :D (v6 / label~e.6)
-           :S (v7 / label~e.7,8,9)))
+           :A (v3 / label
+                  :E (v6 / label~e.0)
+                  :C (v7 / label~e.1))
+           :P (v4 / label~e.2)
+           :D (v5 / label
+                  :E (v8 / label~e.3)
+                  :C (v9 / label~e.4))))

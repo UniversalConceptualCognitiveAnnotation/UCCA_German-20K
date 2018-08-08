@@ -1,9 +1,9 @@
 # ::id 25783011
-# ::tok »Von ernstlicher Bedeutung ? «
-# ::alignments 0-1.1.1.1 1-1.1.2 2-1.1.1.2
+# ::tok » Von ernstlicher Bedeutung ? «
+# ::alignments 1-1.1.1.1 2-1.1.2 3-1.1.1.2
 (v1 / label
     :H (v2 / label
            :S (v3 / label
-                  :R (v5 / label~e.0)
-                  :C (v6 / label~e.2))
-           :D (v4 / label~e.1)))
+                  :R (v5 / label~e.1)
+                  :C (v6 / label~e.3))
+           :D (v4 / label~e.2)))
