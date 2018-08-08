@@ -1,14 +1,14 @@
 # ::id 25639021
-# ::tok »Und die Papuas ? «
-# ::alignments 0-1.1.3.1 1-1.1.3.2.2.1 2-1.1.3.2.2.2
+# ::tok » Und die Papuas ? «
+# ::alignments 1-1.1.3.1 2-1.1.3.2.2.1 3-1.1.3.2.2.2
 (v1 / label
     :H (v2 / label
-           :P (v3 / label)
-           :A (v4 / label)
+           :A (v3 / label)
+           :P (v4 / label)
            :A (v5 / label
-                  :L (v6 / label~e.0)
+                  :L (v6 / label~e.1)
                   :H (v7 / label
                          :S (v8 / label)
                          :A (v9 / label
-                                :E (v10 / label~e.1)
-                                :C (v11 / label~e.2))))))
+                                :E (v10 / label~e.2)
+                                :C (v11 / label~e.3))))))

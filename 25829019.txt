@@ -1,7 +1,9 @@
 # ::id 25829019
-# ::tok Keine Antwort .
-# ::alignments 0-1.1.1 1-1.1.2
+# ::tok » Kapitän ? « sagte ich .
+# ::alignments 1-1.1.1.1 4-1.1.2 5-1.1.3
 (v1 / label
     :H (v2 / label
-           :D (v3 / label~e.0)
-           :P (v4 / label~e.1)))
+           :A (v3 / label
+                  :G (v6 / label~e.1))
+           :P (v4 / label~e.4)
+           :A (v5 / label~e.5)))
