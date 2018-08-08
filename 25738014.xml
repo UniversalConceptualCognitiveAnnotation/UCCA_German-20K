@@ -129,7 +129,7 @@
       <edge toID="1.9" type="D">
         <attributes />
       </edge>
-      <edge toID="1.10" type="U">
+      <edge toID="1.30" type="U">
         <attributes />
       </edge>
     </node>
@@ -180,19 +180,13 @@
       <edge toID="1.13" type="E">
         <attributes />
       </edge>
-      <edge toID="1.14" type="U">
+      <edge toID="1.31" type="U">
         <attributes />
       </edge>
     </node>
     <node ID="1.9" type="FN">
       <attributes />
       <edge toID="0.12" type="Terminal">
-        <attributes />
-      </edge>
-    </node>
-    <node ID="1.10" type="PNCT">
-      <attributes />
-      <edge toID="0.10" type="Terminal">
         <attributes />
       </edge>
     </node>
@@ -222,16 +216,10 @@
       <edge toID="1.17" type="S">
         <attributes />
       </edge>
-      <edge toID="1.18" type="U">
-        <attributes />
-      </edge>
       <edge toID="1.25" type="A">
         <attributes remote="True" />
       </edge>
-    </node>
-    <node ID="1.14" type="PNCT">
-      <attributes />
-      <edge toID="0.15" type="Terminal">
+      <edge toID="1.32" type="U">
         <attributes />
       </edge>
     </node>
@@ -259,12 +247,6 @@
     <node ID="1.17" type="FN">
       <attributes />
       <edge toID="0.21" type="Terminal">
-        <attributes />
-      </edge>
-    </node>
-    <node ID="1.18" type="PNCT">
-      <attributes />
-      <edge toID="0.22" type="Terminal">
         <attributes />
       </edge>
     </node>
@@ -334,6 +316,24 @@
     <node ID="1.29" type="FN">
       <attributes />
       <edge toID="0.6" type="Terminal">
+        <attributes />
+      </edge>
+    </node>
+    <node ID="1.30" type="PNCT">
+      <attributes />
+      <edge toID="0.10" type="Terminal">
+        <attributes />
+      </edge>
+    </node>
+    <node ID="1.31" type="PNCT">
+      <attributes />
+      <edge toID="0.15" type="Terminal">
+        <attributes />
+      </edge>
+    </node>
+    <node ID="1.32" type="PNCT">
+      <attributes />
+      <edge toID="0.22" type="Terminal">
         <attributes />
       </edge>
     </node>
