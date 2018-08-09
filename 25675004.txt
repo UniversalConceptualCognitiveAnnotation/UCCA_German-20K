@@ -1,0 +1,25 @@
+# ::id 25675004
+# ::tok » Gut ! « dachte ich , » Conseil wird sich nie entschließen mitzugehen , und das wird mich beim Kapitän entschuldigen . «
+# ::alignments 1-1.1.1.1.3 4-1.1.2 5-1.1.3 8-1.1.1.2.1 10-1.1.1.2.3 11-1.1.1.2.4 12-1.1.1.2.3 13-1.1.1.2.5 15-1.1.1.3 16-1.1.1.4.1 18-1.1.1.4.3 19-1.1.1.4.4.1 20-1.1.1.4.4.2 21-1.1.1.4.5
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :H (v6 / label
+                         :S (v10 / label)
+                         :A (v11 / label)
+                         :D (v12 / label~e.1))
+                  :H (v7 / label
+                         :A (v13 / label~e.8)
+                         :D (v14 / label~e.10,12)
+                         :D (v15 / label~e.11)
+                         :P (v16 / label~e.13))
+                  :L (v8 / label~e.15)
+                  :H (v9 / label
+                         :A (v17 / label~e.16)
+                         :A (v18 / label~e.18)
+                         :A (v19 / label
+                                 :R (v21 / label~e.19)
+                                 :C (v22 / label~e.20))
+                         :P (v20 / label~e.21)))
+           :P (v4 / label~e.4)
+           :A (v5 / label~e.5)))

@@ -1,0 +1,27 @@
+# ::id 25645019
+# ::tok Augenblicklich sah ich auch Kapitän Nemo heraufkommen , der seine bewaffneten Augen sofort nach dem Horizont richtete .
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3 3-1.1.4 4-1.1.5.1.1 5-1.1.5.1.2 6-1.1.5.2 8-1.1.5.1.3.2 9-1.1.5.1.3.3.1 10-1.1.5.1.3.3.2 11-1.1.5.1.3.3.3 12-1.1.5.1.3.4 13-1.1.5.1.3.5.1 14-1.1.5.1.3.5.2 15-1.1.5.1.3.5.3 16-1.1.5.1.3.6
+(v1 / label
+    :H (v2 / label
+           :D (v3 / label~e.0)
+           :P (v4 / label~e.1)
+           :A (v5 / label~e.2)
+           :D (v6 / label~e.3)
+           :A (v7 / label
+                  :A (v8 / label
+                         :E (v10 / label~e.4)
+                         :C (v11 / label~e.5)
+                         :E (v12 / label
+                                 :A v11
+                                 :R (v13 / label~e.8)
+                                 :A (v14 / label
+                                         :E (v18 / label~e.9)
+                                         :E (v19 / label~e.10)
+                                         :C (v20 / label~e.11))
+                                 :D (v15 / label~e.12)
+                                 :A (v16 / label
+                                         :R (v21 / label~e.13)
+                                         :E (v22 / label~e.14)
+                                         :C (v23 / label~e.15))
+                                 :P (v17 / label~e.16)))
+                  :P (v9 / label~e.6))))

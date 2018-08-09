@@ -1,0 +1,19 @@
+# ::id 25651016
+# ::tok » Sie können sich nun zurückziehen , Herr Arronax « , sagte der Kapitän zu mir .
+# ::alignments 2-1.1.1.2 3-1.1.1.3 4-1.1.1.4 5-1.1.1.3 7-1.1.1.5.1 8-1.1.1.5.2 11-1.1.2 12-1.1.3.1 13-1.1.3.2 14-1.1.4.1 15-1.1.4.2
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :D (v7 / label~e.2)
+                  :P (v8 / label~e.3,5)
+                  :T (v9 / label~e.4)
+                  :G (v10 / label
+                          :E (v15 / label~e.7)
+                          :C (v16 / label~e.8)))
+           :P (v4 / label~e.11)
+           :A (v5 / label
+                  :E (v11 / label~e.12)
+                  :C (v12 / label~e.13))
+           :A (v6 / label
+                  :R (v13 / label~e.14)
+                  :C (v14 / label~e.15))))

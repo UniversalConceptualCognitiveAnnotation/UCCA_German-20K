@@ -1,0 +1,27 @@
+# ::id 25640019
+# ::tok Wir trösteten , halb mit Lachen , und rieben den unglücklichen Ned Land , der wie ein Besessener fluchte .
+# ::alignments 0-1.1.1 1-1.1.2 3-1.1.3 4-1.1.4.1 5-1.1.4.2 7-1.2 8-1.3.1 9-1.3.2.1 10-1.3.2.2 11-1.3.2.3 12-1.3.2.3 14-1.3.2.4.2 15-1.3.2.4.3.1 16-1.3.2.4.3.2 17-1.3.2.4.3.3 18-1.3.2.4.4
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label~e.0)
+           :P (v6 / label~e.1)
+           :D (v7 / label~e.3)
+           :A (v8 / label
+                  :R (v11 / label~e.4)
+                  :C (v12 / label~e.5)))
+    :L (v3 / label~e.7)
+    :H (v4 / label
+           :P (v9 / label~e.8)
+           :A (v10 / label
+                   :E (v13 / label~e.9)
+                   :E (v14 / label~e.10)
+                   :C (v15 / label~e.11,12)
+                   :E (v16 / label
+                           :A v15
+                           :R (v17 / label~e.14)
+                           :A (v18 / label
+                                   :R (v20 / label~e.15)
+                                   :E (v21 / label~e.16)
+                                   :C (v22 / label~e.17))
+                           :P (v19 / label~e.18)))
+           :A v5))

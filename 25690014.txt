@@ -1,0 +1,13 @@
+# ::id 25690014
+# ::tok Von hier aus war es nicht möglich weiter zu fahren .
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.1 5-1.1.4 6-1.1.5 7-1.1.6.1 9-1.1.6.1
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :R (v7 / label~e.0,2)
+                  :C (v8 / label~e.1))
+           :D (v4 / label~e.5)
+           :S (v5 / label~e.6)
+           :A (v6 / label
+                  :P (v9 / label~e.7,9)
+                  :A (v10 / label))))

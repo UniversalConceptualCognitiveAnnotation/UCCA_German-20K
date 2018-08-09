@@ -1,0 +1,11 @@
+# ::id 25626022
+# ::tok Ich aß und legte mich schlafen .
+# ::alignments 0-1.1.1 1-1.1.2 2-1.2 3-1.3.1 4-1.3.1 5-1.3.1
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label~e.0)
+           :P (v6 / label~e.1))
+    :L (v3 / label~e.2)
+    :H (v4 / label
+           :P (v7 / label~e.3,4,5)
+           :A v5))
