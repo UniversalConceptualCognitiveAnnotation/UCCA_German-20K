@@ -1,0 +1,21 @@
+# format = ucca
+# sent_id = 25487001
+# text = Die ›Abraham Lincoln‹ fuhr mit schwachem Dampf vorsichtig , um ihren Gegner nicht zu wecken .
+# doc_id = 
+1	Die	_	Word	Word	_	2	E	2:E	_
+2	›Abraham	_	Word	Word	_	0	root	0:root	_
+3	Lincoln‹	_	Word	Word	_	2	flat	2:flat	_
+4	fuhr	_	Word	Word	_	2	orphan	2:orphan	_
+5	mit	_	Word	Word	_	7	R	7:R	_
+6	schwachem	_	Word	Word	_	7	E	7:E	_
+7	Dampf	_	Word	Word	_	2	orphan	2:orphan	_
+8	vorsichtig	_	Word	Word	_	4	D	4:D	_
+9	,	_	Punctuation	Punctuation	_	4	punct	4:punct	_
+10	um	_	Word	Word	_	4	L	4:L	_
+11	ihren	_	Word	Word	_	12	R	12:R	_
+12	Gegner	_	Word	Word	_	2	orphan	2:orphan	_
+13	nicht	_	Word	Word	_	15	D	15:D	_
+14	zu	_	Word	Word	_	15	F	15:F	_
+15	wecken	_	Word	Word	_	2	orphan	2:orphan	_
+16	.	_	Punctuation	Punctuation	_	15	punct	15:punct	_
+

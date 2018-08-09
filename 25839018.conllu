@@ -1,0 +1,17 @@
+# format = ucca
+# sent_id = 25839018
+# text = Um 6 Uhr speiste ich , aber ich hatte keinen Hunger .
+# doc_id = 
+1	Um	_	Word	Word	_	2	R	2:R	_
+2	6	_	Word	Word	_	0	root	0:root	_
+3	Uhr	_	Word	Word	_	2	flat	2:flat	_
+4	speiste	_	Word	Word	_	2	orphan	2:orphan	_
+5	ich	_	Word	Word	_	4	A	4:A	_
+6	,	_	Punctuation	Punctuation	_	4	punct	4:punct	_
+7	aber	_	Word	Word	_	4	L	4:L	_
+8	ich	_	Word	Word	_	11	A	11:A	_
+9	hatte	_	Word	Word	_	11	F	11:F	_
+10	keinen	_	Word	Word	_	11	D	11:D	_
+11	Hunger	_	Word	Word	_	2	orphan	2:orphan	_
+12	.	_	Punctuation	Punctuation	_	11	punct	11:punct	_
+
