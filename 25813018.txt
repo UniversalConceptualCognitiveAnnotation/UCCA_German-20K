@@ -1,0 +1,20 @@
+# ::id 25813018
+# ::tok Als diese Wolke sich zerstreute , war der Kalmar verschwunden samt meinem unglücklichen Landsmann !
+# ::alignments 0-1.1 1-1.2.1.1 2-1.2.1.2 3-1.2.2 4-1.2.2 7-1.3.2.1 8-1.3.2.2 9-1.3.3 10-1.3.4.1 11-1.3.4.2 12-1.3.4.3 13-1.3.4.4
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :A (v5 / label
+                  :E (v10 / label~e.1)
+                  :C (v11 / label~e.2))
+           :P (v6 / label~e.3,4))
+    :H (v4 / label
+           :A (v7 / label
+                  :E (v12 / label~e.7)
+                  :C (v13 / label~e.8))
+           :P (v8 / label~e.9)
+           :A (v9 / label
+                  :R (v14 / label~e.10)
+                  :E (v15 / label~e.11)
+                  :E (v16 / label~e.12)
+                  :C (v17 / label~e.13))))

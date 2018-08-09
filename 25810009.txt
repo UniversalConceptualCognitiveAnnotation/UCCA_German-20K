@@ -1,0 +1,32 @@
+# ::id 25810009
+# ::tok Deutlich konnte man 200 schröpfkopfartige Warzen erkennen , die an der inneren Fläche der Fühlarme in Form von halbrunden Kapseln saßen .
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3 3-1.1.4.1 4-1.1.4.2 5-1.1.4.3 6-1.1.5 8-1.1.4.4.2 9-1.1.4.4.3.1 10-1.1.4.4.3.2 11-1.1.4.4.3.3 12-1.1.4.4.3.4 13-1.1.4.4.3.5.1 14-1.1.4.4.3.5.2 15-1.1.4.4.4.1.1 16-1.1.4.4.4.1.2 17-1.1.4.4.4.1.3 18-1.1.4.4.4.2 19-1.1.4.4.4.3 20-1.1.4.4.5
+(v1 / label
+    :H (v2 / label
+           :D (v3 / label~e.0)
+           :D (v4 / label~e.1)
+           :A (v5 / label~e.2)
+           :A (v6 / label
+                  :E (v8 / label~e.3)
+                  :E (v9 / label~e.4)
+                  :C (v10 / label~e.5)
+                  :E (v11 / label
+                          :A v10
+                          :R (v12 / label~e.8)
+                          :A (v13 / label
+                                  :R (v16 / label~e.9)
+                                  :R (v17 / label~e.10)
+                                  :E (v18 / label~e.11)
+                                  :C (v19 / label~e.12)
+                                  :E (v20 / label
+                                          :R (v24 / label~e.13)
+                                          :C (v25 / label~e.14)))
+                          :A (v14 / label
+                                  :E (v21 / label
+                                          :R (v26 / label~e.15)
+                                          :C (v27 / label~e.16)
+                                          :R (v28 / label~e.17))
+                                  :E (v22 / label~e.18)
+                                  :C (v23 / label~e.19))
+                          :S (v15 / label~e.20)))
+           :P (v7 / label~e.6)))

@@ -1,0 +1,16 @@
+# ::id 25818017
+# ::tok Diese Gelegenheit , ihn zu treffen , durfte ich nicht vorüberlassen .
+# ::alignments 0-1.1.1.1 1-1.1.1.2 3-1.1.1.3.2 5-1.1.1.3.4 7-1.1.2 8-1.1.3 9-1.1.4 10-1.1.5
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v8 / label~e.0)
+                  :C (v9 / label~e.1)
+                  :E (v10 / label
+                          :A (v5 / label~e.8)
+                          :A (v11 / label~e.3)
+                          :P (v12 / label~e.5)))
+           :D (v4 / label~e.7)
+           :A v5
+           :D (v6 / label~e.9)
+           :P (v7 / label~e.10)))

@@ -1,0 +1,38 @@
+# ::id 25806006
+# ::tok Wenn dieser Schritt keinen Erfolg hatte , so konnte er seinen Argwohn wieder beleben , unsere Lage peinlicher machen und den Projekten des Kanadiers schaden .
+# ::alignments 0-1.1 1-1.2.1.1 2-1.5.5 3-1.2.2 4-1.2.3 7-1.3 8-1.4.1 9-1.4.2 10-1.4.3.1 11-1.4.3.2 12-1.4.4 13-1.4.5 15-1.5.1.1 16-1.5.1.2 17-1.5.2 19-1.6 20-1.7.1.1 21-1.7.1.2 22-1.7.1.3.1 23-1.7.1.3.2 24-1.7.2
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :A (v9 / label
+                  :E (v22 / label~e.1)
+                  :C (v19 / label~e.2))
+           :D (v10 / label~e.3)
+           :S (v11 / label~e.4))
+    :L (v4 / label~e.7)
+    :H (v5 / label
+           :D (v12 / label~e.8)
+           :A (v13 / label~e.9)
+           :A (v14 / label
+                   :E (v23 / label~e.10)
+                   :C (v24 / label~e.11))
+           :D (v15 / label~e.12)
+           :P (v16 / label~e.13))
+    :H (v6 / label
+           :A (v17 / label
+                   :E (v25 / label~e.15)
+                   :C (v26 / label~e.16))
+           :S (v18 / label~e.17)
+           :D v12
+           :A v19)
+    :L (v7 / label~e.19)
+    :H (v8 / label
+           :A (v20 / label
+                   :E (v27 / label~e.20)
+                   :C (v28 / label~e.21)
+                   :E (v29 / label
+                           :R (v30 / label~e.22)
+                           :C (v31 / label~e.23)))
+           :P (v21 / label~e.24)
+           :D v12
+           :A v19))

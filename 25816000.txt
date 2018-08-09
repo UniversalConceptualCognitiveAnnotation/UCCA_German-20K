@@ -1,0 +1,26 @@
+# ::id 25816000
+# ::tok Conseil folgte und war sehr erstaunt , dass er gar kein Gefühl von Wärme oder Kälte empfand .
+# ::alignments 0-1.1.1 1-1.1.2 2-1.2 4-1.3.2 5-1.3.3 7-1.3.4.1 8-1.3.4.2 9-1.3.4.3.1 10-1.3.4.3.2 11-1.3.4.4.1 12-1.3.4.4.2.1 13-1.3.4.4.2.2 14-1.3.4.4.2.3 15-1.3.4.4.2.4 16-1.3.4.5
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label~e.0)
+           :P (v6 / label~e.1))
+    :L (v3 / label~e.2)
+    :H (v4 / label
+           :D (v7 / label~e.4)
+           :S (v8 / label~e.5)
+           :A (v9 / label
+                  :R (v10 / label~e.7)
+                  :A (v11 / label~e.8)
+                  :D (v12 / label
+                          :E (v15 / label~e.9)
+                          :C (v16 / label~e.10))
+                  :A (v13 / label
+                          :C (v17 / label~e.11)
+                          :E (v18 / label
+                                  :R (v19 / label~e.12)
+                                  :C (v20 / label~e.13)
+                                  :N (v21 / label~e.14)
+                                  :C (v22 / label~e.15)))
+                  :P (v14 / label~e.16))
+           :A v5))

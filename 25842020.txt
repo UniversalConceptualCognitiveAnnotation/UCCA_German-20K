@@ -1,0 +1,17 @@
+# ::id 25842020
+# ::tok Ein Brausen , das vom Echo wiederholt gehört wurde .
+# ::alignments 0-1.1.2.1 1-1.1.2.2 3-1.1.2.3.2 4-1.1.2.3.3.1 5-1.1.2.3.3.2 6-1.1.2.3.4 7-1.1.2.3.5
+(v1 / label
+    :H (v2 / label
+           :S (v3 / label)
+           :A (v4 / label
+                  :E (v5 / label~e.0)
+                  :C (v6 / label~e.1)
+                  :E (v7 / label
+                         :A v6
+                         :R (v8 / label~e.3)
+                         :A (v9 / label
+                                :R (v12 / label~e.4)
+                                :C (v13 / label~e.5))
+                         :D (v10 / label~e.6)
+                         :P (v11 / label~e.7)))))
