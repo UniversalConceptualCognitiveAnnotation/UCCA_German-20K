@@ -1,0 +1,16 @@
+# ::id 25476006
+# ::tok Das erregte Zorn über die Enttäuschung .
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.2 3-1.1.3.3.2.1 4-1.1.3.3.2.2 5-1.1.3.3.2.3
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label~e.0)
+           :P (v4 / label~e.1)
+           :A (v5 / label
+                  :A (v6 / label)
+                  :S (v7 / label~e.2)
+                  :A (v8 / label
+                         :A (v9 / label)
+                         :P (v10 / label
+                                 :R (v11 / label~e.3)
+                                 :E (v12 / label~e.4)
+                                 :C (v13 / label~e.5))))))

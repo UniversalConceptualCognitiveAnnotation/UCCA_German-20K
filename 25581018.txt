@@ -1,0 +1,15 @@
+# ::id 25581018
+# ::tok Am 10 . November gleiche Verlassenheit , gleiche Einsamkeit .
+# ::alignments 0-1.1.2.1 1-1.1.2.2 3-1.1.2.2 4-1.1.3.1 5-1.1.3.2 7-1.1.4.1 8-1.1.4.2
+(v1 / label
+    :H (v2 / label
+           :S (v3 / label)
+           :T (v4 / label
+                  :R (v7 / label~e.0)
+                  :C (v8 / label~e.1,3))
+           :A (v5 / label
+                  :E (v9 / label~e.4)
+                  :C (v10 / label~e.5))
+           :A (v6 / label
+                  :E (v11 / label~e.7)
+                  :C (v12 / label~e.8))))

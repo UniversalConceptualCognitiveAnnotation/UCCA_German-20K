@@ -1,0 +1,20 @@
+# ::id 25599010
+# ::tok Nun öffnete sich die innere Tür , und wir kamen in die Kleider kammer .
+# ::alignments 0-1.1 1-1.2.1 2-1.2.1 3-1.2.2.1 4-1.2.2.2 5-1.2.2.3 7-1.3 8-1.4.1 9-1.4.2 10-1.4.3.1 11-1.4.3.2 12-1.4.3.3 13-1.4.3.4
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :P (v6 / label~e.1,2)
+           :A (v7 / label
+                  :E (v11 / label~e.3)
+                  :E (v12 / label~e.4)
+                  :C (v13 / label~e.5)))
+    :L (v4 / label~e.7)
+    :H (v5 / label
+           :A (v8 / label~e.8)
+           :P (v9 / label~e.9)
+           :A (v10 / label
+                   :R (v14 / label~e.10)
+                   :E (v15 / label~e.11)
+                   :E (v16 / label~e.12)
+                   :C (v17 / label~e.13))))

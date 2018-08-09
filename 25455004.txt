@@ -1,0 +1,32 @@
+# ::id 25455004
+# ::tok Das Loch war so stark , dass man es stopfen mußte , und ich glaube nicht , dass das Vorhandensein eines Loches entschiedener bewiesen werden kann .
+# ::alignments 0-1.1.1.1 1-1.1.1.2 3-1.2 4-1.1.3 6-1.2 7-1.3.1 8-1.3.2 9-1.3.3 10-1.3.4 12-1.4 13-1.5.1 14-1.5.2 15-1.5.3 17-1.5.4.1 18-1.5.4.2.1.1 19-1.5.4.2.1.2 20-1.5.4.2.2.1 21-1.5.4.2.2.2 22-1.5.4.3 23-1.5.4.4 25-1.5.4.6
+(v1 / label
+    :H (v2 / label
+           :A (v7 / label
+                  :E (v17 / label~e.0)
+                  :C (v18 / label~e.1))
+           :S (v8 / label~e.4))
+    :L (v3 / label~e.3,6)
+    :H (v4 / label
+           :A (v9 / label~e.7)
+           :A (v10 / label~e.8)
+           :P (v11 / label~e.9)
+           :D (v12 / label~e.10))
+    :L (v5 / label~e.12)
+    :H (v6 / label
+           :A (v13 / label~e.13)
+           :P (v14 / label~e.14)
+           :D (v15 / label~e.15)
+           :A (v16 / label
+                   :R (v19 / label~e.17)
+                   :A (v20 / label
+                           :S (v24 / label
+                                   :E (v26 / label~e.18)
+                                   :C (v27 / label~e.19))
+                           :A (v25 / label
+                                   :R (v28 / label~e.20)
+                                   :C (v29 / label~e.21)))
+                   :D (v21 / label~e.22)
+                   :P (v22 / label~e.23)
+                   :D (v23 / label~e.25))))

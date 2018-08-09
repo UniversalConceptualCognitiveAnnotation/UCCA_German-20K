@@ -1,0 +1,14 @@
+# ::id 25437002
+# ::tok Mach dich fertig , hilf mir , mich fertig machen .
+# ::alignments 0-1.1.1.2 1-1.1.1.2 2-1.1.1.2 4-1.1.2.1 5-1.1.2.2 7-1.1.2.3.2 8-1.1.2.3.2 9-1.1.2.3.2
+(v1 / label
+    :H (v2 / label
+           :H (v3 / label
+                  :A (v5 / label)
+                  :P (v6 / label~e.0,1,2))
+           :H (v4 / label
+                  :P (v7 / label~e.4)
+                  :A (v8 / label~e.5)
+                  :A (v9 / label
+                         :A (v10 / label)
+                         :P (v11 / label~e.7,8,9)))))

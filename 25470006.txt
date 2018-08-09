@@ -1,0 +1,18 @@
+# ::id 25470006
+# ::tok » Nein , mein Herr « , erwiderte ich mit Überzeugung .
+# ::alignments 1-1.1.1.2 3-1.1.1.3.1 4-1.1.1.3.2 7-1.1.2 8-1.1.3 9-1.2.1.1 10-1.2.1.2
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label
+                  :S (v8 / label)
+                  :D (v9 / label~e.1)
+                  :G (v10 / label
+                          :E (v13 / label~e.3)
+                          :C (v14 / label~e.4)))
+           :P (v5 / label~e.7)
+           :A (v6 / label~e.8))
+    :H (v3 / label
+           :P (v7 / label
+                  :R (v11 / label~e.9)
+                  :C (v12 / label~e.10))
+           :A v6))

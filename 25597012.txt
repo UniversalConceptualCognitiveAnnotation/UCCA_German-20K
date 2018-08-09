@@ -1,0 +1,55 @@
+# ::id 25597012
+# ::tok Bei 10 Meter Tiefe wandelten wir inmitten eines Schwarms kleiner Fische aller Art , die zahlreicher waren als die Vögel in der Luft , auch weit beweglicher ; aber ein Wildpret , das eines Schusses würdig gewesen wäre , war uns noch nicht aufgestoßen .
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.2 3-1.1.1.3 4-1.1.2 5-1.1.3 6-1.1.4.1 7-1.1.4.2.1 8-1.1.4.2.2 9-1.1.4.3 10-1.1.4.4 11-1.1.4.5.1 12-1.1.4.5.2 14-1.1.4.6.2 15-1.1.4.6.3 17-1.1.4.6.5.1 18-1.1.4.6.5.2 19-1.1.4.6.5.3 20-1.1.4.6.6.1 21-1.1.4.6.6.2 22-1.1.4.6.6.3 24-1.1.4.7.2 25-1.1.4.7.3 26-1.1.4.7.4 28-1.2 29-1.3.1.1 30-1.3.1.2 32-1.3.1.3.2 33-1.3.1.3.3.1 34-1.3.1.3.3.2 35-1.3.1.3.4 40-1.3.3 41-1.3.4.1 42-1.3.4.2 43-1.3.5
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label
+                  :E (v13 / label~e.0)
+                  :C (v14 / label~e.1,2)
+                  :E (v15 / label~e.3))
+           :P (v6 / label~e.4)
+           :A (v7 / label~e.5)
+           :A (v8 / label
+                  :R (v16 / label~e.6)
+                  :E (v17 / label
+                          :E (v28 / label~e.7)
+                          :C (v29 / label~e.8))
+                  :E (v18 / label~e.9)
+                  :C (v19 / label~e.10)
+                  :E (v20 / label
+                          :E (v30 / label~e.11)
+                          :C (v31 / label~e.12))
+                  :E (v21 / label
+                          :A v19
+                          :R (v32 / label~e.14)
+                          :S (v33 / label~e.15)
+                          :A (v34 / label
+                                  :R (v42 / label~e.17)
+                                  :E (v43 / label~e.18)
+                                  :C (v44 / label~e.19))
+                          :A (v35 / label
+                                  :R (v45 / label~e.20)
+                                  :E (v46 / label~e.21)
+                                  :C (v47 / label~e.22)))
+                  :E (v22 / label
+                          :A v19
+                          :D (v36 / label~e.24)
+                          :D (v37 / label~e.25)
+                          :S (v38 / label~e.26))))
+    :L (v3 / label~e.28)
+    :H (v4 / label
+           :A (v9 / label
+                  :E (v23 / label~e.29)
+                  :C (v24 / label~e.30)
+                  :E (v25 / label
+                          :A v24
+                          :R (v39 / label~e.32)
+                          :A (v40 / label
+                                  :E (v48 / label~e.33)
+                                  :C (v49 / label~e.34))
+                          :S (v41 / label~e.35)))
+           :A (v10 / label~e.40)
+           :D (v11 / label
+                   :E (v26 / label~e.41)
+                   :C (v27 / label~e.42))
+           :P (v12 / label~e.43)))

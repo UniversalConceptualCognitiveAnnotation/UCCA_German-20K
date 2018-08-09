@@ -1,0 +1,17 @@
+# ::id 25583002
+# ::tok Nachdem der Schiffsleutnent diese Worte gesprochen , stieg er wieder hinab .
+# ::alignments 0-1.1 1-1.2.1.1 2-1.2.1.2 3-1.2.2.1 4-1.2.2.2 5-1.2.3 7-1.3.1 8-1.3.2 9-1.3.3 10-1.3.1
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :A (v5 / label
+                  :E (v11 / label~e.1)
+                  :C (v12 / label~e.2))
+           :A (v6 / label
+                  :E (v13 / label~e.3)
+                  :C (v14 / label~e.4))
+           :P (v7 / label~e.5))
+    :H (v4 / label
+           :P (v8 / label~e.7,10)
+           :A (v9 / label~e.8)
+           :D (v10 / label~e.9)))

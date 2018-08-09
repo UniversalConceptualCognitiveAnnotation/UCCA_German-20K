@@ -1,0 +1,37 @@
+# ::id 25527014
+# ::tok Man hat sie richtig definiert : » Wirbeltiere mit kaltem Blut und doppeltem Umlauf , die durch Kiemen atmen und im Wasser zu leben bestimmt sind .
+# ::alignments 0-1.1.1 2-1.1.3 3-1.1.4 4-1.1.5 7-1.2.2.1 8-1.2.2.2.1 9-1.2.2.2.2.1 10-1.2.2.2.2.2 11-1.2.2.2.3 12-1.2.2.2.4.1 13-1.2.2.2.4.2 15-1.2.2.3.1.2 16-1.2.2.3.1.3.1 17-1.2.2.3.1.3.2 18-1.2.2.3.1.4 19-1.2.2.3.2 20-1.2.2.3.3.1.1 21-1.2.2.3.3.1.2 23-1.2.2.3.3.3 24-1.2.2.3.3.4
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label~e.0)
+           :A (v5 / label~e.2)
+           :D (v6 / label~e.3)
+           :S (v7 / label~e.4))
+    :H (v3 / label
+           :S (v8 / label)
+           :A (v9 / label
+                  :C (v10 / label~e.7)
+                  :E (v11 / label
+                          :R (v13 / label~e.8)
+                          :C (v14 / label
+                                  :E (v20 / label~e.9)
+                                  :C (v21 / label~e.10))
+                          :N (v15 / label~e.11)
+                          :C (v16 / label
+                                  :E (v22 / label~e.12)
+                                  :C (v23 / label~e.13)))
+                  :E (v12 / label
+                          :C (v17 / label
+                                  :A v10
+                                  :R (v24 / label~e.15)
+                                  :A (v25 / label
+                                          :R (v30 / label~e.16)
+                                          :C (v31 / label~e.17))
+                                  :P (v26 / label~e.18))
+                          :N (v18 / label~e.19)
+                          :C (v19 / label
+                                  :A (v27 / label
+                                          :R (v32 / label~e.20)
+                                          :C (v33 / label~e.21))
+                                  :S (v28 / label~e.23)
+                                  :D (v29 / label~e.24))))))

@@ -1,0 +1,82 @@
+# ::id 25472005
+# ::tok Es wollte nur aus der Entfernung seinen Anlauf nehmen und schoß plötzlich vom dunkeln Horizont aus mit schrecklicher Geschwindigkeit auf die ›Abraham Lincoln‹ los , hielt jedoch in einer Entfernung von 20 Fuß auf einmal an , verschwand – nicht durch Untertauchen , denn sein Glanz blieb ungeschwächt – sondern als wäre die Quelle der glänzenden Ausströmung mit einemmal versiegt !
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3 3-1.1.4.1 4-1.1.4.2 5-1.1.4.3 6-1.1.5.1 7-1.1.5.2 9-1.2 10-1.3.1 11-1.3.2 12-1.3.3.1 13-1.3.3.2 14-1.3.3.3 15-1.3.3.1 16-1.3.4.1 17-1.3.4.2 18-1.3.4.3 19-1.3.5.1 20-1.3.5.2 21-1.3.5.3 22-1.3.5.3 23-1.3.1 25-1.4.1 26-1.5 27-1.4.2.1 28-1.4.2.2 29-1.4.2.3 30-1.4.2.4.1 31-1.4.2.4.2 32-1.4.2.4.2 33-1.4.3.1 34-1.4.3.2 35-1.4.1 37-1.6.1 39-1.7.1 40-1.7.2.1.1 41-1.7.2.1.2 43-1.8 44-1.9.1.1 45-1.9.1.2 46-1.9.2 47-1.9.3 49-1.10 50-1.11.1 51-1.11.2 52-1.11.3.1 53-1.11.3.2 54-1.11.3.3.1 55-1.11.3.3.2.2 56-1.11.3.3.3.2 57-1.11.4 58-1.11.4 59-1.11.5
+(v1 / label
+    :H (v2 / label
+           :A (v13 / label~e.0)
+           :D (v14 / label~e.1)
+           :D (v15 / label~e.2)
+           :A (v16 / label
+                   :R (v37 / label~e.3)
+                   :E (v38 / label~e.4)
+                   :C (v39 / label~e.5))
+           :P (v17 / label
+                   :E (v40 / label~e.6)
+                   :C (v41 / label~e.7)))
+    :L (v3 / label~e.9)
+    :H (v4 / label
+           :P (v18 / label~e.10,23)
+           :D (v19 / label~e.11)
+           :A (v20 / label
+                   :R (v42 / label~e.12,15)
+                   :E (v43 / label~e.13)
+                   :C (v44 / label~e.14))
+           :A (v21 / label
+                   :R (v45 / label~e.16)
+                   :E (v46 / label~e.17)
+                   :C (v47 / label~e.18))
+           :A (v22 / label
+                   :R (v48 / label~e.19)
+                   :E (v49 / label~e.20)
+                   :C (v50 / label~e.21,22))
+           :A v13)
+    :H (v5 / label
+           :P (v23 / label~e.25,35)
+           :A (v24 / label
+                   :R (v51 / label~e.27)
+                   :E (v52 / label~e.28)
+                   :C (v53 / label~e.29)
+                   :E (v54 / label
+                           :R (v63 / label~e.30)
+                           :C (v64 / label~e.31,32)))
+           :D (v25 / label
+                   :R (v55 / label~e.33)
+                   :C (v56 / label~e.34))
+           :A v13)
+    :L (v6 / label~e.26)
+    :H (v7 / label
+           :P (v26 / label~e.37)
+           :A v13)
+    :H (v8 / label
+           :D (v27 / label~e.39)
+           :A (v28 / label
+                   :P (v57 / label
+                           :R (v65 / label~e.40)
+                           :C (v66 / label~e.41))
+                   :A v13)
+           :P v26
+           :A v13)
+    :L (v9 / label~e.43)
+    :H (v10 / label
+            :A (v29 / label
+                    :E (v58 / label~e.44)
+                    :C (v59 / label~e.45))
+            :D (v30 / label~e.46)
+            :S (v31 / label~e.47))
+    :L (v11 / label~e.49)
+    :H (v12 / label
+            :R (v32 / label~e.50)
+            :D (v33 / label~e.51)
+            :A (v34 / label
+                    :E (v60 / label~e.52)
+                    :C (v61 / label~e.53)
+                    :E (v62 / label
+                            :E (v67 / label~e.54)
+                            :E (v68 / label
+                                    :A (v69 / label
+                                            :A (v71 / label)
+                                            :P (v72 / label~e.56))
+                                    :S (v70 / label~e.55))
+                            :C v69))
+            :D (v35 / label~e.57,58)
+            :P (v36 / label~e.59)))

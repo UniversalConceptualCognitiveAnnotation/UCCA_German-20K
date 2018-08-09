@@ -1,0 +1,29 @@
+# ::id 25596016
+# ::tok Während wir vorwärts schritten , fiel mir ein , dass das Licht unserer Ruhmkorffapparate notwendig manche Bewohner dieser dunklen Schichten herbeilocken würde .
+# ::alignments 0-1.1 1-1.2.1 2-1.2.2 3-1.2.2 5-1.3.1 6-1.3.2 7-1.3.1 9-1.3.3.1 10-1.3.3.2.1 11-1.3.3.2.2 12-1.3.3.2.3.1 13-1.3.3.2.3.2 14-1.3.3.3 15-1.3.3.4.1 16-1.3.3.4.2 17-1.3.3.4.3.1 18-1.3.3.4.3.2 19-1.3.3.4.3.3 20-1.3.3.5 21-1.3.3.6
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :A (v5 / label~e.1)
+           :P (v6 / label~e.2,3))
+    :H (v4 / label
+           :P (v7 / label~e.5,7)
+           :A (v8 / label~e.6)
+           :A (v9 / label
+                  :R (v10 / label~e.9)
+                  :A (v11 / label
+                          :E (v16 / label~e.10)
+                          :C (v17 / label~e.11)
+                          :E (v18 / label
+                                  :R (v22 / label~e.12)
+                                  :C (v23 / label~e.13)))
+                  :D (v12 / label~e.14)
+                  :A (v13 / label
+                          :E (v19 / label~e.15)
+                          :C (v20 / label~e.16)
+                          :E (v21 / label
+                                  :R (v24 / label~e.17)
+                                  :E (v25 / label~e.18)
+                                  :C (v26 / label~e.19)))
+                  :P (v14 / label~e.20)
+                  :D (v15 / label~e.21))))
