@@ -1,0 +1,42 @@
+# ::id 25793027
+# ::tok Die elektrischen Säulen entwickelten eine solche Hitze , dass das aus dem Meer geschöpfte kalte Wasser nur den Apparat zu durchlaufen hatte , um siedend in die Pumpen zu gelangen .
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.3 3-1.1.2 4-1.1.3.1 5-1.1.3.2 6-1.1.3.3 8-1.1.4.1 9-1.1.4.2.1 10-1.1.4.2.2.2.1 11-1.1.4.2.2.2.2 12-1.1.4.2.2.2.3 13-1.1.4.2.2.3 14-1.1.4.2.2.4 15-1.3.5 16-1.1.4.3 17-1.1.4.4.1 18-1.1.4.4.2 20-1.1.4.6 21-1.1.4.7 23-1.2 24-1.3.1 25-1.3.2.1 26-1.3.2.2 27-1.3.2.3 29-1.3.4
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label
+                  :E (v13 / label~e.0)
+                  :E (v14 / label~e.1)
+                  :C (v15 / label~e.2))
+           :P (v6 / label~e.3)
+           :A (v7 / label
+                  :E (v16 / label~e.4)
+                  :E (v17 / label~e.5)
+                  :C (v18 / label~e.6))
+           :A (v8 / label
+                  :R (v19 / label~e.8)
+                  :A (v20 / label
+                          :E (v28 / label~e.9)
+                          :E (v29 / label
+                                  :A (v12 / label~e.15)
+                                  :A (v32 / label
+                                          :R (v35 / label~e.10)
+                                          :E (v36 / label~e.11)
+                                          :C (v37 / label~e.12))
+                                  :P (v33 / label~e.13)
+                                  :D (v34 / label~e.14))
+                          :C v12)
+                  :D (v21 / label~e.16)
+                  :A (v22 / label
+                          :E (v30 / label~e.17)
+                          :C (v31 / label~e.18))
+                  :P (v23 / label~e.20)
+                  :D (v24 / label~e.21)))
+    :L (v3 / label~e.23)
+    :H (v4 / label
+           :D (v9 / label~e.24)
+           :A (v10 / label
+                   :R (v25 / label~e.25)
+                   :E (v26 / label~e.26)
+                   :C (v27 / label~e.27))
+           :P (v11 / label~e.29)
+           :A v12))

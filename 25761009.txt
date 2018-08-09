@@ -1,0 +1,15 @@
+# ::id 25761009
+# ::tok Das Meer war mit verstümmelten Leichnamen bedeckt .
+# ::alignments 0-1.1.1.1 1-1.1.1.2 3-1.1.3.1 4-1.1.3.2.2 5-1.1.3.3 6-1.1.4
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v6 / label~e.0)
+                  :C (v7 / label~e.1))
+           :A (v4 / label
+                  :R (v8 / label~e.3)
+                  :E (v9 / label
+                         :A (v10 / label~e.5)
+                         :S (v11 / label~e.4))
+                  :C v10)
+           :S (v5 / label~e.6)))

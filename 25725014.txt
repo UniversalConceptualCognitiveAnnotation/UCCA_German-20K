@@ -1,0 +1,10 @@
+# ::id 25725014
+# ::tok Ich horchte , spitzte mein Ohr .
+# ::alignments 0-1.1.1 1-1.1.2 3-1.2.1 4-1.2.1 5-1.2.1
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label~e.0)
+           :P (v5 / label~e.1))
+    :H (v3 / label
+           :P (v6 / label~e.3,4,5)
+           :A v4))

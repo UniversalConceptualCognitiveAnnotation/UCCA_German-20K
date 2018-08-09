@@ -1,0 +1,56 @@
+# ::id 25768003
+# ::tok » Haben Sie denn noch weitere zu machen ? « » Nur einen . Wenn der Südpol von Meer umgeben ist , so wäre der Fall möglich , dass es dort völlig festgefroren ist , und dann könnten wir folglich nicht wieder zur Oberfläche gelangen ! «
+# ::alignments 1-1.1.4.1 2-1.1.4.2 4-1.1.4.4 5-1.1.4.5 7-1.1.4.7 11-1.2.3.1.1 12-1.2.3.1.2 14-1.2.3.2 15-1.2.3.3.1.1 16-1.2.3.3.1.2 17-1.2.3.3.2.1 18-1.2.3.3.2.2 19-1.2.3.3.3 22-1.2.3.4 23-1.2.3.5.1 24-1.2.3.5.2.1 25-1.2.3.5.2.2 26-1.2.3.5.3 28-1.2.3.5.2.3.2 30-1.2.3.5.2.3.4 31-1.2.3.5.2.3.5 32-1.2.3.5.2.3.6 35-1.2.3.6 36-1.2.3.7.1 37-1.2.3.7.2 38-1.2.3.7.3 39-1.2.3.7.4 40-1.2.3.7.5 41-1.2.3.7.6 42-1.2.3.7.7.1 43-1.2.3.7.7.2 44-1.2.3.7.8
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label)
+           :A (v5 / label)
+           :P (v6 / label)
+           :A (v7 / label
+                  :D (v11 / label~e.1)
+                  :A (v12 / label~e.2)
+                  :D (v13 / label~e.4)
+                  :A (v14 / label~e.5)
+                  :P (v15 / label~e.7)))
+    :H (v3 / label
+           :P (v8 / label)
+           :A (v9 / label)
+           :A (v10 / label
+                   :H (v16 / label
+                           :D (v23 / label~e.11)
+                           :A (v24 / label~e.12)
+                           :P v15)
+                   :L (v17 / label~e.14)
+                   :H (v18 / label
+                           :A (v25 / label
+                                   :E (v39 / label~e.15)
+                                   :C (v40 / label~e.16))
+                           :A (v26 / label
+                                   :R (v41 / label~e.17)
+                                   :C (v42 / label~e.18))
+                           :S (v27 / label~e.19))
+                   :L (v19 / label~e.22)
+                   :H (v20 / label
+                           :D (v28 / label~e.23)
+                           :A (v29 / label
+                                   :E (v43 / label~e.24)
+                                   :C (v44 / label~e.25)
+                                   :E (v45 / label
+                                           :A v44
+                                           :R (v48 / label~e.28)
+                                           :A (v49 / label~e.30)
+                                           :D (v50 / label~e.31)
+                                           :S (v51 / label~e.32)))
+                           :S (v30 / label~e.26))
+                   :L (v21 / label~e.35)
+                   :H (v22 / label
+                           :D (v31 / label~e.36)
+                           :D (v32 / label~e.37)
+                           :A (v33 / label~e.38)
+                           :D (v34 / label~e.39)
+                           :D (v35 / label~e.40)
+                           :D (v36 / label~e.41)
+                           :A (v37 / label
+                                   :E (v46 / label~e.42)
+                                   :C (v47 / label~e.43))
+                           :P (v38 / label~e.44)))))

@@ -1,0 +1,24 @@
+# ::id 25721000
+# ::tok Als die Tür meines Zimmers geschlossen war , setzte er sich nieder und sah mich schweigend an .
+# ::alignments 0-1.1 1-1.2.1.1 2-1.2.1.2 3-1.2.1.3.1 4-1.2.1.3.2 5-1.2.2 8-1.3.1 9-1.3.2 10-1.3.1 11-1.3.1 12-1.4 13-1.5.1 14-1.5.2 15-1.6.1 16-1.5.1
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :A (v8 / label
+                  :E (v15 / label~e.1)
+                  :C (v16 / label~e.2)
+                  :E (v17 / label
+                          :R (v18 / label~e.3)
+                          :C (v19 / label~e.4)))
+           :S (v9 / label~e.5))
+    :H (v4 / label
+           :P (v10 / label~e.8,10,11)
+           :A (v11 / label~e.9))
+    :L (v5 / label~e.12)
+    :H (v6 / label
+           :P (v12 / label~e.13,16)
+           :A (v13 / label~e.14)
+           :A v11)
+    :H (v7 / label
+           :S (v14 / label~e.15)
+           :A v11))

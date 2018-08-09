@@ -1,0 +1,22 @@
+# ::id 25791000
+# ::tok Während der Nacht wurde , meiner Berechnung gemäß , abermals eine Schicht von einem Meter fortgeschafft .
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.3 5-1.1.3.1 6-1.1.3.2 7-1.1.3.3 9-1.1.4 10-1.1.5.1 11-1.1.5.2 12-1.1.5.3.1 13-1.1.5.3.2 14-1.1.5.3.3 15-1.1.6
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :R (v8 / label~e.0)
+                  :E (v9 / label~e.1)
+                  :C (v10 / label~e.2))
+           :G (v4 / label
+                  :E (v11 / label~e.5)
+                  :C (v12 / label~e.6)
+                  :R (v13 / label~e.7))
+           :D (v5 / label~e.9)
+           :A (v6 / label
+                  :E (v14 / label~e.10)
+                  :C (v15 / label~e.11)
+                  :E (v16 / label
+                          :R (v17 / label~e.12)
+                          :E (v18 / label~e.13)
+                          :C (v19 / label~e.14)))
+           :P (v7 / label~e.15)))

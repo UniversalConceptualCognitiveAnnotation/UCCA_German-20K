@@ -1,0 +1,21 @@
+# ::id 25711005
+# ::tok » Richtig , Herr Arronax , das heißt verständig gesprochen . «
+# ::alignments 1-1.1.3.1.3 3-1.1.3.1.4.1 4-1.1.3.1.4.2 7-1.1.3.2.2 8-1.1.3.2.3.2 9-1.1.3.2.3.3
+(v1 / label
+    :H (v2 / label
+           :P (v3 / label)
+           :A (v4 / label)
+           :A (v5 / label
+                  :H (v6 / label
+                         :A (v8 / label)
+                         :P (v9 / label)
+                         :D (v10 / label~e.1)
+                         :G (v11 / label
+                                 :E (v14 / label~e.3)
+                                 :C (v15 / label~e.4)))
+                  :H (v7 / label
+                         :P (v12 / label~e.7)
+                         :A (v13 / label
+                                 :A (v16 / label)
+                                 :D (v17 / label~e.8)
+                                 :P (v18 / label~e.9))))))

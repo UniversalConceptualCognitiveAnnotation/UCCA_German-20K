@@ -1,0 +1,13 @@
+# ::id 25716016
+# ::tok Das Mittelmeer in 24 Stunden
+# ::alignments 0-1.1.2.1 1-1.1.2.2 2-1.1.3.1 3-1.1.3.2 4-1.1.3.3
+(v1 / label
+    :H (v2 / label
+           :P (v3 / label)
+           :A (v4 / label
+                  :E (v6 / label~e.0)
+                  :C (v7 / label~e.1))
+           :T (v5 / label
+                  :R (v8 / label~e.2)
+                  :E (v9 / label~e.3)
+                  :C (v10 / label~e.4))))

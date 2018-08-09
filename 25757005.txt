@@ -1,0 +1,13 @@
+# ::id 25757005
+# ::tok » Das ist meine Meinung , Ned . «
+# ::alignments 1-1.1.3.1 3-1.1.3.3.1 4-1.1.3.3.2 6-1.1.3.4
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :P (v4 / label)
+           :A (v5 / label
+                  :A (v6 / label~e.1)
+                  :S (v7 / label
+                         :E (v9 / label~e.3)
+                         :C (v10 / label~e.4))
+                  :G (v8 / label~e.6))))
