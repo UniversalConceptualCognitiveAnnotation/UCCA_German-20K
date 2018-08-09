@@ -20,9 +20,11 @@ jobs:
       env: FORMAT=validate
     - script: curl $SCRIPTS/visualize.sh | bash -s "25[0-5]"
       env: FORMAT=visualize
+    - script: curl $SCRIPTS/visualize.sh | bash -s "256"
+      env: FORMAT=visualize
     - script: curl $SCRIPTS/visualize.sh | bash -s "257"
       env: FORMAT=visualize
-    - script: curl $SCRIPTS/visualize.sh | bash -s "25[68-9]"
+    - script: curl $SCRIPTS/visualize.sh | bash -s "25[8-9]"
       env: FORMAT=visualize
     - script: curl $SCRIPTS/sentences_to_xml.sh | bash
       env: FORMAT=xml
@@ -34,9 +36,11 @@ jobs:
       env: FORMAT=conllu
     - script: curl $SCRIPTS/convert.sh | bash -s $FORMAT "25[0-5]"
       env: FORMAT=amr
+    - script: curl $SCRIPTS/convert.sh | bash -s $FORMAT "256"
+      env: FORMAT=amr
     - script: curl $SCRIPTS/convert.sh | bash -s $FORMAT "257"
       env: FORMAT=amr
-    - script: curl $SCRIPTS/convert.sh | bash -s $FORMAT "25[68-9]"
+    - script: curl $SCRIPTS/convert.sh | bash -s $FORMAT "25[8-9]"
       env: FORMAT=amr
     - script: curl $SCRIPTS/convert.sh | bash -s $FORMAT
       env: FORMAT=export
@@ -51,9 +55,11 @@ jobs:
       env: FORMAT=conllu
     - script: curl $SCRIPTS/evaluate.sh | bash -s $FORMAT "25[0-5]"
       env: FORMAT=amr
+    - script: curl $SCRIPTS/evaluate.sh | bash -s $FORMAT "256"
+      env: FORMAT=amr
     - script: curl $SCRIPTS/evaluate.sh | bash -s $FORMAT "257"
       env: FORMAT=amr
-    - script: curl $SCRIPTS/evaluate.sh | bash -s $FORMAT "25[68-9]"
+    - script: curl $SCRIPTS/evaluate.sh | bash -s $FORMAT "25[8-9]"
       env: FORMAT=amr
     - script: curl $SCRIPTS/evaluate.sh | bash -s $FORMAT
       env: FORMAT=export
