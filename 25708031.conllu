@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 25708031
-# text = » Wirklich « , sagte er , » Sie haben recht , Herr Professor , und Ihr Kapitän ist ein Mann , wie es keinen mehr gibt . Wir sind im Mittelmeer . Gut . So wollen wir , wenn  s beliebt , von unseren Angelegenheiten plaudern , aber dass niemand uns hören kann . «
+# text = » Wirklich « , sagte er , » Sie haben recht , Herr Professor , und Ihr Kapitän ist ein Mann , wie es keinen mehr gibt . Wir sind im Mittelmeer . Gut . So wollen wir , wenn ' s beliebt , von unseren Angelegenheiten plaudern , aber dass niemand uns hören kann . «
 # doc_id = 
 1	»	_	Punctuation	Punctuation	_	2	punct	2:punct	_
 2	Wirklich	_	Word	Word	_	0	root	0:root	_
@@ -42,7 +42,7 @@
 38	wir	_	Word	Word	_	48	A	48:A	_
 39	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
 40	wenn	_	Word	Word	_	2	L	2:L	_
-41		_	Punctuation	Punctuation	_	2	punct	2:punct	_
+41	'	_	Punctuation	Punctuation	_	2	punct	2:punct	_
 42	s	_	Word	Word	_	43	F	43:F	_
 43	beliebt	_	Word	Word	_	2	orphan	2:orphan	_
 44	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_

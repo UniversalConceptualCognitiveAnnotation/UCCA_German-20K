@@ -1,12 +1,12 @@
 # format = ucca
 # sent_id = 25605016
-# text = Ich zählte deren vier  vier Männer , von denen einer am Steuer ruder aufrecht stand  sodann eine Frau , die halb aus der Luke des Hinter verdecks herausgekommen , ein Kind in den Armen hielt .
+# text = Ich zählte deren vier - vier Männer , von denen einer am Steuer ruder aufrecht stand - sodann eine Frau , die halb aus der Luke des Hinter verdecks herausgekommen , ein Kind in den Armen hielt .
 # doc_id = 
 1	Ich	_	Word	Word	_	2	A	2:A	_
 2	zählte	_	Word	Word	_	0	root	0:root	_
 3	deren	_	Word	Word	_	2	A	2:A	_
 4	vier	_	Word	Word	_	2	A	2:A	_
-5		_	Punctuation	Punctuation	_	2	punct	2:punct	_
+5	-	_	Punctuation	Punctuation	_	2	punct	2:punct	_
 6	vier	_	Word	Word	_	7	E	7:E	_
 7	Männer	_	Word	Word	_	2	orphan	2:orphan	_
 8	,	_	Punctuation	Punctuation	_	7	punct	7:punct	_
@@ -18,7 +18,7 @@
 14	ruder	_	Word	Word	_	2	orphan	2:orphan	_
 15	aufrecht	_	Word	Word	_	16	D	16:D	_
 16	stand	_	Word	Word	_	2	orphan	2:orphan	_
-17		_	Punctuation	Punctuation	_	7	punct	7:punct	_
+17	-	_	Punctuation	Punctuation	_	7	punct	7:punct	_
 18	sodann	_	Word	Word	_	7	N	7:N	_
 19	eine	_	Word	Word	_	20	E	20:E	_
 20	Frau	_	Word	Word	_	2	orphan	2:orphan	_

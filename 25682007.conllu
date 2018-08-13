@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 25682007
-# text = » Dieser Apparat würde uns nicht dienlich sein « , erwiderte der Kapitän . » Wir begeben uns in keine große Tiefe , und die Sonnen strahlen werden schon ausreichen , unseren Weg zu beleuchten . Zudem ist  s nicht klug , unter diese Gewässer eine elektrische Lampe mitzunehmen , weil deren heller Schein unversehens einen gefährlichen Bewohner dieser Meeres gegend herbeilocken könnte . «
+# text = » Dieser Apparat würde uns nicht dienlich sein « , erwiderte der Kapitän . » Wir begeben uns in keine große Tiefe , und die Sonnen strahlen werden schon ausreichen , unseren Weg zu beleuchten . Zudem ist ' s nicht klug , unter diese Gewässer eine elektrische Lampe mitzunehmen , weil deren heller Schein unversehens einen gefährlichen Bewohner dieser Meeres gegend herbeilocken könnte . «
 # doc_id = 
 1	»	_	Punctuation	Punctuation	_	7	punct	7:punct	_
 2	Dieser	_	Word	Word	_	3	E	3:E	_
@@ -40,7 +40,7 @@
 36	.	_	Punctuation	Punctuation	_	7	punct	7:punct	_
 37	Zudem	_	Word	Word	_	7	L	7:L	_
 38	ist	_	Word	Word	_	42	F	42:F	_
-39		_	Punctuation	Punctuation	_	42	punct	42:punct	_
+39	'	_	Punctuation	Punctuation	_	42	punct	42:punct	_
 40	s	_	Word	Word	_	42	F	42:F	_
 41	nicht	_	Word	Word	_	42	D	42:D	_
 42	klug	_	Word	Word	_	3	orphan	3:orphan	_

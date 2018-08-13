@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 25706007
-# text = Vor Ungeduld , den Tunnel von Kapitän Nemo zu durchfahren , hielt ich  s innen nicht aus und suchte die frische Nacht luft zu atmen .
+# text = Vor Ungeduld , den Tunnel von Kapitän Nemo zu durchfahren , hielt ich ' s innen nicht aus und suchte die frische Nacht luft zu atmen .
 # doc_id = 
 1	Vor	_	Word	Word	_	2	R	2:R	_
 2	Ungeduld	_	Word	Word	_	0	root	0:root	_
@@ -15,7 +15,7 @@
 11	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
 12	hielt	_	Word	Word	_	2	orphan	2:orphan	_
 13	ich	_	Word	Word	_	12	A	12:A	_
-14		_	Punctuation	Punctuation	_	12	punct	12:punct	_
+14	'	_	Punctuation	Punctuation	_	12	punct	12:punct	_
 15	s	_	Word	Word	_	12	A	12:A	_
 16	innen	_	Word	Word	_	12	A	12:A	_
 17	nicht	_	Word	Word	_	12	D	12:D	_

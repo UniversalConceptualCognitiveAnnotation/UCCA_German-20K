@@ -1,11 +1,11 @@
 # format = ucca
 # sent_id = 25675013
-# text = » Nehmen Sie  s nicht übel , mein Herr « , erwiderte Conseil , » der Kommandant der Nautilus hat uns eingeladen , morgen in Gesellschaft meines Herrn die prächtigen Fischereien von Ceylon zu besuchen . Er hat die Einladung in seinen Worten gemacht und sich wie ein echter Gentleman benommen . «
+# text = » Nehmen Sie ' s nicht übel , mein Herr « , erwiderte Conseil , » der Kommandant der ›Nautilus‹ hat uns eingeladen , morgen in Gesellschaft meines Herrn die prächtigen Fischereien von Ceylon zu besuchen . Er hat die Einladung in seinen Worten gemacht und sich wie ein echter Gentleman benommen . «
 # doc_id = 
 1	»	_	Punctuation	Punctuation	_	2	punct	2:punct	_
 2	Nehmen	_	Word	Word	_	0	root	0:root	_
 3	Sie	_	Word	Word	_	2	A	2:A	_
-4		_	Punctuation	Punctuation	_	2	punct	2:punct	_
+4	'	_	Punctuation	Punctuation	_	2	punct	2:punct	_
 5	s	_	Word	Word	_	2	A	2:A	_
 6	nicht	_	Word	Word	_	2	D	2:D	_
 7	übel	_	Word	Word	_	2	flat	2:flat	_
@@ -21,7 +21,7 @@
 17	der	_	Word	Word	_	18	E	18:E	_
 18	Kommandant	_	Word	Word	_	2	orphan	2:orphan	_
 19	der	_	Word	Word	_	20	R	20:R	_
-20	Nautilus	_	Word	Word	_	2	orphan	2:orphan	_
+20	›Nautilus‹	_	Word	Word	_	2	orphan	2:orphan	_
 21	hat	_	Word	Word	_	23	F	23:F	_
 22	uns	_	Word	Word	_	23	A	23:A	_
 23	eingeladen	_	Word	Word	_	2	orphan	2:orphan	_

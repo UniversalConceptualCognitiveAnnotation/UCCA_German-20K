@@ -1,10 +1,10 @@
 # format = ucca
 # sent_id = 25732015
-# text = Oder gar  der Gedanke fuhr mir durch den Kopf  hatte der Mensch bei dieser Glut die Hand im Spiele ?
+# text = Oder gar - der Gedanke fuhr mir durch den Kopf - hatte der Mensch bei dieser Glut die Hand im Spiele ?
 # doc_id = 
 1	Oder	_	Word	Word	_	12	L	12:L	_
 2	gar	_	Word	Word	_	12	F	12:F	_
-3		_	Punctuation	Punctuation	_	12	punct	12:punct	_
+3	-	_	Punctuation	Punctuation	_	12	punct	12:punct	_
 4	der	_	Word	Word	_	5	E	5:E	_
 5	Gedanke	_	Word	Word	_	0	root	0:root	_
 6	fuhr	_	Word	Word	_	5	orphan	5:orphan	_
@@ -12,7 +12,7 @@
 8	durch	_	Word	Word	_	10	R	10:R	_
 9	den	_	Word	Word	_	10	E	10:E	_
 10	Kopf	_	Word	Word	_	5	orphan	5:orphan	_
-11		_	Punctuation	Punctuation	_	12	punct	12:punct	_
+11	-	_	Punctuation	Punctuation	_	12	punct	12:punct	_
 12	hatte	_	Word	Word	_	5	orphan	5:orphan	_
 13	der	_	Word	Word	_	14	E	14:E	_
 14	Mensch	_	Word	Word	_	5	orphan	5:orphan	_

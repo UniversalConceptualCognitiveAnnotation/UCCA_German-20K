@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 25710006
-# text = » Herr Arronax « , erwiderte der Kanadier , » Ihren Gründen fehlt  s am Grund . Sie sprechen in zukünftiger Zeit : Wir werden dort , wir werden hier sein !  Ich rede in der Gegenwart : Wir sind hier , und man muß das benutzen . «
+# text = » Herr Arronax « , erwiderte der Kanadier , » Ihren Gründen fehlt ' s am Grund . Sie sprechen in zukünftiger Zeit : ›Wir werden dort , wir werden hier sein ! ‹ Ich rede in der Gegenwart : Wir sind hier , und man muß das benutzen . «
 # doc_id = 
 1	»	_	Punctuation	Punctuation	_	13	punct	13:punct	_
 2	Herr	_	Word	Word	_	3	E	3:E	_
@@ -15,7 +15,7 @@
 11	Ihren	_	Word	Word	_	12	E	12:E	_
 12	Gründen	_	Word	Word	_	3	orphan	3:orphan	_
 13	fehlt	_	Word	Word	_	3	orphan	3:orphan	_
-14		_	Punctuation	Punctuation	_	13	punct	13:punct	_
+14	'	_	Punctuation	Punctuation	_	13	punct	13:punct	_
 15	s	_	Word	Word	_	13	F	13:F	_
 16	am	_	Word	Word	_	17	R	17:R	_
 17	Grund	_	Word	Word	_	3	orphan	3:orphan	_
@@ -26,7 +26,7 @@
 22	zukünftiger	_	Word	Word	_	23	E	23:E	_
 23	Zeit	_	Word	Word	_	3	orphan	3:orphan	_
 24	:	_	Punctuation	Punctuation	_	20	punct	20:punct	_
-25	Wir	_	Word	Word	_	3	orphan	3:orphan	_
+25	›Wir	_	Word	Word	_	3	orphan	3:orphan	_
 26	werden	_	Word	Word	_	25	F	25:F	_
 27	dort	_	Word	Word	_	25	A	25:A	_
 28	,	_	Punctuation	Punctuation	_	25	punct	25:punct	_
@@ -35,7 +35,7 @@
 31	hier	_	Word	Word	_	32	A	32:A	_
 32	sein	_	Word	Word	_	3	orphan	3:orphan	_
 33	!	_	Punctuation	Punctuation	_	13	punct	13:punct	_
-34		_	Punctuation	Punctuation	_	13	punct	13:punct	_
+34	‹	_	Punctuation	Punctuation	_	13	punct	13:punct	_
 35	Ich	_	Word	Word	_	36	A	36:A	_
 36	rede	_	Word	Word	_	3	orphan	3:orphan	_
 37	in	_	Word	Word	_	39	R	39:R	_

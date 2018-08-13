@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 25634009
-# text = Die Eingeborenen befanden sich noch immer da , zahlreicher als am Abend zuvor  wohl 5- bis 600 .
+# text = Die Eingeborenen befanden sich noch immer da , zahlreicher als am Abend zuvor - wohl 5- bis 600 .
 # doc_id = 
 1	Die	_	Word	Word	_	2	E	2:E	_
 2	Eingeborenen	_	Word	Word	_	0	root	0:root	_
@@ -15,7 +15,7 @@
 11	am	_	Word	Word	_	12	E	12:E	_
 12	Abend	_	Word	Word	_	2	orphan	2:orphan	_
 13	zuvor	_	Word	Word	_	12	E	12:E	_
-14		_	Punctuation	Punctuation	_	9	punct	9:punct	_
+14	-	_	Punctuation	Punctuation	_	9	punct	9:punct	_
 15	wohl	_	Word	Word	_	9	G	9:G	_
 16	5-	_	Word	Word	_	2	orphan	2:orphan	_
 17	bis	_	Word	Word	_	16	N	16:N	_

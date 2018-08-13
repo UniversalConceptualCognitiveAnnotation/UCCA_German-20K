@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 25671010
-# text = » Man nennt das ein Milch meer « , sagte ich , » weiße Meeres wellen in weitem Umfang , wie man  s häufig an den Küsten von Amboina und in diesen Gegenden zu sehen bekommt . «
+# text = » Man nennt das ein Milch meer « , sagte ich , » weiße Meeres wellen in weitem Umfang , wie man ' s häufig an den Küsten von Amboina und in diesen Gegenden zu sehen bekommt . «
 # doc_id = 
 1	»	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 2	Man	_	Word	Word	_	3	A	3:A	_
@@ -24,7 +24,7 @@
 20	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 21	wie	_	Word	Word	_	3	L	3:L	_
 22	man	_	Word	Word	_	36	A	36:A	_
-23		_	Punctuation	Punctuation	_	36	punct	36:punct	_
+23	'	_	Punctuation	Punctuation	_	36	punct	36:punct	_
 24	s	_	Word	Word	_	36	A	36:A	_
 25	häufig	_	Word	Word	_	36	D	36:D	_
 26	an	_	Word	Word	_	30	R	30:R	_

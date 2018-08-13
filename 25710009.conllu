@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 25710009
-# text = » Mein Herr « , fuhr Ned fort , » setzen wir , was unmöglich der Fall , Kapitän Nemo bietet Ihnen schon heute die Freiheit an . Würden Sie  s annehmen ? «
+# text = » Mein Herr « , fuhr Ned fort , » setzen wir , was unmöglich der Fall , Kapitän Nemo bietet Ihnen schon heute die Freiheit an . Würden Sie ' s annehmen ? «
 # doc_id = 
 1	»	_	Punctuation	Punctuation	_	11	punct	11:punct	_
 2	Mein	_	Word	Word	_	3	E	3:E	_
@@ -32,7 +32,7 @@
 28	.	_	Punctuation	Punctuation	_	11	punct	11:punct	_
 29	Würden	_	Word	Word	_	33	D	33:D	_
 30	Sie	_	Word	Word	_	33	A	33:A	_
-31		_	Punctuation	Punctuation	_	33	punct	33:punct	_
+31	'	_	Punctuation	Punctuation	_	33	punct	33:punct	_
 32	s	_	Word	Word	_	33	A	33:A	_
 33	annehmen	_	Word	Word	_	3	orphan	3:orphan	_
 34	?	_	Punctuation	Punctuation	_	33	punct	33:punct	_

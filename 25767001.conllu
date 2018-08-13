@@ -1,11 +1,11 @@
 # format = ucca
 # sent_id = 25767001
-# text = » Ich glaub  s gern , Kapitän « , fuhr ich etwas ironisch fort . » Vorwärts denn ! Für uns gibt  s keine Hindernisse ! Zersprengen wir die Eisdecke , oder fahren wir darüber hinaus ! «
+# text = » Ich glaub ' s gern , Kapitän « , fuhr ich etwas ironisch fort . » Vorwärts denn ! Für uns gibt ' s keine Hindernisse ! Zersprengen wir die Eisdecke , oder fahren wir darüber hinaus ! «
 # doc_id = 
 1	»	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 2	Ich	_	Word	Word	_	3	A	3:A	_
 3	glaub	_	Word	Word	_	0	root	0:root	_
-4		_	Punctuation	Punctuation	_	3	punct	3:punct	_
+4	'	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 5	s	_	Word	Word	_	3	A	3:A	_
 6	gern	_	Word	Word	_	3	D	3:D	_
 7	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
@@ -25,7 +25,7 @@
 21	Für	_	Word	Word	_	22	R	22:R	_
 22	uns	_	Word	Word	_	3	orphan	3:orphan	_
 23	gibt	_	Word	Word	_	3	orphan	3:orphan	_
-24		_	Punctuation	Punctuation	_	23	punct	23:punct	_
+24	'	_	Punctuation	Punctuation	_	23	punct	23:punct	_
 25	s	_	Word	Word	_	23	F	23:F	_
 26	keine	_	Word	Word	_	23	D	23:D	_
 27	Hindernisse	_	Word	Word	_	3	orphan	3:orphan	_

@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 25757001
-# text = » Ich habe darauf zu antworten , meine Freunde , dass die Walfische ihren Gattungen nach in gewissen Meeren einheimisch sind , die sie nicht verlassen . Wenn es nun der Fall ist , dass ein solches Tier aus der Bering- in die Davisstraße kam , so ist das ganz einfach ein Beweis , dass zwischen dem einen und dem anderen Meer eine Verbindung stattfindet , sei  s auf der amerikanischen oder asiatischen Küste . «
+# text = » Ich habe darauf zu antworten , meine Freunde , dass die Walfische ihren Gattungen nach in gewissen Meeren einheimisch sind , die sie nicht verlassen . Wenn es nun der Fall ist , dass ein solches Tier aus der Bering- in die Davisstraße kam , so ist das ganz einfach ein Beweis , dass zwischen dem einen und dem anderen Meer eine Verbindung stattfindet , sei ' s auf der amerikanischen oder asiatischen Küste . «
 # doc_id = 
 1	»	_	Punctuation	Punctuation	_	6	punct	6:punct	_
 2	Ich	_	Word	Word	_	6	A	6:A	_
@@ -69,7 +69,7 @@
 65	stattfindet	_	Word	Word	_	6	orphan	6:orphan	_
 66	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_
 67	sei	_	Word	Word	_	6	orphan	6:orphan	_
-68		_	Punctuation	Punctuation	_	67	punct	67:punct	_
+68	'	_	Punctuation	Punctuation	_	67	punct	67:punct	_
 69	s	_	Word	Word	_	67	F	67:F	_
 70	auf	_	Word	Word	_	72	R	72:R	_
 71	der	_	Word	Word	_	72	E	72:E	_

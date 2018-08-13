@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 25675011
-# text = » Meiner Treu , mein Herr « , sagte Ned Land zu mir , » Ihr Kapitän Nemo  hol ihn der Teufel  hat uns soeben einen sehr annehm-lichen Vorschlag gemacht . «
+# text = » Meiner Treu , mein Herr « , sagte Ned Land zu mir , » Ihr Kapitän Nemo - hol ihn der Teufel - hat uns soeben einen sehr annehm-lichen Vorschlag gemacht . «
 # doc_id = 
 1	»	_	Punctuation	Punctuation	_	32	punct	32:punct	_
 2	Meiner	_	Word	Word	_	3	E	3:E	_
@@ -20,12 +20,12 @@
 16	Ihr	_	Word	Word	_	18	E	18:E	_
 17	Kapitän	_	Word	Word	_	18	E	18:E	_
 18	Nemo	_	Word	Word	_	3	orphan	3:orphan	_
-19		_	Punctuation	Punctuation	_	32	punct	32:punct	_
+19	-	_	Punctuation	Punctuation	_	32	punct	32:punct	_
 20	hol	_	Word	Word	_	3	orphan	3:orphan	_
 21	ihn	_	Word	Word	_	20	A	20:A	_
 22	der	_	Word	Word	_	23	E	23:E	_
 23	Teufel	_	Word	Word	_	3	orphan	3:orphan	_
-24		_	Punctuation	Punctuation	_	32	punct	32:punct	_
+24	-	_	Punctuation	Punctuation	_	32	punct	32:punct	_
 25	hat	_	Word	Word	_	32	F	32:F	_
 26	uns	_	Word	Word	_	32	A	32:A	_
 27	soeben	_	Word	Word	_	32	T	32:T	_

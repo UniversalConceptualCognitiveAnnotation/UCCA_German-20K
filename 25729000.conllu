@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 25729000
-# text = » 500 Millionen ! « erwiderte Kapitän Nemo . » Sie waren vorhanden , sind  s aber nicht mehr . «
+# text = » 500 Millionen ! « erwiderte Kapitän Nemo . » Sie waren vorhanden , sind ' s aber nicht mehr . «
 # doc_id = 
 1	»	_	Punctuation	Punctuation	_	2	punct	2:punct	_
 2	500	_	Word	Word	_	0	root	0:root	_
@@ -17,7 +17,7 @@
 13	vorhanden	_	Word	Word	_	2	orphan	2:orphan	_
 14	,	_	Punctuation	Punctuation	_	19	punct	19:punct	_
 15	sind	_	Word	Word	_	19	F	19:F	_
-16		_	Punctuation	Punctuation	_	19	punct	19:punct	_
+16	'	_	Punctuation	Punctuation	_	19	punct	19:punct	_
 17	s	_	Word	Word	_	19	F	19:F	_
 18	aber	_	Word	Word	_	2	L	2:L	_
 19	nicht	_	Word	Word	_	2	orphan	2:orphan	_

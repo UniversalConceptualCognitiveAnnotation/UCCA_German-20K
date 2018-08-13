@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 25829005
-# text = 1779 am 11 . Juli war es mit dem Geschwader des Admirals dEstaing bei der Eroberung Granadas . 1781 am 5 . September nahm es am Kampf des Grafen de Grasse in der Bai von Chesapeak teil . Im Jahr 1794 gab ihm die französische Republik einen anderen Namen . Am 16 . April desselben Jahres schloß es sich zu Brest dem Geschwader von Villaret-Joyeuse an , das eine Ladung Getreide aus Amerika zu eskortieren hatte . Am 11 . und 12 . Prairial des Jahres II traf dieses Geschwader mit den englischen Schiffen zusammen . Heute ist der 13 . Prairial 1 . Juni 1868 . Heute sind s gerade 74 Jahre , dass an derselben Stelle , unter 47 ° 24 ? Breite und 17 ° 28 ? Länge , dieses Schiff , als es nach heroischem Kampf seine drei Masten verloren , das Wasser in seine Räume drang , ein Drittel seiner Mannschaft kampfunfähig geworden , samt seinen 356 Mann lieber sich versenkte als sich ergab und mit aufgepflanzter Flagge und dem Ruf : Es lebe die Republik !  in die Tiefe sank . «
+# text = 1779 am 11 . Juli war es mit dem Geschwader des Admirals d'Estaing bei der Eroberung Granadas . 1781 am 5 . September nahm es am Kampf des Grafen de Grasse in der Bai von Chesapeak teil . Im Jahr 1794 gab ihm die französische Republik einen anderen Namen . Am 16 . April desselben Jahres schloß es sich zu Brest dem Geschwader von Villaret-Joyeuse an , das eine Ladung Getreide aus Amerika zu eskortieren hatte . Am 11 . und 12 . Prairial des Jahres II traf dieses Geschwader mit den englischen Schiffen zusammen . Heute ist der 13 . Prairial 1 . Juni 1868 . Heute sind 's gerade 74 Jahre , dass an derselben Stelle , unter 47 ° 24 ? Breite und 17 ° 28 ? Länge , dieses Schiff , als es nach heroischem Kampf seine drei Masten verloren , das Wasser in seine Räume drang , ein Drittel seiner Mannschaft kampfunfähig geworden , samt seinen 356 Mann lieber sich versenkte als sich ergab und mit aufgepflanzter Flagge und dem Ruf : ›Es lebe die Republik ! ‹ in die Tiefe sank . «
 # doc_id = 
 1	1779	_	Word	Word	_	0	root	0:root	_
 2	am	_	Word	Word	_	3	R	3:R	_
@@ -14,7 +14,7 @@
 10	Geschwader	_	Word	Word	_	1	orphan	1:orphan	_
 11	des	_	Word	Word	_	13	R	13:R	_
 12	Admirals	_	Word	Word	_	13	E	13:E	_
-13	dEstaing	_	Word	Word	_	1	orphan	1:orphan	_
+13	d'Estaing	_	Word	Word	_	1	orphan	1:orphan	_
 14	bei	_	Word	Word	_	16	R	16:R	_
 15	der	_	Word	Word	_	16	E	16:E	_
 16	Eroberung	_	Word	Word	_	1	orphan	1:orphan	_
@@ -111,7 +111,7 @@
 107	.	_	Punctuation	Punctuation	_	6	punct	6:punct	_
 108	Heute	_	Word	Word	_	109	A	109:A	_
 109	sind	_	Word	Word	_	1	orphan	1:orphan	_
-110	s	_	Word	Word	_	109	F	109:F	_
+110	's	_	Word	Word	_	109	F	109:F	_
 111	gerade	_	Word	Word	_	109	D	109:D	_
 112	74	_	Word	Word	_	109	A	109:A	_
 113	Jahre	_	Word	Word	_	112	flat	112:flat	_
@@ -179,12 +179,12 @@
 175	dem	_	Word	Word	_	176	E	176:E	_
 176	Ruf	_	Word	Word	_	1	orphan	1:orphan	_
 177	:	_	Punctuation	Punctuation	_	178	punct	178:punct	_
-178	Es	_	Word	Word	_	1	orphan	1:orphan	_
+178	›Es	_	Word	Word	_	1	orphan	1:orphan	_
 179	lebe	_	Word	Word	_	178	flat	178:flat	_
 180	die	_	Word	Word	_	178	flat	178:flat	_
 181	Republik	_	Word	Word	_	178	flat	178:flat	_
 182	!	_	Punctuation	Punctuation	_	187	punct	187:punct	_
-183		_	Punctuation	Punctuation	_	187	punct	187:punct	_
+183	‹	_	Punctuation	Punctuation	_	187	punct	187:punct	_
 184	in	_	Word	Word	_	186	R	186:R	_
 185	die	_	Word	Word	_	186	E	186:E	_
 186	Tiefe	_	Word	Word	_	1	orphan	1:orphan	_

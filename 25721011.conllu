@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 25721011
-# text = » Diesen Abend um 9 Uhr . Ich hab  s Conseil schon gesagt . Dann wird Kapitän Nemo in seiner Kammer sein und wahrscheinlich schon zu Bett . Weder die Maschinisten noch jemand von der Mannschaft kann uns sehen . Conseil und ich werden uns auf die Zentralleiter begeben ; Sie , Herr Arronax , werden in der Bibliothek sich aufhalten und auf mein Signal warten . Ruder , Mast und Segel befinden sich schon im Boot . Ich habe sogar einige Lebensmittel hingeschafft . Ich habe mir einen Schraubenschlüssel verschafft , um das Boot von der Nautilus loszumachen . So ist alles vorbereitet . Also diesen Abend . «
+# text = » Diesen Abend um 9 Uhr . Ich hab ' s Conseil schon gesagt . Dann wird Kapitän Nemo in seiner Kammer sein und wahrscheinlich schon zu Bett . Weder die Maschinisten noch jemand von der Mannschaft kann uns sehen . Conseil und ich werden uns auf die Zentralleiter begeben ; Sie , Herr Arronax , werden in der Bibliothek sich aufhalten und auf mein Signal warten . Ruder , Mast und Segel befinden sich schon im Boot . Ich habe sogar einige Lebensmittel hingeschafft . Ich habe mir einen Schraubenschlüssel verschafft , um das Boot von der ›Nautilus‹ loszumachen . So ist alles vorbereitet . Also diesen Abend . «
 # doc_id = 
 1	»	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 2	Diesen	_	Word	Word	_	3	E	3:E	_
@@ -11,7 +11,7 @@
 7	.	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 8	Ich	_	Word	Word	_	14	A	14:A	_
 9	hab	_	Word	Word	_	14	F	14:F	_
-10		_	Punctuation	Punctuation	_	14	punct	14:punct	_
+10	'	_	Punctuation	Punctuation	_	14	punct	14:punct	_
 11	s	_	Word	Word	_	14	A	14:A	_
 12	Conseil	_	Word	Word	_	14	A	14:A	_
 13	schon	_	Word	Word	_	14	D	14:D	_
@@ -100,7 +100,7 @@
 96	Boot	_	Word	Word	_	3	orphan	3:orphan	_
 97	von	_	Word	Word	_	99	R	99:R	_
 98	der	_	Word	Word	_	99	E	99:E	_
-99	Nautilus	_	Word	Word	_	3	orphan	3:orphan	_
+99	›Nautilus‹	_	Word	Word	_	3	orphan	3:orphan	_
 100	loszumachen	_	Word	Word	_	3	orphan	3:orphan	_
 101	.	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 102	So	_	Word	Word	_	3	L	3:L	_

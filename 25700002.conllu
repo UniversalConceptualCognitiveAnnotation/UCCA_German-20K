@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 25700002
-# text = » Mein Herr « , erwiderte der Kapitän , zwischen Leuten , die sich nicht mehr voneinander trennen dürfen , gibt  s kein Geheimnis . «
+# text = » Mein Herr « , erwiderte der Kapitän , zwischen Leuten , die sich nicht mehr voneinander trennen dürfen , gibt ' s kein Geheimnis . «
 # doc_id = 
 1	»	_	Punctuation	Punctuation	_	21	punct	21:punct	_
 2	Mein	_	Word	Word	_	3	E	3:E	_
@@ -23,7 +23,7 @@
 19	dürfen	_	Word	Word	_	14	D	14:D	_
 20	,	_	Punctuation	Punctuation	_	21	punct	21:punct	_
 21	gibt	_	Word	Word	_	3	orphan	3:orphan	_
-22		_	Punctuation	Punctuation	_	21	punct	21:punct	_
+22	'	_	Punctuation	Punctuation	_	21	punct	21:punct	_
 23	s	_	Word	Word	_	21	F	21:F	_
 24	kein	_	Word	Word	_	21	D	21:D	_
 25	Geheimnis	_	Word	Word	_	21	A	21:A	_

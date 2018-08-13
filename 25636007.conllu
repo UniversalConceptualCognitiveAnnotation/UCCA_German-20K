@@ -1,11 +1,11 @@
 # format = ucca
 # sent_id = 25636007
-# text = Etwas 20 Pirogen  lange , schmale , aus einem Baum stamm gefertigte Boote  umgaben die " Nautilus " , von geschickten Ruderern geleitet , so dass ich sie nicht ohne Unruhe sah .
+# text = Etwas 20 Pirogen - lange , schmale , aus einem Baum stamm gefertigte Boote - umgaben die " Nautilus " , von geschickten Ruderern geleitet , so dass ich sie nicht ohne Unruhe sah .
 # doc_id = 
 1	Etwas	_	Word	Word	_	3	E	3:E	_
 2	20	_	Word	Word	_	3	E	3:E	_
 3	Pirogen	_	Word	Word	_	0	root	0:root	_
-4		_	Punctuation	Punctuation	_	3	punct	3:punct	_
+4	-	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 5	lange	_	Word	Word	_	14	E	14:E	_
 6	,	_	Punctuation	Punctuation	_	14	punct	14:punct	_
 7	schmale	_	Word	Word	_	14	E	14:E	_
@@ -16,7 +16,7 @@
 12	stamm	_	Word	Word	_	3	orphan	3:orphan	_
 13	gefertigte	_	Word	Word	_	3	orphan	3:orphan	_
 14	Boote	_	Word	Word	_	3	orphan	3:orphan	_
-15		_	Punctuation	Punctuation	_	16	punct	16:punct	_
+15	-	_	Punctuation	Punctuation	_	16	punct	16:punct	_
 16	umgaben	_	Word	Word	_	3	orphan	3:orphan	_
 17	die	_	Word	Word	_	19	E	19:E	_
 18	"	_	Punctuation	Punctuation	_	19	punct	19:punct	_

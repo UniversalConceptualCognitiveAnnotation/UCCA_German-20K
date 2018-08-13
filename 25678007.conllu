@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 25678007
-# text = » Ich habe « , versetzte der Kanadier , » meiner Braut , Kat Tender  die übrigens einen anderen geheiratet hat , ein Perlen hals band gekauft , das kostete nur ein und einen halben Dollar , und doch  der Herr Professor kann mir  s kecklich glauben  wären diese Perlen nicht durch ein Sieb mit 20 Löchern gegangen . «
+# text = » Ich habe « , versetzte der Kanadier , » meiner Braut , Kat Tender - die übrigens einen anderen geheiratet hat , ein Perlen hals band gekauft , das kostete nur ein und einen halben Dollar , und doch - der Herr Professor kann mir ' s kecklich glauben - wären diese Perlen nicht durch ein Sieb mit 20 Löchern gegangen . «
 # doc_id = 
 1	»	_	Punctuation	Punctuation	_	28	punct	28:punct	_
 2	Ich	_	Word	Word	_	28	A	28:A	_
@@ -17,7 +17,7 @@
 13	,	_	Punctuation	Punctuation	_	14	punct	14:punct	_
 14	Kat	_	Word	Word	_	6	orphan	6:orphan	_
 15	Tender	_	Word	Word	_	14	flat	14:flat	_
-16		_	Punctuation	Punctuation	_	14	punct	14:punct	_
+16	-	_	Punctuation	Punctuation	_	14	punct	14:punct	_
 17	die	_	Word	Word	_	21	R	21:R	_
 18	übrigens	_	Word	Word	_	21	G	21:G	_
 19	einen	_	Word	Word	_	20	E	20:E	_
@@ -42,17 +42,17 @@
 38	,	_	Punctuation	Punctuation	_	28	punct	28:punct	_
 39	und	_	Word	Word	_	28	L	28:L	_
 40	doch	_	Word	Word	_	62	D	62:D	_
-41		_	Punctuation	Punctuation	_	28	punct	28:punct	_
+41	-	_	Punctuation	Punctuation	_	28	punct	28:punct	_
 42	der	_	Word	Word	_	44	E	44:E	_
 43	Herr	_	Word	Word	_	44	E	44:E	_
 44	Professor	_	Word	Word	_	6	orphan	6:orphan	_
 45	kann	_	Word	Word	_	50	D	50:D	_
 46	mir	_	Word	Word	_	50	A	50:A	_
-47		_	Punctuation	Punctuation	_	50	punct	50:punct	_
+47	'	_	Punctuation	Punctuation	_	50	punct	50:punct	_
 48	s	_	Word	Word	_	50	A	50:A	_
 49	kecklich	_	Word	Word	_	50	D	50:D	_
 50	glauben	_	Word	Word	_	6	orphan	6:orphan	_
-51		_	Punctuation	Punctuation	_	28	punct	28:punct	_
+51	-	_	Punctuation	Punctuation	_	28	punct	28:punct	_
 52	wären	_	Word	Word	_	62	D	62:D	_
 53	diese	_	Word	Word	_	54	E	54:E	_
 54	Perlen	_	Word	Word	_	6	orphan	6:orphan	_
