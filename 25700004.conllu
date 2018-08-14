@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25700004
 # text = » Herr Professor « , sagte er , » eine einfache Beobachtung brachte mich auf die Entdeckung dieser Durchfahrt . Ich hatte bemerkt , dass es im Roten Meer und Mittelmeer gewisse Arten von Fischen gibt , die sich völlig gleich sind , Streifdecken , Schlangenfische , Meeradler , Barsche u.a . Diese Tatsache führte auf die Frage , ob nicht eine Verbindung zwischen beiden Meeren bestehe . Bestand sie , so musste die Strömung notwendig vom Roten Meer zum Mittelmeer gehen , lediglich wegen der verschiedenen Höhe des Meeres spiegels . Ich fing nun eine Menge Fische in der Nähe von Suez , legte ihnen am Schwanz einen kupfernen Ring an und warf sie dann wieder in s Meer . Einige Monate später fing ich an der Syrischen Küste etliche Exemplare meiner mit dem Ring gezierten Fische wieder . Damit war die Verbindung der beiden Meere bewiesen . Ich suchte sie mit meiner ›Nautilus‹ auf , wagte mich hinein , und es wird nicht lange dauern , Herr Professor , werden Sie ebenfalls durch meinen Arabischen Tunnel fahren !
-# doc_id = 
 1	»	_	Punctuation	Punctuation	_	13	punct	13:punct	_
 2	Herr	_	Word	Word	_	3	E	3:E	_
 3	Professor	_	Word	Word	_	0	root	0:root	_
@@ -94,7 +93,7 @@
 90	Meeres	_	Word	Word	_	91	E	91:E	_
 91	spiegels	_	Word	Word	_	3	orphan	3:orphan	_
 92	.	_	Punctuation	Punctuation	_	13	punct	13:punct	_
-93	Ich	_	Word	Word	_	94	A	94:A	_
+93	Ich	_	Word	Word	_	94	A	94:A|114:A|105:A	_
 94	fing	_	Word	Word	_	3	orphan	3:orphan	_
 95	nun	_	Word	Word	_	94	F	94:F	_
 96	eine	_	Word	Word	_	97	E	97:E	_
@@ -151,7 +150,7 @@
 147	Meere	_	Word	Word	_	3	orphan	3:orphan	_
 148	bewiesen	_	Word	Word	_	3	orphan	3:orphan	_
 149	.	_	Punctuation	Punctuation	_	13	punct	13:punct	_
-150	Ich	_	Word	Word	_	151	A	151:A	_
+150	Ich	_	Word	Word	_	151	A	151:A|158:A	_
 151	suchte	_	Word	Word	_	3	orphan	3:orphan	_
 152	sie	_	Word	Word	_	151	A	151:A	_
 153	mit	_	Word	Word	_	155	R	155:R	_

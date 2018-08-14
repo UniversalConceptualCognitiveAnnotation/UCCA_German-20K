@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25668010
 # text = Am 24 . früh bekamen wir , unter 12 ° 5 ? südlicher Breite und 94 ° 33 ? Länge , die Insel Keeling in Sicht ; sie ist madreporischen Ursprungs , mit prachtvollen Kokos bäumen bepflanzt , aber menschenleer und mit steilen Küsten , an denen die ›Nautilus‹ nah vorbeifuhr .
-# doc_id = 
 1	Am	_	Word	Word	_	0	root	0:root	_
 2	24	_	Word	Word	_	1	flat	1:flat	_
 3	.	_	Punctuation	Punctuation	_	1	punct	1:punct	_
@@ -29,8 +28,8 @@
 25	in	_	Word	Word	_	1	orphan	1:orphan	_
 26	Sicht	_	Word	Word	_	25	flat	25:flat	_
 27	;	_	Punctuation	Punctuation	_	25	punct	25:punct	_
-28	sie	_	Word	Word	_	31	A	31:A	_
-29	ist	_	Word	Word	_	31	F	31:F	_
+28	sie	_	Word	Word	_	31	A	31:A|37:A|44:A|40:A	_
+29	ist	_	Word	Word	_	31	F	31:F|44:S	_
 30	madreporischen	_	Word	Word	_	31	D	31:D	_
 31	Ursprungs	_	Word	Word	_	1	orphan	1:orphan	_
 32	,	_	Punctuation	Punctuation	_	25	punct	25:punct	_

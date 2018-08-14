@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25758018
 # text = » Damals handelte sich ' s darum , meiner Mannschaft frisches Fleisch zu verschaffen . Hier aber wäre es töten , nur um zu töten . Ich weiß zwar , dass dies ein Vorrecht des Menschen ist , aber ich lasse so mörderischen Zeitvertreib nicht gelten . Wenn Ihr den südlichen Walfisch ebenso wie den nördlichen vernichtet , unschädliche und nützliche Geschöpfe , so ist das zu tadeln . So hat man bereits die ganze Baffinbay verödet , und so wird man eine Klasse nützlicher Tiere ausrotten . Laßt doch die armen Walfische in Ruhe , die an ihren natürlichen Feinden , den Pottfischen , Schwert- und Sägefischen schon genug haben . «
-# doc_id = 
 1	»	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 2	Damals	_	Word	Word	_	3	T	3:T	_
 3	handelte	_	Word	Word	_	0	root	0:root	_
@@ -50,7 +49,7 @@
 46	gelten	_	Word	Word	_	3	orphan	3:orphan	_
 47	.	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 48	Wenn	_	Word	Word	_	3	L	3:L	_
-49	Ihr	_	Word	Word	_	57	A	57:A	_
+49	Ihr	_	Word	Word	_	57	A	57:A|56:A	_
 50	den	_	Word	Word	_	52	E	52:E	_
 51	südlichen	_	Word	Word	_	52	E	52:E	_
 52	Walfisch	_	Word	Word	_	3	orphan	3:orphan	_

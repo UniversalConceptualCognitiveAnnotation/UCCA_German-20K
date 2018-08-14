@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25774011
 # text = Es waren Robben verschiedener Gattung , teils auf dem Boden gelagert , teils auf treibenden Eisblöcken ; manche kamen aus dem Meer heraus oder gingen wieder hinein .
-# doc_id = 
 1	Es	_	Word	Word	_	2	F	2:F	_
 2	waren	_	Word	Word	_	0	root	0:root	_
 3	Robben	_	Word	Word	_	2	orphan	2:orphan	_
@@ -19,7 +18,7 @@
 15	treibenden	_	Word	Word	_	2	orphan	2:orphan	_
 16	Eisblöcken	_	Word	Word	_	2	orphan	2:orphan	_
 17	;	_	Punctuation	Punctuation	_	2	punct	2:punct	_
-18	manche	_	Word	Word	_	19	A	19:A	_
+18	manche	_	Word	Word	_	19	A	19:A|25:A	_
 19	kamen	_	Word	Word	_	2	orphan	2:orphan	_
 20	aus	_	Word	Word	_	22	R	22:R	_
 21	dem	_	Word	Word	_	22	E	22:E	_

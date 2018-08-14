@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25489071
 # text = » Nun « , sagte ich zum Harpunier , » nun kommt an Sie die Reihe . Ziehen Sie , Meister Land , das beste Englisch , das je ein Angelsachse sprach , aus Ihrer Tasche , und bemühen Sie sich , glücklicher als ich zu sein .
-# doc_id = 
 1	»	_	Punctuation	Punctuation	_	2	punct	2:punct	_
 2	Nun	_	Word	Word	_	0	root	0:root	_
 3	«	_	Punctuation	Punctuation	_	5	punct	5:punct	_
@@ -41,13 +40,13 @@
 37	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
 38	und	_	Word	Word	_	2	L	2:L	_
 39	bemühen	_	Word	Word	_	2	orphan	2:orphan	_
-40	Sie	_	Word	Word	_	39	A	39:A	_
+40	Sie	_	Word	Word	_	39	A	39:A|43:A	_
 41	sich	_	Word	Word	_	39	flat	39:flat	_
 42	,	_	Punctuation	Punctuation	_	39	punct	39:punct	_
 43	glücklicher	_	Word	Word	_	2	orphan	2:orphan	_
 44	als	_	Word	Word	_	45	R	45:R	_
 45	ich	_	Word	Word	_	2	orphan	2:orphan	_
 46	zu	_	Word	Word	_	43	F	43:F	_
-47	sein	_	Word	Word	_	43	F	43:F	_
+47	sein	_	Word	Word	_	43	F	43:F|45:S	_
 48	.	_	Punctuation	Punctuation	_	43	punct	43:punct	_
 

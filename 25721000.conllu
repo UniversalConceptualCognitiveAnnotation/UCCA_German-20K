@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25721000
 # text = Als die Tür meines Zimmers geschlossen war , setzte er sich nieder und sah mich schweigend an .
-# doc_id = 
 1	Als	_	Word	Word	_	6	L	6:L	_
 2	die	_	Word	Word	_	3	E	3:E	_
 3	Tür	_	Word	Word	_	0	root	0:root	_
@@ -11,7 +10,7 @@
 7	war	_	Word	Word	_	6	F	6:F	_
 8	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_
 9	setzte	_	Word	Word	_	3	orphan	3:orphan	_
-10	er	_	Word	Word	_	9	A	9:A	_
+10	er	_	Word	Word	_	9	A	9:A|16:A|14:A	_
 11	sich	_	Word	Word	_	9	flat	9:flat	_
 12	nieder	_	Word	Word	_	9	flat	9:flat	_
 13	und	_	Word	Word	_	6	L	6:L	_

@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25446002
 # text = » Mag die Menge an außerordentliche Kometen glauben , die den Raum durchlaufen , oder an das Dasein urweltlicher Ungeheuer , die im Innern des Erd balls hausen , das geht noch an , aber weder der Astronom noch der Geologe lassen solche Hirn gespinste gelten . Ebenso der Walfisch fänger . Ich habe manche See tiere verfolgt , viele harpuniert , eine Menge erlegt , aber so stark und wohlbewaffnet sie auch waren , weder mit den Schwänzen noch mit den Zähnen hätten sie den Eisen platten eines Dampfers etwas anhaben können . « » Doch , Ned , führt man Schiffe an , die der Narwal mit seinem Zahn durch und durch gebohrt hat . «
-# doc_id = 
 1	»	_	Punctuation	Punctuation	_	8	punct	8:punct	_
 2	Mag	_	Word	Word	_	8	D	8:D	_
 3	die	_	Word	Word	_	4	E	4:E	_
@@ -54,7 +53,7 @@
 50	Walfisch	_	Word	Word	_	51	E	51:E	_
 51	fänger	_	Word	Word	_	4	orphan	4:orphan	_
 52	.	_	Punctuation	Punctuation	_	8	punct	8:punct	_
-53	Ich	_	Word	Word	_	58	A	58:A	_
+53	Ich	_	Word	Word	_	58	A	58:A|61:A|65:A	_
 54	habe	_	Word	Word	_	58	F	58:F	_
 55	manche	_	Word	Word	_	57	E	57:E	_
 56	See	_	Word	Word	_	57	E	57:E	_

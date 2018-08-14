@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25830011
 # text = » Mein Herr wird sich wohl erinnern , dass wir einige Übung im Schwimmen haben . Er kann sich auf mich verlassen , dass ich ihn bis zu dem Schiff bugsieren werde , wenn es ihm gefällig ist , Freund Ned zu folgen . «
-# doc_id = 
 1	»	_	Punctuation	Punctuation	_	5	punct	5:punct	_
 2	Mein	_	Word	Word	_	3	E	3:E	_
 3	Herr	_	Word	Word	_	0	root	0:root	_
@@ -37,7 +36,7 @@
 33	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_
 34	wenn	_	Word	Word	_	5	L	5:L	_
 35	es	_	Word	Word	_	37	F	37:F	_
-36	ihm	_	Word	Word	_	37	A	37:A	_
+36	ihm	_	Word	Word	_	37	A	37:A|43:A	_
 37	gefällig	_	Word	Word	_	3	orphan	3:orphan	_
 38	ist	_	Word	Word	_	37	F	37:F	_
 39	,	_	Punctuation	Punctuation	_	37	punct	37:punct	_

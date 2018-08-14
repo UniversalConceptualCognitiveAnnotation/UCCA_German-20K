@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25758011
 # text = Conseil hatte noch nicht ausgesprochen , als Ned Land schon die Luke hinabeilte , den Kapitän aufzusuchen .
-# doc_id = 
 1	Conseil	_	Word	Word	_	5	A	5:A	_
 2	hatte	_	Word	Word	_	5	F	5:F	_
 3	noch	_	Word	Word	_	4	E	4:E	_
@@ -9,7 +8,7 @@
 5	ausgesprochen	_	Word	Word	_	4	orphan	4:orphan	_
 6	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_
 7	als	_	Word	Word	_	5	L	5:L	_
-8	Ned	_	Word	Word	_	13	A	13:A	_
+8	Ned	_	Word	Word	_	13	A	13:A|17:A	_
 9	Land	_	Word	Word	_	8	flat	8:flat	_
 10	schon	_	Word	Word	_	13	D	13:D	_
 11	die	_	Word	Word	_	12	E	12:E	_

@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25450003
 # text = « » In Geschäften , Ned , aber nicht in der Mathematik . Hören Sie nur . Nehmen wir an , dass der Druck einer Atmosphäre dem Druck einer Wasser säule von 32 Fuß Höhe entspricht . In Wirklichkeit würde die Wasser säule nicht so hoch sein , weil das Meer wasser dichter ist als das süße . Nun , Ned , wenn Sie unter tauchen , muß Ihr Körper , sovielmal er 32 Fuß Wasser über sich hat , ebensovielmal einen Druck gleich dem der Atmosphäre aushalten , nämlich ein Kilogramm auf jeden Quadrat zentimeter seiner Oberfläche . Daraus folgt , dass bei 320 Fuß Tiefe dieser Druck 10 Atmosphären entspricht , und 100 Atmosphären bei 3.200 Fuß Tiefe , 1.000 Atmo-sphären bei 32.000 Fuß . Dies will ebensoviel heißen , als daß , wenn Sie bis in eine solche Tiefe gelangen können , jeder Quadrat zentimeter der Oberfläche Ihres Körpers einen Druck von 1.000 Kilogramm zu erleiden haben würde . Nun , wissen Sie , wackerer Ned , wieviel Quadrat zentimeter Oberfläche Ihr Körper hat ? « » Ich habe keine Ahnung davon , Herr Arronax . «
-# doc_id = 
 1	«	_	Punctuation	Punctuation	_	4	punct	4:punct	_
 2	»	_	Punctuation	Punctuation	_	4	punct	4:punct	_
 3	In	_	Word	Word	_	4	R	4:R	_
@@ -55,7 +54,7 @@
 51	Meer	_	Word	Word	_	52	E	52:E	_
 52	wasser	_	Word	Word	_	4	orphan	4:orphan	_
 53	dichter	_	Word	Word	_	4	orphan	4:orphan	_
-54	ist	_	Word	Word	_	53	F	53:F	_
+54	ist	_	Word	Word	_	53	F	53:F|57:S	_
 55	als	_	Word	Word	_	57	R	57:R	_
 56	das	_	Word	Word	_	57	E	57:E	_
 57	süße	_	Word	Word	_	4	orphan	4:orphan	_

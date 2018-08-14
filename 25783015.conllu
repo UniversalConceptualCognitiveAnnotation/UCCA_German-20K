@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25783015
 # text = » Und woran liegt die Schuld ? « » In einer Laune der Natur , nicht in der Unerfahrenheit der Menschen . Bei unseren Manövern ist kein Versehen vorgekommen . Doch die Wirkung der Gleichgewichts gesetze lässt sich nicht hemmen . Man kann wohl menschlichen Gesetzen Trotz bieten , aber nicht den Natur gesetzen sich widersetzen . «
-# doc_id = 
 1	»	_	Punctuation	Punctuation	_	6	punct	6:punct	_
 2	Und	_	Word	Word	_	6	L	6:L	_
 3	woran	_	Word	Word	_	6	A	6:A	_
@@ -43,8 +42,8 @@
 39	nicht	_	Word	Word	_	38	D	38:D	_
 40	hemmen	_	Word	Word	_	38	flat	38:flat	_
 41	.	_	Punctuation	Punctuation	_	12	punct	12:punct	_
-42	Man	_	Word	Word	_	48	A	48:A	_
-43	kann	_	Word	Word	_	48	D	48:D	_
+42	Man	_	Word	Word	_	48	A	48:A|55:A	_
+43	kann	_	Word	Word	_	48	D	48:D|55:D	_
 44	wohl	_	Word	Word	_	48	G	48:G	_
 45	menschlichen	_	Word	Word	_	46	E	46:E	_
 46	Gesetzen	_	Word	Word	_	6	orphan	6:orphan	_

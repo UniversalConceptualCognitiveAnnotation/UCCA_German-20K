@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25585012
 # text = Diesen Gedanken konnte man auf meiner Stirne lesen , aber Kapitän Nemo beschränkte sich darauf , mich ein zu laden , ihn zu begleiten , und ich folgte als ein Mann , der sich in alles ergibt .
-# doc_id = 
 1	Diesen	_	Word	Word	_	2	E	2:E	_
 2	Gedanken	_	Word	Word	_	0	root	0:root	_
 3	konnte	_	Word	Word	_	8	D	8:D	_
@@ -18,7 +17,7 @@
 14	sich	_	Word	Word	_	13	flat	13:flat	_
 15	darauf	_	Word	Word	_	18	F	18:F	_
 16	,	_	Punctuation	Punctuation	_	18	punct	18:punct	_
-17	mich	_	Word	Word	_	18	A	18:A	_
+17	mich	_	Word	Word	_	18	A	18:A|24:A	_
 18	ein	_	Word	Word	_	2	orphan	2:orphan	_
 19	zu	_	Word	Word	_	18	F	18:F	_
 20	laden	_	Word	Word	_	18	flat	18:flat	_

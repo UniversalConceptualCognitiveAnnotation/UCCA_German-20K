@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25805010
 # text = Der Kanadier hatte darauf gerechnet , in dem Golf seine Pläne in Ausführung zu bringen , entweder indem er an Land kam oder in eins der zahlreichen Boote , die beständig von einer Insel zur anderen fuhren ; nun geriet er in große Verlegenheit .
-# doc_id = 
 1	Der	_	Word	Word	_	2	E	2:E	_
 2	Kanadier	_	Word	Word	_	0	root	0:root	_
 3	hatte	_	Word	Word	_	5	F	5:F	_
@@ -20,7 +19,7 @@
 16	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_
 17	entweder	_	Word	Word	_	5	L	5:L	_
 18	indem	_	Word	Word	_	5	L	5:L	_
-19	er	_	Word	Word	_	22	A	22:A	_
+19	er	_	Word	Word	_	22	A	22:A|28:A	_
 20	an	_	Word	Word	_	21	R	21:R	_
 21	Land	_	Word	Word	_	2	orphan	2:orphan	_
 22	kam	_	Word	Word	_	2	orphan	2:orphan	_

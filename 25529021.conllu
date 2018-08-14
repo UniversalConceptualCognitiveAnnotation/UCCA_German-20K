@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25529021
 # text = » Ein chinesischer Hornfisch ! « rief Ned Land und irrte nicht .
-# doc_id = 
 1	»	_	Punctuation	Punctuation	_	7	punct	7:punct	_
 2	Ein	_	Word	Word	_	4	E	4:E	_
 3	chinesischer	_	Word	Word	_	4	E	4:E	_
@@ -9,7 +8,7 @@
 5	!	_	Punctuation	Punctuation	_	7	punct	7:punct	_
 6	«	_	Punctuation	Punctuation	_	7	punct	7:punct	_
 7	rief	_	Word	Word	_	4	orphan	4:orphan	_
-8	Ned	_	Word	Word	_	7	A	7:A	_
+8	Ned	_	Word	Word	_	7	A	7:A|11:A	_
 9	Land	_	Word	Word	_	8	flat	8:flat	_
 10	und	_	Word	Word	_	7	L	7:L	_
 11	irrte	_	Word	Word	_	4	orphan	4:orphan	_

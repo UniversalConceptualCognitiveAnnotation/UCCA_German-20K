@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25599006
 # text = Eine halbe Stunde nachher , geleitet von dem elektrischen Licht strahl , langten wir bei der " Nautilus " an .
-# doc_id = 
 1	Eine	_	Word	Word	_	2	E	2:E	_
 2	halbe	_	Word	Word	_	0	root	0:root	_
 3	Stunde	_	Word	Word	_	2	flat	2:flat	_
@@ -15,7 +14,7 @@
 11	strahl	_	Word	Word	_	2	orphan	2:orphan	_
 12	,	_	Punctuation	Punctuation	_	13	punct	13:punct	_
 13	langten	_	Word	Word	_	2	orphan	2:orphan	_
-14	wir	_	Word	Word	_	13	A	13:A	_
+14	wir	_	Word	Word	_	13	A	13:A|6:A	_
 15	bei	_	Word	Word	_	18	R	18:R	_
 16	der	_	Word	Word	_	18	E	18:E	_
 17	"	_	Punctuation	Punctuation	_	18	punct	18:punct	_

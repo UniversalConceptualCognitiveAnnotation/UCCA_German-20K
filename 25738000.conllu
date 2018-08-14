@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25738000
 # text = Unter den Knochenfischen notierte Conseil schwärzliche Makaïra , 3 Meter lang und mit einem scharfen Degen am Oberkiefer ; Seedrachen von lebhaften Farben , die wegen der Stacheln ihrer Rückenflossen schwer zu fangen sind , schöne Goldbrassen ; 8 Meter lange Schwertfische , die truppweise ziehen , mit gelblichen sichelförmigen Flossen und 6 Fuß langen Schwertern , unverzagte Tiere , die jedoch mehr von Pflanzen als Fischen leben und ihren Weibchen auf einen Wink gehorchen wie ein bestgezogener Ehemann .
-# doc_id = 
 1	Unter	_	Word	Word	_	3	R	3:R	_
 2	den	_	Word	Word	_	3	E	3:E	_
 3	Knochenfischen	_	Word	Word	_	0	root	0:root	_
@@ -43,7 +42,7 @@
 39	8	_	Word	Word	_	40	E	40:E	_
 40	Meter	_	Word	Word	_	3	orphan	3:orphan	_
 41	lange	_	Word	Word	_	3	orphan	3:orphan	_
-42	Schwertfische	_	Word	Word	_	41	A	41:A	_
+42	Schwertfische	_	Word	Word	_	41	A	41:A|46:A	_
 43	,	_	Punctuation	Punctuation	_	46	punct	46:punct	_
 44	die	_	Word	Word	_	46	R	46:R	_
 45	truppweise	_	Word	Word	_	46	D	46:D	_
@@ -60,7 +59,7 @@
 56	Schwertern	_	Word	Word	_	55	A	55:A	_
 57	,	_	Punctuation	Punctuation	_	4	punct	4:punct	_
 58	unverzagte	_	Word	Word	_	3	orphan	3:orphan	_
-59	Tiere	_	Word	Word	_	58	A	58:A	_
+59	Tiere	_	Word	Word	_	58	A	58:A|68:A	_
 60	,	_	Punctuation	Punctuation	_	68	punct	68:punct	_
 61	die	_	Word	Word	_	68	R	68:R	_
 62	jedoch	_	Word	Word	_	68	L	68:L	_

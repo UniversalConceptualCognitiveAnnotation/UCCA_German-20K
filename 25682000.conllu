@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25682000
 # text = » Nun sind wir an Ort und Stelle , Herr Arronax « , sagte darauf Kapitän Nemo . » Sie sehen hier diese enge Bai . An dieser Stelle hier werden in 1 Monat die zahlreichen Fischer barken der Ausbeutenden sich einfinden , und in diesen Gewässern werden ihre Taucher mit kühner Ausdauer suchen . Diese Bai ist für diese Art Fischerei günstig gelegen und geeignet . Im Schutz vor den stärksten Winden , ist das Meer da nie sehr unruhig , ein Umstand , welcher der Arbeit der Taucher sehr zustatten kommt . Jetzt wollen wir unsere Skaphander anlegen und unseren Spaziergang vornehmen . «
-# doc_id = 
 1	»	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 2	Nun	_	Word	Word	_	3	T	3:T	_
 3	sind	_	Word	Word	_	0	root	0:root	_
@@ -98,7 +97,7 @@
 94	.	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 95	Jetzt	_	Word	Word	_	100	T	100:T	_
 96	wollen	_	Word	Word	_	100	D	100:D	_
-97	wir	_	Word	Word	_	100	A	100:A	_
+97	wir	_	Word	Word	_	100	A	100:A|104:A	_
 98	unsere	_	Word	Word	_	99	E	99:E	_
 99	Skaphander	_	Word	Word	_	3	orphan	3:orphan	_
 100	anlegen	_	Word	Word	_	3	orphan	3:orphan	_

@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25713008
 # text = » Beunruhigen Sie sich nicht « , sagte zu mir der Kapitän . » Es ist der auf allen Cykladen wohlbekannte , kühne Taucher Nicolas vom Kap Matapan . Das Wasser ist sein Element , und er lebt darin mehr als auf dem Land , indem er bis nach Kreta hin alle Inseln besucht . «
-# doc_id = 
 1	»	_	Punctuation	Punctuation	_	2	punct	2:punct	_
 2	Beunruhigen	_	Word	Word	_	0	root	0:root	_
 3	Sie	_	Word	Word	_	2	A	2:A	_
@@ -38,7 +37,7 @@
 34	Element	_	Word	Word	_	2	orphan	2:orphan	_
 35	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
 36	und	_	Word	Word	_	2	L	2:L	_
-37	er	_	Word	Word	_	38	A	38:A	_
+37	er	_	Word	Word	_	38	A	38:A|44:A	_
 38	lebt	_	Word	Word	_	2	orphan	2:orphan	_
 39	darin	_	Word	Word	_	38	A	38:A	_
 40	mehr	_	Word	Word	_	38	D	38:D	_

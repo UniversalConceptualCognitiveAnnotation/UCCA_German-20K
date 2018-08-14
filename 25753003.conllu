@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25753003
 # text = » Welche Lage « , rief ich aus ! » Diese tiefen Regionen zu durchlaufen , wohin der Mensch noch nie gedrungen ist ! Sehen Sie doch , Kapitän , diese prachtvollen Felsen , diese unbewohnten Grotten ! Und warum sollen wir darauf verwiesen sein , nur die Erinnerung daran festzuhalten ? «
-# doc_id = 
 1	»	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 2	Welche	_	Word	Word	_	3	E	3:E	_
 3	Lage	_	Word	Word	_	0	root	0:root	_
@@ -43,7 +42,7 @@
 39	Und	_	Word	Word	_	3	L	3:L	_
 40	warum	_	Word	Word	_	44	A	44:A	_
 41	sollen	_	Word	Word	_	44	D	44:D	_
-42	wir	_	Word	Word	_	44	A	44:A	_
+42	wir	_	Word	Word	_	44	A	44:A|51:A	_
 43	darauf	_	Word	Word	_	51	R	51:R	_
 44	verwiesen	_	Word	Word	_	3	orphan	3:orphan	_
 45	sein	_	Word	Word	_	44	F	44:F	_

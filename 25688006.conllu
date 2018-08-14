@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25688006
 # text = Der Rachen des Ungetüms öffnete sich über die Maßen weit gleich der Blech schere eines Hütten werks , und es war um den Kapitän geschehen , wäre nicht , flink wie ein Gedanke , Ned Land mit seiner Harpune auf den Hai gestürzt , um ihm den Todes stoß zu versetzen .
-# doc_id = 
 1	Der	_	Word	Word	_	2	E	2:E	_
 2	Rachen	_	Word	Word	_	0	root	0:root	_
 3	des	_	Word	Word	_	4	R	4:R	_
@@ -36,7 +35,7 @@
 32	ein	_	Word	Word	_	33	E	33:E	_
 33	Gedanke	_	Word	Word	_	2	orphan	2:orphan	_
 34	,	_	Punctuation	Punctuation	_	30	punct	30:punct	_
-35	Ned	_	Word	Word	_	43	A	43:A	_
+35	Ned	_	Word	Word	_	43	A	43:A|30:A	_
 36	Land	_	Word	Word	_	35	flat	35:flat	_
 37	mit	_	Word	Word	_	39	R	39:R	_
 38	seiner	_	Word	Word	_	39	E	39:E	_

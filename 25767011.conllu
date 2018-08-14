@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25767011
 # text = » Sie wird sogar in größerer Tiefe die gleichförmige Temperatur des Meerwassers aufsuchen können , wo wir getrost den 30 bis 40 Kältegraden der Oberfläche Trotz bieten können . «
-# doc_id = 
 1	»	_	Punctuation	Punctuation	_	13	punct	13:punct	_
 2	Sie	_	Word	Word	_	13	A	13:A	_
 3	wird	_	Word	Word	_	13	F	13:F	_
@@ -18,7 +17,7 @@
 14	können	_	Word	Word	_	13	D	13:D	_
 15	,	_	Punctuation	Punctuation	_	13	punct	13:punct	_
 16	wo	_	Word	Word	_	27	R	27:R	_
-17	wir	_	Word	Word	_	27	A	27:A	_
+17	wir	_	Word	Word	_	27	A	27:A|18:A	_
 18	getrost	_	Word	Word	_	7	orphan	7:orphan	_
 19	den	_	Word	Word	_	23	R	23:R	_
 20	30	_	Word	Word	_	7	orphan	7:orphan	_

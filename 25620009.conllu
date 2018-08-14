@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25620009
 # text = Ich dachte sogar , es werde uns jemand von der Mannschaft beigegeben werden und Ned Land nur beauftragt die Landung zu leiten .
-# doc_id = 
 1	Ich	_	Word	Word	_	2	A	2:A	_
 2	dachte	_	Word	Word	_	0	root	0:root	_
 3	sogar	_	Word	Word	_	2	D	2:D	_
@@ -16,7 +15,7 @@
 12	beigegeben	_	Word	Word	_	2	orphan	2:orphan	_
 13	werden	_	Word	Word	_	12	F	12:F	_
 14	und	_	Word	Word	_	12	L	12:L	_
-15	Ned	_	Word	Word	_	18	A	18:A	_
+15	Ned	_	Word	Word	_	18	A	18:A|22:A	_
 16	Land	_	Word	Word	_	15	flat	15:flat	_
 17	nur	_	Word	Word	_	18	D	18:D	_
 18	beauftragt	_	Word	Word	_	2	orphan	2:orphan	_

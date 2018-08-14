@@ -1,11 +1,10 @@
 # format = ucca
 # sent_id = 25677008
 # text = Darauf tut man sie in ungeheure Behälter voll Meer wasser , öffnet und wäscht sie .
-# doc_id = 
 1	Darauf	_	Word	Word	_	2	L	2:L	_
 2	tut	_	Word	Word	_	0	root	0:root	_
-3	man	_	Word	Word	_	2	A	2:A	_
-4	sie	_	Word	Word	_	2	A	2:A	_
+3	man	_	Word	Word	_	2	A	2:A|12:A|14:A	_
+4	sie	_	Word	Word	_	2	A	2:A|12:A	_
 5	in	_	Word	Word	_	7	R	7:R	_
 6	ungeheure	_	Word	Word	_	7	E	7:E	_
 7	Behälter	_	Word	Word	_	2	orphan	2:orphan	_

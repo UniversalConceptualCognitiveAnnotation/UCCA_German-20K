@@ -1,8 +1,7 @@
 # format = ucca
 # sent_id = 25436005
 # text = Ich vergaß alles , Ermüdung , Freunde , Sammlungen , und nahm ohne weiteres Bedenken die Anerbietung der amerikanischen Regierung an .
-# doc_id = 
-1	Ich	_	Word	Word	_	2	A	2:A	_
+1	Ich	_	Word	Word	_	2	A	2:A|12:A|15:A	_
 2	vergaß	_	Word	Word	_	0	root	0:root	_
 3	alles	_	Word	Word	_	2	orphan	2:orphan	_
 4	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
@@ -14,7 +13,7 @@
 10	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
 11	und	_	Word	Word	_	2	L	2:L	_
 12	nahm	_	Word	Word	_	2	orphan	2:orphan	_
-13	ohne	_	Word	Word	_	12	D	12:D	_
+13	ohne	_	Word	Word	_	12	D	12:D|15:D	_
 14	weiteres	_	Word	Word	_	15	E	15:E	_
 15	Bedenken	_	Word	Word	_	2	orphan	2:orphan	_
 16	die	_	Word	Word	_	17	E	17:E	_

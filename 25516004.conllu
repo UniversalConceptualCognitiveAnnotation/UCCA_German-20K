@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25516004
 # text = » Herr Professor « , erwiderte Kapitän Nemo , » man darf nicht die Statik mit der Dynamik vermengen , ohne sich großen Irrtümern aus zu setzen . Es kostet sehr wenig Mühe , um in die unteren Regionen des Ozeans zu gelangen , denn die Körper haben eine Tendenz , auf den Grund zu sinken . Begleiten Sie meine Beweis führung . «
-# doc_id = 
 1	»	_	Punctuation	Punctuation	_	19	punct	19:punct	_
 2	Herr	_	Word	Word	_	3	E	3:E	_
 3	Professor	_	Word	Word	_	0	root	0:root	_
@@ -12,7 +11,7 @@
 8	Nemo	_	Word	Word	_	3	orphan	3:orphan	_
 9	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_
 10	»	_	Punctuation	Punctuation	_	6	punct	6:punct	_
-11	man	_	Word	Word	_	19	A	19:A	_
+11	man	_	Word	Word	_	19	A	19:A|25:A	_
 12	darf	_	Word	Word	_	19	D	19:D	_
 13	nicht	_	Word	Word	_	19	D	19:D	_
 14	die	_	Word	Word	_	15	E	15:E	_

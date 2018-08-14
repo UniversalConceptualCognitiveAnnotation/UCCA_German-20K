@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25780009
 # text = » Mein Herr , im Jahr 1600 erreichte der Holländer Gherrick , durch Stürme verschlagen , 64 ° südlicher Breite und entdeckte New-Shetland . Im Jahr 1773 kam der berühmte Cook längs dem 38 . Meridian bis zu 67 ° 30 ? und 1774 auf dem 109 . Meridian bis 71 ° 15 ? Breite . Im Jahr 1819 befand sich der Russe Bellinghausen auf dem 69 . , und 1821 auf dem 66 . Parallelkreis unter 111 ° west-licher Länge . Im Jahr 1820 fuhr der Amerikaner Morrel , dessen Berichte zweifelhaft sind , auf dem 42 . Meridian und entdeckte das freie Meer unter 70 ° 14 ? Breite . Im Jahr 1825 konnte der Engländer Powell nicht über den 62 . Grad . Im selben Jahr drang ein einfacher Robben jäger , der Engländer Weddell , bis zum 72 ° 14 ? der Breite auf dem 35 . Meridian und bis zu 74 ° 15 ? auf dem 36 . Im Jahr 1829 nahm der Engländer Forster , Kommandant des Chanticleer , Besitz vom Südpolkontinent unter 63 ° 26 ? Breite und 66 ° 26 ? Länge . Im Jahr 1831 entdeckte der Engländer Biscoë am 1 . Februar das Land Enderby unter 68 ° 50 ? Breite , 1832 den 5 . Februar das Land Adelaide unter 67 ° Breite und am 21 . Februar das Graham-Land unter 64 ° 45 ? Breite . Im Jahr 1838 musste der Franzose Dumont d'Urville vor der Eisdecke unter 62 ° 57 ? Breite haltmachen , nahm jedoch das Land Louis-Philippe auf ; 2 Jahre später unter 66 ° 30 ? das Land Adelie und gleich darauf unter 64 ° 40 ? die Küste Clane . Im Jahr 1838 kam der Engländer Wilkes bis zum 69 . Breitengrad auf dem 100 . Meridian ; 1839 entdeckte der Engländer Balleny das Land Sabrina an der Grenze des Polarkreises . Endlich entdeckte der Engländer James Roß mit dem Erebus und Terror unter 76 ° 56 ? Breite und 171 ° 7 ? Länge das Land Victoria ; sodann nahm er unter 74 ° Breite den höchsten damals erreichten Punkt auf ; nachher kam er noch zu 76 ° 8 ? ; 77 ° 32 ? und 78 ° 4 ? ; im Jahr 1842 kam er wieder , konnte aber nicht über den 71 . Grad dringen . Nun aber habe ich , Kapitän Nemo , am 21 . März 1868 den Südpol unterm 90 . Grad erreicht , und ich nehme von diesem Teil des Erdkreises Besitz . «
-# doc_id = 
 1	»	_	Punctuation	Punctuation	_	8	punct	8:punct	_
 2	Mein	_	Word	Word	_	3	E	3:E	_
 3	Herr	_	Word	Word	_	0	root	0:root	_
@@ -386,7 +385,7 @@
 382	Jahr	_	Word	Word	_	3	orphan	3:orphan	_
 383	1842	_	Word	Word	_	382	flat	382:flat	_
 384	kam	_	Word	Word	_	3	orphan	3:orphan	_
-385	er	_	Word	Word	_	384	A	384:A	_
+385	er	_	Word	Word	_	384	A	384:A|396:A	_
 386	wieder	_	Word	Word	_	384	D	384:D	_
 387	,	_	Punctuation	Punctuation	_	8	punct	8:punct	_
 388	konnte	_	Word	Word	_	396	D	396:D	_

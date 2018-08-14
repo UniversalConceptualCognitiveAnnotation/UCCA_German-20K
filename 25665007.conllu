@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25665007
 # text = In der Tat , das Geheimnis dieser letzten Nacht , während deren wir im Gefängnis und durch Schlaf gefesselt waren , die so gewaltsam ausgeübte Vorsicht , mir das Fernrohr , womit ich den Horizont zu betrachten im Begriff war , von den Augen weg zu reißen , die tödliche Verwundung des Mannes , die von einem unerklärlichen Stoß der ›Nautilus‹ herrühren sollte - alles dies drängte mich in eine neue Bahn .
-# doc_id = 
 1	In	_	Word	Word	_	67	G	67:G	_
 2	der	_	Word	Word	_	1	flat	1:flat	_
 3	Tat	_	Word	Word	_	1	flat	1:flat	_
@@ -34,7 +33,7 @@
 30	Fernrohr	_	Word	Word	_	6	orphan	6:orphan	_
 31	,	_	Punctuation	Punctuation	_	30	punct	30:punct	_
 32	womit	_	Word	Word	_	38	R	38:R	_
-33	ich	_	Word	Word	_	38	A	38:A	_
+33	ich	_	Word	Word	_	38	A	38:A|37:A	_
 34	den	_	Word	Word	_	35	E	35:E	_
 35	Horizont	_	Word	Word	_	6	orphan	6:orphan	_
 36	zu	_	Word	Word	_	37	F	37:F	_

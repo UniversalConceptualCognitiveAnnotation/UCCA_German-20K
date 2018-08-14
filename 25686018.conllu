@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25686018
 # text = Sowie er , etwa 5 Meter tief , auf den Grund kam , fiel er auf die Knie und füllte seinen Sack mit rasch zusammen gerafften Muscheln .
-# doc_id = 
 1	Sowie	_	Word	Word	_	12	L	12:L	_
 2	er	_	Word	Word	_	12	A	12:A	_
 3	,	_	Punctuation	Punctuation	_	12	punct	12:punct	_
@@ -16,7 +15,7 @@
 12	kam	_	Word	Word	_	6	orphan	6:orphan	_
 13	,	_	Punctuation	Punctuation	_	12	punct	12:punct	_
 14	fiel	_	Word	Word	_	6	orphan	6:orphan	_
-15	er	_	Word	Word	_	14	A	14:A	_
+15	er	_	Word	Word	_	14	A	14:A|20:A	_
 16	auf	_	Word	Word	_	18	R	18:R	_
 17	die	_	Word	Word	_	18	E	18:E	_
 18	Knie	_	Word	Word	_	6	orphan	6:orphan	_

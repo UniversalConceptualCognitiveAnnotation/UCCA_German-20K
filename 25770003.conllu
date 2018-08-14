@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25770003
 # text = Die Fische hielten sich in diesen eingeschlossenen Gewässern nicht auf ; sie dienten ihnen nur zum Übergang aus dem antarktischen Ozean zu dem freien Polarmeer .
-# doc_id = 
 1	Die	_	Word	Word	_	2	E	2:E	_
 2	Fische	_	Word	Word	_	0	root	0:root	_
 3	hielten	_	Word	Word	_	2	orphan	2:orphan	_
@@ -15,7 +14,7 @@
 11	;	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 12	sie	_	Word	Word	_	13	A	13:A	_
 13	dienten	_	Word	Word	_	2	orphan	2:orphan	_
-14	ihnen	_	Word	Word	_	13	A	13:A	_
+14	ihnen	_	Word	Word	_	13	A	13:A|17:A	_
 15	nur	_	Word	Word	_	13	D	13:D	_
 16	zum	_	Word	Word	_	17	R	17:R	_
 17	Übergang	_	Word	Word	_	2	orphan	2:orphan	_

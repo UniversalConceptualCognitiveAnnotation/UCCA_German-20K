@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25624023
 # text = » Das wäre , mein Herr « , rief Ned Land . » Sie reden da wie ein Gelehrter , ich aber will 's machen wie ein Bäcker . Conseil , sammeln Sie nur recht viel von dieser Frucht , dass wir sie bei der Rückkehr mitnehmen . «
-# doc_id = 
 1	»	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 2	Das	_	Word	Word	_	3	A	3:A	_
 3	wäre	_	Word	Word	_	0	root	0:root	_
@@ -43,7 +42,7 @@
 39	Frucht	_	Word	Word	_	3	orphan	3:orphan	_
 40	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 41	dass	_	Word	Word	_	3	L	3:L	_
-42	wir	_	Word	Word	_	47	A	47:A	_
+42	wir	_	Word	Word	_	47	A	47:A|46:A	_
 43	sie	_	Word	Word	_	47	A	47:A	_
 44	bei	_	Word	Word	_	46	R	46:R	_
 45	der	_	Word	Word	_	46	E	46:E	_

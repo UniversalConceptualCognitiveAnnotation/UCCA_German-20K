@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25735017
 # text = Wirklich zeigte sich da unter meinen Augen in Trümmern eine in den Abgrund versunkene Stadt mit eingestürzten Dächern , zerfallenen Tempeln , verschobenen Gewölben , zu Boden gestürzten Säulen , an denen man noch die Verhältnisse toskanischer Architektur erkannte : weiter hinaus Trümmer eines riesenhaften Aquädukts ; hier in Schlamm vergraben eine Akropole mit den Formen eines Parthenon ; dort die Spuren eines Kais , als hätte einst ein antiker Hafen am Gestade eines verschwundenen Ozeans den Kaufmanns schiffen und Kriegs triremen Schutz gewährt ; noch weiter hinaus lange Reihen zerfallener Mauern , große verödete Straßen , ein ganzes versunkenes Pompeji , das Kapitän Nemo vor meinen Augen wieder ins Leben rief .
-# doc_id = 
 1	Wirklich	_	Word	Word	_	2	D	2:D	_
 2	zeigte	_	Word	Word	_	0	root	0:root	_
 3	sich	_	Word	Word	_	2	flat	2:flat	_
@@ -30,7 +29,7 @@
 26	zu	_	Word	Word	_	27	E	27:E	_
 27	Boden	_	Word	Word	_	2	orphan	2:orphan	_
 28	gestürzten	_	Word	Word	_	2	orphan	2:orphan	_
-29	Säulen	_	Word	Word	_	28	A	28:A	_
+29	Säulen	_	Word	Word	_	28	A	28:A|39:A	_
 30	,	_	Punctuation	Punctuation	_	39	punct	39:punct	_
 31	an	_	Word	Word	_	32	E	32:E	_
 32	denen	_	Word	Word	_	2	orphan	2:orphan	_

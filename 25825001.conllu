@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25825001
 # text = » Die 11 Millionen Eier . Aber ich will die Bemerkung machen , dass , wenn alle diese Eier ausschlüpften , vier Kabeljau weibchen genug wären , um England , Amerika und Norwegen zu versorgen . «
-# doc_id = 
 1	»	_	Punctuation	Punctuation	_	5	punct	5:punct	_
 2	Die	_	Word	Word	_	5	E	5:E	_
 3	11	_	Word	Word	_	5	E	5:E	_
@@ -24,7 +23,7 @@
 20	ausschlüpften	_	Word	Word	_	5	orphan	5:orphan	_
 21	,	_	Punctuation	Punctuation	_	20	punct	20:punct	_
 22	vier	_	Word	Word	_	24	E	24:E	_
-23	Kabeljau	_	Word	Word	_	24	E	24:E	_
+23	Kabeljau	_	Word	Word	_	24	E	24:E|35:A	_
 24	weibchen	_	Word	Word	_	5	orphan	5:orphan	_
 25	genug	_	Word	Word	_	5	orphan	5:orphan	_
 26	wären	_	Word	Word	_	25	D	25:D	_

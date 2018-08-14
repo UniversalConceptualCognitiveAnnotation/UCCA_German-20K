@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25460004
 # text = Kommandant Farragut , dem es erwünscht war , Ned Land sein Werk verrichten zu sehen , gab ihm die Erlaubnis , sich an Bord des Monroe zu begeben .
-# doc_id = 
 1	Kommandant	_	Word	Word	_	2	E	2:E	_
 2	Farragut	_	Word	Word	_	0	root	0:root	_
 3	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
@@ -10,7 +9,7 @@
 6	erwünscht	_	Word	Word	_	2	orphan	2:orphan	_
 7	war	_	Word	Word	_	6	F	6:F	_
 8	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_
-9	Ned	_	Word	Word	_	13	A	13:A	_
+9	Ned	_	Word	Word	_	13	A	13:A|22:A	_
 10	Land	_	Word	Word	_	9	flat	9:flat	_
 11	sein	_	Word	Word	_	12	R	12:R	_
 12	Werk	_	Word	Word	_	2	orphan	2:orphan	_

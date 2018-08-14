@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25775015
 # text = Daher sind auch die Robben einer gewissen Erziehung fähig ; sie lassen sich leicht zähmen , und ich bin mit einigen Naturforschern der Meinung , dass sie , gehörig abgerichtet , bei der Fischerei wie Hunde zu gebrauchen sein würden .
-# doc_id = 
 1	Daher	_	Word	Word	_	9	L	9:L	_
 2	sind	_	Word	Word	_	9	F	9:F	_
 3	auch	_	Word	Word	_	9	L	9:L	_
@@ -28,7 +27,7 @@
 24	Meinung	_	Word	Word	_	19	flat	19:flat	_
 25	,	_	Punctuation	Punctuation	_	19	punct	19:punct	_
 26	dass	_	Word	Word	_	38	R	38:R	_
-27	sie	_	Word	Word	_	38	A	38:A	_
+27	sie	_	Word	Word	_	38	A	38:A|30:A	_
 28	,	_	Punctuation	Punctuation	_	30	punct	30:punct	_
 29	gehörig	_	Word	Word	_	30	D	30:D	_
 30	abgerichtet	_	Word	Word	_	5	orphan	5:orphan	_

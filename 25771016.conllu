@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25771016
 # text = » Aber wird die Sonne durch diesen Nebel sichtbar werden ? « fragte ich mit einem Blick auf den grauen Himmel .
-# doc_id = 
 1	»	_	Punctuation	Punctuation	_	13	punct	13:punct	_
 2	Aber	_	Word	Word	_	9	L	9:L	_
 3	wird	_	Word	Word	_	9	F	9:F	_
@@ -15,7 +14,7 @@
 11	?	_	Punctuation	Punctuation	_	13	punct	13:punct	_
 12	«	_	Punctuation	Punctuation	_	13	punct	13:punct	_
 13	fragte	_	Word	Word	_	5	orphan	5:orphan	_
-14	ich	_	Word	Word	_	13	A	13:A	_
+14	ich	_	Word	Word	_	13	A	13:A|17:A	_
 15	mit	_	Word	Word	_	17	R	17:R	_
 16	einem	_	Word	Word	_	17	E	17:E	_
 17	Blick	_	Word	Word	_	5	orphan	5:orphan	_

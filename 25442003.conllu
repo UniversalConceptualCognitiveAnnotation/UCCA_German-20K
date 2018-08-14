@@ -1,11 +1,10 @@
 # format = ucca
 # sent_id = 25442003
 # text = Seine Person erregte Aufmerksamkeit , zumal die Macht seines Blicks , der seine Züge besonders belebte .
-# doc_id = 
 1	Seine	_	Word	Word	_	2	E	2:E	_
 2	Person	_	Word	Word	_	0	root	0:root	_
 3	erregte	_	Word	Word	_	2	orphan	2:orphan	_
-4	Aufmerksamkeit	_	Word	Word	_	3	A	3:A	_
+4	Aufmerksamkeit	_	Word	Word	_	3	A	3:A|8:A	_
 5	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 6	zumal	_	Word	Word	_	3	L	3:L	_
 7	die	_	Word	Word	_	8	E	8:E	_

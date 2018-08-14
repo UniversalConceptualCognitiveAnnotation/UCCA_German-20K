@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25778005
 # text = Ich blieb mit Conseil bis 5 Uhr , und wir gingen die Küste auf und ab , mit Beobachten und Studien beschäftigt .
-# doc_id = 
 1	Ich	_	Word	Word	_	0	root	0:root	_
 2	blieb	_	Word	Word	_	1	orphan	1:orphan	_
 3	mit	_	Word	Word	_	1	N	1:N	_
@@ -11,7 +10,7 @@
 7	Uhr	_	Word	Word	_	6	flat	6:flat	_
 8	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
 9	und	_	Word	Word	_	2	L	2:L	_
-10	wir	_	Word	Word	_	11	A	11:A	_
+10	wir	_	Word	Word	_	11	A	11:A|22:A	_
 11	gingen	_	Word	Word	_	1	orphan	1:orphan	_
 12	die	_	Word	Word	_	13	E	13:E	_
 13	Küste	_	Word	Word	_	1	orphan	1:orphan	_

@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25614011
 # text = » Wahrhaftig « , erwiderte Conseil , » ich weiß meinem Herrn nicht darauf zu antworten . Zuverlässig erleben wir merkwürdige Dinge , und seit 2 Monaten hatten wir nicht die Zeit , uns zu langweilen . Das letztere Wunder ist stets das staunenswertere , und wenn diese Steigerung so fortdauert , weiß ich nicht , wie dies endigen wird . Ich bin der Meinung , wir werden eine solche Gelegenheit nie wieder bekommen . «
-# doc_id = 
 1	»	_	Punctuation	Punctuation	_	16	punct	16:punct	_
 2	Wahrhaftig	_	Word	Word	_	16	D	16:D	_
 3	«	_	Punctuation	Punctuation	_	5	punct	5:punct	_
@@ -30,7 +29,7 @@
 26	2	_	Word	Word	_	5	orphan	5:orphan	_
 27	Monaten	_	Word	Word	_	26	flat	26:flat	_
 28	hatten	_	Word	Word	_	5	orphan	5:orphan	_
-29	wir	_	Word	Word	_	28	A	28:A	_
+29	wir	_	Word	Word	_	28	A	28:A|36:A	_
 30	nicht	_	Word	Word	_	28	D	28:D	_
 31	die	_	Word	Word	_	32	E	32:E	_
 32	Zeit	_	Word	Word	_	5	orphan	5:orphan	_

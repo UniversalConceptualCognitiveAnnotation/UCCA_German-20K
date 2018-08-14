@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25445000
 # text = » Wie ist es , Ned « , fragte ich , » wie ist nur möglich , dass Sie von der Existenz des Tieres , das wir verfolgen , nicht überzeugt sind ? Haben Sie denn besondere Gründe , sich so ungläubig zu zeigen ?
-# doc_id = 
 1	»	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 2	Wie	_	Word	Word	_	3	D	3:D	_
 3	ist	_	Word	Word	_	0	root	0:root	_
@@ -36,7 +35,7 @@
 32	sind	_	Word	Word	_	31	F	31:F	_
 33	?	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 34	Haben	_	Word	Word	_	38	F	38:F	_
-35	Sie	_	Word	Word	_	38	A	38:A	_
+35	Sie	_	Word	Word	_	38	A	38:A|40:A	_
 36	denn	_	Word	Word	_	38	F	38:F	_
 37	besondere	_	Word	Word	_	38	E	38:E	_
 38	Gründe	_	Word	Word	_	3	orphan	3:orphan	_

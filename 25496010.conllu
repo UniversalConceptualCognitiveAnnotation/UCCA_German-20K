@@ -1,12 +1,11 @@
 # format = ucca
 # sent_id = 25496010
 # text = » Wie ! Sollen wir für immer verzichten , unsere Heimat , Freunde und Verwandten wiederzusehen !
-# doc_id = 
 1	»	_	Punctuation	Punctuation	_	2	punct	2:punct	_
 2	Wie	_	Word	Word	_	0	root	0:root	_
 3	!	_	Punctuation	Punctuation	_	2	punct	2:punct	_
 4	Sollen	_	Word	Word	_	8	D	8:D	_
-5	wir	_	Word	Word	_	8	A	8:A	_
+5	wir	_	Word	Word	_	8	A	8:A|16:A	_
 6	für	_	Word	Word	_	7	R	7:R	_
 7	immer	_	Word	Word	_	2	orphan	2:orphan	_
 8	verzichten	_	Word	Word	_	2	orphan	2:orphan	_

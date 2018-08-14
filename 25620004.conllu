@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25620004
 # text = Zu meinem großen Erstaunen gab mir Kapitän Nemo die erbetene Erlaubnis , und er tat es sehr gefällig und eifrig , ohne nur das Versprechen der Rückkehr an Bord abzunehmen .
-# doc_id = 
 1	Zu	_	Word	Word	_	4	R	4:R	_
 2	meinem	_	Word	Word	_	4	E	4:E	_
 3	großen	_	Word	Word	_	4	E	4:E	_
@@ -15,7 +14,7 @@
 11	Erlaubnis	_	Word	Word	_	4	orphan	4:orphan	_
 12	,	_	Punctuation	Punctuation	_	11	punct	11:punct	_
 13	und	_	Word	Word	_	11	L	11:L	_
-14	er	_	Word	Word	_	15	A	15:A	_
+14	er	_	Word	Word	_	15	A	15:A|30:A	_
 15	tat	_	Word	Word	_	4	orphan	4:orphan	_
 16	es	_	Word	Word	_	15	A	15:A	_
 17	sehr	_	Word	Word	_	18	E	18:E	_

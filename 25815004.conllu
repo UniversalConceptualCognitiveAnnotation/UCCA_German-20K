@@ -1,12 +1,11 @@
 # format = ucca
 # sent_id = 25815004
 # text = Mit gesteigerter Wärme zieht er aus dem mexikanischen Golf nordwärts den amerikanischen Küsten zu bis zu Neufundland , biegt beim Andrang der kalten Strömung aus der Davisstraße von jener Richtung ab und fließt wieder dem Ozean zu , indem er auf einem der großen Kreise der loxodromischen Linie folgt , teilt sich unter dem 43 . Grad in zwei Arme , wovon der eine , unterstützt von den Passatwinden , zu dem Golf von Gascogne und den Azoren zurückkehrt und der andere , nachdem er die laue Temperatur der Küsten Islands und Norwegens veranlaßt , bis über Spitzbergen hinaus , wo seine Wärme bis auf 4 Grad herabsinkt , fortströmt und das freie Meer des Polar landes bildet .
-# doc_id = 
 1	Mit	_	Word	Word	_	3	R	3:R	_
 2	gesteigerter	_	Word	Word	_	3	E	3:E	_
 3	Wärme	_	Word	Word	_	0	root	0:root	_
 4	zieht	_	Word	Word	_	3	orphan	3:orphan	_
-5	er	_	Word	Word	_	4	A	4:A	_
+5	er	_	Word	Word	_	4	A	4:A|33:A	_
 6	aus	_	Word	Word	_	9	R	9:R	_
 7	dem	_	Word	Word	_	9	E	9:E	_
 8	mexikanischen	_	Word	Word	_	9	E	9:E	_
@@ -41,7 +40,7 @@
 37	zu	_	Word	Word	_	33	flat	33:flat	_
 38	,	_	Punctuation	Punctuation	_	4	punct	4:punct	_
 39	indem	_	Word	Word	_	4	L	4:L	_
-40	er	_	Word	Word	_	49	A	49:A	_
+40	er	_	Word	Word	_	49	A	49:A|51:A	_
 41	auf	_	Word	Word	_	42	R	42:R	_
 42	einem	_	Word	Word	_	3	orphan	3:orphan	_
 43	der	_	Word	Word	_	45	R	45:R	_
@@ -86,7 +85,7 @@
 82	andere	_	Word	Word	_	3	orphan	3:orphan	_
 83	,	_	Punctuation	Punctuation	_	82	punct	82:punct	_
 84	nachdem	_	Word	Word	_	94	D	94:D	_
-85	er	_	Word	Word	_	94	A	94:A	_
+85	er	_	Word	Word	_	94	A	94:A|118:A|108:A|110:A	_
 86	die	_	Word	Word	_	88	E	88:E	_
 87	laue	_	Word	Word	_	88	E	88:E	_
 88	Temperatur	_	Word	Word	_	3	orphan	3:orphan	_

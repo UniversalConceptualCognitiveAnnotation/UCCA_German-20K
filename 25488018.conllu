@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25488018
 # text = Mein Mund schluckte Wasser ... ! Wasser . In den Abgrund versinkend , zappelte ich ... Plötzlich wurden meine Kleider von kräftiger Hand gefaßt , ich fühlte mich ungestüm an die Oberfläche des Meeres emporgezogen , und ich hörte , ja , ich hörte diese Worte mir ins Ohr gesprochen : » Wenn mein Herr die große Güte haben will , sich auf meine Schultern zu stützen , wird er viel bequemer schwimmen .
-# doc_id = 
 1	Mein	_	Word	Word	_	2	E	2:E	_
 2	Mund	_	Word	Word	_	0	root	0:root	_
 3	schluckte	_	Word	Word	_	2	orphan	2:orphan	_
@@ -16,7 +15,7 @@
 12	versinkend	_	Word	Word	_	2	orphan	2:orphan	_
 13	,	_	Punctuation	Punctuation	_	14	punct	14:punct	_
 14	zappelte	_	Word	Word	_	2	orphan	2:orphan	_
-15	ich	_	Word	Word	_	14	A	14:A	_
+15	ich	_	Word	Word	_	14	A	14:A|12:A	_
 16	...	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 17	Plötzlich	_	Word	Word	_	24	D	24:D	_
 18	wurden	_	Word	Word	_	24	F	24:F	_
@@ -27,7 +26,7 @@
 23	Hand	_	Word	Word	_	2	orphan	2:orphan	_
 24	gefaßt	_	Word	Word	_	2	orphan	2:orphan	_
 25	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
-26	ich	_	Word	Word	_	27	A	27:A	_
+26	ich	_	Word	Word	_	27	A	27:A|35:A	_
 27	fühlte	_	Word	Word	_	2	orphan	2:orphan	_
 28	mich	_	Word	Word	_	27	flat	27:flat	_
 29	ungestüm	_	Word	Word	_	35	D	35:D	_

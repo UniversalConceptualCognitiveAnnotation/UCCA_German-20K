@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25516006
 # text = « » Als ich bestimmen wollte , welchen Zuwachs an Gewicht ich der ›Nautilus‹ zu geben hätte , um sie untersinken zu lassen , hatte ich mich nur mit dem geringern Umfang zu befassen , den das Meer wasser einnimmt im Verhältnis wie seine Schichten tiefer liegen . «
-# doc_id = 
 1	«	_	Punctuation	Punctuation	_	5	punct	5:punct	_
 2	»	_	Punctuation	Punctuation	_	5	punct	5:punct	_
 3	Als	_	Word	Word	_	5	L	5:L	_
@@ -13,7 +12,7 @@
 9	Zuwachs	_	Word	Word	_	5	orphan	5:orphan	_
 10	an	_	Word	Word	_	11	R	11:R	_
 11	Gewicht	_	Word	Word	_	5	orphan	5:orphan	_
-12	ich	_	Word	Word	_	16	A	16:A	_
+12	ich	_	Word	Word	_	16	A	16:A|21:A	_
 13	der	_	Word	Word	_	14	E	14:E	_
 14	›Nautilus‹	_	Word	Word	_	5	orphan	5:orphan	_
 15	zu	_	Word	Word	_	16	F	16:F	_

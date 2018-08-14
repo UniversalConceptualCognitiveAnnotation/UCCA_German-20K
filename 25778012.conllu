@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25778012
 # text = » Das Wetter heitert sich ein wenig auf « , sagte er zu mir . » Ich habe gute Hoffnung . Nach dem Frühstück wollen wir an Land gehen und eine gute Stelle für die Beobachtungen wählen . «
-# doc_id = 
 1	»	_	Punctuation	Punctuation	_	4	punct	4:punct	_
 2	Das	_	Word	Word	_	3	E	3:E	_
 3	Wetter	_	Word	Word	_	0	root	0:root	_
@@ -27,7 +26,7 @@
 23	dem	_	Word	Word	_	24	E	24:E	_
 24	Frühstück	_	Word	Word	_	3	orphan	3:orphan	_
 25	wollen	_	Word	Word	_	29	D	29:D	_
-26	wir	_	Word	Word	_	29	A	29:A	_
+26	wir	_	Word	Word	_	29	A	29:A|37:A	_
 27	an	_	Word	Word	_	28	R	28:R	_
 28	Land	_	Word	Word	_	3	orphan	3:orphan	_
 29	gehen	_	Word	Word	_	3	orphan	3:orphan	_

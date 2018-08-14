@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25506003
 # text = » Herr Arronax « , erwiderte Kapitän Nemo , » ich hab' Ihnen gesagt , dass Sie an Bord meines Schiffs frei sind ; folglich ist Ihnen kein Teil der ›Nautilus‹ untersagt . Sie können ihn im Detail besichtigen , und ich mache mir ein Vergnügen daraus , Ihr Cicerone zu sein . «
-# doc_id = 
 1	»	_	Punctuation	Punctuation	_	14	punct	14:punct	_
 2	Herr	_	Word	Word	_	3	E	3:E	_
 3	Arronax	_	Word	Word	_	0	root	0:root	_
@@ -43,7 +42,7 @@
 39	besichtigen	_	Word	Word	_	3	orphan	3:orphan	_
 40	,	_	Punctuation	Punctuation	_	14	punct	14:punct	_
 41	und	_	Word	Word	_	14	L	14:L	_
-42	ich	_	Word	Word	_	46	A	46:A	_
+42	ich	_	Word	Word	_	46	A	46:A|52:A	_
 43	mache	_	Word	Word	_	46	D	46:D	_
 44	mir	_	Word	Word	_	46	A	46:A	_
 45	ein	_	Word	Word	_	46	E	46:E	_

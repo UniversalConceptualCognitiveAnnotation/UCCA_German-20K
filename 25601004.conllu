@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25601004
 # text = » Die Salze sind in beträchtlicher Menge im Meer vorhanden , Herr Professor , und wenn man alles herauszöge , was es in aufgelöstem Zustand an Salzen enthält , so würde man eine Masse von 4 1 / 2 Millionen Kubiklieue bekommen , die , auf die Erd oberfläche verbreitet , eine 10 Meter dicke Schicht bilden würden . Und glauben Sie nicht , dass diese Salze nur infolge einer Laune der Natur im Meer vorhanden seien . Nein , sie machen , dass das Meer wasser wieder leicht verdunstet , und verhindern , dass die Winde ihm eine zu große Menge von Dünsten entziehen , die , indem sie sich im Wasser auflösen , die gemäßigten Zonen in Überschwemmung versetzen würden . Diese bedeutende ausgleichende Rolle spielen die Salze bei dem allgemeinen wirtschaftlichen System des Erd balls ! «
-# doc_id = 
 1	»	_	Punctuation	Punctuation	_	10	punct	10:punct	_
 2	Die	_	Word	Word	_	3	E	3:E	_
 3	Salze	_	Word	Word	_	0	root	0:root	_
@@ -45,7 +44,7 @@
 41	Kubiklieue	_	Word	Word	_	3	orphan	3:orphan	_
 42	bekommen	_	Word	Word	_	3	orphan	3:orphan	_
 43	,	_	Punctuation	Punctuation	_	42	punct	42:punct	_
-44	die	_	Word	Word	_	57	R	57:R	_
+44	die	_	Word	Word	_	57	R	57:R|50:A	_
 45	,	_	Punctuation	Punctuation	_	50	punct	50:punct	_
 46	auf	_	Word	Word	_	49	R	49:R	_
 47	die	_	Word	Word	_	49	E	49:E	_
@@ -82,7 +81,7 @@
 78	.	_	Punctuation	Punctuation	_	10	punct	10:punct	_
 79	Nein	_	Word	Word	_	3	orphan	3:orphan	_
 80	,	_	Punctuation	Punctuation	_	10	punct	10:punct	_
-81	sie	_	Word	Word	_	82	A	82:A	_
+81	sie	_	Word	Word	_	82	A	82:A|93:A	_
 82	machen	_	Word	Word	_	3	orphan	3:orphan	_
 83	,	_	Punctuation	Punctuation	_	82	punct	82:punct	_
 84	dass	_	Word	Word	_	90	R	90:R	_
@@ -108,7 +107,7 @@
 104	Dünsten	_	Word	Word	_	3	orphan	3:orphan	_
 105	entziehen	_	Word	Word	_	3	orphan	3:orphan	_
 106	,	_	Punctuation	Punctuation	_	105	punct	105:punct	_
-107	die	_	Word	Word	_	121	R	121:R	_
+107	die	_	Word	Word	_	121	R	121:R|111:A	_
 108	,	_	Punctuation	Punctuation	_	111	punct	111:punct	_
 109	indem	_	Word	Word	_	111	R	111:R	_
 110	sie	_	Word	Word	_	111	A	111:A	_

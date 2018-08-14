@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25805007
 # text = An Wasser tiefe hätte es zwar dort nicht gemangelt , denn sie beträgt durchschnittlich 1.800 Meter ; aber vermutlich gefiel diese Gegend Kapitän Nemo deshalb nicht , weil sie mit Inseln besät und beständig von Booten befahren ist .
-# doc_id = 
 1	An	_	Word	Word	_	3	E	3:E	_
 2	Wasser	_	Word	Word	_	3	E	3:E	_
 3	tiefe	_	Word	Word	_	0	root	0:root	_
@@ -30,7 +29,7 @@
 26	nicht	_	Word	Word	_	20	D	20:D	_
 27	,	_	Punctuation	Punctuation	_	9	punct	9:punct	_
 28	weil	_	Word	Word	_	9	L	9:L	_
-29	sie	_	Word	Word	_	32	A	32:A	_
+29	sie	_	Word	Word	_	32	A	32:A|37:A	_
 30	mit	_	Word	Word	_	31	R	31:R	_
 31	Inseln	_	Word	Word	_	3	orphan	3:orphan	_
 32	besät	_	Word	Word	_	3	orphan	3:orphan	_

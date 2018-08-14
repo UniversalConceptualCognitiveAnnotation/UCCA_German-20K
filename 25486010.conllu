@@ -1,10 +1,9 @@
 # format = ucca
 # sent_id = 25486010
 # text = Vielleicht schlief er vor Ermüdung und wiegte sich auf den Wogen ?
-# doc_id = 
 1	Vielleicht	_	Word	Word	_	2	G	2:G	_
 2	schlief	_	Word	Word	_	0	root	0:root	_
-3	er	_	Word	Word	_	2	A	2:A	_
+3	er	_	Word	Word	_	2	A	2:A|5:A|7:A	_
 4	vor	_	Word	Word	_	5	R	5:R	_
 5	Ermüdung	_	Word	Word	_	2	orphan	2:orphan	_
 6	und	_	Word	Word	_	2	L	2:L	_

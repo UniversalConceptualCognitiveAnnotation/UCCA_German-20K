@@ -1,10 +1,9 @@
 # format = ucca
 # sent_id = 25645001
 # text = Da sah ich mitten im Feuer , das nicht brannte , zierliche , rasche Delphine und 3 Meter lange Segelträger , die kundigen Vorboten der Stürme ; sodann von kleineren bunte Hornfische , Klippfische und tausend andere , die das erleuchtete Element durchstreiften .
-# doc_id = 
 1	Da	_	Word	Word	_	2	L	2:L	_
 2	sah	_	Word	Word	_	0	root	0:root	_
-3	ich	_	Word	Word	_	2	A	2:A	_
+3	ich	_	Word	Word	_	2	A	2:A|30:A	_
 4	mitten	_	Word	Word	_	6	R	6:R	_
 5	im	_	Word	Word	_	6	R	6:R	_
 6	Feuer	_	Word	Word	_	2	orphan	2:orphan	_
@@ -38,7 +37,7 @@
 34	Klippfische	_	Word	Word	_	32	C	32:C	_
 35	und	_	Word	Word	_	32	N	32:N	_
 36	tausend	_	Word	Word	_	2	orphan	2:orphan	_
-37	andere	_	Word	Word	_	36	E	36:E	_
+37	andere	_	Word	Word	_	36	E	36:E|43:A	_
 38	,	_	Punctuation	Punctuation	_	36	punct	36:punct	_
 39	die	_	Word	Word	_	43	R	43:R	_
 40	das	_	Word	Word	_	42	E	42:E	_

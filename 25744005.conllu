@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25744005
 # text = Es fanden sich da , an der Mündung eines Loches in einem hohlen Baum einige tausend dieser fleißigen Insekten , die auf den Kanarischen Inseln sehr häufig sind , wo man auch den Honig sehr zu schätzen weiß .
-# doc_id = 
 1	Es	_	Word	Word	_	2	F	2:F	_
 2	fanden	_	Word	Word	_	0	root	0:root	_
 3	sich	_	Word	Word	_	2	flat	2:flat	_
@@ -26,7 +25,7 @@
 22	auf	_	Word	Word	_	24	R	24:R	_
 23	den	_	Word	Word	_	24	E	24:E	_
 24	Kanarischen	_	Word	Word	_	2	orphan	2:orphan	_
-25	Inseln	_	Word	Word	_	24	E	24:E	_
+25	Inseln	_	Word	Word	_	24	E	24:E|37:A	_
 26	sehr	_	Word	Word	_	27	D	27:D	_
 27	häufig	_	Word	Word	_	2	orphan	2:orphan	_
 28	sind	_	Word	Word	_	27	F	27:F	_

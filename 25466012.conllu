@@ -1,12 +1,11 @@
 # format = ucca
 # sent_id = 25466012
 # text = In dem Augenblick befand ich mich vorn beim Steuerbord , aufs Geländer gelehnt .
-# doc_id = 
 1	In	_	Word	Word	_	3	R	3:R	_
 2	dem	_	Word	Word	_	3	E	3:E	_
 3	Augenblick	_	Word	Word	_	0	root	0:root	_
 4	befand	_	Word	Word	_	3	orphan	3:orphan	_
-5	ich	_	Word	Word	_	4	A	4:A	_
+5	ich	_	Word	Word	_	4	A	4:A|13:A	_
 6	mich	_	Word	Word	_	4	flat	4:flat	_
 7	vorn	_	Word	Word	_	3	orphan	3:orphan	_
 8	beim	_	Word	Word	_	9	R	9:R	_

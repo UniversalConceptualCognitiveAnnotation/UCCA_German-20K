@@ -1,13 +1,12 @@
 # format = ucca
 # sent_id = 25680011
 # text = Die Nacht kam heran , ich legte mich zu Bett und schlief ziemlich schlecht .
-# doc_id = 
 1	Die	_	Word	Word	_	2	E	2:E	_
 2	Nacht	_	Word	Word	_	0	root	0:root	_
 3	kam	_	Word	Word	_	2	orphan	2:orphan	_
 4	heran	_	Word	Word	_	3	flat	3:flat	_
 5	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
-6	ich	_	Word	Word	_	7	A	7:A	_
+6	ich	_	Word	Word	_	7	A	7:A|12:A	_
 7	legte	_	Word	Word	_	2	orphan	2:orphan	_
 8	mich	_	Word	Word	_	7	flat	7:flat	_
 9	zu	_	Word	Word	_	10	R	10:R	_

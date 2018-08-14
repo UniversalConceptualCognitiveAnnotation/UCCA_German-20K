@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25741003
 # text = » Und wir können Ihre Leute bei der Arbeit sehen ? « » Nein , diesmal wenigstens nicht , denn ich habe Eile , unsere unterseeische Fahrt fortzusetzen . Darum beschränke ich mich jetzt darauf , aus meinem Vorrat von Sodium mich zu versehen . Wir brauchen nur einen Tag , um es an Bord zu schaffen , dann werden wir unsere Fahrt fortsetzen . Wenn Sie also , Herr Arronax , diese Zeit benutzen wollen , diese Höhle zu durchwandern und den See rings zu befahren , so steht ' s in Ihrem Belieben . «
-# doc_id = 
 1	»	_	Punctuation	Punctuation	_	10	punct	10:punct	_
 2	Und	_	Word	Word	_	10	L	10:L	_
 3	wir	_	Word	Word	_	10	A	10:A	_
@@ -22,7 +21,7 @@
 18	nicht	_	Word	Word	_	17	D	17:D	_
 19	,	_	Punctuation	Punctuation	_	14	punct	14:punct	_
 20	denn	_	Word	Word	_	14	L	14:L	_
-21	ich	_	Word	Word	_	23	A	23:A	_
+21	ich	_	Word	Word	_	23	A	23:A|28:A	_
 22	habe	_	Word	Word	_	23	F	23:F	_
 23	Eile	_	Word	Word	_	6	orphan	6:orphan	_
 24	,	_	Punctuation	Punctuation	_	23	punct	23:punct	_
@@ -33,7 +32,7 @@
 29	.	_	Punctuation	Punctuation	_	14	punct	14:punct	_
 30	Darum	_	Word	Word	_	14	L	14:L	_
 31	beschränke	_	Word	Word	_	6	orphan	6:orphan	_
-32	ich	_	Word	Word	_	31	A	31:A	_
+32	ich	_	Word	Word	_	31	A	31:A|42:A	_
 33	mich	_	Word	Word	_	31	flat	31:flat	_
 34	jetzt	_	Word	Word	_	31	T	31:T	_
 35	darauf	_	Word	Word	_	14	L	14:L	_
@@ -47,7 +46,7 @@
 43	zu	_	Word	Word	_	42	F	42:F	_
 44	versehen	_	Word	Word	_	42	flat	42:flat	_
 45	.	_	Punctuation	Punctuation	_	14	punct	14:punct	_
-46	Wir	_	Word	Word	_	47	A	47:A	_
+46	Wir	_	Word	Word	_	47	A	47:A|57:A	_
 47	brauchen	_	Word	Word	_	6	orphan	6:orphan	_
 48	nur	_	Word	Word	_	47	D	47:D	_
 49	einen	_	Word	Word	_	50	E	50:E	_
@@ -68,7 +67,7 @@
 64	fortsetzen	_	Word	Word	_	6	orphan	6:orphan	_
 65	.	_	Punctuation	Punctuation	_	14	punct	14:punct	_
 66	Wenn	_	Word	Word	_	14	L	14:L	_
-67	Sie	_	Word	Word	_	75	A	75:A	_
+67	Sie	_	Word	Word	_	75	A	75:A|81:A|87:A	_
 68	also	_	Word	Word	_	75	F	75:F	_
 69	,	_	Punctuation	Punctuation	_	75	punct	75:punct	_
 70	Herr	_	Word	Word	_	71	E	71:E	_

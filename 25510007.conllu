@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25510007
 # text = « » Oh ! Ich könnte die zu meinem Verbrauch nötige Luft fabrizieren , aber es ist nicht nötig , weil ich , wenn 's mir beliebt , an die Oberfläche des Meeres aufsteigen kann . Jedoch kann mir auch die Elektrizität nicht die zum Einatmen erforderliche Luft liefern , so treibt sie wenigstens gewaltige Pumpen , die sie in besondere Behälter einpressen , wodurch ich in den Stand gesetzt bin , meinen Aufenthalt in der Tiefe nach Bedürfnis oder nach Belieben zu verlängern . «
-# doc_id = 
 1	«	_	Punctuation	Punctuation	_	13	punct	13:punct	_
 2	»	_	Punctuation	Punctuation	_	13	punct	13:punct	_
 3	Oh	_	Word	Word	_	13	F	13:F	_
@@ -67,7 +66,7 @@
 63	einpressen	_	Word	Word	_	10	orphan	10:orphan	_
 64	,	_	Punctuation	Punctuation	_	13	punct	13:punct	_
 65	wodurch	_	Word	Word	_	13	L	13:L	_
-66	ich	_	Word	Word	_	67	A	67:A	_
+66	ich	_	Word	Word	_	67	A	67:A|84:A	_
 67	in	_	Word	Word	_	10	orphan	10:orphan	_
 68	den	_	Word	Word	_	67	flat	67:flat	_
 69	Stand	_	Word	Word	_	67	flat	67:flat	_

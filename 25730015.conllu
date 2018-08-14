@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25730015
 # text = » Dieser Spaziergang wird ermüdend sein , sag ich zum voraus . Man muß weit gehen und einen Berg hinauf . Die Wege sind nicht sehr gut gebahnt . «
-# doc_id = 
 1	»	_	Punctuation	Punctuation	_	5	punct	5:punct	_
 2	Dieser	_	Word	Word	_	3	E	3:E	_
 3	Spaziergang	_	Word	Word	_	0	root	0:root	_
@@ -14,7 +13,7 @@
 10	zum	_	Word	Word	_	11	R	11:R	_
 11	voraus	_	Word	Word	_	3	orphan	3:orphan	_
 12	.	_	Punctuation	Punctuation	_	5	punct	5:punct	_
-13	Man	_	Word	Word	_	16	A	16:A	_
+13	Man	_	Word	Word	_	16	A	16:A|19:A	_
 14	muß	_	Word	Word	_	16	D	16:D	_
 15	weit	_	Word	Word	_	16	D	16:D	_
 16	gehen	_	Word	Word	_	3	orphan	3:orphan	_

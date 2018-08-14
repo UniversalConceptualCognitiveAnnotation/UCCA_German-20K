@@ -1,11 +1,10 @@
 # format = ucca
 # sent_id = 25670016
 # text = Dann hielt sich Ned Land nicht länger , wollte auf die Oberfläche des Wassers , um die Ungetüme mit seiner Harpune zu treffen .
-# doc_id = 
 1	Dann	_	Word	Word	_	2	L	2:L	_
 2	hielt	_	Word	Word	_	0	root	0:root	_
 3	sich	_	Word	Word	_	2	flat	2:flat	_
-4	Ned	_	Word	Word	_	2	A	2:A	_
+4	Ned	_	Word	Word	_	2	A	2:A|12:A|23:A	_
 5	Land	_	Word	Word	_	4	flat	4:flat	_
 6	nicht	_	Word	Word	_	2	D	2:D	_
 7	länger	_	Word	Word	_	2	D	2:D	_

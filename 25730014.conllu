@@ -1,9 +1,8 @@
 # format = ucca
 # sent_id = 25730014
 # text = » Sie haben den Meeresgrund noch nicht anders besucht als bei Tag und Sonnenschein . Würde es Ihnen gefallen , ihn in dunkler Nacht zu sehen ? « » Recht gern . «
-# doc_id = 
 1	»	_	Punctuation	Punctuation	_	9	punct	9:punct	_
-2	Sie	_	Word	Word	_	9	A	9:A	_
+2	Sie	_	Word	Word	_	9	A	9:A|7:A	_
 3	haben	_	Word	Word	_	9	F	9:F	_
 4	den	_	Word	Word	_	5	E	5:E	_
 5	Meeresgrund	_	Word	Word	_	0	root	0:root	_
@@ -22,7 +21,7 @@
 18	Ihnen	_	Word	Word	_	19	A	19:A	_
 19	gefallen	_	Word	Word	_	5	orphan	5:orphan	_
 20	,	_	Punctuation	Punctuation	_	19	punct	19:punct	_
-21	ihn	_	Word	Word	_	26	A	26:A	_
+21	ihn	_	Word	Word	_	26	A	26:A|31:A	_
 22	in	_	Word	Word	_	24	R	24:R	_
 23	dunkler	_	Word	Word	_	5	orphan	5:orphan	_
 24	Nacht	_	Word	Word	_	5	orphan	5:orphan	_

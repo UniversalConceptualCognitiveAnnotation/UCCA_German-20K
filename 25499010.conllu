@@ -1,8 +1,7 @@
 # format = ucca
 # sent_id = 25499010
 # text = Ich blickte Kapitän Nemo mit einigem Erstaunen an und antwortete : » Ich begreife wohl , mein Herr , dass Ihre Netze Ihnen vortreffliche Fische auf die Tafel liefern ; minder begreiflich ist mir , dass Sie Ihr Wasser wild in Ihren unterseeischen Wäldern jagen ; aber durchaus unbegreiflich , dass ein Stück Fleisch , so klein es sein mag , unter Ihren Gerichten sich findet . «
-# doc_id = 
-1	Ich	_	Word	Word	_	2	A	2:A	_
+1	Ich	_	Word	Word	_	2	A	2:A|10:A	_
 2	blickte	_	Word	Word	_	0	root	0:root	_
 3	Kapitän	_	Word	Word	_	4	E	4:E	_
 4	Nemo	_	Word	Word	_	2	orphan	2:orphan	_
@@ -35,7 +34,7 @@
 31	minder	_	Word	Word	_	32	D	32:D	_
 32	begreiflich	_	Word	Word	_	2	orphan	2:orphan	_
 33	ist	_	Word	Word	_	32	F	32:F	_
-34	mir	_	Word	Word	_	32	A	32:A	_
+34	mir	_	Word	Word	_	32	A	32:A|49:A	_
 35	,	_	Punctuation	Punctuation	_	32	punct	32:punct	_
 36	dass	_	Word	Word	_	45	R	45:R	_
 37	Sie	_	Word	Word	_	45	A	45:A	_

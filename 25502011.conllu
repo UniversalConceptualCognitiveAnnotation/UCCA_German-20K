@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25502011
 # text = » Kapitän Nemo « , sagte ich zu meinem Wirt , » das ist eine Biblio-thek , die manchem Palast auf der Erde Ehre machen würde ; ich bin wahrhaft in Staunen versetzt bei dem Gedanken , sie auf dem Meeres grund zu finden . «
-# doc_id = 
 1	»	_	Punctuation	Punctuation	_	14	punct	14:punct	_
 2	Kapitän	_	Word	Word	_	3	E	3:E	_
 3	Nemo	_	Word	Word	_	0	root	0:root	_
@@ -29,7 +28,7 @@
 25	machen	_	Word	Word	_	24	flat	24:flat	_
 26	würde	_	Word	Word	_	24	D	24:D	_
 27	;	_	Punctuation	Punctuation	_	14	punct	14:punct	_
-28	ich	_	Word	Word	_	29	A	29:A	_
+28	ich	_	Word	Word	_	29	A	29:A|44:A	_
 29	bin	_	Word	Word	_	3	orphan	3:orphan	_
 30	wahrhaft	_	Word	Word	_	29	D	29:D	_
 31	in	_	Word	Word	_	29	flat	29:flat	_

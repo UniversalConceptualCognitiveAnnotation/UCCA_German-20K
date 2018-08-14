@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25606010
 # text = Die " Nautilus " gelangte weiter auf ihrer Fahrt zur Insel Clermont-Tonnère , einer der merkwürdigsten der im Jahr 1822 von Kapitän Bell auf der Minerva entdeckten Gruppe .
-# doc_id = 
 1	Die	_	Word	Word	_	3	E	3:E	_
 2	"	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 3	Nautilus	_	Word	Word	_	0	root	0:root	_
@@ -12,7 +11,7 @@
 8	ihrer	_	Word	Word	_	9	E	9:E	_
 9	Fahrt	_	Word	Word	_	3	orphan	3:orphan	_
 10	zur	_	Word	Word	_	12	R	12:R	_
-11	Insel	_	Word	Word	_	12	E	12:E	_
+11	Insel	_	Word	Word	_	12	E	12:E|14:C	_
 12	Clermont-Tonnère	_	Word	Word	_	3	orphan	3:orphan	_
 13	,	_	Punctuation	Punctuation	_	12	punct	12:punct	_
 14	einer	_	Word	Word	_	3	orphan	3:orphan	_

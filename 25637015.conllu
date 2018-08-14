@@ -1,12 +1,11 @@
 # format = ucca
 # sent_id = 25637015
 # text = Bei diesem Anlaß sagte er : » Dieser d'Urville ist einer Ihrer großen Seemänner gewesen , Ihrer einsichtsvollsten Seefahrer . Der arme Gelehrte ! Nachdem er mutig die Eisbänke des Südpols , die Korallen Ozeaniens , die Kannibalen des Pazifiks bestanden hatte , musste er jämmerlich auf einer Eisenbahn verunglücken ! «
-# doc_id = 
 1	Bei	_	Word	Word	_	3	R	3:R	_
 2	diesem	_	Word	Word	_	3	E	3:E	_
 3	Anlaß	_	Word	Word	_	0	root	0:root	_
 4	sagte	_	Word	Word	_	3	orphan	3:orphan	_
-5	er	_	Word	Word	_	4	A	4:A	_
+5	er	_	Word	Word	_	4	A	4:A|15:A	_
 6	:	_	Punctuation	Punctuation	_	15	punct	15:punct	_
 7	»	_	Punctuation	Punctuation	_	15	punct	15:punct	_
 8	Dieser	_	Word	Word	_	9	E	9:E	_

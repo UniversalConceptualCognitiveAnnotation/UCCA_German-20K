@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25746002
 # text = » Was gibt ' s ? « fragte ich und richtete mich etwas auf .
-# doc_id = 
 1	»	_	Punctuation	Punctuation	_	8	punct	8:punct	_
 2	Was	_	Word	Word	_	3	A	3:A	_
 3	gibt	_	Word	Word	_	0	root	0:root	_
@@ -10,7 +9,7 @@
 6	?	_	Punctuation	Punctuation	_	8	punct	8:punct	_
 7	«	_	Punctuation	Punctuation	_	8	punct	8:punct	_
 8	fragte	_	Word	Word	_	3	orphan	3:orphan	_
-9	ich	_	Word	Word	_	8	A	8:A	_
+9	ich	_	Word	Word	_	8	A	8:A|11:A	_
 10	und	_	Word	Word	_	8	L	8:L	_
 11	richtete	_	Word	Word	_	3	orphan	3:orphan	_
 12	mich	_	Word	Word	_	11	flat	11:flat	_

@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25819009
 # text = » Ja , mein Herr , und deshalb kam ich , Sie zu befragen . Nun sind wir bereits 7 Monate an Bord Ihres Boots , und ich frage Sie heute , in meiner Genossen und meinem eigenen Namen , ob Ihre Absicht ist , uns ewig hier festzuhalten . «
-# doc_id = 
 1	»	_	Punctuation	Punctuation	_	2	punct	2:punct	_
 2	Ja	_	Word	Word	_	0	root	0:root	_
 3	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
@@ -11,7 +10,7 @@
 7	und	_	Word	Word	_	2	L	2:L	_
 8	deshalb	_	Word	Word	_	9	A	9:A	_
 9	kam	_	Word	Word	_	2	orphan	2:orphan	_
-10	ich	_	Word	Word	_	9	A	9:A	_
+10	ich	_	Word	Word	_	9	A	9:A|14:A	_
 11	,	_	Punctuation	Punctuation	_	14	punct	14:punct	_
 12	Sie	_	Word	Word	_	14	A	14:A	_
 13	zu	_	Word	Word	_	14	F	14:F	_

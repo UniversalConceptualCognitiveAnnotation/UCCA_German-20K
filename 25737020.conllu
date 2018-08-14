@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25737020
 # text = Die ›Nautilus‹ fuhr in der Tat nur 10 Meter hoch über dem Boden der Atlantis hin , und zwar so schnell wie ein Ballon , den der Wind über Wiesenland treibt ; richtiger gesagt , wir waren in diesem Salon wie in dem Waggon eines Eilzugs .
-# doc_id = 
 1	Die	_	Word	Word	_	2	E	2:E	_
 2	›Nautilus‹	_	Word	Word	_	0	root	0:root	_
 3	fuhr	_	Word	Word	_	2	orphan	2:orphan	_
@@ -37,7 +36,7 @@
 33	richtiger	_	Word	Word	_	37	G	37:G	_
 34	gesagt	_	Word	Word	_	33	flat	33:flat	_
 35	,	_	Punctuation	Punctuation	_	37	punct	37:punct	_
-36	wir	_	Word	Word	_	37	A	37:A	_
+36	wir	_	Word	Word	_	37	A	37:A|44:A	_
 37	waren	_	Word	Word	_	2	orphan	2:orphan	_
 38	in	_	Word	Word	_	40	R	40:R	_
 39	diesem	_	Word	Word	_	40	E	40:E	_

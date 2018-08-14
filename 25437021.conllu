@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25437021
 # text = Wir begaben uns ins Erdgeschoß , wo ich in dem geräumigen , stets umlagerten Comptoir meine Rechnung berichtigte , den Auftrag erteilte , meine Kisten mit ausgebalgten Tieren und getrockneten Pflanzen nach
-# doc_id = 
 1	Wir	_	Word	Word	_	2	A	2:A	_
 2	begaben	_	Word	Word	_	0	root	0:root	_
 3	uns	_	Word	Word	_	2	A	2:A	_
@@ -9,7 +8,7 @@
 5	Erdgeschoß	_	Word	Word	_	2	orphan	2:orphan	_
 6	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_
 7	wo	_	Word	Word	_	18	R	18:R	_
-8	ich	_	Word	Word	_	18	A	18:A	_
+8	ich	_	Word	Word	_	18	A	18:A|21:A	_
 9	in	_	Word	Word	_	15	R	15:R	_
 10	dem	_	Word	Word	_	11	E	11:E	_
 11	geräumigen	_	Word	Word	_	2	orphan	2:orphan	_

@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25472012
 # text = » Herr Arronax « , erwiderte er mir , » ich weiß nicht , mit was für einem furchtbaren Geschöpf ich zu tun habe , und ich will nicht unvorsichtig inmitten dieser Dunkelheit meine Fregatte aufs Spiel setzen . Zudem , wie soll man das Unbekannte angreifen , wie sich dagegen verteidigen . Warten wir den Tag ab , dann sollen die Rollen wechseln .
-# doc_id = 
 1	»	_	Punctuation	Punctuation	_	12	punct	12:punct	_
 2	Herr	_	Word	Word	_	3	E	3:E	_
 3	Arronax	_	Word	Word	_	0	root	0:root	_
@@ -44,8 +43,8 @@
 40	Zudem	_	Word	Word	_	12	L	12:L	_
 41	,	_	Punctuation	Punctuation	_	12	punct	12:punct	_
 42	wie	_	Word	Word	_	47	R	47:R	_
-43	soll	_	Word	Word	_	47	D	47:D	_
-44	man	_	Word	Word	_	47	A	47:A	_
+43	soll	_	Word	Word	_	47	D	47:D|50:D	_
+44	man	_	Word	Word	_	47	A	47:A|50:A	_
 45	das	_	Word	Word	_	46	E	46:E	_
 46	Unbekannte	_	Word	Word	_	3	orphan	3:orphan	_
 47	angreifen	_	Word	Word	_	3	orphan	3:orphan	_

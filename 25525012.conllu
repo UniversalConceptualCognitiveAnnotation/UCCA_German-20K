@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25525012
 # text = » Ich kann darauf keine Antwort geben , Meister Land . Übrigens , glauben Sie mir , geben Sie für jetzt die Idee auf , sich der ›Nautilus‹ zu bemächtigen oder zu fliehen . Dieses Fahrzeug ist ein Meister werk der modernen Industrie , und es wäre mir leid , hätte ich es nicht gesehen ! Wie mancher würde sich gern unsere Lage gefallen lassen , sei es auch nur , um durch diese Wunder zu spazieren . Also halten Sie sich ruhig , und trachten wir zu sehen , was um uns herum vorgeht . «
-# doc_id = 
 1	»	_	Punctuation	Punctuation	_	7	punct	7:punct	_
 2	Ich	_	Word	Word	_	7	A	7:A	_
 3	kann	_	Word	Word	_	7	D	7:D	_
@@ -16,11 +15,11 @@
 12	Übrigens	_	Word	Word	_	14	G	14:G	_
 13	,	_	Punctuation	Punctuation	_	14	punct	14:punct	_
 14	glauben	_	Word	Word	_	7	orphan	7:orphan	_
-15	Sie	_	Word	Word	_	14	A	14:A	_
+15	Sie	_	Word	Word	_	14	A	14:A|33:A	_
 16	mir	_	Word	Word	_	14	A	14:A	_
 17	,	_	Punctuation	Punctuation	_	7	punct	7:punct	_
 18	geben	_	Word	Word	_	7	orphan	7:orphan	_
-19	Sie	_	Word	Word	_	18	F	18:F	_
+19	Sie	_	Word	Word	_	18	F	18:F|26:A	_
 20	für	_	Word	Word	_	21	R	21:R	_
 21	jetzt	_	Word	Word	_	7	orphan	7:orphan	_
 22	die	_	Word	Word	_	23	E	23:E	_
@@ -59,7 +58,7 @@
 55	gesehen	_	Word	Word	_	7	orphan	7:orphan	_
 56	!	_	Punctuation	Punctuation	_	7	punct	7:punct	_
 57	Wie	_	Word	Word	_	60	D	60:D	_
-58	mancher	_	Word	Word	_	60	A	60:A	_
+58	mancher	_	Word	Word	_	60	A	60:A|77:A	_
 59	würde	_	Word	Word	_	60	D	60:D	_
 60	sich	_	Word	Word	_	7	orphan	7:orphan	_
 61	gern	_	Word	Word	_	60	D	60:D	_

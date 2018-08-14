@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25594016
 # text = » Merkwürdige Regel widrigkeit , seltsames Element « , sagt ein geistreicher Natur forscher , » wo das Tier reich Blüten treibt , das Pflanzen reich nicht ! «
-# doc_id = 
 1	»	_	Punctuation	Punctuation	_	4	punct	4:punct	_
 2	Merkwürdige	_	Word	Word	_	4	E	4:E	_
 3	Regel	_	Word	Word	_	4	E	4:E	_
@@ -22,7 +21,7 @@
 18	das	_	Word	Word	_	20	E	20:E	_
 19	Tier	_	Word	Word	_	20	E	20:E	_
 20	reich	_	Word	Word	_	4	orphan	4:orphan	_
-21	Blüten	_	Word	Word	_	22	A	22:A	_
+21	Blüten	_	Word	Word	_	22	A	22:A|26:A	_
 22	treibt	_	Word	Word	_	4	orphan	4:orphan	_
 23	,	_	Punctuation	Punctuation	_	26	punct	26:punct	_
 24	das	_	Word	Word	_	26	E	26:E	_

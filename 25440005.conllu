@@ -1,11 +1,10 @@
 # format = ucca
 # sent_id = 25440005
 # text = Entweder Kommandant Farragut würde den Narwal töten oder der Narwal den Kommandanten .
-# doc_id = 
 1	Entweder	_	Word	Word	_	7	L	7:L	_
 2	Kommandant	_	Word	Word	_	3	E	3:E	_
 3	Farragut	_	Word	Word	_	0	root	0:root	_
-4	würde	_	Word	Word	_	7	D	7:D	_
+4	würde	_	Word	Word	_	7	D	7:D|10:D	_
 5	den	_	Word	Word	_	6	R	6:R	_
 6	Narwal	_	Word	Word	_	3	orphan	3:orphan	_
 7	töten	_	Word	Word	_	3	orphan	3:orphan	_

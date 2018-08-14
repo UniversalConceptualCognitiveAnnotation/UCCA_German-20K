@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25710014
 # text = » Freund Conseil « , erwiderte gelassen dieser brave Junge , » Freund Conseil hat nichts dabei zu sagen . Wie sein Herr , wie sein Kamerad Ned , ist er ohne Familie . Weder Frau noch Eltern , noch Kinder erwarten ihn in der Heimat . Er steht im Dienste seines Herrn , denkt wie sein Herr und spricht wie sein Herr , und zu seinem großen Bedauern darf man nicht auf ihn zählen , um eine Majorität zu bilden . Es sind nur zwei Personen da : mein Herr auf der einen , Ned Land auf der anderen Seite . Freund Conseil hört zu , und ist bereit , die Stiche zu zählen . «
-# doc_id = 
 1	»	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 2	Freund	_	Word	Word	_	3	E	3:E	_
 3	Conseil	_	Word	Word	_	0	root	0:root	_
@@ -49,7 +48,7 @@
 45	der	_	Word	Word	_	46	E	46:E	_
 46	Heimat	_	Word	Word	_	3	orphan	3:orphan	_
 47	.	_	Punctuation	Punctuation	_	3	punct	3:punct	_
-48	Er	_	Word	Word	_	51	A	51:A	_
+48	Er	_	Word	Word	_	51	A	51:A|60:A|55:A	_
 49	steht	_	Word	Word	_	51	F	51:F	_
 50	im	_	Word	Word	_	51	R	51:R	_
 51	Dienste	_	Word	Word	_	3	orphan	3:orphan	_

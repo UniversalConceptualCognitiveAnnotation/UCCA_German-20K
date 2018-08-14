@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25462005
 # text = Ned Land zeigte stets hartnäckige Ungläubigkeit ; er stellte sich sogar , als beobachte er außer der Zeit , da er auf dem Verdeck sein mußte , gar nicht die Wasser fläche - wenigstens wenn nicht ein Walfisch in Sicht war .
-# doc_id = 
 1	Ned	_	Word	Word	_	3	A	3:A	_
 2	Land	_	Word	Word	_	1	flat	1:flat	_
 3	zeigte	_	Word	Word	_	0	root	0:root	_
@@ -22,7 +21,7 @@
 18	Zeit	_	Word	Word	_	3	orphan	3:orphan	_
 19	,	_	Punctuation	Punctuation	_	18	punct	18:punct	_
 20	da	_	Word	Word	_	25	R	25:R	_
-21	er	_	Word	Word	_	25	A	25:A	_
+21	er	_	Word	Word	_	25	A	25:A|34:A	_
 22	auf	_	Word	Word	_	24	R	24:R	_
 23	dem	_	Word	Word	_	24	E	24:E	_
 24	Verdeck	_	Word	Word	_	3	orphan	3:orphan	_

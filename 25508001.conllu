@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25508001
 # text = » Hier sehen Sie , mein Herr « , sagte Kapitän Nemo , auf die an den Wänden seines Zimmers hängenden Instrumente hinweisend , » den für die Schif fahrt der ›Nautilus‹ erforderlichen Apparat . Ich habe sie hier , wie im Salon , stets unter den Augen , und sie zeigen mir genau , wo ich inmitten des Ozeans mich befinde und in welcher Richtung ich fahre . Einige sind Ihnen wohlbekannt wie Thermometer und Barometer , um die Temperatur und das Gewicht der Luft ; das Hygrometer , um die Trockenheit der Atmosphäre zu bestimmen ; das Wetter glas , um das Herannahen der Stürme an zu kündigen ; der Kompaß , um mir die Richtung der Fahrt ; der Sextant , um durch die Sonnen höhe den Breiten grad zu zeigen ; das Chronometer , um die Länge zu berechnen ; und endlich die Fernrohre für Tag und Nacht , die mir dienen , um den Horizont an allen Punkten zu durchforschen , wann die ›Nautilus‹ sich an der Oberfläche befindet . «
-# doc_id = 
 1	»	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 2	Hier	_	Word	Word	_	3	A	3:A	_
 3	sehen	_	Word	Word	_	0	root	0:root	_
@@ -37,7 +36,7 @@
 33	erforderlichen	_	Word	Word	_	3	orphan	3:orphan	_
 34	Apparat	_	Word	Word	_	3	orphan	3:orphan	_
 35	.	_	Punctuation	Punctuation	_	3	punct	3:punct	_
-36	Ich	_	Word	Word	_	37	A	37:A	_
+36	Ich	_	Word	Word	_	37	A	37:A|43:A	_
 37	habe	_	Word	Word	_	3	orphan	3:orphan	_
 38	sie	_	Word	Word	_	37	A	37:A	_
 39	hier	_	Word	Word	_	37	A	37:A	_

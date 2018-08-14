@@ -1,10 +1,9 @@
 # format = ucca
 # sent_id = 25787019
 # text = Ned und Conseil standen auf , um sich zurück zu ziehen .
-# doc_id = 
 1	Ned	_	Word	Word	_	0	root	0:root	_
 2	und	_	Word	Word	_	1	N	1:N	_
-3	Conseil	_	Word	Word	_	1	C	1:C	_
+3	Conseil	_	Word	Word	_	1	C	1:C|8:A	_
 4	standen	_	Word	Word	_	1	orphan	1:orphan	_
 5	auf	_	Word	Word	_	4	flat	4:flat	_
 6	,	_	Punctuation	Punctuation	_	4	punct	4:punct	_

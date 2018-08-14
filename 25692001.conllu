@@ -1,10 +1,9 @@
 # format = ucca
 # sent_id = 25692001
 # text = Ich bewunderte ihr seltsames Aussehen , mitten in einer Umgebung schwarzer Felsen weiße Häuser und Festungswerke in grellem Abstich , ich sah die runden Kuppeln ihrer Moscheen mit den schlanken Spitzen ihrer Minarette , ihren Terrassen in frischem Grün .
-# doc_id = 
 1	Ich	_	Word	Word	_	2	A	2:A	_
 2	bewunderte	_	Word	Word	_	0	root	0:root	_
-3	ihr	_	Word	Word	_	5	E	5:E	_
+3	ihr	_	Word	Word	_	5	E	5:E|10:A	_
 4	seltsames	_	Word	Word	_	5	E	5:E	_
 5	Aussehen	_	Word	Word	_	2	orphan	2:orphan	_
 6	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_

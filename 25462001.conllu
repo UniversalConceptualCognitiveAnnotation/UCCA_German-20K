@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25462001
 # text = Die ›Abraham Lincoln‹ änderte ihre Richtung , das signalisierte Tier anzugreifen , Walfisch oder Pottfisch , es verschwand jedoch bald von einem Hagel von Flüchen begleitet !
-# doc_id = 
 1	Die	_	Word	Word	_	2	E	2:E	_
 2	›Abraham	_	Word	Word	_	0	root	0:root	_
 3	Lincoln‹	_	Word	Word	_	2	flat	2:flat	_
@@ -18,7 +17,7 @@
 14	oder	_	Word	Word	_	13	N	13:N	_
 15	Pottfisch	_	Word	Word	_	13	C	13:C	_
 16	,	_	Punctuation	Punctuation	_	4	punct	4:punct	_
-17	es	_	Word	Word	_	18	A	18:A	_
+17	es	_	Word	Word	_	18	A	18:A|26:A	_
 18	verschwand	_	Word	Word	_	2	orphan	2:orphan	_
 19	jedoch	_	Word	Word	_	4	L	4:L	_
 20	bald	_	Word	Word	_	18	D	18:D	_

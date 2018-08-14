@@ -1,13 +1,12 @@
 # format = ucca
 # sent_id = 25711013
 # text = » In diesem Falle würde ich mich bemühen , in Besitz des Boots zu gelangen . Ich verstehe es zu führen . Wir würden uns ins Innere schleichen , die Zapfen wegnehmen und uns wieder auf die Oberfläche begeben , ohne dass selbst der vorne befindliche Steuermann unsere Flucht bemerkte . «
-# doc_id = 
 1	»	_	Punctuation	Punctuation	_	7	punct	7:punct	_
 2	In	_	Word	Word	_	4	R	4:R	_
 3	diesem	_	Word	Word	_	4	E	4:E	_
 4	Falle	_	Word	Word	_	0	root	0:root	_
 5	würde	_	Word	Word	_	7	D	7:D	_
-6	ich	_	Word	Word	_	7	A	7:A	_
+6	ich	_	Word	Word	_	7	A	7:A|11:A	_
 7	mich	_	Word	Word	_	4	orphan	4:orphan	_
 8	bemühen	_	Word	Word	_	7	flat	7:flat	_
 9	,	_	Punctuation	Punctuation	_	7	punct	7:punct	_
@@ -18,14 +17,14 @@
 14	zu	_	Word	Word	_	11	F	11:F	_
 15	gelangen	_	Word	Word	_	11	D	11:D	_
 16	.	_	Punctuation	Punctuation	_	7	punct	7:punct	_
-17	Ich	_	Word	Word	_	18	A	18:A	_
+17	Ich	_	Word	Word	_	18	A	18:A|21:A	_
 18	verstehe	_	Word	Word	_	4	orphan	4:orphan	_
 19	es	_	Word	Word	_	21	A	21:A	_
 20	zu	_	Word	Word	_	21	F	21:F	_
 21	führen	_	Word	Word	_	4	orphan	4:orphan	_
 22	.	_	Punctuation	Punctuation	_	7	punct	7:punct	_
-23	Wir	_	Word	Word	_	25	A	25:A	_
-24	würden	_	Word	Word	_	25	D	25:D	_
+23	Wir	_	Word	Word	_	25	A	25:A|32:A|39:A	_
+24	würden	_	Word	Word	_	25	D	25:D|39:D|32:D	_
 25	uns	_	Word	Word	_	4	orphan	4:orphan	_
 26	ins	_	Word	Word	_	27	R	27:R	_
 27	Innere	_	Word	Word	_	4	orphan	4:orphan	_

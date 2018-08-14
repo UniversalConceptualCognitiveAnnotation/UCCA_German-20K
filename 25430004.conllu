@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25430004
 # text = Nun aber , wie das meistens geschieht , gerade von dem Moment an , da man entschlossen war , das Ungeheuer zu verfolgen , war es nicht mehr sichtbar .
-# doc_id = 
 1	Nun	_	Word	Word	_	7	L	7:L	_
 2	aber	_	Word	Word	_	1	flat	1:flat	_
 3	,	_	Punctuation	Punctuation	_	7	punct	7:punct	_
@@ -17,7 +16,7 @@
 13	an	_	Word	Word	_	10	flat	10:flat	_
 14	,	_	Punctuation	Punctuation	_	12	punct	12:punct	_
 15	da	_	Word	Word	_	17	D	17:D	_
-16	man	_	Word	Word	_	17	A	17:A	_
+16	man	_	Word	Word	_	17	A	17:A|23:A	_
 17	entschlossen	_	Word	Word	_	7	orphan	7:orphan	_
 18	war	_	Word	Word	_	17	F	17:F	_
 19	,	_	Punctuation	Punctuation	_	17	punct	17:punct	_

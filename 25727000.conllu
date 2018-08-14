@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25727000
 # text = Diese Sendung sollte zu Cadiz landen ; aber da der Admiral hörte , dass in jener Gegend die englische Flotte kreuzte , beschloß er einen französischen Hafen aufzusuchen .
-# doc_id = 
 1	Diese	_	Word	Word	_	2	E	2:E	_
 2	Sendung	_	Word	Word	_	0	root	0:root	_
 3	sollte	_	Word	Word	_	6	D	6:D	_
@@ -25,7 +24,7 @@
 21	kreuzte	_	Word	Word	_	2	orphan	2:orphan	_
 22	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_
 23	beschloß	_	Word	Word	_	2	orphan	2:orphan	_
-24	er	_	Word	Word	_	23	A	23:A	_
+24	er	_	Word	Word	_	23	A	23:A|28:A	_
 25	einen	_	Word	Word	_	26	E	26:E	_
 26	französischen	_	Word	Word	_	2	orphan	2:orphan	_
 27	Hafen	_	Word	Word	_	26	E	26:E	_

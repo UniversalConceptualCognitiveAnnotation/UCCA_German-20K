@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25529024
 # text = Zwischen ihnen schwammen Rochen , und darunter bemerkte ich sehr erfreut den chinesischen Rochen , oben gelblich , unten am Bauch zart rosa und hinter dem Auge mit drei Stacheln .
-# doc_id = 
 1	Zwischen	_	Word	Word	_	2	R	2:R	_
 2	ihnen	_	Word	Word	_	0	root	0:root	_
 3	schwammen	_	Word	Word	_	2	orphan	2:orphan	_
@@ -10,7 +9,7 @@
 6	und	_	Word	Word	_	3	L	3:L	_
 7	darunter	_	Word	Word	_	8	A	8:A	_
 8	bemerkte	_	Word	Word	_	2	orphan	2:orphan	_
-9	ich	_	Word	Word	_	8	A	8:A	_
+9	ich	_	Word	Word	_	8	A	8:A|11:A	_
 10	sehr	_	Word	Word	_	11	D	11:D	_
 11	erfreut	_	Word	Word	_	2	orphan	2:orphan	_
 12	den	_	Word	Word	_	14	E	14:E	_

@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25821015
 # text = Um dem Andringen ungeheurer Wogen widerstehen zu können , hatte er sich mit halbem Körper angebunden ; ich folgte seinem Beispiel , um diesen Sturm zu bewundern und zugleich den unvergleichlichen Mann , der ihm Trotz bot .
-# doc_id = 
 1	Um	_	Word	Word	_	6	L	6:L	_
 2	dem	_	Word	Word	_	3	E	3:E	_
 3	Andringen	_	Word	Word	_	0	root	0:root	_
@@ -12,14 +11,14 @@
 8	können	_	Word	Word	_	6	D	6:D	_
 9	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_
 10	hatte	_	Word	Word	_	12	F	12:F	_
-11	er	_	Word	Word	_	12	A	12:A	_
+11	er	_	Word	Word	_	12	A	12:A|6:A	_
 12	sich	_	Word	Word	_	3	orphan	3:orphan	_
 13	mit	_	Word	Word	_	15	R	15:R	_
 14	halbem	_	Word	Word	_	15	E	15:E	_
 15	Körper	_	Word	Word	_	3	orphan	3:orphan	_
 16	angebunden	_	Word	Word	_	12	flat	12:flat	_
 17	;	_	Punctuation	Punctuation	_	6	punct	6:punct	_
-18	ich	_	Word	Word	_	19	A	19:A	_
+18	ich	_	Word	Word	_	19	A	19:A|27:A	_
 19	folgte	_	Word	Word	_	3	orphan	3:orphan	_
 20	seinem	_	Word	Word	_	21	E	21:E	_
 21	Beispiel	_	Word	Word	_	3	orphan	3:orphan	_

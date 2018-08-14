@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25700022
 # text = Gegen die Seiten des Boots gelehnt plauderten wir von diesem und jenem , als Ned Land mit der Hand auf einen Punkt wies und sagte :
-# doc_id = 
 1	Gegen	_	Word	Word	_	3	R	3:R	_
 2	die	_	Word	Word	_	3	E	3:E	_
 3	Seiten	_	Word	Word	_	0	root	0:root	_
@@ -9,14 +8,14 @@
 5	Boots	_	Word	Word	_	3	orphan	3:orphan	_
 6	gelehnt	_	Word	Word	_	3	orphan	3:orphan	_
 7	plauderten	_	Word	Word	_	3	orphan	3:orphan	_
-8	wir	_	Word	Word	_	7	A	7:A	_
+8	wir	_	Word	Word	_	7	A	7:A|6:A	_
 9	von	_	Word	Word	_	10	R	10:R	_
 10	diesem	_	Word	Word	_	3	orphan	3:orphan	_
 11	und	_	Word	Word	_	10	N	10:N	_
 12	jenem	_	Word	Word	_	10	C	10:C	_
 13	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_
 14	als	_	Word	Word	_	6	L	6:L	_
-15	Ned	_	Word	Word	_	23	A	23:A	_
+15	Ned	_	Word	Word	_	23	A	23:A|25:A	_
 16	Land	_	Word	Word	_	15	flat	15:flat	_
 17	mit	_	Word	Word	_	19	R	19:R	_
 18	der	_	Word	Word	_	19	E	19:E	_

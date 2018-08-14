@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25794017
 # text = Da diese schlimme Lage für uns alle unerträglich war , so legte man mit hastiger Freude das Skaphander kleid an , um zu arbeiten .
-# doc_id = 
 1	Da	_	Word	Word	_	8	L	8:L	_
 2	diese	_	Word	Word	_	4	E	4:E	_
 3	schlimme	_	Word	Word	_	4	E	4:E	_
@@ -14,7 +13,7 @@
 10	,	_	Punctuation	Punctuation	_	8	punct	8:punct	_
 11	so	_	Word	Word	_	8	L	8:L	_
 12	legte	_	Word	Word	_	4	orphan	4:orphan	_
-13	man	_	Word	Word	_	12	A	12:A	_
+13	man	_	Word	Word	_	12	A	12:A|24:A	_
 14	mit	_	Word	Word	_	16	R	16:R	_
 15	hastiger	_	Word	Word	_	16	E	16:E	_
 16	Freude	_	Word	Word	_	4	orphan	4:orphan	_

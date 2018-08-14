@@ -1,13 +1,12 @@
 # format = ucca
 # sent_id = 25615011
 # text = Am 2 . Januar hatten wir 11.340 Meilen seit unserer Abfahrt aus den Gewässern Japans zurückgelegt .
-# doc_id = 
 1	Am	_	Word	Word	_	2	E	2:E	_
 2	2	_	Word	Word	_	0	root	0:root	_
 3	.	_	Punctuation	Punctuation	_	2	punct	2:punct	_
 4	Januar	_	Word	Word	_	2	flat	2:flat	_
 5	hatten	_	Word	Word	_	16	F	16:F	_
-6	wir	_	Word	Word	_	16	A	16:A	_
+6	wir	_	Word	Word	_	16	A	16:A|11:A	_
 7	11.340	_	Word	Word	_	8	E	8:E	_
 8	Meilen	_	Word	Word	_	2	orphan	2:orphan	_
 9	seit	_	Word	Word	_	11	R	11:R	_

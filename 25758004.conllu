@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25758004
 # text = » Ich widerspreche nicht « , sagte ich . - » Doch muß man daran glauben ? « » Nicht allzuviel « , erwiderte Ned Land ; » ebensowenig , als wenn ich sagte , es gäbe 300 Fuß lange Walfische . «
-# doc_id = 
 1	»	_	Punctuation	Punctuation	_	7	punct	7:punct	_
 2	Ich	_	Word	Word	_	3	A	3:A	_
 3	widerspreche	_	Word	Word	_	0	root	0:root	_
@@ -14,8 +13,8 @@
 10	-	_	Punctuation	Punctuation	_	7	punct	7:punct	_
 11	»	_	Punctuation	Punctuation	_	7	punct	7:punct	_
 12	Doch	_	Word	Word	_	3	L	3:L	_
-13	muß	_	Word	Word	_	16	D	16:D	_
-14	man	_	Word	Word	_	16	A	16:A	_
+13	muß	_	Word	Word	_	16	D	16:D|29:D|20:D	_
+14	man	_	Word	Word	_	16	A	16:A|29:A|20:A	_
 15	daran	_	Word	Word	_	16	A	16:A	_
 16	glauben	_	Word	Word	_	3	orphan	3:orphan	_
 17	?	_	Punctuation	Punctuation	_	20	punct	20:punct	_

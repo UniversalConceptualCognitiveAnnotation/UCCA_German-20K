@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25820008
 # text = » Ned Land « , sagte er , » mag denken , planen , versuchen , was er will , was liegt mir daran ? Ich habe ihn nicht aufgesucht ! Ich halte ihn nicht zu meinem Vergnügen an Bord ! Sie , Herr Arronax , können alles begreifen , selbst das Schweigen . Ich habe Ihnen nichts weiter zu erwidern . Lassen Sie dieses erste Wort , das Sie über diesen Gegenstand führten , auch das letzte sein , denn ein andermal würde ich Sie nicht einmal anhören . «
-# doc_id = 
 1	»	_	Punctuation	Punctuation	_	11	punct	11:punct	_
 2	Ned	_	Word	Word	_	11	A	11:A	_
 3	Land	_	Word	Word	_	2	flat	2:flat	_
@@ -43,7 +42,7 @@
 39	an	_	Word	Word	_	40	R	40:R	_
 40	Bord	_	Word	Word	_	6	orphan	6:orphan	_
 41	!	_	Punctuation	Punctuation	_	11	punct	11:punct	_
-42	Sie	_	Word	Word	_	49	A	49:A	_
+42	Sie	_	Word	Word	_	49	A	49:A|53:A	_
 43	,	_	Punctuation	Punctuation	_	49	punct	49:punct	_
 44	Herr	_	Word	Word	_	45	E	45:E	_
 45	Arronax	_	Word	Word	_	6	orphan	6:orphan	_

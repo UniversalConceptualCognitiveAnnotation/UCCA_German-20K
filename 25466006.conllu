@@ -1,11 +1,10 @@
 # format = ucca
 # sent_id = 25466006
 # text = Nach diesem Termin musste Kommandant Farragut , seinem Versprechen gemäß , die Fahrt nach Südosten richten und entschieden die nördlichen Gegenden des Pazifiks verlassen .
-# doc_id = 
 1	Nach	_	Word	Word	_	3	R	3:R	_
 2	diesem	_	Word	Word	_	3	E	3:E	_
 3	Termin	_	Word	Word	_	0	root	0:root	_
-4	musste	_	Word	Word	_	16	D	16:D	_
+4	musste	_	Word	Word	_	16	D	16:D|24:D	_
 5	Kommandant	_	Word	Word	_	6	E	6:E	_
 6	Farragut	_	Word	Word	_	3	orphan	3:orphan	_
 7	,	_	Punctuation	Punctuation	_	16	punct	16:punct	_

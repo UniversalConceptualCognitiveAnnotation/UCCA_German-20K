@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25613010
 # text = » Der Kommandant La Pérouse fuhr am 7 . Dezember 1785 mit seinen Schiffen " Boussole " und " Astrolabe " ab . Er ankerte zuerst in der Botany Bay , besuchte den Freundschaftsarchipel , Neu-Caledonien , wendete sich dann gegen Santa Cruz und hielt zu Namouka an , einer Insel der Hapaï-Gruppe . Darauf gerieten seine Schiffe auf die ihm unbekannten Riffe von Vanikoro . Die " Boussole " , die voran fuhr , blieb bei der südlichen Küste stecken . Die " Astrolabe " kam ihr zum Beistand und scheiterte ebenfalls . Das erstere Schiff ging fast unverzüglich in Trümmer . Das zweite , das unterm Wind festsaß , widerstand einige Tage . Die Eingeborenen nahmen die Schiff brüchigen ziemlich gut auf . Diese richteten sich auf der Insel ein und erbauten ein anderes , kleineres Schiff aus den Trümmern der beiden großen . Einige Matrosen blieben freiwillig zu Vanikoro zurück ; die anderen , erschöpft und krank , fuhren mit La Pérouse . Sie wendeten sich zu den Salomons-Inseln und gingen samt und sonders auf der Ostküste der Hauptinsel dieser Gruppe , zwischen Kap Deception und Kap Satisfaction , zugrunde ! «
-# doc_id = 
 1	»	_	Punctuation	Punctuation	_	6	punct	6:punct	_
 2	Der	_	Word	Word	_	4	E	4:E	_
 3	Kommandant	_	Word	Word	_	4	E	4:E	_
@@ -25,7 +24,7 @@
 21	"	_	Punctuation	Punctuation	_	6	punct	6:punct	_
 22	ab	_	Word	Word	_	6	flat	6:flat	_
 23	.	_	Punctuation	Punctuation	_	6	punct	6:punct	_
-24	Er	_	Word	Word	_	25	A	25:A	_
+24	Er	_	Word	Word	_	25	A	25:A|45:A|32:A|38:A	_
 25	ankerte	_	Word	Word	_	4	orphan	4:orphan	_
 26	zuerst	_	Word	Word	_	25	D	25:D	_
 27	in	_	Word	Word	_	29	R	29:R	_
@@ -127,7 +126,7 @@
 123	gut	_	Word	Word	_	4	orphan	4:orphan	_
 124	auf	_	Word	Word	_	118	flat	118:flat	_
 125	.	_	Punctuation	Punctuation	_	6	punct	6:punct	_
-126	Diese	_	Word	Word	_	127	A	127:A	_
+126	Diese	_	Word	Word	_	127	A	127:A|134:A	_
 127	richteten	_	Word	Word	_	4	orphan	4:orphan	_
 128	sich	_	Word	Word	_	127	flat	127:flat	_
 129	auf	_	Word	Word	_	131	R	131:R	_
@@ -168,7 +167,7 @@
 164	La	_	Word	Word	_	4	orphan	4:orphan	_
 165	Pérouse	_	Word	Word	_	164	flat	164:flat	_
 166	.	_	Punctuation	Punctuation	_	6	punct	6:punct	_
-167	Sie	_	Word	Word	_	168	A	168:A	_
+167	Sie	_	Word	Word	_	168	A	168:A|174:A	_
 168	wendeten	_	Word	Word	_	4	orphan	4:orphan	_
 169	sich	_	Word	Word	_	168	flat	168:flat	_
 170	zu	_	Word	Word	_	172	R	172:R	_

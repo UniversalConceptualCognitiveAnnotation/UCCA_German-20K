@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25509006
 # text = « » Sie kennen die Bestandteile des Meer wassers . Von 1.000 Gramm sind 96 1 / 2 Prozent Wasser , etwa 2 2 / 3 Chlorsodium ; sodann in geringer Quantität Chlor-Magnesium und salzsaures Kali , Brom-Magnesium , schwefelsaures Magnesium , schwefelsaurer und kohlensaurer Kalk . Sie sehen also , dass Chlorsodium in ansehnlichem Verhältnis sich dabei befindet . Dieses Sodium nun ziehe ich aus dem Wasser und bereite daraus meine Elemente . «
-# doc_id = 
 1	«	_	Punctuation	Punctuation	_	4	punct	4:punct	_
 2	»	_	Punctuation	Punctuation	_	4	punct	4:punct	_
 3	Sie	_	Word	Word	_	4	A	4:A	_
@@ -66,7 +65,7 @@
 62	Sodium	_	Word	Word	_	4	orphan	4:orphan	_
 63	nun	_	Word	Word	_	64	T	64:T	_
 64	ziehe	_	Word	Word	_	4	orphan	4:orphan	_
-65	ich	_	Word	Word	_	64	A	64:A	_
+65	ich	_	Word	Word	_	64	A	64:A|70:A	_
 66	aus	_	Word	Word	_	68	R	68:R	_
 67	dem	_	Word	Word	_	68	E	68:E	_
 68	Wasser	_	Word	Word	_	4	orphan	4:orphan	_

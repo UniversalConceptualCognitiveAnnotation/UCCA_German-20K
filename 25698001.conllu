@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25698001
 # text = » Allerdings , aber für die ganze Welt « , sagte Kapitän Nemo . » Bereits die Alten hatten begriffen , wie nützlich es für ihren Großhandel sein würde , eine Verbindung zwischen dem Roten Meer und dem Mittelmeer her zu stellen ; aber sie dachten nicht daran , einen neuen Kanal zu graben , sondern bedienten sich der Vermittelung des Nils . Wahrscheinlich wurde , der Sage zufolge , der Kanal , der den Nil mit dem Roten Meer verband , unter Sesostris angefangen . Ausgemacht ist , dass 615 Jahre vor Christus Necho die Arbeiten eines Kanals begann , der von dem Wasser des Nils gespeist , durch die nach Arabien hin liegende Ebene führte . Man fuhr ihn aufwärts in 4 Tagen , er war so breit , dass zwei Triremen sich darin ausweichen konnten . Er wurde von Darius fortgeführt und wahrscheinlich von Ptolemäus II . vollendet . Zu Strabos Zeit wurde er von Schiffen befahren ; aber der geringe Fall seines Wassers von seinem Anfang , zu Bubastis , bis zum Roten Meer veranlaßte , dass man ihn nur einige Monate im Jahr benutzen konnte . Bis zur Zeit der Antonine diente er dem Handels zweck ; hernach versandet und verödet , wurde er vom Kalifen Omar wiederhergestellt , aber im Jahr 761 oder 762 vom Kalifen Almansor verschüttet , um seinem aufständischen Gegner die Lebens mittel abzuschneiden . Bonaparte fand in der Wüste von Suez seine Spuren , und von der Flut überrascht , wäre er , einige Stunden ehe er nach Hadzaroth kam , beinah umgekommen , an derselben Stelle , wo Moses 3.300 Jahre zuvor sein Lager gehabt hatte . «
-# doc_id = 
 1	»	_	Punctuation	Punctuation	_	2	punct	2:punct	_
 2	Allerdings	_	Word	Word	_	0	root	0:root	_
 3	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
@@ -46,7 +45,7 @@
 42	stellen	_	Word	Word	_	40	flat	40:flat	_
 43	;	_	Punctuation	Punctuation	_	2	punct	2:punct	_
 44	aber	_	Word	Word	_	2	L	2:L	_
-45	sie	_	Word	Word	_	46	A	46:A	_
+45	sie	_	Word	Word	_	46	A	46:A|57:A|54:A	_
 46	dachten	_	Word	Word	_	2	orphan	2:orphan	_
 47	nicht	_	Word	Word	_	46	D	46:D	_
 48	daran	_	Word	Word	_	54	R	54:R	_
@@ -141,7 +140,7 @@
 137	ausweichen	_	Word	Word	_	135	flat	135:flat	_
 138	konnten	_	Word	Word	_	135	D	135:D	_
 139	.	_	Punctuation	Punctuation	_	2	punct	2:punct	_
-140	Er	_	Word	Word	_	144	A	144:A	_
+140	Er	_	Word	Word	_	144	A	144:A|151:A	_
 141	wurde	_	Word	Word	_	144	F	144:F	_
 142	von	_	Word	Word	_	143	R	143:R	_
 143	Darius	_	Word	Word	_	2	orphan	2:orphan	_
@@ -199,7 +198,7 @@
 195	der	_	Word	Word	_	196	R	196:R	_
 196	Antonine	_	Word	Word	_	2	orphan	2:orphan	_
 197	diente	_	Word	Word	_	2	orphan	2:orphan	_
-198	er	_	Word	Word	_	197	A	197:A	_
+198	er	_	Word	Word	_	197	A	197:A|204:A|206:A	_
 199	dem	_	Word	Word	_	201	R	201:R	_
 200	Handels	_	Word	Word	_	201	E	201:E	_
 201	zweck	_	Word	Word	_	2	orphan	2:orphan	_
@@ -210,7 +209,7 @@
 206	verödet	_	Word	Word	_	2	orphan	2:orphan	_
 207	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
 208	wurde	_	Word	Word	_	213	F	213:F	_
-209	er	_	Word	Word	_	213	A	213:A	_
+209	er	_	Word	Word	_	213	A	213:A|224:A	_
 210	vom	_	Word	Word	_	212	R	212:R	_
 211	Kalifen	_	Word	Word	_	212	E	212:E	_
 212	Omar	_	Word	Word	_	2	orphan	2:orphan	_
@@ -236,7 +235,7 @@
 232	mittel	_	Word	Word	_	2	orphan	2:orphan	_
 233	abzuschneiden	_	Word	Word	_	2	orphan	2:orphan	_
 234	.	_	Punctuation	Punctuation	_	2	punct	2:punct	_
-235	Bonaparte	_	Word	Word	_	236	A	236:A	_
+235	Bonaparte	_	Word	Word	_	236	A	236:A|249:A	_
 236	fand	_	Word	Word	_	2	orphan	2:orphan	_
 237	in	_	Word	Word	_	239	R	239:R	_
 238	der	_	Word	Word	_	239	E	239:E	_
@@ -253,7 +252,7 @@
 249	überrascht	_	Word	Word	_	2	orphan	2:orphan	_
 250	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
 251	wäre	_	Word	Word	_	2	orphan	2:orphan	_
-252	er	_	Word	Word	_	251	A	251:A	_
+252	er	_	Word	Word	_	251	A	251:A|263:A	_
 253	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
 254	einige	_	Word	Word	_	255	E	255:E	_
 255	Stunden	_	Word	Word	_	2	orphan	2:orphan	_

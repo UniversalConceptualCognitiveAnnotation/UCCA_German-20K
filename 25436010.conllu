@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25436010
 # text = Ein ergebener Bursche , der mich auf allen meinen Reisen begleitete ; ein braver Flame , den ich liebhatte und der mir 's vergalt ; phlegmatisch von Natur , regelmäßig aus Grundsatz , dienstbeflissen aus Gewohnheit , ließ er sich durch die überraschenden Fälle im Leben wenig irremachen ; mit gewandten Händen zu jedem Dienst geeignet , war er niemals mit seinem Rat zudringlich .
-# doc_id = 
 1	Ein	_	Word	Word	_	3	E	3:E	_
 2	ergebener	_	Word	Word	_	3	E	3:E	_
 3	Bursche	_	Word	Word	_	0	root	0:root	_
@@ -60,7 +59,7 @@
 56	geeignet	_	Word	Word	_	3	orphan	3:orphan	_
 57	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 58	war	_	Word	Word	_	64	F	64:F	_
-59	er	_	Word	Word	_	64	A	64:A	_
+59	er	_	Word	Word	_	64	A	64:A|56:A	_
 60	niemals	_	Word	Word	_	64	D	64:D	_
 61	mit	_	Word	Word	_	63	R	63:R	_
 62	seinem	_	Word	Word	_	63	E	63:E	_

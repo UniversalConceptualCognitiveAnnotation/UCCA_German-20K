@@ -1,13 +1,12 @@
 # format = ucca
 # sent_id = 25692004
 # text = Am 5 . Februar liefen wir endlich in den Golf von Aden ein , der einem Trichter gleicht im Hals von Bab el Mandeb , um die indischen Gewässer in s Rote Meer zu gießen .
-# doc_id = 
 1	Am	_	Word	Word	_	2	R	2:R	_
 2	5	_	Word	Word	_	0	root	0:root	_
 3	.	_	Punctuation	Punctuation	_	2	punct	2:punct	_
 4	Februar	_	Word	Word	_	2	flat	2:flat	_
 5	liefen	_	Word	Word	_	2	orphan	2:orphan	_
-6	wir	_	Word	Word	_	5	A	5:A	_
+6	wir	_	Word	Word	_	5	A	5:A|35:A	_
 7	endlich	_	Word	Word	_	5	D	5:D	_
 8	in	_	Word	Word	_	12	R	12:R	_
 9	den	_	Word	Word	_	10	E	10:E	_

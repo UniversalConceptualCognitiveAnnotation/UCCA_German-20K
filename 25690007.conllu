@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25690007
 # text = » Dieser Inder , Herr Professor , ist Bewohner eines Landes von Unterdrückten , und ich bin noch , und werde es bis zu meinem letzten Atemzug sein , diesem Land angehörig .
-# doc_id = 
 1	»	_	Punctuation	Punctuation	_	8	punct	8:punct	_
 2	Dieser	_	Word	Word	_	3	E	3:E	_
 3	Inder	_	Word	Word	_	0	root	0:root	_
@@ -17,7 +16,7 @@
 13	Unterdrückten	_	Word	Word	_	3	orphan	3:orphan	_
 14	,	_	Punctuation	Punctuation	_	8	punct	8:punct	_
 15	und	_	Word	Word	_	8	L	8:L	_
-16	ich	_	Word	Word	_	32	A	32:A	_
+16	ich	_	Word	Word	_	32	A	32:A|28:A	_
 17	bin	_	Word	Word	_	32	F	32:F	_
 18	noch	_	Word	Word	_	32	D	32:D	_
 19	,	_	Punctuation	Punctuation	_	8	punct	8:punct	_

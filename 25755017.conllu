@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25755017
 # text = » Erlaube mir , mein Herr « , sagte darauf Conseil , » etwas zu bemerken . Diesem armen Ned stehen seine Gedanken auf alles , was er nicht haben kann . Es kommt ihm alles aus seiner Vergangenheit . Alles , was uns untersagt ist , darnach sehnt er sich . Seine früheren Erinnerungen überwältigten ihn , und sein Gemüt ist davon voll . Man muß ihn begreifen . Was hat er hier zu tun ? Nichts . Er ist nicht ein Gelehrter wie mein Herr und weiß den Wundern des Meeres keinen Geschmack abzugewinnen . Er würde alles daran setzen , um einmal eine Schenke seines Landes besuchen zu können ! «
-# doc_id = 
 1	»	_	Punctuation	Punctuation	_	16	punct	16:punct	_
 2	Erlaube	_	Word	Word	_	16	D	16:D	_
 3	mir	_	Word	Word	_	16	A	16:A	_
@@ -73,15 +72,15 @@
 69	begreifen	_	Word	Word	_	6	orphan	6:orphan	_
 70	.	_	Punctuation	Punctuation	_	16	punct	16:punct	_
 71	Was	_	Word	Word	_	76	A	76:A	_
-72	hat	_	Word	Word	_	76	F	76:F	_
-73	er	_	Word	Word	_	76	A	76:A	_
+72	hat	_	Word	Word	_	76	F	76:F|78:A	_
+73	er	_	Word	Word	_	76	A	76:A|78:A	_
 74	hier	_	Word	Word	_	76	A	76:A	_
 75	zu	_	Word	Word	_	76	F	76:F	_
 76	tun	_	Word	Word	_	6	orphan	6:orphan	_
 77	?	_	Punctuation	Punctuation	_	78	punct	78:punct	_
 78	Nichts	_	Word	Word	_	6	orphan	6:orphan	_
 79	.	_	Punctuation	Punctuation	_	16	punct	16:punct	_
-80	Er	_	Word	Word	_	81	A	81:A	_
+80	Er	_	Word	Word	_	81	A	81:A|96:A	_
 81	ist	_	Word	Word	_	6	orphan	6:orphan	_
 82	nicht	_	Word	Word	_	81	D	81:D	_
 83	ein	_	Word	Word	_	84	E	84:E	_
@@ -99,7 +98,7 @@
 95	Geschmack	_	Word	Word	_	96	A	96:A	_
 96	abzugewinnen	_	Word	Word	_	6	orphan	6:orphan	_
 97	.	_	Punctuation	Punctuation	_	16	punct	16:punct	_
-98	Er	_	Word	Word	_	102	A	102:A	_
+98	Er	_	Word	Word	_	102	A	102:A|110:A	_
 99	würde	_	Word	Word	_	102	D	102:D	_
 100	alles	_	Word	Word	_	102	A	102:A	_
 101	daran	_	Word	Word	_	102	F	102:F	_

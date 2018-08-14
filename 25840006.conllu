@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25840006
 # text = Bei jeder Bewegung kam es mir vor , er werde zu mir treten und mich fragen , weshalb ich fliehen wollte !
-# doc_id = 
 1	Bei	_	Word	Word	_	3	R	3:R	_
 2	jeder	_	Word	Word	_	3	E	3:E	_
 3	Bewegung	_	Word	Word	_	0	root	0:root	_
@@ -10,7 +9,7 @@
 6	mir	_	Word	Word	_	4	flat	4:flat	_
 7	vor	_	Word	Word	_	4	flat	4:flat	_
 8	,	_	Punctuation	Punctuation	_	4	punct	4:punct	_
-9	er	_	Word	Word	_	13	A	13:A	_
+9	er	_	Word	Word	_	13	A	13:A|16:A	_
 10	werde	_	Word	Word	_	13	F	13:F	_
 11	zu	_	Word	Word	_	12	R	12:R	_
 12	mir	_	Word	Word	_	3	orphan	3:orphan	_

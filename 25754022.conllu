@@ -1,10 +1,9 @@
 # format = ucca
 # sent_id = 25754022
 # text = » Wieviel Mann glauben Sie , dass sich an Bord der ›Nautilus‹ befinden ? «
-# doc_id = 
 1	»	_	Punctuation	Punctuation	_	2	punct	2:punct	_
 2	Wieviel	_	Word	Word	_	0	root	0:root	_
-3	Mann	_	Word	Word	_	2	A	2:A	_
+3	Mann	_	Word	Word	_	2	A	2:A|8:A	_
 4	glauben	_	Word	Word	_	2	orphan	2:orphan	_
 5	Sie	_	Word	Word	_	4	A	4:A	_
 6	,	_	Punctuation	Punctuation	_	4	punct	4:punct	_

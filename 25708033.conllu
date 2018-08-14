@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25708033
 # text = Jedenfalls , dachte ich , sei es besser zu plaudern , weil er ' s wünschte , und wir drei setzten uns neben den Fanal , wo wir weniger den feuchten Meeres dünsten ausgesetzt waren .
-# doc_id = 
 1	Jedenfalls	_	Word	Word	_	8	G	8:G	_
 2	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 3	dachte	_	Word	Word	_	0	root	0:root	_
@@ -29,7 +28,7 @@
 25	Fanal	_	Word	Word	_	3	orphan	3:orphan	_
 26	,	_	Punctuation	Punctuation	_	8	punct	8:punct	_
 27	wo	_	Word	Word	_	8	L	8:L	_
-28	wir	_	Word	Word	_	34	A	34:A	_
+28	wir	_	Word	Word	_	34	A	34:A|10:A	_
 29	weniger	_	Word	Word	_	34	D	34:D	_
 30	den	_	Word	Word	_	33	E	33:E	_
 31	feuchten	_	Word	Word	_	33	E	33:E	_

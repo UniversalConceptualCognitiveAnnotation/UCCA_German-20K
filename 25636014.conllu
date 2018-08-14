@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25636014
 # text = Da ich hier niemand fand , wurde ich so kühn , am Zimmer des Kapitäns zu klopfen .
-# doc_id = 
 1	Da	_	Word	Word	_	5	L	5:L	_
 2	ich	_	Word	Word	_	5	A	5:A	_
 3	hier	_	Word	Word	_	5	A	5:A	_
@@ -9,7 +8,7 @@
 5	fand	_	Word	Word	_	0	root	0:root	_
 6	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_
 7	wurde	_	Word	Word	_	10	F	10:F	_
-8	ich	_	Word	Word	_	10	A	10:A	_
+8	ich	_	Word	Word	_	10	A	10:A|17:A	_
 9	so	_	Word	Word	_	10	D	10:D	_
 10	kühn	_	Word	Word	_	5	orphan	5:orphan	_
 11	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_

@@ -1,14 +1,13 @@
 # format = ucca
 # sent_id = 25431005
 # text = Einen halben Tag Zögerung hätte man ihm nicht verziehen !
-# doc_id = 
 1	Einen	_	Word	Word	_	3	E	3:E	_
 2	halben	_	Word	Word	_	3	E	3:E	_
 3	Tag	_	Word	Word	_	0	root	0:root	_
 4	Zögerung	_	Word	Word	_	3	orphan	3:orphan	_
 5	hätte	_	Word	Word	_	9	F	9:F	_
 6	man	_	Word	Word	_	9	A	9:A	_
-7	ihm	_	Word	Word	_	9	A	9:A	_
+7	ihm	_	Word	Word	_	9	A	9:A|4:A	_
 8	nicht	_	Word	Word	_	9	D	9:D	_
 9	verziehen	_	Word	Word	_	3	orphan	3:orphan	_
 10	!	_	Punctuation	Punctuation	_	9	punct	9:punct	_

@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25674014
 # text = » Wir wollen ' s überlegen « , sagte ich bei mir , » und übereilen wir uns nicht . Fischotter in unterseeischen Wäldern zu jagen , wie wir ' s auf der Insel Crespo getan , geht noch an . Aber sich auf den Meeres grund zu begeben , wenn man fast sicher ist , dort auf Haifische zu stoßen , ist doch etwas anderes ! Ich weiß wohl , dass in manchen Ländern , besonders auf den Andamanen , die Neger bei der Hand sind , einen Dolch in einer Hand , eine Schlinge in der anderen , einen Haifisch anzugreifen , aber ich weiß auch , dass viele , die keck genug sind , mit diesen furchtbaren Ungeheuern anzubinden , nicht mit dem Leben davonkommen ! Übrigens bin ich auch kein Neger , und wenn ich einer wäre , so würde , glaube ich , in diesem Falle eine leichte Bedenklichkeit meinerseits wohl an der Stelle sein . «
-# doc_id = 
 1	»	_	Punctuation	Punctuation	_	6	punct	6:punct	_
 2	Wir	_	Word	Word	_	6	A	6:A	_
 3	wollen	_	Word	Word	_	6	D	6:D	_
@@ -148,7 +147,7 @@
 144	würde	_	Word	Word	_	160	D	160:D	_
 145	,	_	Punctuation	Punctuation	_	146	punct	146:punct	_
 146	glaube	_	Word	Word	_	6	orphan	6:orphan	_
-147	ich	_	Word	Word	_	146	A	146:A	_
+147	ich	_	Word	Word	_	146	A	146:A|160:A	_
 148	,	_	Punctuation	Punctuation	_	146	punct	146:punct	_
 149	in	_	Word	Word	_	151	R	151:R	_
 150	diesem	_	Word	Word	_	151	E	151:E	_

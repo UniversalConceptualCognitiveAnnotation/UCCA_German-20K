@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25489061
 # text = Ich erwiderte in gutem Französisch , dass ich seine Frage nicht verstehe ; aber er schien mich auch nicht zu verstehen , und wir gerieten in einige Verlegenheit .
-# doc_id = 
 1	Ich	_	Word	Word	_	2	A	2:A	_
 2	erwiderte	_	Word	Word	_	0	root	0:root	_
 3	in	_	Word	Word	_	5	R	5:R	_
@@ -16,7 +15,7 @@
 12	verstehe	_	Word	Word	_	2	orphan	2:orphan	_
 13	;	_	Punctuation	Punctuation	_	2	punct	2:punct	_
 14	aber	_	Word	Word	_	2	L	2:L	_
-15	er	_	Word	Word	_	16	A	16:A	_
+15	er	_	Word	Word	_	16	A	16:A|21:A	_
 16	schien	_	Word	Word	_	2	orphan	2:orphan	_
 17	mich	_	Word	Word	_	21	A	21:A	_
 18	auch	_	Word	Word	_	21	D	21:D	_

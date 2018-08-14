@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25672017
 # text = » Herr Professor « , sagte darauf Kapitän Nemo , » man fischt Perlen im Golf von Bengalen , im Indischen Meer , dem Chinesischen und Japanischen , in den Meeren Süd amerikas , in den Golfen von Panama und Kalifornien ; aber zu Ceylon mit dem schönsten Erfolg . Wir kommen dafür zwar etwas zu früh . Die Fischer versammeln sich erst im März im Golf von Manaar , und dann widmen sich ihre 300 Boote 300 Tage lang ganz dem gemeinsamen Geschäft , diese Kostbarkeiten des Meeres zu holen . Jedes Boot ist mit zehn Ruderern und zehn Fischern besetzt . Die letzteren sind in zwei Rotten geteilt , die im Untertauchen miteinander abwechseln , und begeben sich in eine Tiefe von 12 Metern mit Hilfe eines schweren Steins , den sie zwischen ihre Füße nehmen und der mit einem Tau an dem Fahrzeug befestigt ist . «
-# doc_id = 
 1	»	_	Punctuation	Punctuation	_	13	punct	13:punct	_
 2	Herr	_	Word	Word	_	3	E	3:E	_
 3	Professor	_	Word	Word	_	0	root	0:root	_
@@ -13,7 +12,7 @@
 9	Nemo	_	Word	Word	_	3	orphan	3:orphan	_
 10	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_
 11	»	_	Punctuation	Punctuation	_	6	punct	6:punct	_
-12	man	_	Word	Word	_	13	A	13:A	_
+12	man	_	Word	Word	_	13	A	13:A|45:A	_
 13	fischt	_	Word	Word	_	3	orphan	3:orphan	_
 14	Perlen	_	Word	Word	_	13	A	13:A	_
 15	im	_	Word	Word	_	18	R	18:R	_

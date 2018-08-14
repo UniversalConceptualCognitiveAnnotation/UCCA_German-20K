@@ -1,10 +1,9 @@
 # format = ucca
 # sent_id = 25842025
 # text = » Wir müssen wacker festhalten « , sagte Ned , » und die Schrauben wieder befestigen ! Bleiben wir an der ›Nautilus‹ fest , so können wir uns noch retten ! ... «
-# doc_id = 
 1	»	_	Punctuation	Punctuation	_	5	punct	5:punct	_
-2	Wir	_	Word	Word	_	5	A	5:A	_
-3	müssen	_	Word	Word	_	5	D	5:D	_
+2	Wir	_	Word	Word	_	5	A	5:A|16:A	_
+3	müssen	_	Word	Word	_	5	D	5:D|16:D	_
 4	wacker	_	Word	Word	_	5	D	5:D	_
 5	festhalten	_	Word	Word	_	0	root	0:root	_
 6	«	_	Punctuation	Punctuation	_	8	punct	8:punct	_

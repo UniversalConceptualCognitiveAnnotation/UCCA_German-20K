@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25642009
 # text = Ich fragte mich oft , zu welchem Zweck er diese Beobachtungen anstellte . Zum Besten des Menschen geschlechts ?
-# doc_id = 
 1	Ich	_	Word	Word	_	2	A	2:A	_
 2	fragte	_	Word	Word	_	0	root	0:root	_
 3	mich	_	Word	Word	_	2	flat	2:flat	_
@@ -10,7 +9,7 @@
 6	zu	_	Word	Word	_	8	R	8:R	_
 7	welchem	_	Word	Word	_	8	E	8:E	_
 8	Zweck	_	Word	Word	_	2	orphan	2:orphan	_
-9	er	_	Word	Word	_	12	A	12:A	_
+9	er	_	Word	Word	_	12	A	12:A|15:A	_
 10	diese	_	Word	Word	_	11	E	11:E	_
 11	Beobachtungen	_	Word	Word	_	2	orphan	2:orphan	_
 12	anstellte	_	Word	Word	_	2	orphan	2:orphan	_

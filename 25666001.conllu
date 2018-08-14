@@ -1,9 +1,8 @@
 # format = ucca
 # sent_id = 25666001
 # text = Ich muß mich ihnen anschließen , vielleicht sie anführen .
-# doc_id = 
-1	Ich	_	Word	Word	_	3	A	3:A	_
-2	muß	_	Word	Word	_	3	D	3:D	_
+1	Ich	_	Word	Word	_	3	A	3:A|9:A	_
+2	muß	_	Word	Word	_	3	D	3:D|9:D	_
 3	mich	_	Word	Word	_	0	root	0:root	_
 4	ihnen	_	Word	Word	_	3	A	3:A	_
 5	anschließen	_	Word	Word	_	3	flat	3:flat	_

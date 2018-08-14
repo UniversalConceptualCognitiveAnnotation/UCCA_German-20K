@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25510005
 # text = « » Herr Arronax , Sie sollen sehen , wie ich 's anfange . Ich bitte nur um ein wenig Geduld , denn Sie haben ja Zeit , es geduldig abzuwarten . Behalten Sie nur im Sinn : Dem Meer verdank' ich alles : es verschafft die Elektrizität , und diese gewährt der ›Nautilus‹ Wärme , Licht , Bewegung , kurz ihr Leben . «
-# doc_id = 
 1	«	_	Punctuation	Punctuation	_	8	punct	8:punct	_
 2	»	_	Punctuation	Punctuation	_	8	punct	8:punct	_
 3	Herr	_	Word	Word	_	4	E	4:E	_
@@ -25,7 +24,7 @@
 21	Geduld	_	Word	Word	_	4	orphan	4:orphan	_
 22	,	_	Punctuation	Punctuation	_	8	punct	8:punct	_
 23	denn	_	Word	Word	_	8	L	8:L	_
-24	Sie	_	Word	Word	_	25	A	25:A	_
+24	Sie	_	Word	Word	_	25	A	25:A|31:A	_
 25	haben	_	Word	Word	_	4	orphan	4:orphan	_
 26	ja	_	Word	Word	_	25	F	25:F	_
 27	Zeit	_	Word	Word	_	25	A	25:A	_

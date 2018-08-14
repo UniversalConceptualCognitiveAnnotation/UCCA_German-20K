@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25771015
 # text = » Ich weiß es nicht « , erwiderte er mir , » zu Mittag werden wir die Aufnahme machen . «
-# doc_id = 
 1	»	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 2	Ich	_	Word	Word	_	3	A	3:A	_
 3	weiß	_	Word	Word	_	0	root	0:root	_
@@ -17,7 +16,7 @@
 13	zu	_	Word	Word	_	14	R	14:R	_
 14	Mittag	_	Word	Word	_	3	orphan	3:orphan	_
 15	werden	_	Word	Word	_	19	F	19:F	_
-16	wir	_	Word	Word	_	19	A	19:A	_
+16	wir	_	Word	Word	_	19	A	19:A|18:A	_
 17	die	_	Word	Word	_	18	E	18:E	_
 18	Aufnahme	_	Word	Word	_	3	orphan	3:orphan	_
 19	machen	_	Word	Word	_	3	orphan	3:orphan	_

@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25805011
 # text = Das Entrinnen wäre leicht gewesen , wenn es Ned Land gelungen wäre , sich heimlich des Boots zu bemächtigen .
-# doc_id = 
 1	Das	_	Word	Word	_	2	E	2:E	_
 2	Entrinnen	_	Word	Word	_	0	root	0:root	_
 3	wäre	_	Word	Word	_	4	D	4:D	_
@@ -10,7 +9,7 @@
 6	,	_	Punctuation	Punctuation	_	4	punct	4:punct	_
 7	wenn	_	Word	Word	_	4	L	4:L	_
 8	es	_	Word	Word	_	11	F	11:F	_
-9	Ned	_	Word	Word	_	11	A	11:A	_
+9	Ned	_	Word	Word	_	11	A	11:A|14:A	_
 10	Land	_	Word	Word	_	9	flat	9:flat	_
 11	gelungen	_	Word	Word	_	2	orphan	2:orphan	_
 12	wäre	_	Word	Word	_	11	D	11:D	_

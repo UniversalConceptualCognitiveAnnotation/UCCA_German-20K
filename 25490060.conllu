@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25490060
 # text = Und wann diese Piraten - so nenne ich sie aus Achtung , und um nicht dem Herrn Professor zu widersprechen , der sie Kannibalen zu nennen verbietet - , wenn diese Piraten meinen , sie wollen mich in diesem Käfig , worin ich ersticke , aufbewahren , ohne die Flüche meines Zorns zu hören , so irren sie sich !
-# doc_id = 
 1	Und	_	Word	Word	_	4	L	4:L	_
 2	wann	_	Word	Word	_	4	L	4:L	_
 3	diese	_	Word	Word	_	4	E	4:E	_
@@ -36,7 +35,7 @@
 32	Piraten	_	Word	Word	_	4	orphan	4:orphan	_
 33	meinen	_	Word	Word	_	4	orphan	4:orphan	_
 34	,	_	Punctuation	Punctuation	_	33	punct	33:punct	_
-35	sie	_	Word	Word	_	46	A	46:A	_
+35	sie	_	Word	Word	_	46	A	46:A|54:A	_
 36	wollen	_	Word	Word	_	46	D	46:D	_
 37	mich	_	Word	Word	_	46	A	46:A	_
 38	in	_	Word	Word	_	40	R	40:R	_

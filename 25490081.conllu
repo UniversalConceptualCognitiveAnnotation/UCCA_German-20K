@@ -1,14 +1,13 @@
 # format = ucca
 # sent_id = 25490081
 # text = « » Wie , Ned ? Sie dächten ernstlich daran , sich dieses Fahrzeugs zu bemächtigen ?
-# doc_id = 
 1	«	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 2	»	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 3	Wie	_	Word	Word	_	0	root	0:root	_
 4	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 5	Ned	_	Word	Word	_	3	G	3:G	_
 6	?	_	Punctuation	Punctuation	_	3	punct	3:punct	_
-7	Sie	_	Word	Word	_	8	A	8:A	_
+7	Sie	_	Word	Word	_	8	A	8:A|16:A	_
 8	dächten	_	Word	Word	_	3	orphan	3:orphan	_
 9	ernstlich	_	Word	Word	_	8	D	8:D	_
 10	daran	_	Word	Word	_	8	A	8:A	_

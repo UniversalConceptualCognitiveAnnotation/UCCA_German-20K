@@ -1,11 +1,10 @@
 # format = ucca
 # sent_id = 25781016
 # text = Die Robben und Walrosse , die in so strengem Klima zu leben gewohnt sind , blieben in den Eis gegenden .
-# doc_id = 
 1	Die	_	Word	Word	_	2	E	2:E	_
 2	Robben	_	Word	Word	_	0	root	0:root	_
 3	und	_	Word	Word	_	2	N	2:N	_
-4	Walrosse	_	Word	Word	_	2	C	2:C	_
+4	Walrosse	_	Word	Word	_	2	C	2:C|12:A	_
 5	,	_	Punctuation	Punctuation	_	12	punct	12:punct	_
 6	die	_	Word	Word	_	12	R	12:R	_
 7	in	_	Word	Word	_	10	R	10:R	_

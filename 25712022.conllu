@@ -1,11 +1,10 @@
 # format = ucca
 # sent_id = 25712022
 # text = Unter anderen sah ich den schon von Aristoteles angeführten Trichterfisch , den man gewöhnlich Meergrundel nennt ; sodann Sackflossen , die etwas phosphoreszieren , eine Art Meerbrassen , die zu den heiligen Tieren der Ägypter gehörten , indem sie durch ihr Erscheinen im Fluß dessen befruchtende Überschwemmung ankündigten .
-# doc_id = 
 1	Unter	_	Word	Word	_	2	R	2:R	_
 2	anderen	_	Word	Word	_	0	root	0:root	_
 3	sah	_	Word	Word	_	2	orphan	2:orphan	_
-4	ich	_	Word	Word	_	3	A	3:A	_
+4	ich	_	Word	Word	_	3	A	3:A|19:A|27:A	_
 5	den	_	Word	Word	_	10	E	10:E	_
 6	schon	_	Word	Word	_	9	D	9:D	_
 7	von	_	Word	Word	_	8	R	8:R	_
@@ -40,7 +39,7 @@
 36	gehörten	_	Word	Word	_	2	orphan	2:orphan	_
 37	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 38	indem	_	Word	Word	_	3	L	3:L	_
-39	sie	_	Word	Word	_	48	A	48:A	_
+39	sie	_	Word	Word	_	48	A	48:A|42:A	_
 40	durch	_	Word	Word	_	42	R	42:R	_
 41	ihr	_	Word	Word	_	42	E	42:E	_
 42	Erscheinen	_	Word	Word	_	2	orphan	2:orphan	_

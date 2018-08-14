@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25783018
 # text = » Ein ungeheurer Eis block , ein ganzer Berg , hat sich umgewendet « , erwiderte er . » Wenn die Eisberge durch wärmeres Wasser oder wiederholte Stöße an ihrer Basis untergraben sind , verändert sich ihr Schwerpunkt . Dann wendet sich die ganze Masse , sie stürzen um . Dieser Fall ist eingetreten . Ein solcher Eisblock ist beim Umstürzen gegen die unter Wasser schwimmende ›Nautilus‹ gefallen . Dann glitt er darunter , hob sie mit unwiderstehlicher Gewalt in die Höhe und brachte sie in weniger dichte Schichten , wo sie jetzt auf der Seite festliegt . «
-# doc_id = 
 1	»	_	Punctuation	Punctuation	_	12	punct	12:punct	_
 2	Ein	_	Word	Word	_	5	E	5:E	_
 3	ungeheurer	_	Word	Word	_	5	E	5:E	_
@@ -73,7 +72,7 @@
 69	.	_	Punctuation	Punctuation	_	12	punct	12:punct	_
 70	Dann	_	Word	Word	_	12	L	12:L	_
 71	glitt	_	Word	Word	_	5	orphan	5:orphan	_
-72	er	_	Word	Word	_	71	A	71:A	_
+72	er	_	Word	Word	_	71	A	71:A|84:A|75:A	_
 73	darunter	_	Word	Word	_	71	A	71:A	_
 74	,	_	Punctuation	Punctuation	_	12	punct	12:punct	_
 75	hob	_	Word	Word	_	5	orphan	5:orphan	_

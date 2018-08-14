@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25734020
 # text = Man bekam da malerische Ruinen zu Gesicht , welche die Hand des Menschen erkennen ließen : ungeheure Haufen von Steintrümmern , woran man unklare Formen von Schlössern und Tempeln unterscheiden konnte , die mit einer Welt von Zoophyten in Blüte und mit einer dicken Hülle von Tang und Algen gleich Efeu überdeckt waren .
-# doc_id = 
 1	Man	_	Word	Word	_	2	A	2:A	_
 2	bekam	_	Word	Word	_	0	root	0:root	_
 3	da	_	Word	Word	_	2	A	2:A	_
@@ -30,7 +29,7 @@
 26	von	_	Word	Word	_	27	R	27:R	_
 27	Schlössern	_	Word	Word	_	2	orphan	2:orphan	_
 28	und	_	Word	Word	_	27	N	27:N	_
-29	Tempeln	_	Word	Word	_	27	C	27:C	_
+29	Tempeln	_	Word	Word	_	27	C	27:C|52:A	_
 30	unterscheiden	_	Word	Word	_	2	orphan	2:orphan	_
 31	konnte	_	Word	Word	_	30	D	30:D	_
 32	,	_	Punctuation	Punctuation	_	30	punct	30:punct	_

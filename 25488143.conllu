@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25488143
 # text = Während mitunter Meer und Wind ruhig waren , glaubte ich einigemal unbestimmte Töne , eine flüchtige Harmonie ferner Akkorde , zu hören .
-# doc_id = 
 1	Während	_	Word	Word	_	6	L	6:L	_
 2	mitunter	_	Word	Word	_	6	T	6:T	_
 3	Meer	_	Word	Word	_	0	root	0:root	_
@@ -11,7 +10,7 @@
 7	waren	_	Word	Word	_	6	F	6:F	_
 8	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_
 9	glaubte	_	Word	Word	_	3	orphan	3:orphan	_
-10	ich	_	Word	Word	_	9	A	9:A	_
+10	ich	_	Word	Word	_	9	A	9:A|22:A	_
 11	einigemal	_	Word	Word	_	22	D	22:D	_
 12	unbestimmte	_	Word	Word	_	13	E	13:E	_
 13	Töne	_	Word	Word	_	3	orphan	3:orphan	_

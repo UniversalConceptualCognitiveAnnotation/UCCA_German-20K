@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25495000
 # text = » Herr Professor « , versetzte lebhaft der Kommandant , » ich gehöre nicht zu denen , die Sie zivilisiert nennen ! Ich habe mit der ganzen menschlichen Gesellschaft gebrochen , aus Gründen , die ich allein zu würdigen berechtigt bin . Ich befolge also auch nicht ihre Regeln , und fordere Sie auf , sich bei mir nie darauf zu berufen . «
-# doc_id = 
 1	»	_	Punctuation	Punctuation	_	13	punct	13:punct	_
 2	Herr	_	Word	Word	_	3	E	3:E	_
 3	Professor	_	Word	Word	_	0	root	0:root	_
@@ -44,7 +43,7 @@
 40	berechtigt	_	Word	Word	_	39	D	39:D	_
 41	bin	_	Word	Word	_	39	F	39:F	_
 42	.	_	Punctuation	Punctuation	_	13	punct	13:punct	_
-43	Ich	_	Word	Word	_	44	A	44:A	_
+43	Ich	_	Word	Word	_	44	A	44:A|52:A	_
 44	befolge	_	Word	Word	_	3	orphan	3:orphan	_
 45	also	_	Word	Word	_	44	F	44:F	_
 46	auch	_	Word	Word	_	47	E	47:E	_
@@ -54,7 +53,7 @@
 50	,	_	Punctuation	Punctuation	_	13	punct	13:punct	_
 51	und	_	Word	Word	_	13	L	13:L	_
 52	fordere	_	Word	Word	_	3	orphan	3:orphan	_
-53	Sie	_	Word	Word	_	52	A	52:A	_
+53	Sie	_	Word	Word	_	52	A	52:A|62:A	_
 54	auf	_	Word	Word	_	52	flat	52:flat	_
 55	,	_	Punctuation	Punctuation	_	52	punct	52:punct	_
 56	sich	_	Word	Word	_	62	A	62:A	_

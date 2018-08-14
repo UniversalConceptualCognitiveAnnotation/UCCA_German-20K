@@ -1,11 +1,10 @@
 # format = ucca
 # sent_id = 25525011
 # text = » Wahrhaftig ! Man sollte versucht sein , es zu glauben . Aber Sie , Herr Arronax « , fragte Ned Land , der noch immer seine Idee hatte , » Sie können mir nicht sagen , wieviel Mann an Bord sind ? 10 ? 20 ? 50 ? 100 ? «
-# doc_id = 
 1	»	_	Punctuation	Punctuation	_	2	punct	2:punct	_
 2	Wahrhaftig	_	Word	Word	_	0	root	0:root	_
 3	!	_	Punctuation	Punctuation	_	2	punct	2:punct	_
-4	Man	_	Word	Word	_	6	A	6:A	_
+4	Man	_	Word	Word	_	6	A	6:A|11:A	_
 5	sollte	_	Word	Word	_	6	D	6:D	_
 6	versucht	_	Word	Word	_	2	orphan	2:orphan	_
 7	sein	_	Word	Word	_	6	F	6:F	_

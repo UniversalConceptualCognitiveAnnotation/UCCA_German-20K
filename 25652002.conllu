@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25652002
 # text = Die doppelte Tür wurde geöffnet , und in Begleitung von Kapitän Nemo mit einem Gefolge von zwölf Leuten der Mannschaft stellten wir uns in einer Tiefe von 10 Metern auf den festen Grund auf , wo die " Nautilus " ruhig lag .
-# doc_id = 
 1	Die	_	Word	Word	_	3	E	3:E	_
 2	doppelte	_	Word	Word	_	3	E	3:E	_
 3	Tür	_	Word	Word	_	0	root	0:root	_
@@ -23,7 +22,7 @@
 19	der	_	Word	Word	_	20	R	20:R	_
 20	Mannschaft	_	Word	Word	_	3	orphan	3:orphan	_
 21	stellten	_	Word	Word	_	3	orphan	3:orphan	_
-22	wir	_	Word	Word	_	21	A	21:A	_
+22	wir	_	Word	Word	_	21	A	21:A|9:A	_
 23	uns	_	Word	Word	_	21	flat	21:flat	_
 24	in	_	Word	Word	_	26	R	26:R	_
 25	einer	_	Word	Word	_	26	E	26:E	_

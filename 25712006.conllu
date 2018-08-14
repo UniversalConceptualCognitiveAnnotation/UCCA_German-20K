@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25712006
 # text = » Weil Kapitän Nemo sich nicht verhehlen kann , dass wir die Hoffnung , unsere Freiheit wieder zu erlangen , nicht aufgegeben haben und dass er achtsam sein wird , zumal in den Meeren und an den Küsten Europas . «
-# doc_id = 
 1	»	_	Punctuation	Punctuation	_	5	punct	5:punct	_
 2	Weil	_	Word	Word	_	5	L	5:L	_
 3	Kapitän	_	Word	Word	_	4	E	4:E	_
@@ -12,7 +11,7 @@
 8	kann	_	Word	Word	_	5	D	5:D	_
 9	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_
 10	dass	_	Word	Word	_	22	R	22:R	_
-11	wir	_	Word	Word	_	22	A	22:A	_
+11	wir	_	Word	Word	_	22	A	22:A|17:A	_
 12	die	_	Word	Word	_	13	E	13:E	_
 13	Hoffnung	_	Word	Word	_	4	orphan	4:orphan	_
 14	,	_	Punctuation	Punctuation	_	13	punct	13:punct	_

@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25711004
 # text = » Freund Ned « , sagte ich , » ich will Ihnen meine Antwort sagen . Sie haben recht gegen mich , und meine Gründe können gegen die Ihrigen nicht Stich halten . Auf den guten Willen von Kapitän Nemo darf man nicht rechnen . Die gewöhnlichste Klugheit verbietet ihm , uns in Freiheit zu setzen . Dagegen rät die Klugheit , dass wir die erste Gelegenheit benutzen , die ›Nautilus‹ zu verlassen . «
-# doc_id = 
 1	»	_	Punctuation	Punctuation	_	15	punct	15:punct	_
 2	Freund	_	Word	Word	_	3	E	3:E	_
 3	Ned	_	Word	Word	_	0	root	0:root	_
@@ -65,7 +64,7 @@
 61	Klugheit	_	Word	Word	_	3	orphan	3:orphan	_
 62	,	_	Punctuation	Punctuation	_	59	punct	59:punct	_
 63	dass	_	Word	Word	_	68	R	68:R	_
-64	wir	_	Word	Word	_	68	A	68:A	_
+64	wir	_	Word	Word	_	68	A	68:A|73:A	_
 65	die	_	Word	Word	_	67	E	67:E	_
 66	erste	_	Word	Word	_	67	E	67:E	_
 67	Gelegenheit	_	Word	Word	_	3	orphan	3:orphan	_

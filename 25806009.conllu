@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25806009
 # text = Diese gesunde Nahrung , diese zuträgliche Atmosphäre ließen Krankheiten nicht aufkommen , und für einen Mann , dem die Erinnerung an das Land nichts vermissen ließ , für einen Kapitän Nemo , der hier seine Heimat hat , hingeht , wohin er will , der auf Wegen , die für andere , nicht für ihn selbst geheimnisvoll sind , auf sein Ziel zuschreitet , war mir eine solche Existenz begreiflich .
-# doc_id = 
 1	Diese	_	Word	Word	_	3	E	3:E	_
 2	gesunde	_	Word	Word	_	3	E	3:E	_
 3	Nahrung	_	Word	Word	_	0	root	0:root	_
@@ -34,7 +33,7 @@
 30	Kapitän	_	Word	Word	_	31	E	31:E	_
 31	Nemo	_	Word	Word	_	3	orphan	3:orphan	_
 32	,	_	Punctuation	Punctuation	_	31	punct	31:punct	_
-33	der	_	Word	Word	_	36	R	36:R	_
+33	der	_	Word	Word	_	36	R	36:R|39:R	_
 34	hier	_	Word	Word	_	36	A	36:A	_
 35	seine	_	Word	Word	_	36	E	36:E	_
 36	Heimat	_	Word	Word	_	3	orphan	3:orphan	_

@@ -1,11 +1,10 @@
 # format = ucca
 # sent_id = 25715007
 # text = » Sie können Sie also nach Belieben ändern ? « » Nein , aber ich kann mich von ihrer Quelle entfernen . «
-# doc_id = 
 1	»	_	Punctuation	Punctuation	_	8	punct	8:punct	_
 2	Sie	_	Word	Word	_	8	A	8:A	_
 3	können	_	Word	Word	_	8	D	8:D	_
-4	Sie	_	Word	Word	_	8	A	8:A	_
+4	Sie	_	Word	Word	_	8	A	8:A|12:A	_
 5	also	_	Word	Word	_	8	F	8:F	_
 6	nach	_	Word	Word	_	7	R	7:R	_
 7	Belieben	_	Word	Word	_	0	root	0:root	_

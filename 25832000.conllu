@@ -1,12 +1,11 @@
 # format = ucca
 # sent_id = 25832000
 # text = » Mein Herr , wir müssen alles aufbieten , um uns aus dieser schlimmen Lage zu ziehen . Wir wollen Signale geben ! Tausend Teufel ! Vielleicht wird man einsehen , dass wir brave Leute sind ! «
-# doc_id = 
 1	»	_	Punctuation	Punctuation	_	8	punct	8:punct	_
 2	Mein	_	Word	Word	_	3	E	3:E	_
 3	Herr	_	Word	Word	_	0	root	0:root	_
 4	,	_	Punctuation	Punctuation	_	8	punct	8:punct	_
-5	wir	_	Word	Word	_	8	A	8:A	_
+5	wir	_	Word	Word	_	8	A	8:A|11:A	_
 6	müssen	_	Word	Word	_	8	D	8:D	_
 7	alles	_	Word	Word	_	8	A	8:A	_
 8	aufbieten	_	Word	Word	_	3	orphan	3:orphan	_

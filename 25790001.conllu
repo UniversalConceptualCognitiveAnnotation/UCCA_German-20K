@@ -1,14 +1,13 @@
 # format = ucca
 # sent_id = 25790001
 # text = Nach 2 Stunden rüstiger Arbeit kehrte Ned Land erschöpft zurück und wurde von frischen Arbeitern abgelöst , zu denen wir , Conseil und ich , uns gesellten .
-# doc_id = 
 1	Nach	_	Word	Word	_	3	E	3:E	_
 2	2	_	Word	Word	_	3	E	3:E	_
 3	Stunden	_	Word	Word	_	0	root	0:root	_
 4	rüstiger	_	Word	Word	_	5	E	5:E	_
 5	Arbeit	_	Word	Word	_	3	orphan	3:orphan	_
 6	kehrte	_	Word	Word	_	3	orphan	3:orphan	_
-7	Ned	_	Word	Word	_	6	A	6:A	_
+7	Ned	_	Word	Word	_	6	A	6:A|16:A	_
 8	Land	_	Word	Word	_	7	flat	7:flat	_
 9	erschöpft	_	Word	Word	_	6	D	6:D	_
 10	zurück	_	Word	Word	_	6	flat	6:flat	_

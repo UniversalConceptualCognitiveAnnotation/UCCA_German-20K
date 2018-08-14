@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25837017
 # text = Was er auch von seiten der Menschen erlitten haben mochte , so zu strafen war er nicht befugt .
-# doc_id = 
 1	Was	_	Word	Word	_	8	A	8:A	_
 2	er	_	Word	Word	_	8	A	8:A	_
 3	auch	_	Word	Word	_	8	D	8:D	_
@@ -17,7 +16,7 @@
 13	zu	_	Word	Word	_	14	F	14:F	_
 14	strafen	_	Word	Word	_	5	orphan	5:orphan	_
 15	war	_	Word	Word	_	18	F	18:F	_
-16	er	_	Word	Word	_	18	A	18:A	_
+16	er	_	Word	Word	_	18	A	18:A|14:A	_
 17	nicht	_	Word	Word	_	18	D	18:D	_
 18	befugt	_	Word	Word	_	5	orphan	5:orphan	_
 19	.	_	Punctuation	Punctuation	_	18	punct	18:punct	_

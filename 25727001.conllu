@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25727001
 # text = Die spanischen Befehlshaber der Sendung protestierten gegen diesen Beschluß . Sie wollten in einen spanischen Hafen einlaufen und in Ermangelung von Cadiz in die Bai von Vigo an der Nordwest küste Spaniens , die nicht blockiert war .
-# doc_id = 
 1	Die	_	Word	Word	_	2	E	2:E	_
 2	spanischen	_	Word	Word	_	0	root	0:root	_
 3	Befehlshaber	_	Word	Word	_	2	E	2:E	_
@@ -12,8 +11,8 @@
 8	diesen	_	Word	Word	_	9	E	9:E	_
 9	Beschluß	_	Word	Word	_	2	orphan	2:orphan	_
 10	.	_	Punctuation	Punctuation	_	6	punct	6:punct	_
-11	Sie	_	Word	Word	_	17	A	17:A	_
-12	wollten	_	Word	Word	_	17	D	17:D	_
+11	Sie	_	Word	Word	_	17	A	17:A|27:A	_
+12	wollten	_	Word	Word	_	17	D	17:D|27:D	_
 13	in	_	Word	Word	_	16	R	16:R	_
 14	einen	_	Word	Word	_	16	E	16:E	_
 15	spanischen	_	Word	Word	_	16	E	16:E	_

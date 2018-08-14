@@ -1,13 +1,12 @@
 # format = ucca
 # sent_id = 25511013
 # text = « » Aber dann müssen Sie zum Einsteigen sich auf der Meeres- oberfläche befinden ? «
-# doc_id = 
 1	«	_	Punctuation	Punctuation	_	9	punct	9:punct	_
 2	»	_	Punctuation	Punctuation	_	9	punct	9:punct	_
 3	Aber	_	Word	Word	_	9	L	9:L	_
 4	dann	_	Word	Word	_	9	L	9:L	_
 5	müssen	_	Word	Word	_	9	D	9:D	_
-6	Sie	_	Word	Word	_	9	A	9:A	_
+6	Sie	_	Word	Word	_	9	A	9:A|8:A	_
 7	zum	_	Word	Word	_	8	R	8:R	_
 8	Einsteigen	_	Word	Word	_	0	root	0:root	_
 9	sich	_	Word	Word	_	8	orphan	8:orphan	_

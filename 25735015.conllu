@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25735015
 # text = Für diese bedarf ' s des Sauerstoffs der Luft , und sie konnten ohne diesen sich nicht unter dem Wasser entwickeln ; aber Lavaströmungen , die das Prinzip ihres Brands in sich tragen , können bis zum Rotweißen gedeihen , siegreich gegen das nasse Element kämpfen und bei einer Berührung verdunsten .
-# doc_id = 
 1	Für	_	Word	Word	_	2	R	2:R	_
 2	diese	_	Word	Word	_	0	root	0:root	_
 3	bedarf	_	Word	Word	_	2	orphan	2:orphan	_
@@ -36,7 +35,7 @@
 32	sich	_	Word	Word	_	2	orphan	2:orphan	_
 33	tragen	_	Word	Word	_	2	orphan	2:orphan	_
 34	,	_	Punctuation	Punctuation	_	39	punct	39:punct	_
-35	können	_	Word	Word	_	39	D	39:D	_
+35	können	_	Word	Word	_	39	D	39:D|46:D|51:D	_
 36	bis	_	Word	Word	_	38	R	38:R	_
 37	zum	_	Word	Word	_	36	flat	36:flat	_
 38	Rotweißen	_	Word	Word	_	2	orphan	2:orphan	_

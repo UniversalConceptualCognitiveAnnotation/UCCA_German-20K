@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25486008
 # text = Um 10 Uhr 50 kam die elektrische helle Stelle wieder zum Vorschein , 3 Meilen von der Fregatte , so rein und stark wie in der vorigen Nacht .
-# doc_id = 
 1	Um	_	Word	Word	_	2	E	2:E	_
 2	10	_	Word	Word	_	0	root	0:root	_
 3	Uhr	_	Word	Word	_	2	flat	2:flat	_
@@ -24,7 +23,7 @@
 20	so	_	Word	Word	_	21	F	21:F	_
 21	rein	_	Word	Word	_	2	orphan	2:orphan	_
 22	und	_	Word	Word	_	21	N	21:N	_
-23	stark	_	Word	Word	_	21	C	21:C	_
+23	stark	_	Word	Word	_	21	C	21:C|28:S	_
 24	wie	_	Word	Word	_	28	R	28:R	_
 25	in	_	Word	Word	_	28	R	28:R	_
 26	der	_	Word	Word	_	28	E	28:E	_

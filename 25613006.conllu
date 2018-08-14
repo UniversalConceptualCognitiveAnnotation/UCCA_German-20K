@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25613006
 # text = Kapitän Nemo , ohne mir zu antworten , winkte mir , ihm in den großen Saal zu folgen .
-# doc_id = 
 1	Kapitän	_	Word	Word	_	2	E	2:E	_
 2	Nemo	_	Word	Word	_	0	root	0:root	_
 3	,	_	Punctuation	Punctuation	_	9	punct	9:punct	_
@@ -11,7 +10,7 @@
 7	antworten	_	Word	Word	_	2	orphan	2:orphan	_
 8	,	_	Punctuation	Punctuation	_	9	punct	9:punct	_
 9	winkte	_	Word	Word	_	2	orphan	2:orphan	_
-10	mir	_	Word	Word	_	9	A	9:A	_
+10	mir	_	Word	Word	_	9	A	9:A|18:A	_
 11	,	_	Punctuation	Punctuation	_	9	punct	9:punct	_
 12	ihm	_	Word	Word	_	18	A	18:A	_
 13	in	_	Word	Word	_	16	R	16:R	_

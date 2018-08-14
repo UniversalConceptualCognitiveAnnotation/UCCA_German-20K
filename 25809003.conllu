@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25809003
 # text = » Ich will die Begebenheit erzählen . Im Jahr 1861 bemerkte die Mannschaft des Avisoschiffs ›Alecton‹ nordöstlich von Teneriffa , ungefähr unter dem Breitengrad , wo wir uns jetzt befinden , ein Ungeheuer von Kalmar , das in diesen Gewässern schwamm . Kommandant Bouguer näherte sich dem Tier , griff es mit der Harpune und der Flinte an , ohne großen Erfolg , denn Kugel und Harpune drangen durch das Fleisch hindurch , das weich wie eine Gallerte ohne festen Kern ist . Nach mehreren fruchtlosen Versuchen gelang es den Leuten , eine Schlinge um den Körper der Molluske zu werfen . Diese Schlinge glitt bis zu den Schwanzflossen , wo sie festhielt . Darauf versuchte man das Tier an Bord zu ziehen , aber sein Gewicht war so bedeutend , dass es beim Hinaufziehen seinen Schwanz im Stiche ließ , und ohne diese Zierde in den Wogen verschwand . «
-# doc_id = 
 1	»	_	Punctuation	Punctuation	_	6	punct	6:punct	_
 2	Ich	_	Word	Word	_	6	A	6:A	_
 3	will	_	Word	Word	_	6	D	6:D	_
@@ -134,7 +133,7 @@
 130	bedeutend	_	Word	Word	_	5	orphan	5:orphan	_
 131	,	_	Punctuation	Punctuation	_	130	punct	130:punct	_
 132	dass	_	Word	Word	_	138	R	138:R	_
-133	es	_	Word	Word	_	138	A	138:A	_
+133	es	_	Word	Word	_	138	A	138:A|149:A	_
 134	beim	_	Word	Word	_	135	R	135:R	_
 135	Hinaufziehen	_	Word	Word	_	5	orphan	5:orphan	_
 136	seinen	_	Word	Word	_	137	E	137:E	_

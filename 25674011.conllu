@@ -1,11 +1,10 @@
 # format = ucca
 # sent_id = 25674011
 # text = « Lädt man uns zu einer Löwen jagd auf den Hoch ebenen des Atlas oder zu einer Tiger jagd in den Niederungen Indiens ein , so sagen wir : » Ei nun ! wir werden wohl dabeisein !
-# doc_id = 
 1	«	_	Punctuation	Punctuation	_	2	punct	2:punct	_
 2	Lädt	_	Word	Word	_	0	root	0:root	_
-3	man	_	Word	Word	_	2	A	2:A	_
-4	uns	_	Word	Word	_	2	A	2:A	_
+3	man	_	Word	Word	_	2	A	2:A|19:A	_
+4	uns	_	Word	Word	_	2	A	2:A|19:A	_
 5	zu	_	Word	Word	_	8	R	8:R	_
 6	einer	_	Word	Word	_	8	E	8:E	_
 7	Löwen	_	Word	Word	_	8	A	8:A	_

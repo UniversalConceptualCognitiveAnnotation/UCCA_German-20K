@@ -1,14 +1,13 @@
 # format = ucca
 # sent_id = 25836002
 # text = In mein Zimmer geflüchtet , sahen wir uns einander an , ohne ein Wort zu reden .
-# doc_id = 
 1	In	_	Word	Word	_	3	R	3:R	_
 2	mein	_	Word	Word	_	3	E	3:E	_
 3	Zimmer	_	Word	Word	_	0	root	0:root	_
 4	geflüchtet	_	Word	Word	_	3	orphan	3:orphan	_
 5	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_
 6	sahen	_	Word	Word	_	3	orphan	3:orphan	_
-7	wir	_	Word	Word	_	6	A	6:A	_
+7	wir	_	Word	Word	_	6	A	6:A|4:A|16:A	_
 8	uns	_	Word	Word	_	6	F	6:F	_
 9	einander	_	Word	Word	_	6	A	6:A	_
 10	an	_	Word	Word	_	6	flat	6:flat	_

@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25602001
 # text = » Was die Infusions tierchen betrifft , diese Milliarden von Geschöpfen , die millionen weise in einem Tropfen existieren , von denen 800.000 1 Milligramm wiegen , so ist ihre Rolle nicht minder bedeutend . Sie verzehren die Meer salze , gesellen sich die festen Teile des Wassers zu , und indem sie die kalkartigen Bestandteile in Zusammenhang bringen , verfertigen sie Korallen und Madreporen ! Wenn nun dem Wasser tropfen seine mineralogische Nahrung entzogen ist , wird er dadurch leichter , steigt wieder zur Oberfläche auf , verschlingt da das durch Verdunstung aufgegebene Salz , wird dadurch schwer , sinkt wieder hinab und führt den Tierchen neue Elemente zum Verzehren zu . Daraus entsteht eine doppelte Strömung , aufwärts und abwärts , stets Bewegung , stets Leben ! Das Leben tritt im Ozean innerlich stärker auf , üppiger strömend , unbegrenzter nach allen Richtungen sich verbreitend . Der Ozean , sagt man , ist ein Todes element für den Menschen , ein Lebens element für Myriaden Tiere - und für mich ! «
-# doc_id = 
 1	»	_	Punctuation	Punctuation	_	6	punct	6:punct	_
 2	Was	_	Word	Word	_	6	A	6:A	_
 3	die	_	Word	Word	_	5	E	5:E	_
@@ -37,7 +36,7 @@
 33	minder	_	Word	Word	_	34	D	34:D	_
 34	bedeutend	_	Word	Word	_	5	orphan	5:orphan	_
 35	.	_	Punctuation	Punctuation	_	6	punct	6:punct	_
-36	Sie	_	Word	Word	_	37	A	37:A	_
+36	Sie	_	Word	Word	_	37	A	37:A|42:A	_
 37	verzehren	_	Word	Word	_	5	orphan	5:orphan	_
 38	die	_	Word	Word	_	40	E	40:E	_
 39	Meer	_	Word	Word	_	40	E	40:E	_
@@ -80,7 +79,7 @@
 76	ist	_	Word	Word	_	75	F	75:F	_
 77	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_
 78	wird	_	Word	Word	_	81	F	81:F	_
-79	er	_	Word	Word	_	81	A	81:A	_
+79	er	_	Word	Word	_	81	A	81:A|89:A|101:A|83:A|105:A|99:A	_
 80	dadurch	_	Word	Word	_	81	A	81:A	_
 81	leichter	_	Word	Word	_	5	orphan	5:orphan	_
 82	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_

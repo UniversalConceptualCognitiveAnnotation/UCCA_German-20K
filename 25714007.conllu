@@ -1,12 +1,11 @@
 # format = ucca
 # sent_id = 25714007
 # text = » Dann erlauben Sie mir , mein Herr , Ihnen gute Nacht zu wünschen . «
-# doc_id = 
 1	»	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 2	Dann	_	Word	Word	_	3	L	3:L	_
 3	erlauben	_	Word	Word	_	0	root	0:root	_
 4	Sie	_	Word	Word	_	3	A	3:A	_
-5	mir	_	Word	Word	_	3	A	3:A	_
+5	mir	_	Word	Word	_	3	A	3:A|14:A	_
 6	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 7	mein	_	Word	Word	_	8	E	8:E	_
 8	Herr	_	Word	Word	_	3	orphan	3:orphan	_

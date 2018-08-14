@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25741002
 # text = » Jawohl . Diese Minen laufen unter dem Meer her wie die Gruben von Newcastle . Hier holen meine Leute in ihren Skaphandern , mit Hacke und Schaufel die Kohle , welcher ich aus den Gruben der Erde nicht bedarf . Wenn ich diesen Stoff für Gewinnung des Sodiums verbrenne , bekommt der Berg durch den aus dem Krater aufsteigenden Dampf noch das Aussehen eines tätigen Vulkans . «
-# doc_id = 
 1	»	_	Punctuation	Punctuation	_	2	punct	2:punct	_
 2	Jawohl	_	Word	Word	_	0	root	0:root	_
 3	.	_	Punctuation	Punctuation	_	2	punct	2:punct	_
@@ -44,7 +43,7 @@
 40	bedarf	_	Word	Word	_	2	orphan	2:orphan	_
 41	.	_	Punctuation	Punctuation	_	2	punct	2:punct	_
 42	Wenn	_	Word	Word	_	2	L	2:L	_
-43	ich	_	Word	Word	_	50	A	50:A	_
+43	ich	_	Word	Word	_	50	A	50:A|47:A	_
 44	diesen	_	Word	Word	_	45	E	45:E	_
 45	Stoff	_	Word	Word	_	2	orphan	2:orphan	_
 46	für	_	Word	Word	_	47	R	47:R	_

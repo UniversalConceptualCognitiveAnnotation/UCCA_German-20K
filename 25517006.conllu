@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25517006
 # text = » Die Elektrizität allein vermochte mir sie zu gewähren « , sagte der Kapitän hastig . » Ich sage Ihnen nochmals , mein Herr , die dynamische Wirkung meiner Maschinen ist fast unbeschränkt . Die Pumpen der ›Nautilus‹ haben eine wunderbare Kraft , deren Wirkung Sie gespürt haben , als ihre Wasser säulen wie ein reißender Strom auf die ›Abraham Lincoln‹ stürzten . Übrigens bediene ich mich der Ergänzungs behälter nur , um in mittlere Tiefen von 1.500 bis 2.000 Meter zu gelangen , und zwar , um meine Maschinen zu schonen . Wenn ich also Lust habe , die Tiefen des Ozeans von 2 bis 3 Lieue unter der Oberfläche zu besuchen , so wende ich mich zu einem umständlicheren , aber nicht minder sicheren Verfahren . «
-# doc_id = 
 1	»	_	Punctuation	Punctuation	_	9	punct	9:punct	_
 2	Die	_	Word	Word	_	3	E	3:E	_
 3	Elektrizität	_	Word	Word	_	0	root	0:root	_
@@ -67,7 +66,7 @@
 63	.	_	Punctuation	Punctuation	_	9	punct	9:punct	_
 64	Übrigens	_	Word	Word	_	65	G	65:G	_
 65	bediene	_	Word	Word	_	3	orphan	3:orphan	_
-66	ich	_	Word	Word	_	65	A	65:A	_
+66	ich	_	Word	Word	_	65	A	65:A|83:A	_
 67	mich	_	Word	Word	_	65	flat	65:flat	_
 68	der	_	Word	Word	_	70	R	70:R	_
 69	Ergänzungs	_	Word	Word	_	70	E	70:E	_
@@ -96,7 +95,7 @@
 92	schonen	_	Word	Word	_	3	orphan	3:orphan	_
 93	.	_	Punctuation	Punctuation	_	9	punct	9:punct	_
 94	Wenn	_	Word	Word	_	9	L	9:L	_
-95	ich	_	Word	Word	_	113	A	113:A	_
+95	ich	_	Word	Word	_	113	A	113:A|92:A	_
 96	also	_	Word	Word	_	113	F	113:F	_
 97	Lust	_	Word	Word	_	113	D	113:D	_
 98	habe	_	Word	Word	_	97	flat	97:flat	_

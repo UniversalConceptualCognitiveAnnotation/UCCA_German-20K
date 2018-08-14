@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25443006
 # text = Sein Vortrag hatte echt epische Form , und ich glaubte manchmal einen kanadischen Homer zu hören , der die Iliade der Hyperboreerlande sang .
-# doc_id = 
 1	Sein	_	Word	Word	_	2	E	2:E	_
 2	Vortrag	_	Word	Word	_	0	root	0:root	_
 3	hatte	_	Word	Word	_	2	orphan	2:orphan	_
@@ -10,7 +9,7 @@
 6	Form	_	Word	Word	_	2	orphan	2:orphan	_
 7	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 8	und	_	Word	Word	_	3	L	3:L	_
-9	ich	_	Word	Word	_	10	A	10:A	_
+9	ich	_	Word	Word	_	10	A	10:A|16:A	_
 10	glaubte	_	Word	Word	_	2	orphan	2:orphan	_
 11	manchmal	_	Word	Word	_	10	D	10:D	_
 12	einen	_	Word	Word	_	14	E	14:E	_

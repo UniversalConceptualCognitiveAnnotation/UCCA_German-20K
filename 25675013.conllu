@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25675013
 # text = » Nehmen Sie ' s nicht übel , mein Herr « , erwiderte Conseil , » der Kommandant der ›Nautilus‹ hat uns eingeladen , morgen in Gesellschaft meines Herrn die prächtigen Fischereien von Ceylon zu besuchen . Er hat die Einladung in seinen Worten gemacht und sich wie ein echter Gentleman benommen . «
-# doc_id = 
 1	»	_	Punctuation	Punctuation	_	2	punct	2:punct	_
 2	Nehmen	_	Word	Word	_	0	root	0:root	_
 3	Sie	_	Word	Word	_	2	A	2:A	_
@@ -39,7 +38,7 @@
 35	zu	_	Word	Word	_	36	F	36:F	_
 36	besuchen	_	Word	Word	_	2	orphan	2:orphan	_
 37	.	_	Punctuation	Punctuation	_	2	punct	2:punct	_
-38	Er	_	Word	Word	_	45	A	45:A	_
+38	Er	_	Word	Word	_	45	A	45:A|47:A	_
 39	hat	_	Word	Word	_	45	F	45:F	_
 40	die	_	Word	Word	_	41	E	41:E	_
 41	Einladung	_	Word	Word	_	2	orphan	2:orphan	_

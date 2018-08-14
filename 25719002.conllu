@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25719002
 # text = » Nun , die Erde wird dereinst so ein kalter Leichnam sein . Sie wird unbewohnbar und unbewohnt sein wie der Mond , der längst seine Lebenswärme verloren hat . «
-# doc_id = 
 1	»	_	Punctuation	Punctuation	_	12	punct	12:punct	_
 2	Nun	_	Word	Word	_	12	F	12:F	_
 3	,	_	Punctuation	Punctuation	_	12	punct	12:punct	_
@@ -15,7 +14,7 @@
 11	Leichnam	_	Word	Word	_	5	orphan	5:orphan	_
 12	sein	_	Word	Word	_	5	orphan	5:orphan	_
 13	.	_	Punctuation	Punctuation	_	12	punct	12:punct	_
-14	Sie	_	Word	Word	_	16	A	16:A	_
+14	Sie	_	Word	Word	_	16	A	16:A|18:A	_
 15	wird	_	Word	Word	_	16	F	16:F	_
 16	unbewohnbar	_	Word	Word	_	5	orphan	5:orphan	_
 17	und	_	Word	Word	_	12	L	12:L	_

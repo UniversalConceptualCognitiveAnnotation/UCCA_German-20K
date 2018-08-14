@@ -1,13 +1,12 @@
 # format = ucca
 # sent_id = 25691006
 # text = » Nein , Ned , ich weiß es nicht , will ' s auch nicht wissen , und ich zähle weder die Tage noch die Stunden . «
-# doc_id = 
 1	»	_	Punctuation	Punctuation	_	7	punct	7:punct	_
 2	Nein	_	Word	Word	_	7	D	7:D	_
 3	,	_	Punctuation	Punctuation	_	7	punct	7:punct	_
 4	Ned	_	Word	Word	_	7	G	7:G	_
 5	,	_	Punctuation	Punctuation	_	7	punct	7:punct	_
-6	ich	_	Word	Word	_	7	A	7:A	_
+6	ich	_	Word	Word	_	7	A	7:A|16:A	_
 7	weiß	_	Word	Word	_	0	root	0:root	_
 8	es	_	Word	Word	_	7	A	7:A	_
 9	nicht	_	Word	Word	_	7	D	7:D	_

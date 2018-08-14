@@ -1,12 +1,11 @@
 # format = ucca
 # sent_id = 25823023
 # text = Einige Tage lang fuhr sie unstet , bald an der Oberfläche , bald unterhalb , mitten in den Nebeln , die den Seefahrern so furchtbar sind .
-# doc_id = 
 1	Einige	_	Word	Word	_	2	E	2:E	_
 2	Tage	_	Word	Word	_	0	root	0:root	_
 3	lang	_	Word	Word	_	4	D	4:D	_
 4	fuhr	_	Word	Word	_	2	orphan	2:orphan	_
-5	sie	_	Word	Word	_	4	A	4:A	_
+5	sie	_	Word	Word	_	4	A	4:A|11:A|14:A	_
 6	unstet	_	Word	Word	_	4	D	4:D	_
 7	,	_	Punctuation	Punctuation	_	4	punct	4:punct	_
 8	bald	_	Word	Word	_	4	L	4:L	_

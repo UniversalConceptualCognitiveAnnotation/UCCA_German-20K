@@ -1,14 +1,13 @@
 # format = ucca
 # sent_id = 25693008
 # text = Zur Zeit ihrer früheren Bedeutung hatte sie 6 öffentliche Märkte , 26 Moscheen , und ihre mit 14 Forts versehenen Mauern hatten einen Umfang von 3 Kilometer .
-# doc_id = 
 1	Zur	_	Word	Word	_	2	R	2:R	_
 2	Zeit	_	Word	Word	_	0	root	0:root	_
 3	ihrer	_	Word	Word	_	5	R	5:R	_
 4	früheren	_	Word	Word	_	5	D	5:D	_
 5	Bedeutung	_	Word	Word	_	2	orphan	2:orphan	_
 6	hatte	_	Word	Word	_	2	orphan	2:orphan	_
-7	sie	_	Word	Word	_	6	A	6:A	_
+7	sie	_	Word	Word	_	6	A	6:A|5:A	_
 8	6	_	Word	Word	_	10	E	10:E	_
 9	öffentliche	_	Word	Word	_	10	E	10:E	_
 10	Märkte	_	Word	Word	_	2	orphan	2:orphan	_

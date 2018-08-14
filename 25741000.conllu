@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25741000
 # text = » Nein , Herr Professor , aber sie bedarf Elektrizität , um sich zu bewegen , Elemente zur Erzeugung ihrer Elektrizität ; Sodium , um die Elemente zu nähren ; Kohle , um ihr Sodium zu bereiten , und Kohlenminen , um ihre Kohlen zu gewinnen . Nun aber bedeckt das Meer eben hier ganze Wälder , die in der Urzeit versanken und , mineralisiert und in Steinkohle verwandelt , mir eine unerschöpfliche Vorratsgrube bilden . «
-# doc_id = 
 1	»	_	Punctuation	Punctuation	_	2	punct	2:punct	_
 2	Nein	_	Word	Word	_	0	root	0:root	_
 3	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
@@ -9,7 +8,7 @@
 5	Professor	_	Word	Word	_	2	orphan	2:orphan	_
 6	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
 7	aber	_	Word	Word	_	2	L	2:L	_
-8	sie	_	Word	Word	_	9	A	9:A	_
+8	sie	_	Word	Word	_	9	A	9:A|13:A	_
 9	bedarf	_	Word	Word	_	2	orphan	2:orphan	_
 10	Elektrizität	_	Word	Word	_	9	A	9:A	_
 11	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_

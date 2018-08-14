@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25525001
 # text = « » Meine Freunde « , erwiderte ich , indem ich ihnen winkte ein zu treten , » Sie sind weder in Kanada noch in Frankreich , sondern an Bord der ›Nautilus‹ , 50 Meter unter dem Meeres spiegel ! «
-# doc_id = 
 1	«	_	Punctuation	Punctuation	_	20	punct	20:punct	_
 2	»	_	Punctuation	Punctuation	_	20	punct	20:punct	_
 3	Meine	_	Word	Word	_	4	E	4:E	_
@@ -13,7 +12,7 @@
 9	,	_	Punctuation	Punctuation	_	7	punct	7:punct	_
 10	indem	_	Word	Word	_	7	L	7:L	_
 11	ich	_	Word	Word	_	13	A	13:A	_
-12	ihnen	_	Word	Word	_	13	A	13:A	_
+12	ihnen	_	Word	Word	_	13	A	13:A|14:A	_
 13	winkte	_	Word	Word	_	4	orphan	4:orphan	_
 14	ein	_	Word	Word	_	4	orphan	4:orphan	_
 15	zu	_	Word	Word	_	14	F	14:F	_

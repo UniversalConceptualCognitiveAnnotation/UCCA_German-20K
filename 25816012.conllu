@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25816012
 # text = Das Meer war unablässig von zahllosen Dampfern und kleinen Goéletten , die den Küsten verkehr besorgen , befahren , wo man Aufnahme zu finden hoffen konnte .
-# doc_id = 
 1	Das	_	Word	Word	_	2	E	2:E	_
 2	Meer	_	Word	Word	_	0	root	0:root	_
 3	war	_	Word	Word	_	18	F	18:F	_
@@ -22,7 +21,7 @@
 18	befahren	_	Word	Word	_	2	orphan	2:orphan	_
 19	,	_	Punctuation	Punctuation	_	18	punct	18:punct	_
 20	wo	_	Word	Word	_	18	L	18:L	_
-21	man	_	Word	Word	_	25	A	25:A	_
+21	man	_	Word	Word	_	25	A	25:A|22:A	_
 22	Aufnahme	_	Word	Word	_	2	orphan	2:orphan	_
 23	zu	_	Word	Word	_	22	F	22:F	_
 24	finden	_	Word	Word	_	22	D	22:D	_

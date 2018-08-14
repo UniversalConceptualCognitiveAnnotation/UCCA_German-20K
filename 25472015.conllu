@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25472015
 # text = « » Vielleicht « , fügte ich bei , » kann man ihm ebensowenig nah kommen als wie einem Zitterfisch ! «
-# doc_id = 
 1	«	_	Punctuation	Punctuation	_	15	punct	15:punct	_
 2	»	_	Punctuation	Punctuation	_	15	punct	15:punct	_
 3	Vielleicht	_	Word	Word	_	15	G	15:G	_
@@ -12,8 +11,8 @@
 8	bei	_	Word	Word	_	6	flat	6:flat	_
 9	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_
 10	»	_	Punctuation	Punctuation	_	6	punct	6:punct	_
-11	kann	_	Word	Word	_	15	D	15:D	_
-12	man	_	Word	Word	_	15	A	15:A	_
+11	kann	_	Word	Word	_	15	D	15:D|20:D	_
+12	man	_	Word	Word	_	15	A	15:A|20:A	_
 13	ihm	_	Word	Word	_	15	A	15:A	_
 14	ebensowenig	_	Word	Word	_	15	D	15:D	_
 15	nah	_	Word	Word	_	6	orphan	6:orphan	_

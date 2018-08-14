@@ -1,12 +1,11 @@
 # format = ucca
 # sent_id = 25839020
 # text = Um halb 7 kam Ned Land auf mein Zimmer und sagte :
-# doc_id = 
 1	Um	_	Word	Word	_	2	R	2:R	_
 2	halb	_	Word	Word	_	0	root	0:root	_
 3	7	_	Word	Word	_	2	flat	2:flat	_
 4	kam	_	Word	Word	_	2	orphan	2:orphan	_
-5	Ned	_	Word	Word	_	4	A	4:A	_
+5	Ned	_	Word	Word	_	4	A	4:A|11:A	_
 6	Land	_	Word	Word	_	5	flat	5:flat	_
 7	auf	_	Word	Word	_	9	R	9:R	_
 8	mein	_	Word	Word	_	9	E	9:E	_

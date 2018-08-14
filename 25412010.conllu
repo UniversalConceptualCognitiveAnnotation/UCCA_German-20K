@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25412010
 # text = Der Bruch des Eisenblechs zeigte , dass das durchbohrende Werkzeug ausnehmend hart gewesen sein mußte ; auch musste es , nachdem es mit enormer Gewalt eingedrungen , sich durch eigene Bewegung , in unerklärbarer Weise wieder herausgezogen haben .
-# doc_id = 
 1	Der	_	Word	Word	_	2	E	2:E	_
 2	Bruch	_	Word	Word	_	0	root	0:root	_
 3	des	_	Word	Word	_	4	R	4:R	_
@@ -20,7 +19,7 @@
 16	;	_	Punctuation	Punctuation	_	12	punct	12:punct	_
 17	auch	_	Word	Word	_	12	L	12:L	_
 18	musste	_	Word	Word	_	28	D	28:D	_
-19	es	_	Word	Word	_	28	A	28:A	_
+19	es	_	Word	Word	_	28	A	28:A|31:A	_
 20	,	_	Punctuation	Punctuation	_	12	punct	12:punct	_
 21	nachdem	_	Word	Word	_	26	R	26:R	_
 22	es	_	Word	Word	_	26	A	26:A	_

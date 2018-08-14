@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25717011
 # text = Doch den Provençalen entrinnen sie nicht , welche sie ebenfalls schmackhaft finden und sie zu Tausenden in großen Netzen fangen , indem sie blindlings , wie betäubt in diese hineingeraten .
-# doc_id = 
 1	Doch	_	Word	Word	_	4	L	4:L	_
 2	den	_	Word	Word	_	3	E	3:E	_
 3	Provençalen	_	Word	Word	_	0	root	0:root	_
@@ -24,7 +23,7 @@
 20	fangen	_	Word	Word	_	3	orphan	3:orphan	_
 21	,	_	Punctuation	Punctuation	_	4	punct	4:punct	_
 22	indem	_	Word	Word	_	4	L	4:L	_
-23	sie	_	Word	Word	_	30	A	30:A	_
+23	sie	_	Word	Word	_	30	A	30:A|27:A|24:A	_
 24	blindlings	_	Word	Word	_	3	orphan	3:orphan	_
 25	,	_	Punctuation	Punctuation	_	4	punct	4:punct	_
 26	wie	_	Word	Word	_	4	L	4:L	_

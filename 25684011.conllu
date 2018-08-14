@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25684011
 # text = In diesem Augenblick öffnete sich vor unseren Augen eine ungeheure Grotte zwischen malerisch getürmten Felsen , die mit allem Schmuck der unterseeischen Flora geziert waren .
-# doc_id = 
 1	In	_	Word	Word	_	3	R	3:R	_
 2	diesem	_	Word	Word	_	3	E	3:E	_
 3	Augenblick	_	Word	Word	_	0	root	0:root	_
@@ -16,7 +15,7 @@
 12	zwischen	_	Word	Word	_	14	R	14:R	_
 13	malerisch	_	Word	Word	_	14	D	14:D	_
 14	getürmten	_	Word	Word	_	3	orphan	3:orphan	_
-15	Felsen	_	Word	Word	_	14	A	14:A	_
+15	Felsen	_	Word	Word	_	14	A	14:A|24:A	_
 16	,	_	Punctuation	Punctuation	_	24	punct	24:punct	_
 17	die	_	Word	Word	_	24	R	24:R	_
 18	mit	_	Word	Word	_	20	R	20:R	_

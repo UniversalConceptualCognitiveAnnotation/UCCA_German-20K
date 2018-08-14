@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25490113
 # text = Ich sah diesen rätselhaften Mann wieder so , wie er aus Notwendigkeit sein mußte , unerbittlich , grausam .
-# doc_id = 
 1	Ich	_	Word	Word	_	2	A	2:A	_
 2	sah	_	Word	Word	_	0	root	0:root	_
 3	diesen	_	Word	Word	_	5	E	5:E	_
@@ -11,7 +10,7 @@
 7	so	_	Word	Word	_	2	L	2:L	_
 8	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
 9	wie	_	Word	Word	_	13	R	13:R	_
-10	er	_	Word	Word	_	13	A	13:A	_
+10	er	_	Word	Word	_	13	A	13:A|16:A	_
 11	aus	_	Word	Word	_	12	R	12:R	_
 12	Notwendigkeit	_	Word	Word	_	2	orphan	2:orphan	_
 13	sein	_	Word	Word	_	2	orphan	2:orphan	_

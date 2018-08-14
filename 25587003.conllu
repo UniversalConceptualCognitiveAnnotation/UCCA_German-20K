@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25587003
 # text = » Mit dem Ruhmkorffschen Apparat , Herr Arronax . Wie der andere auf dem Rücken , so befestigt man diesen am Gürtel . Er besteht aus einer Bunsenschen Säule , die ich nicht mit doppeltchromsaurem Kali , sondern mit Sodium in Tätigkeit setze . Eine Induktions röhre sammelt die erzeugte Elektrizität und leitet sie zu einer Laterne von eigentümlicher Einrichtung . In dieser Laterne befindet sich eine gläserne Serpentine , die nur einen Rest von Kohlensäure enthält . Wenn der Apparat in Tätigkeit tritt , wird dieses Glas leuchtend und gibt ein weißliches andauerndes Licht . Auf diese Art versehen , kann ich atmen und sehen . «
-# doc_id = 
 1	»	_	Punctuation	Punctuation	_	5	punct	5:punct	_
 2	Mit	_	Word	Word	_	5	R	5:R	_
 3	dem	_	Word	Word	_	5	E	5:E	_
@@ -104,7 +103,7 @@
 100	versehen	_	Word	Word	_	5	orphan	5:orphan	_
 101	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_
 102	kann	_	Word	Word	_	104	D	104:D	_
-103	ich	_	Word	Word	_	104	A	104:A	_
+103	ich	_	Word	Word	_	104	A	104:A|100:A	_
 104	atmen	_	Word	Word	_	5	orphan	5:orphan	_
 105	und	_	Word	Word	_	104	N	104:N	_
 106	sehen	_	Word	Word	_	104	C	104:C	_

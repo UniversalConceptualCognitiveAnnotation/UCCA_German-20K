@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25488093
 # text = « » Ja , Herr Professor , aber ich war besser dran als Sie , dass ich sogleich auf einem schwimmenden Inselchen festen Fuß fassen konnte .
-# doc_id = 
 1	«	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 2	»	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 3	Ja	_	Word	Word	_	0	root	0:root	_
@@ -11,7 +10,7 @@
 7	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 8	aber	_	Word	Word	_	3	L	3:L	_
 9	ich	_	Word	Word	_	12	A	12:A	_
-10	war	_	Word	Word	_	12	F	12:F	_
+10	war	_	Word	Word	_	12	F	12:F|14:S	_
 11	besser	_	Word	Word	_	12	D	12:D	_
 12	dran	_	Word	Word	_	3	orphan	3:orphan	_
 13	als	_	Word	Word	_	14	R	14:R	_

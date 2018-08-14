@@ -1,8 +1,7 @@
 # format = ucca
 # sent_id = 25646010
 # text = Ich meinerseits , sehr ernstlich besorgt , ging in den Salon hinab und holte ein treffliches Fernrohr , das ich gewöhnlich im Gebrauch hatte Darauf legte ich es auf das Gehäuse der Leuchte , das vorn auf der Plattform einen Vorsprung bildete , und schickte mich an , die ganze Linie des Himmels und Meeres zu durchlaufen .
-# doc_id = 
-1	Ich	_	Word	Word	_	8	A	8:A	_
+1	Ich	_	Word	Word	_	8	A	8:A|14:A|6:A	_
 2	meinerseits	_	Word	Word	_	8	D	8:D	_
 3	,	_	Punctuation	Punctuation	_	8	punct	8:punct	_
 4	sehr	_	Word	Word	_	5	E	5:E	_
@@ -28,7 +27,7 @@
 24	hatte	_	Word	Word	_	23	F	23:F	_
 25	Darauf	_	Word	Word	_	8	L	8:L	_
 26	legte	_	Word	Word	_	5	orphan	5:orphan	_
-27	ich	_	Word	Word	_	26	A	26:A	_
+27	ich	_	Word	Word	_	26	A	26:A|45:A	_
 28	es	_	Word	Word	_	26	A	26:A	_
 29	auf	_	Word	Word	_	31	R	31:R	_
 30	das	_	Word	Word	_	31	E	31:E	_

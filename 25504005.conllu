@@ -1,11 +1,10 @@
 # format = ucca
 # sent_id = 25504005
 # text = » So rauchen Sie davon nach Belieben und ohne sich über ihren Ursprung Gedanken zu machen . Sie sind von keiner Verwaltung kontrolliert und sind darum nicht minder gut , denk' ich . «
-# doc_id = 
 1	»	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 2	So	_	Word	Word	_	3	L	3:L	_
 3	rauchen	_	Word	Word	_	0	root	0:root	_
-4	Sie	_	Word	Word	_	3	F	3:F	_
+4	Sie	_	Word	Word	_	3	F	3:F|10:A	_
 5	davon	_	Word	Word	_	3	A	3:A	_
 6	nach	_	Word	Word	_	7	R	7:R	_
 7	Belieben	_	Word	Word	_	3	orphan	3:orphan	_
@@ -19,7 +18,7 @@
 15	zu	_	Word	Word	_	10	F	10:F	_
 16	machen	_	Word	Word	_	10	flat	10:flat	_
 17	.	_	Punctuation	Punctuation	_	3	punct	3:punct	_
-18	Sie	_	Word	Word	_	23	A	23:A	_
+18	Sie	_	Word	Word	_	23	A	23:A|29:A	_
 19	sind	_	Word	Word	_	23	F	23:F	_
 20	von	_	Word	Word	_	22	R	22:R	_
 21	keiner	_	Word	Word	_	22	E	22:E	_

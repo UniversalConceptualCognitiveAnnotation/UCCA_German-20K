@@ -1,10 +1,9 @@
 # format = ucca
 # sent_id = 25585019
 # text = Dann sagte er : » Herr Professor , als ich Ihnen den Vorschlag einer Jagd partie auf der Insel Crespo machte , glaubten Sie , ich sei mit mir selbst im Widerspruch . Als ich Ihnen mitteilte , dass es sich um unterseeische Wälder handle , haben Sie mich für einen Narren angesehen . Herr Professor , man muß nie so leicht ein Urteil über die Menschen fassen . «
-# doc_id = 
 1	Dann	_	Word	Word	_	2	L	2:L	_
 2	sagte	_	Word	Word	_	0	root	0:root	_
-3	er	_	Word	Word	_	2	A	2:A	_
+3	er	_	Word	Word	_	2	A	2:A|23:A	_
 4	:	_	Punctuation	Punctuation	_	23	punct	23:punct	_
 5	»	_	Punctuation	Punctuation	_	23	punct	23:punct	_
 6	Herr	_	Word	Word	_	7	E	7:E	_

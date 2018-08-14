@@ -1,10 +1,9 @@
 # format = ucca
 # sent_id = 25607017
 # text = Es kamen Schildkröten und brüteten ihre Eier aus .
-# doc_id = 
 1	Es	_	Word	Word	_	2	F	2:F	_
 2	kamen	_	Word	Word	_	0	root	0:root	_
-3	Schildkröten	_	Word	Word	_	2	A	2:A	_
+3	Schildkröten	_	Word	Word	_	2	A	2:A|5:A	_
 4	und	_	Word	Word	_	2	L	2:L	_
 5	brüteten	_	Word	Word	_	2	orphan	2:orphan	_
 6	ihre	_	Word	Word	_	7	E	7:E	_

@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25665019
 # text = Denn , kurz zu reden , muß man diesen Mann hassen oder bewundern ?
-# doc_id = 
 1	Denn	_	Word	Word	_	5	L	5:L	_
 2	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_
 3	kurz	_	Word	Word	_	5	D	5:D	_
@@ -9,7 +8,7 @@
 5	reden	_	Word	Word	_	0	root	0:root	_
 6	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_
 7	muß	_	Word	Word	_	11	D	11:D	_
-8	man	_	Word	Word	_	11	A	11:A	_
+8	man	_	Word	Word	_	11	A	11:A|5:A	_
 9	diesen	_	Word	Word	_	10	E	10:E	_
 10	Mann	_	Word	Word	_	5	orphan	5:orphan	_
 11	hassen	_	Word	Word	_	5	orphan	5:orphan	_

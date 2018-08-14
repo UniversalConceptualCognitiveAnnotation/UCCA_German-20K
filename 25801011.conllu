@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25801011
 # text = Doch am 11 . April stieg die ›Nautilus‹ plötzlich wieder zur Oberfläche , und wir bekamen das Land an der Mündung des Amazonas zu sehen , dessen Wasser so weit hin und so beträchtlich aus strömt , dass das Meer auf einige Meilen seinen Salzgehalt verliert .
-# doc_id = 
 1	Doch	_	Word	Word	_	6	L	6:L	_
 2	am	_	Word	Word	_	3	R	3:R	_
 3	11	_	Word	Word	_	0	root	0:root	_
@@ -29,7 +28,7 @@
 25	sehen	_	Word	Word	_	3	orphan	3:orphan	_
 26	,	_	Punctuation	Punctuation	_	25	punct	25:punct	_
 27	dessen	_	Word	Word	_	31	R	31:R	_
-28	Wasser	_	Word	Word	_	31	A	31:A	_
+28	Wasser	_	Word	Word	_	31	A	31:A|35:A	_
 29	so	_	Word	Word	_	31	D	31:D	_
 30	weit	_	Word	Word	_	31	D	31:D	_
 31	hin	_	Word	Word	_	3	orphan	3:orphan	_

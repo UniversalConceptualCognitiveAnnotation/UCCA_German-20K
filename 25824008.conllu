@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25824008
 # text = » Wie naiv ! « erwiderte ich . » Die Kabeljaue sind platt beim Krämer , wo sie ausgenommen und zum Verkauf ausgelegt sind ; aber im Wasser sind sie rund wie die Seebarben . «
-# doc_id = 
 1	»	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 2	Wie	_	Word	Word	_	3	D	3:D	_
 3	naiv	_	Word	Word	_	0	root	0:root	_
@@ -19,7 +18,7 @@
 15	Krämer	_	Word	Word	_	3	orphan	3:orphan	_
 16	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 17	wo	_	Word	Word	_	3	L	3:L	_
-18	sie	_	Word	Word	_	19	A	19:A	_
+18	sie	_	Word	Word	_	19	A	19:A|22:A	_
 19	ausgenommen	_	Word	Word	_	3	orphan	3:orphan	_
 20	und	_	Word	Word	_	3	L	3:L	_
 21	zum	_	Word	Word	_	22	R	22:R	_

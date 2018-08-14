@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25756013
 # text = » In diesen Meeren , Ned , haben Sie nie gefischt ? « » Nein , mein Herr . Nur im Norden und in der Bering- wie in der Davisstraße . «
-# doc_id = 
 1	»	_	Punctuation	Punctuation	_	11	punct	11:punct	_
 2	In	_	Word	Word	_	4	R	4:R	_
 3	diesen	_	Word	Word	_	4	E	4:E	_
@@ -11,7 +10,7 @@
 7	,	_	Punctuation	Punctuation	_	11	punct	11:punct	_
 8	haben	_	Word	Word	_	11	F	11:F	_
 9	Sie	_	Word	Word	_	11	A	11:A	_
-10	nie	_	Word	Word	_	11	T	11:T	_
+10	nie	_	Word	Word	_	11	T	11:T|15:T	_
 11	gefischt	_	Word	Word	_	4	orphan	4:orphan	_
 12	?	_	Punctuation	Punctuation	_	15	punct	15:punct	_
 13	«	_	Punctuation	Punctuation	_	15	punct	15:punct	_

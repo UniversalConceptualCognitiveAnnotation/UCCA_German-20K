@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25489094
 # text = « » Liebe Freunde « , sagte ich , » man muß nicht verzweifeln . Wir hatten uns in der allerschlimmsten Lage befunden . Seien Sie so freundlich zu warten , um mir ein Urteil über den Kommandanten und die Mannschaft dieses Fahrzeugs zu bilden .
-# doc_id = 
 1	«	_	Punctuation	Punctuation	_	14	punct	14:punct	_
 2	»	_	Punctuation	Punctuation	_	14	punct	14:punct	_
 3	Liebe	_	Word	Word	_	4	E	4:E	_
@@ -27,7 +26,7 @@
 23	befunden	_	Word	Word	_	18	flat	18:flat	_
 24	.	_	Punctuation	Punctuation	_	14	punct	14:punct	_
 25	Seien	_	Word	Word	_	30	F	30:F	_
-26	Sie	_	Word	Word	_	30	A	30:A	_
+26	Sie	_	Word	Word	_	30	A	30:A|34:A	_
 27	so	_	Word	Word	_	28	E	28:E	_
 28	freundlich	_	Word	Word	_	4	orphan	4:orphan	_
 29	zu	_	Word	Word	_	30	F	30:F	_

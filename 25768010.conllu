@@ -1,10 +1,9 @@
 # format = ucca
 # sent_id = 25768010
 # text = Ich riß ihn fort zur Fahrt nach dem Pol !
-# doc_id = 
 1	Ich	_	Word	Word	_	2	A	2:A	_
 2	riß	_	Word	Word	_	0	root	0:root	_
-3	ihn	_	Word	Word	_	2	A	2:A	_
+3	ihn	_	Word	Word	_	2	A	2:A|6:A	_
 4	fort	_	Word	Word	_	2	flat	2:flat	_
 5	zur	_	Word	Word	_	6	R	6:R	_
 6	Fahrt	_	Word	Word	_	2	orphan	2:orphan	_

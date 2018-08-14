@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25499007
 # text = » Die meisten dieser Gerichte sind Ihnen wohl unbekannt « , sagte er , » doch können Sie ohne Besorgnis sie genießen . Sie sind gesund und nahrhaft . Auf Nahrungsmittel von der Erde habe ich lange verzichtet , und befinde mich darum nicht übler . Meine kräftige Mannschaft genießt dieselbe Nahrung wie ich . «
-# doc_id = 
 1	»	_	Punctuation	Punctuation	_	9	punct	9:punct	_
 2	Die	_	Word	Word	_	3	E	3:E	_
 3	meisten	_	Word	Word	_	0	root	0:root	_
@@ -37,7 +36,7 @@
 33	der	_	Word	Word	_	34	E	34:E	_
 34	Erde	_	Word	Word	_	3	orphan	3:orphan	_
 35	habe	_	Word	Word	_	38	F	38:F	_
-36	ich	_	Word	Word	_	38	A	38:A	_
+36	ich	_	Word	Word	_	38	A	38:A|41:A	_
 37	lange	_	Word	Word	_	38	D	38:D	_
 38	verzichtet	_	Word	Word	_	3	orphan	3:orphan	_
 39	,	_	Punctuation	Punctuation	_	9	punct	9:punct	_

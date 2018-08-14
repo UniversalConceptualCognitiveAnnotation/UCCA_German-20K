@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25513016
 # text = » Kapitän Nemo « , sagte ich , » ich konstatiere die Ergebnisse und trachte nicht danach , sie zu erklären . Ich habe die ›Nautilus‹ im Angesicht der ›Abraham Lincoln‹ manövrieren gesehen und weiß , was es mit ihrer Geschwindigkeit für eine Bewandtnis hat . Aber das Vorwärts kommen reicht nicht aus . Man muß auch sehen , wohin man fährt ! Man muß sich rechts und links , nach oben und unten hinwenden können ! Wie erreichen Sie die großen Tiefen , wo ein zunehmender Widerstand stattfindet , der auf Hunderte von Atmosphären anzuschlagen ist ? Wie steigen Sie wieder zur Oberfläche des Ozeans empor ? Endlich , wie gelingt es Ihnen , sich in der Ihnen beliebigen Umgebung zu halten ? Bin ich unbescheiden , indem ich diese Fragen an Sie richte ? «
-# doc_id = 
 1	»	_	Punctuation	Punctuation	_	11	punct	11:punct	_
 2	Kapitän	_	Word	Word	_	3	E	3:E	_
 3	Nemo	_	Word	Word	_	0	root	0:root	_
@@ -11,7 +10,7 @@
 7	ich	_	Word	Word	_	6	A	6:A	_
 8	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_
 9	»	_	Punctuation	Punctuation	_	6	punct	6:punct	_
-10	ich	_	Word	Word	_	11	A	11:A	_
+10	ich	_	Word	Word	_	11	A	11:A|21:A|15:A	_
 11	konstatiere	_	Word	Word	_	3	orphan	3:orphan	_
 12	die	_	Word	Word	_	13	E	13:E	_
 13	Ergebnisse	_	Word	Word	_	3	orphan	3:orphan	_
@@ -24,7 +23,7 @@
 20	zu	_	Word	Word	_	21	F	21:F	_
 21	erklären	_	Word	Word	_	3	orphan	3:orphan	_
 22	.	_	Punctuation	Punctuation	_	11	punct	11:punct	_
-23	Ich	_	Word	Word	_	33	A	33:A	_
+23	Ich	_	Word	Word	_	33	A	33:A|35:A	_
 24	habe	_	Word	Word	_	33	F	33:F	_
 25	die	_	Word	Word	_	26	E	26:E	_
 26	›Nautilus‹	_	Word	Word	_	3	orphan	3:orphan	_
@@ -72,7 +71,7 @@
 68	und	_	Word	Word	_	67	N	67:N	_
 69	links	_	Word	Word	_	67	C	67:C	_
 70	,	_	Punctuation	Punctuation	_	67	punct	67:punct	_
-71	nach	_	Word	Word	_	72	R	72:R	_
+71	nach	_	Word	Word	_	72	R	72:R|74:R	_
 72	oben	_	Word	Word	_	3	orphan	3:orphan	_
 73	und	_	Word	Word	_	67	N	67:N	_
 74	unten	_	Word	Word	_	3	orphan	3:orphan	_
@@ -115,7 +114,7 @@
 111	wie	_	Word	Word	_	112	A	112:A	_
 112	gelingt	_	Word	Word	_	3	orphan	3:orphan	_
 113	es	_	Word	Word	_	112	F	112:F	_
-114	Ihnen	_	Word	Word	_	112	A	112:A	_
+114	Ihnen	_	Word	Word	_	112	A	112:A|116:A	_
 115	,	_	Punctuation	Punctuation	_	112	punct	112:punct	_
 116	sich	_	Word	Word	_	3	orphan	3:orphan	_
 117	in	_	Word	Word	_	121	R	121:R	_

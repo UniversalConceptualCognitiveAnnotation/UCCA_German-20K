@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25761022
 # text = Ich erkannte , den südlichen Walfisch , der ganz schwarz ist , mit plattem Kopf , und sich von dem weißen und dem Nordkaper anatomisch dadurch unterscheidet , dass die sieben Nackenwirbel zusammengelötet sind und er zwei Rippen mehr hat als die anderen derselben Gattung .
-# doc_id = 
 1	Ich	_	Word	Word	_	2	A	2:A	_
 2	erkannte	_	Word	Word	_	0	root	0:root	_
 3	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
@@ -41,7 +40,7 @@
 37	zwei	_	Word	Word	_	38	E	38:E	_
 38	Rippen	_	Word	Word	_	2	orphan	2:orphan	_
 39	mehr	_	Word	Word	_	2	orphan	2:orphan	_
-40	hat	_	Word	Word	_	39	F	39:F	_
+40	hat	_	Word	Word	_	39	F	39:F|43:S	_
 41	als	_	Word	Word	_	43	R	43:R	_
 42	die	_	Word	Word	_	43	E	43:E	_
 43	anderen	_	Word	Word	_	2	orphan	2:orphan	_

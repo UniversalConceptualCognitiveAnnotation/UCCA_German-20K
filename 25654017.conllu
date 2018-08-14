@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25654017
 # text = Hierauf stand der Kapitän mit seinen Leuten wieder auf ; dann stellten sie sich nah um das Grab , bogen alle ihre Knie und streckten ihre Hand aus zum letzten Abschied ...
-# doc_id = 
 1	Hierauf	_	Word	Word	_	2	L	2:L	_
 2	stand	_	Word	Word	_	0	root	0:root	_
 3	der	_	Word	Word	_	4	E	4:E	_
@@ -14,7 +13,7 @@
 10	;	_	Punctuation	Punctuation	_	2	punct	2:punct	_
 11	dann	_	Word	Word	_	2	L	2:L	_
 12	stellten	_	Word	Word	_	2	orphan	2:orphan	_
-13	sie	_	Word	Word	_	12	A	12:A	_
+13	sie	_	Word	Word	_	12	A	12:A|20:A|25:A	_
 14	sich	_	Word	Word	_	12	flat	12:flat	_
 15	nah	_	Word	Word	_	12	D	12:D	_
 16	um	_	Word	Word	_	18	R	18:R	_

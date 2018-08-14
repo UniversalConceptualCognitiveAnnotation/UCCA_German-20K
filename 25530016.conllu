@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25530016
 # text = Als der Schlaf mir kam , streckte ich mich auf mein Seegras lager und schlummerte tief , während die ›Nautilus‹ quer durch die reißende Strömung des Schwarzen Flusses fuhr .
-# doc_id = 
 1	Als	_	Word	Word	_	5	L	5:L	_
 2	der	_	Word	Word	_	3	E	3:E	_
 3	Schlaf	_	Word	Word	_	0	root	0:root	_
@@ -9,7 +8,7 @@
 5	kam	_	Word	Word	_	3	orphan	3:orphan	_
 6	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_
 7	streckte	_	Word	Word	_	3	orphan	3:orphan	_
-8	ich	_	Word	Word	_	7	A	7:A	_
+8	ich	_	Word	Word	_	7	A	7:A|15:A	_
 9	mich	_	Word	Word	_	7	flat	7:flat	_
 10	auf	_	Word	Word	_	13	R	13:R	_
 11	mein	_	Word	Word	_	13	E	13:E	_

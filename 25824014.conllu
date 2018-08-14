@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25824014
 # text = » Zähle nur immer , Conseil . Aber du wirst schneller fertig , wenn du mir glaubst . Übrigens werden sie von Franzosen , Engländern , Amerikanern , Dänen , Norwegern zu Tausenden weggefischt . Man verzehrt sie in unglaublicher Menge , und wäre nicht die Fruchtbarkeit dieser Fische so erstaunlich , so wären diese Meere bald entvölkert . So sind allein in England und Amerika 75.000 Mann auf 5.000 Schiffen mit dem Fang des Kabeljaus beschäftigt . Jedes Schiff liefert deren durchschnittlich 40.000 , das macht 25 Millionen . An den norwegischen Küsten dasselbe Ergebnis . «
-# doc_id = 
 1	»	_	Punctuation	Punctuation	_	2	punct	2:punct	_
 2	Zähle	_	Word	Word	_	0	root	0:root	_
 3	nur	_	Word	Word	_	2	D	2:D	_
@@ -37,7 +36,7 @@
 33	Tausenden	_	Word	Word	_	2	orphan	2:orphan	_
 34	weggefischt	_	Word	Word	_	2	orphan	2:orphan	_
 35	.	_	Punctuation	Punctuation	_	2	punct	2:punct	_
-36	Man	_	Word	Word	_	37	A	37:A	_
+36	Man	_	Word	Word	_	37	A	37:A|51:A	_
 37	verzehrt	_	Word	Word	_	2	orphan	2:orphan	_
 38	sie	_	Word	Word	_	37	A	37:A	_
 39	in	_	Word	Word	_	41	R	41:R	_

@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25488047
 # text = In dieser Rolle durfte er nur 10 Minuten bleiben , damit wir durch Ablösen unsere Kräfte sparten , um es einige Stunden , vielleicht bis zu Tages anbruch , auszuhalten .
-# doc_id = 
 1	In	_	Word	Word	_	3	R	3:R	_
 2	dieser	_	Word	Word	_	3	E	3:E	_
 3	Rolle	_	Word	Word	_	0	root	0:root	_
@@ -13,7 +12,7 @@
 9	bleiben	_	Word	Word	_	3	orphan	3:orphan	_
 10	,	_	Punctuation	Punctuation	_	9	punct	9:punct	_
 11	damit	_	Word	Word	_	9	L	9:L	_
-12	wir	_	Word	Word	_	17	A	17:A	_
+12	wir	_	Word	Word	_	17	A	17:A|14:A|30:A	_
 13	durch	_	Word	Word	_	14	R	14:R	_
 14	Ablösen	_	Word	Word	_	3	orphan	3:orphan	_
 15	unsere	_	Word	Word	_	16	E	16:E	_

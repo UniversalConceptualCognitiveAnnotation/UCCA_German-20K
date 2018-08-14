@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25622002
 # text = Und doch waren es erst 2 Monate , dass wir , wie Kapitän Nemo sich ausdrückte , » Passagiere der " Nautilus " « waren , d.h . in Wirklichkeit Gefangene ihres Kommandanten .
-# doc_id = 
 1	Und	_	Word	Word	_	3	L	3:L	_
 2	doch	_	Word	Word	_	3	F	3:F	_
 3	waren	_	Word	Word	_	0	root	0:root	_
@@ -11,7 +10,7 @@
 7	Monate	_	Word	Word	_	6	flat	6:flat	_
 8	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 9	dass	_	Word	Word	_	25	L	25:L	_
-10	wir	_	Word	Word	_	25	A	25:A	_
+10	wir	_	Word	Word	_	25	A	25:A|31:A	_
 11	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 12	wie	_	Word	Word	_	25	L	25:L	_
 13	Kapitän	_	Word	Word	_	14	E	14:E	_

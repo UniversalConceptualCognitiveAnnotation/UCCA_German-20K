@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25523009
 # text = » Und jetzt , Herr Professor « , fuhr der Kapitän fort , » lasse ich Sie bei Ihren Studien . Ich habe die Richtung Ost-Nord-Ost bei 50 Meter Tiefe angegeben . Hier sind Karten , womit Sie sie begleiten können . Der Salon steht Ihnen zur Verfügung , und ich bitte um Erlaubnis , mich zurück zu ziehen . «
-# doc_id = 
 1	»	_	Punctuation	Punctuation	_	15	punct	15:punct	_
 2	Und	_	Word	Word	_	15	L	15:L	_
 3	jetzt	_	Word	Word	_	15	T	15:T	_
@@ -52,7 +51,7 @@
 48	Verfügung	_	Word	Word	_	45	flat	45:flat	_
 49	,	_	Punctuation	Punctuation	_	15	punct	15:punct	_
 50	und	_	Word	Word	_	15	L	15:L	_
-51	ich	_	Word	Word	_	52	A	52:A	_
+51	ich	_	Word	Word	_	52	A	52:A|56:A	_
 52	bitte	_	Word	Word	_	6	orphan	6:orphan	_
 53	um	_	Word	Word	_	54	R	54:R	_
 54	Erlaubnis	_	Word	Word	_	6	orphan	6:orphan	_

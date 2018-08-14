@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25777003
 # text = Ruhiger und weniger furchtsam als ihre Gattungs genossen im Norden , stellen sie nicht zur Hut ihrer Lager stätten Schildwachen aus .
-# doc_id = 
 1	Ruhiger	_	Word	Word	_	0	root	0:root	_
 2	und	_	Word	Word	_	1	N	1:N	_
 3	weniger	_	Word	Word	_	1	D	1:D	_
@@ -14,7 +13,7 @@
 10	Norden	_	Word	Word	_	1	orphan	1:orphan	_
 11	,	_	Punctuation	Punctuation	_	12	punct	12:punct	_
 12	stellen	_	Word	Word	_	1	orphan	1:orphan	_
-13	sie	_	Word	Word	_	12	A	12:A	_
+13	sie	_	Word	Word	_	12	A	12:A|1:A	_
 14	nicht	_	Word	Word	_	12	D	12:D	_
 15	zur	_	Word	Word	_	16	R	16:R	_
 16	Hut	_	Word	Word	_	1	orphan	1:orphan	_

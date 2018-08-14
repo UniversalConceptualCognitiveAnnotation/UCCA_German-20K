@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25817004
 # text = » Mein Herr « , sagte er zu mir in diesen Tagen , » es muß jetzt ein Ende haben , mein Gemüt muß davon frei werden . Ihr Nemo entfernt sich wieder vom Land und steuert dem Norden zu . Aber ich habe am Südpol satt bekommen und werde zum Nordpol nicht folgen . «
-# doc_id = 
 1	»	_	Punctuation	Punctuation	_	19	punct	19:punct	_
 2	Mein	_	Word	Word	_	3	E	3:E	_
 3	Herr	_	Word	Word	_	0	root	0:root	_
@@ -44,7 +43,7 @@
 40	zu	_	Word	Word	_	37	flat	37:flat	_
 41	.	_	Punctuation	Punctuation	_	19	punct	19:punct	_
 42	Aber	_	Word	Word	_	19	L	19:L	_
-43	ich	_	Word	Word	_	47	A	47:A	_
+43	ich	_	Word	Word	_	47	A	47:A|54:A	_
 44	habe	_	Word	Word	_	47	F	47:F	_
 45	am	_	Word	Word	_	46	R	46:R	_
 46	Südpol	_	Word	Word	_	3	orphan	3:orphan	_

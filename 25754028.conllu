@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25754028
 # text = » Weil « , sagte ich , » wenn meine Ahnungen mich nicht trügen , wenn ich die Existenz der ›Nautilus‹ recht verstehe , sie nicht bloß ein Schiff ist , sondern eine Zuflucht für diejenigen sein soll , die , wie sein Kommandant , alle Verbindungen mit der Erde abgeschnitten haben . «
-# doc_id = 
 1	»	_	Punctuation	Punctuation	_	14	punct	14:punct	_
 2	Weil	_	Word	Word	_	14	L	14:L	_
 3	«	_	Punctuation	Punctuation	_	5	punct	5:punct	_
@@ -26,7 +25,7 @@
 22	recht	_	Word	Word	_	23	D	23:D	_
 23	verstehe	_	Word	Word	_	5	orphan	5:orphan	_
 24	,	_	Punctuation	Punctuation	_	14	punct	14:punct	_
-25	sie	_	Word	Word	_	30	A	30:A	_
+25	sie	_	Word	Word	_	30	A	30:A|34:A	_
 26	nicht	_	Word	Word	_	30	D	30:D	_
 27	bloß	_	Word	Word	_	30	D	30:D	_
 28	ein	_	Word	Word	_	29	E	29:E	_

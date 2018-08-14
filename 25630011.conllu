@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25630011
 # text = » Sehr wohl . Zur Zeit der Ostpassatwinde verlieren die Paradiesvögel ihre prachtvollen Schwanz federn . Diese werden von den Fälschern gesammelt und einem zugestutzten Papagei geschickt angepaßt . Dann verstehen sie die Anfügung zu färben , firnissen den Vogel und schicken diese Erzeugnisse ihrer sonderbaren Industrie den Museen und Liebhabern in Europa zu . «
-# doc_id = 
 1	»	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 2	Sehr	_	Word	Word	_	3	E	3:E	_
 3	wohl	_	Word	Word	_	0	root	0:root	_
@@ -18,7 +17,7 @@
 14	Schwanz	_	Word	Word	_	15	E	15:E	_
 15	federn	_	Word	Word	_	3	orphan	3:orphan	_
 16	.	_	Punctuation	Punctuation	_	3	punct	3:punct	_
-17	Diese	_	Word	Word	_	22	A	22:A	_
+17	Diese	_	Word	Word	_	22	A	22:A|28:A	_
 18	werden	_	Word	Word	_	22	F	22:F	_
 19	von	_	Word	Word	_	21	R	21:R	_
 20	den	_	Word	Word	_	21	E	21:E	_
@@ -33,7 +32,7 @@
 29	.	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 30	Dann	_	Word	Word	_	3	L	3:L	_
 31	verstehen	_	Word	Word	_	36	D	36:D	_
-32	sie	_	Word	Word	_	36	A	36:A	_
+32	sie	_	Word	Word	_	36	A	36:A|42:A|38:A	_
 33	die	_	Word	Word	_	34	E	34:E	_
 34	Anfügung	_	Word	Word	_	3	orphan	3:orphan	_
 35	zu	_	Word	Word	_	36	F	36:F	_

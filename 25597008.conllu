@@ -1,13 +1,12 @@
 # format = ucca
 # sent_id = 25597008
 # text = Ich glaubte wahrzunehmen , dass wir nicht den gleichen Weg einschlugen , um wieder zur " Nautilus " zu kommen .
-# doc_id = 
 1	Ich	_	Word	Word	_	3	A	3:A	_
 2	glaubte	_	Word	Word	_	3	D	3:D	_
 3	wahrzunehmen	_	Word	Word	_	0	root	0:root	_
 4	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 5	dass	_	Word	Word	_	11	R	11:R	_
-6	wir	_	Word	Word	_	11	A	11:A	_
+6	wir	_	Word	Word	_	11	A	11:A|20:A	_
 7	nicht	_	Word	Word	_	11	D	11:D	_
 8	den	_	Word	Word	_	10	E	10:E	_
 9	gleichen	_	Word	Word	_	10	E	10:E	_

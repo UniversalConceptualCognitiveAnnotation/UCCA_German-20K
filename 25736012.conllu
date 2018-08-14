@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25736012
 # text = Diese erste etwa 9 Jahrhunderte alte athenische Stadt war von den Atlanten angegriffen und zum Teil zerstört worden .
-# doc_id = 
 1	Diese	_	Word	Word	_	7	E	7:E	_
 2	erste	_	Word	Word	_	7	E	7:E	_
 3	etwa	_	Word	Word	_	6	D	6:D	_
@@ -9,7 +8,7 @@
 5	Jahrhunderte	_	Word	Word	_	0	root	0:root	_
 6	alte	_	Word	Word	_	5	orphan	5:orphan	_
 7	athenische	_	Word	Word	_	5	orphan	5:orphan	_
-8	Stadt	_	Word	Word	_	7	E	7:E	_
+8	Stadt	_	Word	Word	_	7	E	7:E|6:A|17:A	_
 9	war	_	Word	Word	_	13	F	13:F	_
 10	von	_	Word	Word	_	12	R	12:R	_
 11	den	_	Word	Word	_	12	E	12:E	_

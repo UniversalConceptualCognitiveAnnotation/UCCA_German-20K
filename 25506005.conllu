@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25506005
 # text = » Herr Professor , dieselben Instrumente finden sich in meinem Zimmer , wo ich mir das Vergnügen machen will , ihren Gebrauch Ihnen zu erklären . Aber zuvor besuchen Sie die Ihnen vorbehaltene Kabine . Sie müssen doch Ihre Einrichtung an Bord der ›Nautilus‹ kennenlernen . «
-# doc_id = 
 1	»	_	Punctuation	Punctuation	_	7	punct	7:punct	_
 2	Herr	_	Word	Word	_	3	E	3:E	_
 3	Professor	_	Word	Word	_	0	root	0:root	_
@@ -15,7 +14,7 @@
 11	Zimmer	_	Word	Word	_	3	orphan	3:orphan	_
 12	,	_	Punctuation	Punctuation	_	7	punct	7:punct	_
 13	wo	_	Word	Word	_	16	R	16:R	_
-14	ich	_	Word	Word	_	16	A	16:A	_
+14	ich	_	Word	Word	_	16	A	16:A|25:A	_
 15	mir	_	Word	Word	_	16	A	16:A	_
 16	das	_	Word	Word	_	3	orphan	3:orphan	_
 17	Vergnügen	_	Word	Word	_	16	flat	16:flat	_

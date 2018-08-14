@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25448001
 # text = « » Also , Herr Natur forscher « , fuhr Ned Land mit etwas schelmischem Ton fort , » Sie beharren bei der Annahme , dass ein enormes See säugetier vorhanden sei ... ? « » Ja , Ned , ich wiederhole es mit einer Überzeugung , die sich auf die Logik der Tatsachen stützt . Ich glaube an die Existenz eines stark organisierten See säugetiers aus der Klasse der Wirbel tiere wie der Walfisch , Pottfisch und Delphin , das mit einer hörnernen Waffe von äußerster Stärke versehen ist .
-# doc_id = 
 1	«	_	Punctuation	Punctuation	_	10	punct	10:punct	_
 2	»	_	Punctuation	Punctuation	_	10	punct	10:punct	_
 3	Also	_	Word	Word	_	21	F	21:F	_
@@ -21,7 +20,7 @@
 17	fort	_	Word	Word	_	10	flat	10:flat	_
 18	,	_	Punctuation	Punctuation	_	10	punct	10:punct	_
 19	»	_	Punctuation	Punctuation	_	10	punct	10:punct	_
-20	Sie	_	Word	Word	_	21	A	21:A	_
+20	Sie	_	Word	Word	_	21	A	21:A|24:A	_
 21	beharren	_	Word	Word	_	7	orphan	7:orphan	_
 22	bei	_	Word	Word	_	24	R	24:R	_
 23	der	_	Word	Word	_	24	E	24:E	_
@@ -42,7 +41,7 @@
 38	,	_	Punctuation	Punctuation	_	37	punct	37:punct	_
 39	Ned	_	Word	Word	_	37	G	37:G	_
 40	,	_	Punctuation	Punctuation	_	37	punct	37:punct	_
-41	ich	_	Word	Word	_	42	A	42:A	_
+41	ich	_	Word	Word	_	42	A	42:A|46:A	_
 42	wiederhole	_	Word	Word	_	7	orphan	7:orphan	_
 43	es	_	Word	Word	_	42	A	42:A	_
 44	mit	_	Word	Word	_	46	R	46:R	_

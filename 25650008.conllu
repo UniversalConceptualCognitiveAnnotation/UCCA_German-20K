@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25650008
 # text = » Herr Arronax « , sagte sodann Kapitän Nemo , » würden Sie die Gefälligkeit haben , einem meiner Leute Ihren Rat zu erteilen ? «
-# doc_id = 
 1	»	_	Punctuation	Punctuation	_	15	punct	15:punct	_
 2	Herr	_	Word	Word	_	3	E	3:E	_
 3	Arronax	_	Word	Word	_	0	root	0:root	_
@@ -14,7 +13,7 @@
 10	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_
 11	»	_	Punctuation	Punctuation	_	6	punct	6:punct	_
 12	würden	_	Word	Word	_	15	F	15:F	_
-13	Sie	_	Word	Word	_	15	A	15:A	_
+13	Sie	_	Word	Word	_	15	A	15:A|24:A	_
 14	die	_	Word	Word	_	15	E	15:E	_
 15	Gefälligkeit	_	Word	Word	_	3	orphan	3:orphan	_
 16	haben	_	Word	Word	_	15	F	15:F	_

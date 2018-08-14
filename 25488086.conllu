@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25488086
 # text = Ich fühlte , dass man mich auf die Oberfläche zog , dass meine Brust wieder aufatmete , dann wurde ich ohnmächtig ... Gewiß bin ich durch das kräftige Reiben , womit man mich bearbeitete , bald wieder zu mir gekommen .
-# doc_id = 
 1	Ich	_	Word	Word	_	2	A	2:A	_
 2	fühlte	_	Word	Word	_	0	root	0:root	_
 3	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
@@ -33,7 +32,7 @@
 29	Reiben	_	Word	Word	_	2	orphan	2:orphan	_
 30	,	_	Punctuation	Punctuation	_	34	punct	34:punct	_
 31	womit	_	Word	Word	_	34	R	34:R	_
-32	man	_	Word	Word	_	34	A	34:A	_
+32	man	_	Word	Word	_	34	A	34:A|29:A	_
 33	mich	_	Word	Word	_	34	A	34:A	_
 34	bearbeitete	_	Word	Word	_	2	orphan	2:orphan	_
 35	,	_	Punctuation	Punctuation	_	38	punct	38:punct	_

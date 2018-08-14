@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25668013
 # text = » Zivilisierte Länder « , sagte damals Ned Land zu mir . » Das wird besser sein als Papuasien , wo man mehr Wilde als Wildbret antrifft ! Auf diesem indischen Land , Herr Professor , gibt ' s Land straßen , Eisen bahnen , englische , französische und Hindu - Städte . Da würde man keine 5 Meilen zu machen haben , um auf einen Lands mann zu stoßen . Nun ? Ist da nicht der rechte Zeitpunkt , sich von dem Kapitän im Stillen zu entfernen ? «
-# doc_id = 
 1	»	_	Punctuation	Punctuation	_	16	punct	16:punct	_
 2	Zivilisierte	_	Word	Word	_	3	E	3:E	_
 3	Länder	_	Word	Word	_	0	root	0:root	_
@@ -57,7 +56,7 @@
 53	.	_	Punctuation	Punctuation	_	16	punct	16:punct	_
 54	Da	_	Word	Word	_	61	A	61:A	_
 55	würde	_	Word	Word	_	61	D	61:D	_
-56	man	_	Word	Word	_	61	A	61:A	_
+56	man	_	Word	Word	_	61	A	61:A|70:A	_
 57	keine	_	Word	Word	_	61	D	61:D	_
 58	5	_	Word	Word	_	61	A	61:A	_
 59	Meilen	_	Word	Word	_	58	flat	58:flat	_

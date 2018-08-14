@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25410009
 # text = Die geistreichen Schriftsteller parodierten ein von den Gegnern des Ungeheuers zitiertes Wort Linné ' s , indem sie behaupteten , » die Natur schaffe keine Dummköpfe « , und beschworen ihre Zeitgenossen , nicht die Natur Lügen zu strafen , indem sie die Existenz des Kraken , der Seeschlangen , des » Moby-Dick « und andere Hirngespinste irrsinniger Seeleute gelten ließen .
-# doc_id = 
 1	Die	_	Word	Word	_	3	E	3:E	_
 2	geistreichen	_	Word	Word	_	3	E	3:E	_
 3	Schriftsteller	_	Word	Word	_	0	root	0:root	_
@@ -19,7 +18,7 @@
 15	s	_	Word	Word	_	13	R	13:R	_
 16	,	_	Punctuation	Punctuation	_	4	punct	4:punct	_
 17	indem	_	Word	Word	_	4	L	4:L	_
-18	sie	_	Word	Word	_	19	A	19:A	_
+18	sie	_	Word	Word	_	19	A	19:A|30:A	_
 19	behaupteten	_	Word	Word	_	3	orphan	3:orphan	_
 20	,	_	Punctuation	Punctuation	_	19	punct	19:punct	_
 21	»	_	Punctuation	Punctuation	_	19	punct	19:punct	_

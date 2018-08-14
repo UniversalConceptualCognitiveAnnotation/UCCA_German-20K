@@ -1,14 +1,13 @@
 # format = ucca
 # sent_id = 25836015
 # text = Stumm , düster , unversöhnlich schaute er durch das Fenster zur Linken .
-# doc_id = 
 1	Stumm	_	Word	Word	_	0	root	0:root	_
 2	,	_	Punctuation	Punctuation	_	1	punct	1:punct	_
 3	düster	_	Word	Word	_	1	C	1:C	_
 4	,	_	Punctuation	Punctuation	_	1	punct	1:punct	_
 5	unversöhnlich	_	Word	Word	_	1	C	1:C	_
 6	schaute	_	Word	Word	_	1	orphan	1:orphan	_
-7	er	_	Word	Word	_	6	A	6:A	_
+7	er	_	Word	Word	_	6	A	6:A|1:A	_
 8	durch	_	Word	Word	_	10	R	10:R	_
 9	das	_	Word	Word	_	10	E	10:E	_
 10	Fenster	_	Word	Word	_	1	orphan	1:orphan	_

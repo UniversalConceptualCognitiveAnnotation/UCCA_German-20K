@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25621007
 # text = » Fleisch ! « rief er wiederholt . » Nun werden wir wieder Fleisch essen , und was für Fleisch ! Echtes Wildbret ! Allerdings wohl kein Brot ! Ich will nicht sagen , ein Fisch gericht sei nicht etwas Gutes , aber man darf des Guten nicht zu viel tun , und ein Stück frisches Wildbret , über glühenden Kohlen auf dem Rost gebraten , gebe eine angenehme Abwechslung unseres Tischs . «
-# doc_id = 
 1	»	_	Punctuation	Punctuation	_	2	punct	2:punct	_
 2	Fleisch	_	Word	Word	_	0	root	0:root	_
 3	!	_	Punctuation	Punctuation	_	5	punct	5:punct	_
@@ -13,7 +12,7 @@
 9	»	_	Punctuation	Punctuation	_	5	punct	5:punct	_
 10	Nun	_	Word	Word	_	15	F	15:F	_
 11	werden	_	Word	Word	_	15	F	15:F	_
-12	wir	_	Word	Word	_	15	A	15:A	_
+12	wir	_	Word	Word	_	15	A	15:A|20:A|28:A|23:A	_
 13	wieder	_	Word	Word	_	15	D	15:D	_
 14	Fleisch	_	Word	Word	_	15	A	15:A	_
 15	essen	_	Word	Word	_	2	orphan	2:orphan	_

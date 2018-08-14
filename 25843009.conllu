@@ -1,12 +1,11 @@
 # format = ucca
 # sent_id = 25843009
 # text = In diesem Augenblick können wir nicht daran denken , nach Frankreich zurück zu kehren .
-# doc_id = 
 1	In	_	Word	Word	_	3	R	3:R	_
 2	diesem	_	Word	Word	_	3	E	3:E	_
 3	Augenblick	_	Word	Word	_	0	root	0:root	_
 4	können	_	Word	Word	_	8	D	8:D	_
-5	wir	_	Word	Word	_	8	A	8:A	_
+5	wir	_	Word	Word	_	8	A	8:A|12:A	_
 6	nicht	_	Word	Word	_	8	D	8:D	_
 7	daran	_	Word	Word	_	8	F	8:F	_
 8	denken	_	Word	Word	_	3	orphan	3:orphan	_

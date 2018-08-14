@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25682012
 # text = » Gewehre ! Wozu ? Bekämpfen Ihre Gebirgs bewohner nicht den Bären mit dem Dolch in der Hand , und ist nicht der Stahl eine zuverlässigere Waffe , als das Blei ? Hier ist eine gute Klinge , die stecken Sie in Ihren Gürtel , und nun vorwärts . «
-# doc_id = 
 1	»	_	Punctuation	Punctuation	_	2	punct	2:punct	_
 2	Gewehre	_	Word	Word	_	0	root	0:root	_
 3	!	_	Punctuation	Punctuation	_	2	punct	2:punct	_
@@ -22,7 +21,7 @@
 18	Hand	_	Word	Word	_	2	orphan	2:orphan	_
 19	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
 20	und	_	Word	Word	_	2	L	2:L	_
-21	ist	_	Word	Word	_	26	F	26:F	_
+21	ist	_	Word	Word	_	26	F	26:F|31:S	_
 22	nicht	_	Word	Word	_	26	D	26:D	_
 23	der	_	Word	Word	_	24	E	24:E	_
 24	Stahl	_	Word	Word	_	2	orphan	2:orphan	_

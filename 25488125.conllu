@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25488125
 # text = » So lange , als es sich horizontal bewegt « , brummte Ned Land , » hab' ich nichts dagegen zu sagen . Aber wenn es ihm einfällt unterzutauchen , so gäb' ich keine 2 Dollar für mein Leben !
-# doc_id = 
 1	»	_	Punctuation	Punctuation	_	7	punct	7:punct	_
 2	So	_	Word	Word	_	7	L	7:L	_
 3	lange	_	Word	Word	_	2	flat	2:flat	_
@@ -28,7 +27,7 @@
 24	Aber	_	Word	Word	_	7	L	7:L	_
 25	wenn	_	Word	Word	_	7	L	7:L	_
 26	es	_	Word	Word	_	28	F	28:F	_
-27	ihm	_	Word	Word	_	28	A	28:A	_
+27	ihm	_	Word	Word	_	28	A	28:A|29:A	_
 28	einfällt	_	Word	Word	_	7	orphan	7:orphan	_
 29	unterzutauchen	_	Word	Word	_	7	orphan	7:orphan	_
 30	,	_	Punctuation	Punctuation	_	7	punct	7:punct	_

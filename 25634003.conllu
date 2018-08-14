@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25634003
 # text = Gegen Mitternacht , als ich alles ruhig sah , sowohl auf den düsteren Wogen als unter den Bäumen am Ufer , begab ich mich in mein Schlaf gemach und schlief ruhig ein .
-# doc_id = 
 1	Gegen	_	Word	Word	_	2	E	2:E	_
 2	Mitternacht	_	Word	Word	_	0	root	0:root	_
 3	,	_	Punctuation	Punctuation	_	22	punct	22:punct	_
@@ -24,7 +23,7 @@
 20	Ufer	_	Word	Word	_	2	orphan	2:orphan	_
 21	,	_	Punctuation	Punctuation	_	22	punct	22:punct	_
 22	begab	_	Word	Word	_	2	orphan	2:orphan	_
-23	ich	_	Word	Word	_	22	A	22:A	_
+23	ich	_	Word	Word	_	22	A	22:A|30:A	_
 24	mich	_	Word	Word	_	22	flat	22:flat	_
 25	in	_	Word	Word	_	28	R	28:R	_
 26	mein	_	Word	Word	_	28	E	28:E	_

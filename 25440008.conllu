@@ -1,10 +1,9 @@
 # format = ucca
 # sent_id = 25440008
 # text = Man musste sie reden hören , disputieren , diskutieren , die verschiedenen möglichen Fälle bei einem Zusammentreffen in Berechnung ziehen , das weite Meer beobachten .
-# doc_id = 
 1	Man	_	Word	Word	_	5	A	5:A	_
 2	musste	_	Word	Word	_	5	D	5:D	_
-3	sie	_	Word	Word	_	4	A	4:A	_
+3	sie	_	Word	Word	_	4	A	4:A|18:A|9:A|25:A	_
 4	reden	_	Word	Word	_	0	root	0:root	_
 5	hören	_	Word	Word	_	4	orphan	4:orphan	_
 6	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_

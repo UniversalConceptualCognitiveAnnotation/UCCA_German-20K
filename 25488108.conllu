@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25488108
 # text = Er ließ , wenn man ihn anklopfte , einen Metall ton hören , und so unglaublich es auch war , er schien von eingebolzten Platten gemacht .
-# doc_id = 
 1	Er	_	Word	Word	_	12	A	12:A	_
 2	ließ	_	Word	Word	_	12	D	12:D	_
 3	,	_	Punctuation	Punctuation	_	12	punct	12:punct	_
@@ -22,7 +21,7 @@
 18	auch	_	Word	Word	_	16	F	16:F	_
 19	war	_	Word	Word	_	16	F	16:F	_
 20	,	_	Punctuation	Punctuation	_	12	punct	12:punct	_
-21	er	_	Word	Word	_	22	A	22:A	_
+21	er	_	Word	Word	_	22	A	22:A|26:A	_
 22	schien	_	Word	Word	_	7	orphan	7:orphan	_
 23	von	_	Word	Word	_	25	R	25:R	_
 24	eingebolzten	_	Word	Word	_	25	E	25:E	_

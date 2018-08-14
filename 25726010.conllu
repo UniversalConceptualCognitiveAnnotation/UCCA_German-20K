@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25726010
 # text = » Ich gebe acht , Kapitän « , sagte ich , » indem ich nicht wusste , wo er damit hinauswollte , und fragte mich , ob dieser Zwischenfall sich auf unser Flucht projekt beziehe .
-# doc_id = 
 1	»	_	Punctuation	Punctuation	_	9	punct	9:punct	_
 2	Ich	_	Word	Word	_	3	A	3:A	_
 3	gebe	_	Word	Word	_	0	root	0:root	_
@@ -15,7 +14,7 @@
 11	,	_	Punctuation	Punctuation	_	9	punct	9:punct	_
 12	»	_	Punctuation	Punctuation	_	9	punct	9:punct	_
 13	indem	_	Word	Word	_	9	L	9:L	_
-14	ich	_	Word	Word	_	16	A	16:A	_
+14	ich	_	Word	Word	_	16	A	16:A|24:A	_
 15	nicht	_	Word	Word	_	16	D	16:D	_
 16	wusste	_	Word	Word	_	3	orphan	3:orphan	_
 17	,	_	Punctuation	Punctuation	_	16	punct	16:punct	_

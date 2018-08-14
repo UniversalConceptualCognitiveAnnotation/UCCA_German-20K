@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25509000
 # text = » Herr Professor « , erwiderte Kapitän Nemo , » meine Elektrizität ist nicht die , welche jedermann kennt ; und das ist alles , was Sie mir Ihnen davon zu sagen gestatten wollen . «
-# doc_id = 
 1	»	_	Punctuation	Punctuation	_	13	punct	13:punct	_
 2	Herr	_	Word	Word	_	3	E	3:E	_
 3	Professor	_	Word	Word	_	0	root	0:root	_
@@ -29,7 +28,7 @@
 25	,	_	Punctuation	Punctuation	_	23	punct	23:punct	_
 26	was	_	Word	Word	_	33	R	33:R	_
 27	Sie	_	Word	Word	_	33	A	33:A	_
-28	mir	_	Word	Word	_	33	A	33:A	_
+28	mir	_	Word	Word	_	33	A	33:A|32:A	_
 29	Ihnen	_	Word	Word	_	32	A	32:A	_
 30	davon	_	Word	Word	_	32	A	32:A	_
 31	zu	_	Word	Word	_	32	F	32:F	_

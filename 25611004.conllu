@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25611004
 # text = Die " Recherche " warf , nachdem sie an verschiedenen anderen Punkten angehalten , am 7 . Juli 1827 vor Vanikoro Anker in demselben Hafen Vanou , wo die " Nautilus " eben lag .
-# doc_id = 
 1	Die	_	Word	Word	_	3	E	3:E	_
 2	"	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 3	Recherche	_	Word	Word	_	0	root	0:root	_
@@ -26,7 +25,7 @@
 22	Anker	_	Word	Word	_	5	flat	5:flat	_
 23	in	_	Word	Word	_	26	R	26:R	_
 24	demselben	_	Word	Word	_	26	E	26:E	_
-25	Hafen	_	Word	Word	_	26	E	26:E	_
+25	Hafen	_	Word	Word	_	26	E	26:E|34:A	_
 26	Vanou	_	Word	Word	_	3	orphan	3:orphan	_
 27	,	_	Punctuation	Punctuation	_	26	punct	26:punct	_
 28	wo	_	Word	Word	_	34	R	34:R	_

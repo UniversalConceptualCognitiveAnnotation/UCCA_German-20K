@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25791017
 # text = Um sie fort zu schaffen , hätte man Gefäße mit kaustischem Kali füllen und beständig rütteln müssen .
-# doc_id = 
 1	Um	_	Word	Word	_	3	L	3:L	_
 2	sie	_	Word	Word	_	3	A	3:A	_
 3	fort	_	Word	Word	_	0	root	0:root	_
@@ -9,7 +8,7 @@
 5	schaffen	_	Word	Word	_	3	flat	3:flat	_
 6	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 7	hätte	_	Word	Word	_	13	F	13:F	_
-8	man	_	Word	Word	_	13	A	13:A	_
+8	man	_	Word	Word	_	13	A	13:A|3:A	_
 9	Gefäße	_	Word	Word	_	13	A	13:A	_
 10	mit	_	Word	Word	_	12	R	12:R	_
 11	kaustischem	_	Word	Word	_	12	E	12:E	_

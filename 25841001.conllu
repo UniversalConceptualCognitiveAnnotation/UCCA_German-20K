@@ -1,14 +1,13 @@
 # format = ucca
 # sent_id = 25841001
 # text = Der Zeitpunkt war gekommen , wo ich mein Zimmer verlassen und zu meinen Gefährten mich begeben musste .
-# doc_id = 
 1	Der	_	Word	Word	_	2	E	2:E	_
 2	Zeitpunkt	_	Word	Word	_	0	root	0:root	_
 3	war	_	Word	Word	_	4	F	4:F	_
 4	gekommen	_	Word	Word	_	2	orphan	2:orphan	_
 5	,	_	Punctuation	Punctuation	_	4	punct	4:punct	_
 6	wo	_	Word	Word	_	10	R	10:R	_
-7	ich	_	Word	Word	_	10	A	10:A	_
+7	ich	_	Word	Word	_	10	A	10:A|15:A	_
 8	mein	_	Word	Word	_	9	E	9:E	_
 9	Zimmer	_	Word	Word	_	2	orphan	2:orphan	_
 10	verlassen	_	Word	Word	_	2	orphan	2:orphan	_
@@ -18,6 +17,6 @@
 14	Gefährten	_	Word	Word	_	2	orphan	2:orphan	_
 15	mich	_	Word	Word	_	2	orphan	2:orphan	_
 16	begeben	_	Word	Word	_	15	flat	15:flat	_
-17	musste	_	Word	Word	_	15	D	15:D	_
+17	musste	_	Word	Word	_	15	D	15:D|10:D	_
 18	.	_	Punctuation	Punctuation	_	10	punct	10:punct	_
 

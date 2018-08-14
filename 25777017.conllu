@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25777017
 # text = In der Tat , es war eben der 20 . März , und morgen , am Äquinoktial tag , sollte die Sonne , abgerechnet die Strahlen brechung , auf 6 Monate vom Horizont verschwinden und damit die lange Polarnacht beginnen .
-# doc_id = 
 1	In	_	Word	Word	_	6	G	6:G	_
 2	der	_	Word	Word	_	1	flat	1:flat	_
 3	Tat	_	Word	Word	_	1	flat	1:flat	_
@@ -21,7 +20,7 @@
 17	Äquinoktial	_	Word	Word	_	18	E	18:E	_
 18	tag	_	Word	Word	_	6	orphan	6:orphan	_
 19	,	_	Punctuation	Punctuation	_	34	punct	34:punct	_
-20	sollte	_	Word	Word	_	34	D	34:D	_
+20	sollte	_	Word	Word	_	34	D	34:D|40:D	_
 21	die	_	Word	Word	_	22	E	22:E	_
 22	Sonne	_	Word	Word	_	6	orphan	6:orphan	_
 23	,	_	Punctuation	Punctuation	_	24	punct	24:punct	_

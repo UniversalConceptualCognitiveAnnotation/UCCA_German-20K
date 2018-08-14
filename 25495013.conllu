@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25495013
 # text = « » Ja , mein Herr , und ich will sie Ihnen mitteilen . Es wäre möglich , dass gewisse unvorhergesehene Ereignisse mich nötigten , Sie auf Stunden oder Tage , nach Bedürfnis , in Ihrer Kabine einzuhalten . Da ich niemals Gewalt anzuwenden wünsche , erwarte ich in diesem Fall mehr wie in jedem andern willigen Gehorsam . Durch dieses Verfahren decke ich Ihre Verantwortlichkeit , entbinde Sie gänzlich , denn ich kann Sie in die Unmöglichkeit versezten , zu sehen , was nicht gesehen werden darf . Sind Sie mit diesen Bedingungen zufrieden ? «
-# doc_id = 
 1	«	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 2	»	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 3	Ja	_	Word	Word	_	0	root	0:root	_
@@ -49,7 +48,7 @@
 45	wünsche	_	Word	Word	_	44	D	44:D	_
 46	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 47	erwarte	_	Word	Word	_	3	orphan	3:orphan	_
-48	ich	_	Word	Word	_	47	A	47:A	_
+48	ich	_	Word	Word	_	47	A	47:A|55:A	_
 49	in	_	Word	Word	_	51	R	51:R	_
 50	diesem	_	Word	Word	_	51	E	51:E	_
 51	Fall	_	Word	Word	_	3	orphan	3:orphan	_
@@ -76,7 +75,7 @@
 72	denn	_	Word	Word	_	3	L	3:L	_
 73	ich	_	Word	Word	_	79	A	79:A	_
 74	kann	_	Word	Word	_	79	D	79:D	_
-75	Sie	_	Word	Word	_	79	A	79:A	_
+75	Sie	_	Word	Word	_	79	A	79:A|82:A	_
 76	in	_	Word	Word	_	78	R	78:R	_
 77	die	_	Word	Word	_	78	E	78:E	_
 78	Unmöglichkeit	_	Word	Word	_	3	orphan	3:orphan	_

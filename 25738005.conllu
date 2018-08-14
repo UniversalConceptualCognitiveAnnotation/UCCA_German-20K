@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25738005
 # text = Um 4 Uhr abends zeigte das Erdreich , das im allgemeinen aus dichtem Schlamm mit mineralisiertem Gezweig vermischt bestand , allmählich eine andere Beschaffenheit ; es wurde steinig und schien bedeckt mit einem Gemenge von Basalttuff mit einigen Lagen Lava mit schwefligem Obsidian .
-# doc_id = 
 1	Um	_	Word	Word	_	4	R	4:R	_
 2	4	_	Word	Word	_	3	E	3:E	_
 3	Uhr	_	Word	Word	_	0	root	0:root	_
@@ -28,7 +27,7 @@
 24	Beschaffenheit	_	Word	Word	_	3	orphan	3:orphan	_
 25	;	_	Punctuation	Punctuation	_	5	punct	5:punct	_
 26	es	_	Word	Word	_	28	A	28:A	_
-27	wurde	_	Word	Word	_	28	F	28:F	_
+27	wurde	_	Word	Word	_	28	F	28:F|30:A	_
 28	steinig	_	Word	Word	_	3	orphan	3:orphan	_
 29	und	_	Word	Word	_	5	L	5:L	_
 30	schien	_	Word	Word	_	3	orphan	3:orphan	_

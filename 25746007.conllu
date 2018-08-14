@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25746007
 # text = » Was geht denn vor ? « fragte Conseil . » Ist ' s ein neues Phänomen ? « » Nein ! meine Freunde « , erwiderte ich , » es ist die Flut , nichts weiter . Der Ozean schwillt draußen an , und nach dem Naturgesetz muß auch der Wasserspiegel des Sees steigen . Wir sind mit einem kleinen Bade davongekommen . Wir wollen zur ›Nautilus‹ und uns umkleiden . «
-# doc_id = 
 1	»	_	Punctuation	Punctuation	_	8	punct	8:punct	_
 2	Was	_	Word	Word	_	3	A	3:A	_
 3	geht	_	Word	Word	_	0	root	0:root	_
@@ -67,7 +66,7 @@
 63	davongekommen	_	Word	Word	_	3	orphan	3:orphan	_
 64	.	_	Punctuation	Punctuation	_	21	punct	21:punct	_
 65	Wir	_	Word	Word	_	3	orphan	3:orphan	_
-66	wollen	_	Word	Word	_	65	D	65:D	_
+66	wollen	_	Word	Word	_	65	D	65:D|70:D	_
 67	zur	_	Word	Word	_	68	R	68:R	_
 68	›Nautilus‹	_	Word	Word	_	3	orphan	3:orphan	_
 69	und	_	Word	Word	_	21	L	21:L	_

@@ -1,12 +1,11 @@
 # format = ucca
 # sent_id = 25623007
 # text = » Freund Conseil , ich liebe Sie sehr , doch nicht so arg , um ohne Not Sie auf zu zehren . «
-# doc_id = 
 1	»	_	Punctuation	Punctuation	_	6	punct	6:punct	_
 2	Freund	_	Word	Word	_	3	E	3:E	_
 3	Conseil	_	Word	Word	_	0	root	0:root	_
 4	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_
-5	ich	_	Word	Word	_	6	A	6:A	_
+5	ich	_	Word	Word	_	6	A	6:A|19:A|11:A	_
 6	liebe	_	Word	Word	_	3	orphan	3:orphan	_
 7	Sie	_	Word	Word	_	6	A	6:A	_
 8	sehr	_	Word	Word	_	6	D	6:D	_

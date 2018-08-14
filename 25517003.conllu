@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25517003
 # text = » Ich lasse Ihre Berechnungen gelten , Kapitän « , erwiderte ich , » und es würde mir schwerfallen , ihnen zu widersprechen , weil die Erfahrung sie täglich bestätigt . Doch fühle ich mich nun einer wirklichen Schwierigkeit gegenüber .
-# doc_id = 
 1	»	_	Punctuation	Punctuation	_	6	punct	6:punct	_
 2	Ich	_	Word	Word	_	6	A	6:A	_
 3	lasse	_	Word	Word	_	6	D	6:D	_
@@ -19,7 +18,7 @@
 15	und	_	Word	Word	_	6	L	6:L	_
 16	es	_	Word	Word	_	19	F	19:F	_
 17	würde	_	Word	Word	_	19	D	19:D	_
-18	mir	_	Word	Word	_	19	A	19:A	_
+18	mir	_	Word	Word	_	19	A	19:A|23:A	_
 19	schwerfallen	_	Word	Word	_	5	orphan	5:orphan	_
 20	,	_	Punctuation	Punctuation	_	19	punct	19:punct	_
 21	ihnen	_	Word	Word	_	23	A	23:A	_

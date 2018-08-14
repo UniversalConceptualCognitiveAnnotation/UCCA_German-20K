@@ -1,8 +1,7 @@
 # format = ucca
 # sent_id = 25693006
 # text = Sie hielt sich bei einer mittleren Geschwindigkeit bald auf der Oberfläche , bald tauchte sie , um einem Schiff aus zu weichen , unter , und ich konnte also das merkwürdige Meer in seiner Tiefe und auf seiner Oberfläche beobachten .
-# doc_id = 
-1	Sie	_	Word	Word	_	2	A	2:A	_
+1	Sie	_	Word	Word	_	2	A	2:A|7:A	_
 2	hielt	_	Word	Word	_	0	root	0:root	_
 3	sich	_	Word	Word	_	2	flat	2:flat	_
 4	bei	_	Word	Word	_	7	R	7:R	_
@@ -16,7 +15,7 @@
 12	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
 13	bald	_	Word	Word	_	2	L	2:L	_
 14	tauchte	_	Word	Word	_	2	orphan	2:orphan	_
-15	sie	_	Word	Word	_	14	A	14:A	_
+15	sie	_	Word	Word	_	14	A	14:A|20:A	_
 16	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
 17	um	_	Word	Word	_	2	L	2:L	_
 18	einem	_	Word	Word	_	19	E	19:E	_

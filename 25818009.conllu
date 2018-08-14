@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25818009
 # text = » Herr Arronax , wollen Sie , dass ich ihn selbst aufsuche ? « » Nein . Lassen Sie mich gewähren , morgen ... «
-# doc_id = 
 1	»	_	Punctuation	Punctuation	_	5	punct	5:punct	_
 2	Herr	_	Word	Word	_	3	E	3:E	_
 3	Arronax	_	Word	Word	_	0	root	0:root	_
@@ -12,7 +11,7 @@
 8	dass	_	Word	Word	_	12	R	12:R	_
 9	ich	_	Word	Word	_	12	A	12:A	_
 10	ihn	_	Word	Word	_	12	A	12:A	_
-11	selbst	_	Word	Word	_	12	D	12:D	_
+11	selbst	_	Word	Word	_	12	D	12:D|16:A	_
 12	aufsuche	_	Word	Word	_	3	orphan	3:orphan	_
 13	?	_	Punctuation	Punctuation	_	16	punct	16:punct	_
 14	«	_	Punctuation	Punctuation	_	16	punct	16:punct	_

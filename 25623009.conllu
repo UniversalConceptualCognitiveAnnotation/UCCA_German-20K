@@ -1,12 +1,11 @@
 # format = ucca
 # sent_id = 25623009
 # text = Während dieser Unterhaltung drangen wir unter düsterem Gewölbe tiefer in den Wald und durchstreiften ihn 2 Stunden lang in allen Richtungen .
-# doc_id = 
 1	Während	_	Word	Word	_	3	L	3:L	_
 2	dieser	_	Word	Word	_	3	E	3:E	_
 3	Unterhaltung	_	Word	Word	_	0	root	0:root	_
 4	drangen	_	Word	Word	_	3	orphan	3:orphan	_
-5	wir	_	Word	Word	_	4	A	4:A	_
+5	wir	_	Word	Word	_	4	A	4:A|3:A|14:A	_
 6	unter	_	Word	Word	_	8	R	8:R	_
 7	düsterem	_	Word	Word	_	8	E	8:E	_
 8	Gewölbe	_	Word	Word	_	3	orphan	3:orphan	_

@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 25721011
 # text = » Diesen Abend um 9 Uhr . Ich hab ' s Conseil schon gesagt . Dann wird Kapitän Nemo in seiner Kammer sein und wahrscheinlich schon zu Bett . Weder die Maschinisten noch jemand von der Mannschaft kann uns sehen . Conseil und ich werden uns auf die Zentralleiter begeben ; Sie , Herr Arronax , werden in der Bibliothek sich aufhalten und auf mein Signal warten . Ruder , Mast und Segel befinden sich schon im Boot . Ich habe sogar einige Lebensmittel hingeschafft . Ich habe mir einen Schraubenschlüssel verschafft , um das Boot von der ›Nautilus‹ loszumachen . So ist alles vorbereitet . Also diesen Abend . «
-# doc_id = 
 1	»	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 2	Diesen	_	Word	Word	_	3	E	3:E	_
 3	Abend	_	Word	Word	_	0	root	0:root	_
@@ -53,7 +52,7 @@
 49	Zentralleiter	_	Word	Word	_	3	orphan	3:orphan	_
 50	begeben	_	Word	Word	_	46	flat	46:flat	_
 51	;	_	Punctuation	Punctuation	_	3	punct	3:punct	_
-52	Sie	_	Word	Word	_	61	A	61:A	_
+52	Sie	_	Word	Word	_	61	A	61:A|67:A	_
 53	,	_	Punctuation	Punctuation	_	61	punct	61:punct	_
 54	Herr	_	Word	Word	_	55	E	55:E	_
 55	Arronax	_	Word	Word	_	3	orphan	3:orphan	_
@@ -88,7 +87,7 @@
 84	Lebensmittel	_	Word	Word	_	3	orphan	3:orphan	_
 85	hingeschafft	_	Word	Word	_	3	orphan	3:orphan	_
 86	.	_	Punctuation	Punctuation	_	3	punct	3:punct	_
-87	Ich	_	Word	Word	_	92	A	92:A	_
+87	Ich	_	Word	Word	_	92	A	92:A|100:A	_
 88	habe	_	Word	Word	_	92	F	92:F	_
 89	mir	_	Word	Word	_	92	A	92:A	_
 90	einen	_	Word	Word	_	91	E	91:E	_
