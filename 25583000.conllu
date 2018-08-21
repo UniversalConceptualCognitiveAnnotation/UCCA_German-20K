@@ -1,11 +1,11 @@
 # format = ucca
 # sent_id = 25583000
 # text = » Nautron respoc lorni virch . «
-1	»	_	Punctuation	Punctuation	_	2	punct	2:punct	_
+1	»	_	Punctuation	Punctuation	_	2	U	2:U	_
 2	Nautron	_	Word	Word	_	0	root	0:root	_
-3	respoc	_	Word	Word	_	2	flat	2:flat	_
-4	lorni	_	Word	Word	_	2	flat	2:flat	_
-5	virch	_	Word	Word	_	2	flat	2:flat	_
-6	.	_	Punctuation	Punctuation	_	2	punct	2:punct	_
-7	«	_	Punctuation	Punctuation	_	2	punct	2:punct	_
+3	respoc	_	Word	Word	_	2	Terminal	2:Terminal	_
+4	lorni	_	Word	Word	_	2	Terminal	2:Terminal	_
+5	virch	_	Word	Word	_	2	Terminal	2:Terminal	_
+6	.	_	Punctuation	Punctuation	_	2	U	2:U	_
+7	«	_	Punctuation	Punctuation	_	2	U	2:U	_
 

@@ -1,26 +1,26 @@
 # format = ucca
 # sent_id = 25511012
 # text = » Allerdings . Ein treffliches Fahrzeug , leicht und ohne unterzusinken , das uns zur Spazier fahrt und zum Fischen dient .
-1	»	_	Punctuation	Punctuation	_	2	punct	2:punct	_
+1	»	_	Punctuation	Punctuation	_	2	U	2:U	_
 2	Allerdings	_	Word	Word	_	0	root	0:root	_
-3	.	_	Punctuation	Punctuation	_	2	punct	2:punct	_
+3	.	_	Punctuation	Punctuation	_	2	U	2:U	_
 4	Ein	_	Word	Word	_	6	E	6:E	_
-5	treffliches	_	Word	Word	_	2	orphan	2:orphan	_
+5	treffliches	_	Word	Word	_	2	H	2:H	_
 6	Fahrzeug	_	Word	Word	_	2	orphan	2:orphan	_
-7	,	_	Punctuation	Punctuation	_	8	punct	8:punct	_
-8	leicht	_	Word	Word	_	2	orphan	2:orphan	_
+7	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+8	leicht	_	Word	Word	_	2	H	2:H	_
 9	und	_	Word	Word	_	8	N	8:N	_
 10	ohne	_	Word	Word	_	11	E	11:E	_
-11	unterzusinken	_	Word	Word	_	2	orphan	2:orphan	_
-12	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
+11	unterzusinken	_	Word	Word	_	8	C	8:C	_
+12	,	_	Punctuation	Punctuation	_	2	U	2:U	_
 13	das	_	Word	Word	_	21	R	21:R	_
 14	uns	_	Word	Word	_	21	A	21:A	_
 15	zur	_	Word	Word	_	17	R	17:R	_
 16	Spazier	_	Word	Word	_	17	E	17:E	_
-17	fahrt	_	Word	Word	_	2	orphan	2:orphan	_
+17	fahrt	_	Word	Word	_	21	A	21:A	_
 18	und	_	Word	Word	_	17	N	17:N	_
 19	zum	_	Word	Word	_	20	R	20:R	_
-20	Fischen	_	Word	Word	_	2	orphan	2:orphan	_
-21	dient	_	Word	Word	_	2	orphan	2:orphan	_
-22	.	_	Punctuation	Punctuation	_	21	punct	21:punct	_
+20	Fischen	_	Word	Word	_	17	C	17:C	_
+21	dient	_	Word	Word	_	6	E	6:E	_
+22	.	_	Punctuation	Punctuation	_	21	U	21:U	_
 

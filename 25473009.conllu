@@ -1,26 +1,26 @@
 # format = ucca
 # sent_id = 25473009
 # text = » Ned Land « , fragte der Kommandant , » Sie haben wohl oft das brausende Zischen der Walfische gehört ? «
-1	»	_	Punctuation	Punctuation	_	20	punct	20:punct	_
+1	»	_	Punctuation	Punctuation	_	20	U	20:U	_
 2	Ned	_	Word	Word	_	20	G	20:G	_
-3	Land	_	Word	Word	_	2	flat	2:flat	_
-4	«	_	Punctuation	Punctuation	_	6	punct	6:punct	_
-5	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_
+3	Land	_	Word	Word	_	2	Terminal	2:Terminal	_
+4	«	_	Punctuation	Punctuation	_	6	U	6:U	_
+5	,	_	Punctuation	Punctuation	_	6	U	6:U	_
 6	fragte	_	Word	Word	_	0	root	0:root	_
 7	der	_	Word	Word	_	8	E	8:E	_
-8	Kommandant	_	Word	Word	_	6	orphan	6:orphan	_
-9	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_
-10	»	_	Punctuation	Punctuation	_	6	punct	6:punct	_
+8	Kommandant	_	Word	Word	_	6	A	6:A	_
+9	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+10	»	_	Punctuation	Punctuation	_	6	U	6:U	_
 11	Sie	_	Word	Word	_	20	A	20:A	_
 12	haben	_	Word	Word	_	20	F	20:F	_
 13	wohl	_	Word	Word	_	20	G	20:G	_
 14	oft	_	Word	Word	_	20	D	20:D	_
 15	das	_	Word	Word	_	17	E	17:E	_
 16	brausende	_	Word	Word	_	17	E	17:E	_
-17	Zischen	_	Word	Word	_	6	orphan	6:orphan	_
+17	Zischen	_	Word	Word	_	20	A	20:A	_
 18	der	_	Word	Word	_	19	E	19:E	_
-19	Walfische	_	Word	Word	_	6	orphan	6:orphan	_
-20	gehört	_	Word	Word	_	6	orphan	6:orphan	_
-21	?	_	Punctuation	Punctuation	_	20	punct	20:punct	_
-22	«	_	Punctuation	Punctuation	_	20	punct	20:punct	_
+19	Walfische	_	Word	Word	_	17	E	17:E	_
+20	gehört	_	Word	Word	_	6	A	6:A	_
+21	?	_	Punctuation	Punctuation	_	20	U	20:U	_
+22	«	_	Punctuation	Punctuation	_	20	U	20:U	_
 

@@ -1,25 +1,25 @@
 # format = ucca
 # sent_id = 25524010
 # text = » Wo sind wir ? Wo sind wir ? « rief der Kanadier . » Im Museum zu Quebec ? «
-1	»	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+1	»	_	Punctuation	Punctuation	_	3	U	3:U	_
 2	Wo	_	Word	Word	_	3	A	3:A	_
-3	sind	_	Word	Word	_	0	root	0:root	_
+3	sind	_	Word	Word	_	11	A	11:A	_
 4	wir	_	Word	Word	_	3	A	3:A	_
-5	?	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+5	?	_	Punctuation	Punctuation	_	3	U	3:U	_
 6	Wo	_	Word	Word	_	7	A	7:A	_
-7	sind	_	Word	Word	_	3	orphan	3:orphan	_
+7	sind	_	Word	Word	_	3	H	3:H	_
 8	wir	_	Word	Word	_	7	A	7:A|17:A	_
-9	?	_	Punctuation	Punctuation	_	11	punct	11:punct	_
-10	«	_	Punctuation	Punctuation	_	11	punct	11:punct	_
-11	rief	_	Word	Word	_	3	orphan	3:orphan	_
+9	?	_	Punctuation	Punctuation	_	11	U	11:U	_
+10	«	_	Punctuation	Punctuation	_	11	U	11:U	_
+11	rief	_	Word	Word	_	0	root	0:root	_
 12	der	_	Word	Word	_	13	E	13:E	_
-13	Kanadier	_	Word	Word	_	3	orphan	3:orphan	_
-14	.	_	Punctuation	Punctuation	_	11	punct	11:punct	_
-15	»	_	Punctuation	Punctuation	_	11	punct	11:punct	_
+13	Kanadier	_	Word	Word	_	11	A	11:A	_
+14	.	_	Punctuation	Punctuation	_	11	U	11:U	_
+15	»	_	Punctuation	Punctuation	_	11	U	11:U	_
 16	Im	_	Word	Word	_	17	R	17:R	_
-17	Museum	_	Word	Word	_	3	orphan	3:orphan	_
+17	Museum	_	Word	Word	_	3	H	3:H	_
 18	zu	_	Word	Word	_	19	R	19:R	_
-19	Quebec	_	Word	Word	_	3	orphan	3:orphan	_
-20	?	_	Punctuation	Punctuation	_	19	punct	19:punct	_
-21	«	_	Punctuation	Punctuation	_	19	punct	19:punct	_
+19	Quebec	_	Word	Word	_	17	E	17:E	_
+20	?	_	Punctuation	Punctuation	_	19	U	19:U	_
+21	«	_	Punctuation	Punctuation	_	19	U	19:U	_
 

@@ -1,13 +1,13 @@
 # format = ucca
 # sent_id = 25729022
 # text = » Ich weiß nicht « , erwiderte Ned .
-1	»	_	Punctuation	Punctuation	_	7	punct	7:punct	_
+1	»	_	Punctuation	Punctuation	_	7	U	7:U	_
 2	Ich	_	Word	Word	_	3	A	3:A	_
-3	weiß	_	Word	Word	_	0	root	0:root	_
+3	weiß	_	Word	Word	_	7	A	7:A	_
 4	nicht	_	Word	Word	_	3	D	3:D	_
-5	«	_	Punctuation	Punctuation	_	7	punct	7:punct	_
-6	,	_	Punctuation	Punctuation	_	7	punct	7:punct	_
-7	erwiderte	_	Word	Word	_	3	orphan	3:orphan	_
+5	«	_	Punctuation	Punctuation	_	7	U	7:U	_
+6	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+7	erwiderte	_	Word	Word	_	0	root	0:root	_
 8	Ned	_	Word	Word	_	7	A	7:A	_
-9	.	_	Punctuation	Punctuation	_	7	punct	7:punct	_
+9	.	_	Punctuation	Punctuation	_	7	U	7:U	_
 

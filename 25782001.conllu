@@ -3,25 +3,25 @@
 # text = Ich richtete mich auf und horchte in dem Dunkel , als ich mit einem heftigen Ruck mitten in das Zimmer geschleudert wurde .
 1	Ich	_	Word	Word	_	2	A	2:A|6:A	_
 2	richtete	_	Word	Word	_	0	root	0:root	_
-3	mich	_	Word	Word	_	2	flat	2:flat	_
-4	auf	_	Word	Word	_	2	flat	2:flat	_
+3	mich	_	Word	Word	_	2	Terminal	2:Terminal	_
+4	auf	_	Word	Word	_	2	Terminal	2:Terminal	_
 5	und	_	Word	Word	_	2	L	2:L	_
-6	horchte	_	Word	Word	_	2	orphan	2:orphan	_
+6	horchte	_	Word	Word	_	2	H	2:H	_
 7	in	_	Word	Word	_	9	R	9:R	_
 8	dem	_	Word	Word	_	9	E	9:E	_
-9	Dunkel	_	Word	Word	_	2	orphan	2:orphan	_
-10	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
+9	Dunkel	_	Word	Word	_	6	A	6:A	_
+10	,	_	Punctuation	Punctuation	_	2	U	2:U	_
 11	als	_	Word	Word	_	2	L	2:L	_
 12	ich	_	Word	Word	_	21	A	21:A	_
 13	mit	_	Word	Word	_	16	R	16:R	_
 14	einem	_	Word	Word	_	16	E	16:E	_
 15	heftigen	_	Word	Word	_	16	E	16:E	_
-16	Ruck	_	Word	Word	_	2	orphan	2:orphan	_
+16	Ruck	_	Word	Word	_	21	A	21:A	_
 17	mitten	_	Word	Word	_	21	D	21:D	_
 18	in	_	Word	Word	_	20	R	20:R	_
 19	das	_	Word	Word	_	20	E	20:E	_
-20	Zimmer	_	Word	Word	_	2	orphan	2:orphan	_
-21	geschleudert	_	Word	Word	_	2	orphan	2:orphan	_
+20	Zimmer	_	Word	Word	_	21	A	21:A	_
+21	geschleudert	_	Word	Word	_	2	H	2:H	_
 22	wurde	_	Word	Word	_	21	F	21:F	_
-23	.	_	Punctuation	Punctuation	_	21	punct	21:punct	_
+23	.	_	Punctuation	Punctuation	_	21	U	21:U	_
 

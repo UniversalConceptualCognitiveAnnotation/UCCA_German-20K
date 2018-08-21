@@ -1,22 +1,22 @@
 # format = ucca
 # sent_id = 25715006
 # text = » Oh , Herr Professor , diese Hitze wird nur dann steigen , wenn wir wollen . «
-1	»	_	Punctuation	Punctuation	_	12	punct	12:punct	_
+1	»	_	Punctuation	Punctuation	_	12	U	12:U	_
 2	Oh	_	Word	Word	_	12	F	12:F	_
-3	,	_	Punctuation	Punctuation	_	12	punct	12:punct	_
+3	,	_	Punctuation	Punctuation	_	12	U	12:U	_
 4	Herr	_	Word	Word	_	5	E	5:E	_
-5	Professor	_	Word	Word	_	0	root	0:root	_
-6	,	_	Punctuation	Punctuation	_	12	punct	12:punct	_
+5	Professor	_	Word	Word	_	12	G	12:G	_
+6	,	_	Punctuation	Punctuation	_	12	U	12:U	_
 7	diese	_	Word	Word	_	8	E	8:E	_
-8	Hitze	_	Word	Word	_	5	orphan	5:orphan	_
+8	Hitze	_	Word	Word	_	12	A	12:A	_
 9	wird	_	Word	Word	_	12	F	12:F	_
 10	nur	_	Word	Word	_	12	D	12:D	_
 11	dann	_	Word	Word	_	12	D	12:D	_
-12	steigen	_	Word	Word	_	5	orphan	5:orphan	_
-13	,	_	Punctuation	Punctuation	_	12	punct	12:punct	_
+12	steigen	_	Word	Word	_	0	root	0:root	_
+13	,	_	Punctuation	Punctuation	_	12	U	12:U	_
 14	wenn	_	Word	Word	_	12	L	12:L	_
 15	wir	_	Word	Word	_	16	A	16:A	_
-16	wollen	_	Word	Word	_	5	orphan	5:orphan	_
-17	.	_	Punctuation	Punctuation	_	16	punct	16:punct	_
-18	«	_	Punctuation	Punctuation	_	16	punct	16:punct	_
+16	wollen	_	Word	Word	_	12	H	12:H	_
+17	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+18	«	_	Punctuation	Punctuation	_	16	U	16:U	_
 

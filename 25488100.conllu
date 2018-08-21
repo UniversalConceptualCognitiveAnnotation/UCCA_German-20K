@@ -1,21 +1,21 @@
 # format = ucca
 # sent_id = 25488100
 # text = « Ich muß hier meinen Geist sammeln , meine Erinnerungen wiederbeleben , meine Aussagen selbst kontrollieren .
-1	«	_	Punctuation	Punctuation	_	16	punct	16:punct	_
+1	«	_	Punctuation	Punctuation	_	16	U	16:U	_
 2	Ich	_	Word	Word	_	7	A	7:A|11:A|16:A	_
-3	muß	_	Word	Word	_	7	D	7:D|11:D|16:D	_
+3	muß	_	Word	Word	_	7	D	7:D|16:D|11:D	_
 4	hier	_	Word	Word	_	7	D	7:D	_
 5	meinen	_	Word	Word	_	6	R	6:R	_
-6	Geist	_	Word	Word	_	0	root	0:root	_
-7	sammeln	_	Word	Word	_	6	orphan	6:orphan	_
-8	,	_	Punctuation	Punctuation	_	7	punct	7:punct	_
+6	Geist	_	Word	Word	_	7	A	7:A	_
+7	sammeln	_	Word	Word	_	0	root	0:root	_
+8	,	_	Punctuation	Punctuation	_	7	U	7:U	_
 9	meine	_	Word	Word	_	10	R	10:R	_
-10	Erinnerungen	_	Word	Word	_	6	orphan	6:orphan	_
-11	wiederbeleben	_	Word	Word	_	6	orphan	6:orphan	_
-12	,	_	Punctuation	Punctuation	_	7	punct	7:punct	_
+10	Erinnerungen	_	Word	Word	_	11	A	11:A	_
+11	wiederbeleben	_	Word	Word	_	7	H	7:H	_
+12	,	_	Punctuation	Punctuation	_	7	U	7:U	_
 13	meine	_	Word	Word	_	14	R	14:R	_
-14	Aussagen	_	Word	Word	_	6	orphan	6:orphan	_
+14	Aussagen	_	Word	Word	_	16	A	16:A	_
 15	selbst	_	Word	Word	_	16	D	16:D	_
-16	kontrollieren	_	Word	Word	_	6	orphan	6:orphan	_
-17	.	_	Punctuation	Punctuation	_	16	punct	16:punct	_
+16	kontrollieren	_	Word	Word	_	7	H	7:H	_
+17	.	_	Punctuation	Punctuation	_	16	U	16:U	_
 

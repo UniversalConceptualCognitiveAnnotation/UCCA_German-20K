@@ -1,21 +1,21 @@
 # format = ucca
 # sent_id = 25647009
 # text = » Sie haben zu befehlen « , erwiderte ich und sah ihn mit festem Blick an .
-1	»	_	Punctuation	Punctuation	_	8	punct	8:punct	_
+1	»	_	Punctuation	Punctuation	_	8	U	8:U	_
 2	Sie	_	Word	Word	_	5	A	5:A	_
 3	haben	_	Word	Word	_	5	D	5:D	_
 4	zu	_	Word	Word	_	5	F	5:F	_
-5	befehlen	_	Word	Word	_	0	root	0:root	_
-6	«	_	Punctuation	Punctuation	_	8	punct	8:punct	_
-7	,	_	Punctuation	Punctuation	_	8	punct	8:punct	_
-8	erwiderte	_	Word	Word	_	5	orphan	5:orphan	_
+5	befehlen	_	Word	Word	_	8	A	8:A	_
+6	«	_	Punctuation	Punctuation	_	8	U	8:U	_
+7	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+8	erwiderte	_	Word	Word	_	0	root	0:root	_
 9	ich	_	Word	Word	_	8	A	8:A	_
 10	und	_	Word	Word	_	8	L	8:L	_
-11	sah	_	Word	Word	_	5	orphan	5:orphan	_
+11	sah	_	Word	Word	_	8	H	8:H	_
 12	ihn	_	Word	Word	_	11	A	11:A	_
 13	mit	_	Word	Word	_	15	R	15:R	_
 14	festem	_	Word	Word	_	15	E	15:E	_
-15	Blick	_	Word	Word	_	5	orphan	5:orphan	_
-16	an	_	Word	Word	_	11	flat	11:flat	_
-17	.	_	Punctuation	Punctuation	_	11	punct	11:punct	_
+15	Blick	_	Word	Word	_	11	A	11:A	_
+16	an	_	Word	Word	_	11	Terminal	11:Terminal	_
+17	.	_	Punctuation	Punctuation	_	11	U	11:U	_
 

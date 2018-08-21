@@ -1,24 +1,24 @@
 # format = ucca
 # sent_id = 25615008
 # text = » Danke , Conseil . Nur muß ich dich bitten , die Frage des Neujahrs geschenks zu verschieben und es einstweilen durch einen herzlichen Hand schlag ersetzen zu lassen . Etwas anderes hab' ich nicht bei mir . «
-1	»	_	Punctuation	Punctuation	_	2	punct	2:punct	_
+1	»	_	Punctuation	Punctuation	_	2	U	2:U	_
 2	Danke	_	Word	Word	_	0	root	0:root	_
-3	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
+3	,	_	Punctuation	Punctuation	_	2	U	2:U	_
 4	Conseil	_	Word	Word	_	2	G	2:G	_
-5	.	_	Punctuation	Punctuation	_	2	punct	2:punct	_
+5	.	_	Punctuation	Punctuation	_	2	U	2:U	_
 6	Nur	_	Word	Word	_	10	D	10:D	_
 7	muß	_	Word	Word	_	10	D	10:D	_
 8	ich	_	Word	Word	_	10	A	10:A	_
-9	dich	_	Word	Word	_	10	A	10:A|18:A|27:A	_
-10	bitten	_	Word	Word	_	2	orphan	2:orphan	_
-11	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
+9	dich	_	Word	Word	_	10	A	10:A|27:A|18:A	_
+10	bitten	_	Word	Word	_	2	H	2:H	_
+11	,	_	Punctuation	Punctuation	_	2	U	2:U	_
 12	die	_	Word	Word	_	13	E	13:E	_
-13	Frage	_	Word	Word	_	2	orphan	2:orphan	_
+13	Frage	_	Word	Word	_	18	A	18:A	_
 14	des	_	Word	Word	_	16	R	16:R	_
 15	Neujahrs	_	Word	Word	_	16	E	16:E	_
-16	geschenks	_	Word	Word	_	2	orphan	2:orphan	_
+16	geschenks	_	Word	Word	_	13	E	13:E	_
 17	zu	_	Word	Word	_	18	F	18:F	_
-18	verschieben	_	Word	Word	_	2	orphan	2:orphan	_
+18	verschieben	_	Word	Word	_	2	H	2:H	_
 19	und	_	Word	Word	_	2	L	2:L	_
 20	es	_	Word	Word	_	27	A	27:A	_
 21	einstweilen	_	Word	Word	_	27	D	27:D	_
@@ -26,18 +26,18 @@
 23	einen	_	Word	Word	_	26	E	26:E	_
 24	herzlichen	_	Word	Word	_	26	E	26:E	_
 25	Hand	_	Word	Word	_	26	E	26:E	_
-26	schlag	_	Word	Word	_	2	orphan	2:orphan	_
-27	ersetzen	_	Word	Word	_	2	orphan	2:orphan	_
+26	schlag	_	Word	Word	_	27	A	27:A	_
+27	ersetzen	_	Word	Word	_	2	H	2:H	_
 28	zu	_	Word	Word	_	27	F	27:F	_
 29	lassen	_	Word	Word	_	27	D	27:D	_
-30	.	_	Punctuation	Punctuation	_	2	punct	2:punct	_
+30	.	_	Punctuation	Punctuation	_	2	U	2:U	_
 31	Etwas	_	Word	Word	_	32	E	32:E	_
-32	anderes	_	Word	Word	_	2	orphan	2:orphan	_
-33	hab'	_	Word	Word	_	2	orphan	2:orphan	_
+32	anderes	_	Word	Word	_	33	A	33:A	_
+33	hab'	_	Word	Word	_	2	H	2:H	_
 34	ich	_	Word	Word	_	33	A	33:A	_
 35	nicht	_	Word	Word	_	33	D	33:D	_
 36	bei	_	Word	Word	_	37	R	37:R	_
-37	mir	_	Word	Word	_	2	orphan	2:orphan	_
-38	.	_	Punctuation	Punctuation	_	37	punct	37:punct	_
-39	«	_	Punctuation	Punctuation	_	37	punct	37:punct	_
+37	mir	_	Word	Word	_	33	A	33:A	_
+38	.	_	Punctuation	Punctuation	_	37	U	37:U	_
+39	«	_	Punctuation	Punctuation	_	37	U	37:U	_
 

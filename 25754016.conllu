@@ -3,13 +3,13 @@
 # text = Ich fühlte , wie sich der Zorn in ihm steigerte .
 1	Ich	_	Word	Word	_	2	A	2:A	_
 2	fühlte	_	Word	Word	_	0	root	0:root	_
-3	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
+3	,	_	Punctuation	Punctuation	_	2	U	2:U	_
 4	wie	_	Word	Word	_	5	R	5:R	_
-5	sich	_	Word	Word	_	2	orphan	2:orphan	_
+5	sich	_	Word	Word	_	2	A	2:A	_
 6	der	_	Word	Word	_	7	E	7:E	_
-7	Zorn	_	Word	Word	_	2	orphan	2:orphan	_
+7	Zorn	_	Word	Word	_	5	A	5:A	_
 8	in	_	Word	Word	_	9	R	9:R	_
-9	ihm	_	Word	Word	_	2	orphan	2:orphan	_
-10	steigerte	_	Word	Word	_	5	flat	5:flat	_
-11	.	_	Punctuation	Punctuation	_	5	punct	5:punct	_
+9	ihm	_	Word	Word	_	5	A	5:A	_
+10	steigerte	_	Word	Word	_	5	Terminal	5:Terminal	_
+11	.	_	Punctuation	Punctuation	_	5	U	5:U	_
 

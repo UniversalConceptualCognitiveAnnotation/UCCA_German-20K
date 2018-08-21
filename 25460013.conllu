@@ -1,20 +1,20 @@
 # format = ucca
 # sent_id = 25460013
 # text = - » Jetzt Achtung ! Augen auf ! « riefen wiederholt die Matrosen der ›Abraham Lincoln‹.
-1	-	_	Punctuation	Punctuation	_	10	punct	10:punct	_
-2	»	_	Punctuation	Punctuation	_	10	punct	10:punct	_
+1	-	_	Punctuation	Punctuation	_	10	U	10:U	_
+2	»	_	Punctuation	Punctuation	_	10	U	10:U	_
 3	Jetzt	_	Word	Word	_	4	D	4:D	_
-4	Achtung	_	Word	Word	_	0	root	0:root	_
-5	!	_	Punctuation	Punctuation	_	4	punct	4:punct	_
+4	Achtung	_	Word	Word	_	10	A	10:A	_
+5	!	_	Punctuation	Punctuation	_	4	U	4:U	_
 6	Augen	_	Word	Word	_	7	A	7:A	_
-7	auf	_	Word	Word	_	4	orphan	4:orphan	_
-8	!	_	Punctuation	Punctuation	_	10	punct	10:punct	_
-9	«	_	Punctuation	Punctuation	_	10	punct	10:punct	_
-10	riefen	_	Word	Word	_	4	orphan	4:orphan	_
+7	auf	_	Word	Word	_	4	H	4:H	_
+8	!	_	Punctuation	Punctuation	_	10	U	10:U	_
+9	«	_	Punctuation	Punctuation	_	10	U	10:U	_
+10	riefen	_	Word	Word	_	0	root	0:root	_
 11	wiederholt	_	Word	Word	_	10	D	10:D	_
 12	die	_	Word	Word	_	13	E	13:E	_
-13	Matrosen	_	Word	Word	_	4	orphan	4:orphan	_
+13	Matrosen	_	Word	Word	_	10	A	10:A	_
 14	der	_	Word	Word	_	15	R	15:R	_
-15	›Abraham	_	Word	Word	_	4	orphan	4:orphan	_
-16	Lincoln‹.	_	Word	Word	_	15	flat	15:flat	_
+15	›Abraham	_	Word	Word	_	13	E	13:E	_
+16	Lincoln‹.	_	Word	Word	_	15	Terminal	15:Terminal	_
 

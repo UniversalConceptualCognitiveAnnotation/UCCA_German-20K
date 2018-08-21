@@ -2,25 +2,25 @@
 # sent_id = 25713004
 # text = Der KIn dem Moment wandte sich Kapitän Nemo zu mir : apitän gab keine Antwort und lehnte sich an das Fenster .
 1	Der	_	Word	Word	_	2	E	2:E	_
-2	KIn	_	Word	Word	_	0	root	0:root	_
-3	dem	_	Word	Word	_	2	flat	2:flat	_
-4	Moment	_	Word	Word	_	2	flat	2:flat	_
-5	wandte	_	Word	Word	_	2	flat	2:flat	_
-6	sich	_	Word	Word	_	2	flat	2:flat	_
-7	Kapitän	_	Word	Word	_	2	flat	2:flat	_
-8	Nemo	_	Word	Word	_	2	flat	2:flat	_
-9	zu	_	Word	Word	_	2	flat	2:flat	_
-10	mir	_	Word	Word	_	2	flat	2:flat	_
-11	:	_	Punctuation	Punctuation	_	2	punct	2:punct	_
-12	apitän	_	Word	Word	_	2	flat	2:flat	_
-13	gab	_	Word	Word	_	2	orphan	2:orphan	_
+2	KIn	_	Word	Word	_	13	A	13:A	_
+3	dem	_	Word	Word	_	2	Terminal	2:Terminal	_
+4	Moment	_	Word	Word	_	2	Terminal	2:Terminal	_
+5	wandte	_	Word	Word	_	2	Terminal	2:Terminal	_
+6	sich	_	Word	Word	_	2	Terminal	2:Terminal	_
+7	Kapitän	_	Word	Word	_	2	Terminal	2:Terminal	_
+8	Nemo	_	Word	Word	_	2	Terminal	2:Terminal	_
+9	zu	_	Word	Word	_	2	Terminal	2:Terminal	_
+10	mir	_	Word	Word	_	2	Terminal	2:Terminal	_
+11	:	_	Punctuation	Punctuation	_	2	U	2:U	_
+12	apitän	_	Word	Word	_	2	Terminal	2:Terminal	_
+13	gab	_	Word	Word	_	0	root	0:root	_
 14	keine	_	Word	Word	_	13	D	13:D	_
 15	Antwort	_	Word	Word	_	13	A	13:A	_
 16	und	_	Word	Word	_	13	L	13:L	_
-17	lehnte	_	Word	Word	_	2	orphan	2:orphan	_
-18	sich	_	Word	Word	_	17	flat	17:flat	_
+17	lehnte	_	Word	Word	_	13	H	13:H	_
+18	sich	_	Word	Word	_	17	Terminal	17:Terminal	_
 19	an	_	Word	Word	_	21	R	21:R	_
 20	das	_	Word	Word	_	21	E	21:E	_
-21	Fenster	_	Word	Word	_	2	orphan	2:orphan	_
-22	.	_	Punctuation	Punctuation	_	21	punct	21:punct	_
+21	Fenster	_	Word	Word	_	17	A	17:A	_
+22	.	_	Punctuation	Punctuation	_	21	U	21:U	_
 

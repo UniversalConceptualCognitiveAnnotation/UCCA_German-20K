@@ -1,13 +1,13 @@
 # format = ucca
 # sent_id = 25706012
 # text = » Die Fahrt darin muß schwierig sein ? «
-1	»	_	Punctuation	Punctuation	_	6	punct	6:punct	_
+1	»	_	Punctuation	Punctuation	_	6	U	6:U	_
 2	Die	_	Word	Word	_	3	E	3:E	_
-3	Fahrt	_	Word	Word	_	0	root	0:root	_
+3	Fahrt	_	Word	Word	_	6	A	6:A	_
 4	darin	_	Word	Word	_	6	A	6:A	_
 5	muß	_	Word	Word	_	6	D	6:D	_
-6	schwierig	_	Word	Word	_	3	orphan	3:orphan	_
+6	schwierig	_	Word	Word	_	0	root	0:root	_
 7	sein	_	Word	Word	_	6	F	6:F	_
-8	?	_	Punctuation	Punctuation	_	6	punct	6:punct	_
-9	«	_	Punctuation	Punctuation	_	6	punct	6:punct	_
+8	?	_	Punctuation	Punctuation	_	6	U	6:U	_
+9	«	_	Punctuation	Punctuation	_	6	U	6:U	_
 

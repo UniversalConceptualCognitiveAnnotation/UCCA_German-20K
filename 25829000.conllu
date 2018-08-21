@@ -2,10 +2,10 @@
 # sent_id = 25829000
 # text = Was für ein Schiff war es ?
 1	Was	_	Word	Word	_	4	E	4:E	_
-2	für	_	Word	Word	_	1	flat	1:flat	_
-3	ein	_	Word	Word	_	1	flat	1:flat	_
-4	Schiff	_	Word	Word	_	0	root	0:root	_
-5	war	_	Word	Word	_	4	orphan	4:orphan	_
+2	für	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	ein	_	Word	Word	_	1	Terminal	1:Terminal	_
+4	Schiff	_	Word	Word	_	5	A	5:A	_
+5	war	_	Word	Word	_	0	root	0:root	_
 6	es	_	Word	Word	_	5	F	5:F	_
-7	?	_	Punctuation	Punctuation	_	5	punct	5:punct	_
+7	?	_	Punctuation	Punctuation	_	5	U	5:U	_
 

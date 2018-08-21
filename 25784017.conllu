@@ -1,37 +1,37 @@
 # format = ucca
 # sent_id = 25784017
 # text = » Zuverlässig « , erwiderte er , » da die Behälter noch nicht leer sind ; und sind sie leer , so muß die ›Nautilus‹ wieder zur Meeres - oberfläche aufsteigen . «
-1	»	_	Punctuation	Punctuation	_	2	punct	2:punct	_
-2	Zuverlässig	_	Word	Word	_	0	root	0:root	_
-3	«	_	Punctuation	Punctuation	_	5	punct	5:punct	_
-4	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_
-5	erwiderte	_	Word	Word	_	2	orphan	2:orphan	_
+1	»	_	Punctuation	Punctuation	_	2	U	2:U	_
+2	Zuverlässig	_	Word	Word	_	5	A	5:A	_
+3	«	_	Punctuation	Punctuation	_	5	U	5:U	_
+4	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+5	erwiderte	_	Word	Word	_	0	root	0:root	_
 6	er	_	Word	Word	_	5	A	5:A	_
-7	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_
-8	»	_	Punctuation	Punctuation	_	5	punct	5:punct	_
+7	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+8	»	_	Punctuation	Punctuation	_	5	U	5:U	_
 9	da	_	Word	Word	_	2	L	2:L	_
 10	die	_	Word	Word	_	11	E	11:E	_
-11	Behälter	_	Word	Word	_	2	orphan	2:orphan	_
+11	Behälter	_	Word	Word	_	14	A	14:A	_
 12	noch	_	Word	Word	_	13	E	13:E	_
-13	nicht	_	Word	Word	_	2	orphan	2:orphan	_
-14	leer	_	Word	Word	_	2	orphan	2:orphan	_
+13	nicht	_	Word	Word	_	14	D	14:D	_
+14	leer	_	Word	Word	_	2	H	2:H	_
 15	sind	_	Word	Word	_	14	F	14:F	_
-16	;	_	Punctuation	Punctuation	_	2	punct	2:punct	_
+16	;	_	Punctuation	Punctuation	_	2	U	2:U	_
 17	und	_	Word	Word	_	2	L	2:L	_
 18	sind	_	Word	Word	_	20	F	20:F	_
 19	sie	_	Word	Word	_	20	A	20:A	_
-20	leer	_	Word	Word	_	2	orphan	2:orphan	_
-21	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
+20	leer	_	Word	Word	_	2	H	2:H	_
+21	,	_	Punctuation	Punctuation	_	2	U	2:U	_
 22	so	_	Word	Word	_	2	L	2:L	_
 23	muß	_	Word	Word	_	31	D	31:D	_
 24	die	_	Word	Word	_	25	E	25:E	_
-25	›Nautilus‹	_	Word	Word	_	2	orphan	2:orphan	_
+25	›Nautilus‹	_	Word	Word	_	31	A	31:A	_
 26	wieder	_	Word	Word	_	31	D	31:D	_
 27	zur	_	Word	Word	_	30	R	30:R	_
 28	Meeres	_	Word	Word	_	30	E	30:E	_
-29	-	_	Punctuation	Punctuation	_	30	punct	30:punct	_
-30	oberfläche	_	Word	Word	_	2	orphan	2:orphan	_
-31	aufsteigen	_	Word	Word	_	2	orphan	2:orphan	_
-32	.	_	Punctuation	Punctuation	_	31	punct	31:punct	_
-33	«	_	Punctuation	Punctuation	_	31	punct	31:punct	_
+29	-	_	Punctuation	Punctuation	_	30	U	30:U	_
+30	oberfläche	_	Word	Word	_	31	A	31:A	_
+31	aufsteigen	_	Word	Word	_	2	H	2:H	_
+32	.	_	Punctuation	Punctuation	_	31	U	31:U	_
+33	«	_	Punctuation	Punctuation	_	31	U	31:U	_
 

@@ -2,32 +2,32 @@
 # sent_id = 25653013
 # text = Endlich , nach einem Weg von 2 Stunden , hatten wir eine Tiefe von 300 Meter erreicht , d.h. die äußerste Grenze , wo die Korallen bildung beginnt .
 1	Endlich	_	Word	Word	_	5	L	5:L	_
-2	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_
+2	,	_	Punctuation	Punctuation	_	5	U	5:U	_
 3	nach	_	Word	Word	_	5	R	5:R	_
 4	einem	_	Word	Word	_	5	E	5:E	_
 5	Weg	_	Word	Word	_	0	root	0:root	_
 6	von	_	Word	Word	_	7	R	7:R	_
-7	2	_	Word	Word	_	5	orphan	5:orphan	_
-8	Stunden	_	Word	Word	_	7	flat	7:flat	_
-9	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_
+7	2	_	Word	Word	_	5	T	5:T	_
+8	Stunden	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	,	_	Punctuation	Punctuation	_	5	U	5:U	_
 10	hatten	_	Word	Word	_	17	F	17:F	_
 11	wir	_	Word	Word	_	17	A	17:A|22:A	_
 12	eine	_	Word	Word	_	13	E	13:E	_
-13	Tiefe	_	Word	Word	_	5	orphan	5:orphan	_
+13	Tiefe	_	Word	Word	_	17	A	17:A	_
 14	von	_	Word	Word	_	15	R	15:R	_
-15	300	_	Word	Word	_	5	orphan	5:orphan	_
-16	Meter	_	Word	Word	_	15	flat	15:flat	_
-17	erreicht	_	Word	Word	_	5	orphan	5:orphan	_
-18	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_
+15	300	_	Word	Word	_	13	E	13:E	_
+16	Meter	_	Word	Word	_	15	Terminal	15:Terminal	_
+17	erreicht	_	Word	Word	_	5	H	5:H	_
+18	,	_	Punctuation	Punctuation	_	5	U	5:U	_
 19	d.h.	_	Word	Word	_	5	L	5:L	_
 20	die	_	Word	Word	_	22	E	22:E	_
 21	äußerste	_	Word	Word	_	22	E	22:E	_
-22	Grenze	_	Word	Word	_	5	orphan	5:orphan	_
-23	,	_	Punctuation	Punctuation	_	22	punct	22:punct	_
+22	Grenze	_	Word	Word	_	5	H	5:H	_
+23	,	_	Punctuation	Punctuation	_	22	U	22:U	_
 24	wo	_	Word	Word	_	28	R	28:R	_
 25	die	_	Word	Word	_	26	E	26:E	_
-26	Korallen	_	Word	Word	_	5	orphan	5:orphan	_
+26	Korallen	_	Word	Word	_	28	A	28:A	_
 27	bildung	_	Word	Word	_	26	E	26:E	_
-28	beginnt	_	Word	Word	_	5	orphan	5:orphan	_
-29	.	_	Punctuation	Punctuation	_	28	punct	28:punct	_
+28	beginnt	_	Word	Word	_	22	E	22:E	_
+29	.	_	Punctuation	Punctuation	_	28	U	28:U	_
 

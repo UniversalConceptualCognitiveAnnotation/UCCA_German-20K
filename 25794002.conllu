@@ -1,29 +1,29 @@
 # format = ucca
 # sent_id = 25794002
 # text = » Ich denke wohl « , erwiderte er , » wir werden nicht erdrückt werden . Nur das Ersticken ist noch zu fürchten . «
-1	»	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+1	»	_	Punctuation	Punctuation	_	3	U	3:U	_
 2	Ich	_	Word	Word	_	3	A	3:A	_
-3	denke	_	Word	Word	_	0	root	0:root	_
+3	denke	_	Word	Word	_	7	A	7:A	_
 4	wohl	_	Word	Word	_	3	G	3:G	_
-5	«	_	Punctuation	Punctuation	_	7	punct	7:punct	_
-6	,	_	Punctuation	Punctuation	_	7	punct	7:punct	_
-7	erwiderte	_	Word	Word	_	3	orphan	3:orphan	_
+5	«	_	Punctuation	Punctuation	_	7	U	7:U	_
+6	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+7	erwiderte	_	Word	Word	_	0	root	0:root	_
 8	er	_	Word	Word	_	7	A	7:A	_
-9	,	_	Punctuation	Punctuation	_	7	punct	7:punct	_
-10	»	_	Punctuation	Punctuation	_	7	punct	7:punct	_
+9	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+10	»	_	Punctuation	Punctuation	_	7	U	7:U	_
 11	wir	_	Word	Word	_	14	A	14:A	_
 12	werden	_	Word	Word	_	14	F	14:F	_
 13	nicht	_	Word	Word	_	14	D	14:D	_
-14	erdrückt	_	Word	Word	_	3	orphan	3:orphan	_
+14	erdrückt	_	Word	Word	_	3	H	3:H	_
 15	werden	_	Word	Word	_	14	F	14:F	_
-16	.	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+16	.	_	Punctuation	Punctuation	_	3	U	3:U	_
 17	Nur	_	Word	Word	_	19	D	19:D	_
 18	das	_	Word	Word	_	19	E	19:E	_
-19	Ersticken	_	Word	Word	_	3	orphan	3:orphan	_
+19	Ersticken	_	Word	Word	_	3	H	3:H	_
 20	ist	_	Word	Word	_	19	D	19:D	_
 21	noch	_	Word	Word	_	19	D	19:D	_
 22	zu	_	Word	Word	_	19	F	19:F	_
 23	fürchten	_	Word	Word	_	19	D	19:D	_
-24	.	_	Punctuation	Punctuation	_	19	punct	19:punct	_
-25	«	_	Punctuation	Punctuation	_	19	punct	19:punct	_
+24	.	_	Punctuation	Punctuation	_	19	U	19:U	_
+25	«	_	Punctuation	Punctuation	_	19	U	19:U	_
 

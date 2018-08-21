@@ -1,20 +1,20 @@
 # format = ucca
 # sent_id = 25472013
 # text = « » Sie haben , Kommandant , über die Natur des Tieres keinen Zweifel mehr ?
-1	«	_	Punctuation	Punctuation	_	4	punct	4:punct	_
-2	»	_	Punctuation	Punctuation	_	4	punct	4:punct	_
-3	Sie	_	Word	Word	_	0	root	0:root	_
-4	haben	_	Word	Word	_	3	orphan	3:orphan	_
-5	,	_	Punctuation	Punctuation	_	4	punct	4:punct	_
+1	«	_	Punctuation	Punctuation	_	4	U	4:U	_
+2	»	_	Punctuation	Punctuation	_	4	U	4:U	_
+3	Sie	_	Word	Word	_	4	A	4:A	_
+4	haben	_	Word	Word	_	0	root	0:root	_
+5	,	_	Punctuation	Punctuation	_	4	U	4:U	_
 6	Kommandant	_	Word	Word	_	3	E	3:E	_
-7	,	_	Punctuation	Punctuation	_	4	punct	4:punct	_
+7	,	_	Punctuation	Punctuation	_	4	U	4:U	_
 8	über	_	Word	Word	_	10	R	10:R	_
 9	die	_	Word	Word	_	10	E	10:E	_
-10	Natur	_	Word	Word	_	3	orphan	3:orphan	_
+10	Natur	_	Word	Word	_	4	A	4:A	_
 11	des	_	Word	Word	_	12	R	12:R	_
-12	Tieres	_	Word	Word	_	3	orphan	3:orphan	_
+12	Tieres	_	Word	Word	_	10	E	10:E	_
 13	keinen	_	Word	Word	_	14	E	14:E	_
-14	Zweifel	_	Word	Word	_	3	orphan	3:orphan	_
+14	Zweifel	_	Word	Word	_	4	A	4:A	_
 15	mehr	_	Word	Word	_	4	D	4:D	_
-16	?	_	Punctuation	Punctuation	_	4	punct	4:punct	_
+16	?	_	Punctuation	Punctuation	_	4	U	4:U	_
 

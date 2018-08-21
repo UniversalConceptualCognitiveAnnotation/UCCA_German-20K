@@ -1,26 +1,26 @@
 # format = ucca
 # sent_id = 25484004
 # text = « Ein alter grau bärtiger Kanonier mit ruhigem Blick , kalten Gesichts zügen , trat hinzu , richtete und visierte lange .
-1	«	_	Punctuation	Punctuation	_	15	punct	15:punct	_
+1	«	_	Punctuation	Punctuation	_	15	U	15:U	_
 2	Ein	_	Word	Word	_	6	E	6:E	_
 3	alter	_	Word	Word	_	6	E	6:E	_
 4	grau	_	Word	Word	_	5	E	5:E	_
-5	bärtiger	_	Word	Word	_	0	root	0:root	_
-6	Kanonier	_	Word	Word	_	5	orphan	5:orphan	_
+5	bärtiger	_	Word	Word	_	6	E	6:E	_
+6	Kanonier	_	Word	Word	_	0	root	0:root	_
 7	mit	_	Word	Word	_	9	R	9:R	_
 8	ruhigem	_	Word	Word	_	9	E	9:E	_
-9	Blick	_	Word	Word	_	5	orphan	5:orphan	_
-10	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_
+9	Blick	_	Word	Word	_	6	E	6:E	_
+10	,	_	Punctuation	Punctuation	_	6	U	6:U	_
 11	kalten	_	Word	Word	_	13	E	13:E	_
 12	Gesichts	_	Word	Word	_	13	E	13:E	_
-13	zügen	_	Word	Word	_	5	orphan	5:orphan	_
-14	,	_	Punctuation	Punctuation	_	15	punct	15:punct	_
-15	trat	_	Word	Word	_	5	orphan	5:orphan	_
-16	hinzu	_	Word	Word	_	15	flat	15:flat	_
-17	,	_	Punctuation	Punctuation	_	15	punct	15:punct	_
-18	richtete	_	Word	Word	_	5	orphan	5:orphan	_
+13	zügen	_	Word	Word	_	6	E	6:E	_
+14	,	_	Punctuation	Punctuation	_	15	U	15:U	_
+15	trat	_	Word	Word	_	6	orphan	6:orphan	_
+16	hinzu	_	Word	Word	_	15	Terminal	15:Terminal	_
+17	,	_	Punctuation	Punctuation	_	15	U	15:U	_
+18	richtete	_	Word	Word	_	15	H	15:H	_
 19	und	_	Word	Word	_	18	N	18:N	_
 20	visierte	_	Word	Word	_	18	C	18:C	_
 21	lange	_	Word	Word	_	18	D	18:D	_
-22	.	_	Punctuation	Punctuation	_	18	punct	18:punct	_
+22	.	_	Punctuation	Punctuation	_	18	U	18:U	_
 

@@ -1,24 +1,24 @@
 # format = ucca
 # sent_id = 25767006
 # text = » Ich sehe , dass wir anfangen uns zu verstehen , Herr Professor « , sagte der Kapitän lächelnd .
-1	»	_	Punctuation	Punctuation	_	16	punct	16:punct	_
+1	»	_	Punctuation	Punctuation	_	16	U	16:U	_
 2	Ich	_	Word	Word	_	3	A	3:A	_
-3	sehe	_	Word	Word	_	0	root	0:root	_
-4	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+3	sehe	_	Word	Word	_	16	A	16:A	_
+4	,	_	Punctuation	Punctuation	_	3	U	3:U	_
 5	dass	_	Word	Word	_	10	R	10:R	_
 6	wir	_	Word	Word	_	10	A	10:A	_
 7	anfangen	_	Word	Word	_	10	D	10:D	_
 8	uns	_	Word	Word	_	10	A	10:A	_
 9	zu	_	Word	Word	_	10	F	10:F	_
-10	verstehen	_	Word	Word	_	3	orphan	3:orphan	_
-11	,	_	Punctuation	Punctuation	_	10	punct	10:punct	_
+10	verstehen	_	Word	Word	_	3	A	3:A	_
+11	,	_	Punctuation	Punctuation	_	10	U	10:U	_
 12	Herr	_	Word	Word	_	13	E	13:E	_
-13	Professor	_	Word	Word	_	3	orphan	3:orphan	_
-14	«	_	Punctuation	Punctuation	_	16	punct	16:punct	_
-15	,	_	Punctuation	Punctuation	_	16	punct	16:punct	_
-16	sagte	_	Word	Word	_	3	orphan	3:orphan	_
+13	Professor	_	Word	Word	_	10	G	10:G	_
+14	«	_	Punctuation	Punctuation	_	16	U	16:U	_
+15	,	_	Punctuation	Punctuation	_	16	U	16:U	_
+16	sagte	_	Word	Word	_	0	root	0:root	_
 17	der	_	Word	Word	_	18	E	18:E	_
-18	Kapitän	_	Word	Word	_	3	orphan	3:orphan	_
-19	lächelnd	_	Word	Word	_	3	orphan	3:orphan	_
-20	.	_	Punctuation	Punctuation	_	19	punct	19:punct	_
+18	Kapitän	_	Word	Word	_	16	orphan	16:orphan	_
+19	lächelnd	_	Word	Word	_	16	H	16:H	_
+20	.	_	Punctuation	Punctuation	_	19	U	19:U	_
 

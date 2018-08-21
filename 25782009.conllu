@@ -2,23 +2,23 @@
 # sent_id = 25782009
 # text = Im Moment , als ich den Salon zu verlassen im Begriff war , traten Ned Land und Conseil ein .
 1	Im	_	Word	Word	_	9	L	9:L	_
-2	Moment	_	Word	Word	_	1	flat	1:flat	_
-3	,	_	Punctuation	Punctuation	_	9	punct	9:punct	_
-4	als	_	Word	Word	_	1	flat	1:flat	_
+2	Moment	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+4	als	_	Word	Word	_	1	Terminal	1:Terminal	_
 5	ich	_	Word	Word	_	9	A	9:A	_
 6	den	_	Word	Word	_	7	E	7:E	_
-7	Salon	_	Word	Word	_	0	root	0:root	_
+7	Salon	_	Word	Word	_	9	A	9:A	_
 8	zu	_	Word	Word	_	9	F	9:F	_
-9	verlassen	_	Word	Word	_	7	orphan	7:orphan	_
+9	verlassen	_	Word	Word	_	0	root	0:root	_
 10	im	_	Word	Word	_	11	R	11:R	_
-11	Begriff	_	Word	Word	_	7	orphan	7:orphan	_
+11	Begriff	_	Word	Word	_	9	D	9:D	_
 12	war	_	Word	Word	_	9	F	9:F	_
-13	,	_	Punctuation	Punctuation	_	9	punct	9:punct	_
-14	traten	_	Word	Word	_	7	orphan	7:orphan	_
-15	Ned	_	Word	Word	_	7	orphan	7:orphan	_
-16	Land	_	Word	Word	_	15	flat	15:flat	_
+13	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+14	traten	_	Word	Word	_	9	H	9:H	_
+15	Ned	_	Word	Word	_	14	A	14:A	_
+16	Land	_	Word	Word	_	15	Terminal	15:Terminal	_
 17	und	_	Word	Word	_	15	N	15:N	_
 18	Conseil	_	Word	Word	_	15	C	15:C	_
-19	ein	_	Word	Word	_	14	flat	14:flat	_
-20	.	_	Punctuation	Punctuation	_	14	punct	14:punct	_
+19	ein	_	Word	Word	_	14	Terminal	14:Terminal	_
+20	.	_	Punctuation	Punctuation	_	14	U	14:U	_
 

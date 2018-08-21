@@ -1,21 +1,21 @@
 # format = ucca
 # sent_id = 25504002
 # text = » Das ist vortrefflich « , sagte ich , » aber Tabak ist 's nicht . «
-1	»	_	Punctuation	Punctuation	_	4	punct	4:punct	_
+1	»	_	Punctuation	Punctuation	_	4	U	4:U	_
 2	Das	_	Word	Word	_	4	A	4:A	_
 3	ist	_	Word	Word	_	4	F	4:F	_
-4	vortrefflich	_	Word	Word	_	0	root	0:root	_
-5	«	_	Punctuation	Punctuation	_	7	punct	7:punct	_
-6	,	_	Punctuation	Punctuation	_	7	punct	7:punct	_
-7	sagte	_	Word	Word	_	4	orphan	4:orphan	_
+4	vortrefflich	_	Word	Word	_	7	A	7:A	_
+5	«	_	Punctuation	Punctuation	_	7	U	7:U	_
+6	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+7	sagte	_	Word	Word	_	0	root	0:root	_
 8	ich	_	Word	Word	_	7	A	7:A	_
-9	,	_	Punctuation	Punctuation	_	7	punct	7:punct	_
-10	»	_	Punctuation	Punctuation	_	7	punct	7:punct	_
+9	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+10	»	_	Punctuation	Punctuation	_	7	U	7:U	_
 11	aber	_	Word	Word	_	4	L	4:L	_
 12	Tabak	_	Word	Word	_	13	A	13:A	_
-13	ist	_	Word	Word	_	4	orphan	4:orphan	_
+13	ist	_	Word	Word	_	4	H	4:H	_
 14	's	_	Word	Word	_	13	A	13:A	_
 15	nicht	_	Word	Word	_	13	D	13:D	_
-16	.	_	Punctuation	Punctuation	_	13	punct	13:punct	_
-17	«	_	Punctuation	Punctuation	_	13	punct	13:punct	_
+16	.	_	Punctuation	Punctuation	_	13	U	13:U	_
+17	«	_	Punctuation	Punctuation	_	13	U	13:U	_
 

@@ -1,16 +1,16 @@
 # format = ucca
 # sent_id = 25470006
 # text = » Nein , mein Herr « , erwiderte ich mit Überzeugung .
-1	»	_	Punctuation	Punctuation	_	8	punct	8:punct	_
-2	Nein	_	Word	Word	_	0	root	0:root	_
-3	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
+1	»	_	Punctuation	Punctuation	_	8	U	8:U	_
+2	Nein	_	Word	Word	_	8	A	8:A	_
+3	,	_	Punctuation	Punctuation	_	2	U	2:U	_
 4	mein	_	Word	Word	_	5	E	5:E	_
-5	Herr	_	Word	Word	_	2	orphan	2:orphan	_
-6	«	_	Punctuation	Punctuation	_	8	punct	8:punct	_
-7	,	_	Punctuation	Punctuation	_	8	punct	8:punct	_
-8	erwiderte	_	Word	Word	_	2	orphan	2:orphan	_
+5	Herr	_	Word	Word	_	2	G	2:G	_
+6	«	_	Punctuation	Punctuation	_	8	U	8:U	_
+7	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+8	erwiderte	_	Word	Word	_	0	root	0:root	_
 9	ich	_	Word	Word	_	8	A	8:A|11:A	_
 10	mit	_	Word	Word	_	11	R	11:R	_
-11	Überzeugung	_	Word	Word	_	2	orphan	2:orphan	_
-12	.	_	Punctuation	Punctuation	_	11	punct	11:punct	_
+11	Überzeugung	_	Word	Word	_	8	H	8:H	_
+12	.	_	Punctuation	Punctuation	_	11	U	11:U	_
 

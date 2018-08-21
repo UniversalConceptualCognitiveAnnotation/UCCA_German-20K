@@ -1,28 +1,28 @@
 # format = ucca
 # sent_id = 25603014
 # text = Am 27 . hatte sie die Sandwichinseln in Sicht , wo der Welt umsegler Cook am 14 . Februar 1779 seinen Tod fand .
-1	Am	_	Word	Word	_	0	root	0:root	_
+1	Am	_	Word	Word	_	9	T	9:T	_
 2	27	_	Word	Word	_	1	E	1:E	_
-3	.	_	Punctuation	Punctuation	_	9	punct	9:punct	_
+3	.	_	Punctuation	Punctuation	_	9	U	9:U	_
 4	hatte	_	Word	Word	_	9	F	9:F	_
 5	sie	_	Word	Word	_	9	A	9:A	_
 6	die	_	Word	Word	_	7	E	7:E	_
-7	Sandwichinseln	_	Word	Word	_	1	orphan	1:orphan	_
+7	Sandwichinseln	_	Word	Word	_	9	A	9:A	_
 8	in	_	Word	Word	_	9	R	9:R	_
-9	Sicht	_	Word	Word	_	1	orphan	1:orphan	_
-10	,	_	Punctuation	Punctuation	_	9	punct	9:punct	_
+9	Sicht	_	Word	Word	_	0	root	0:root	_
+10	,	_	Punctuation	Punctuation	_	9	U	9:U	_
 11	wo	_	Word	Word	_	22	R	22:R	_
 12	der	_	Word	Word	_	15	E	15:E	_
 13	Welt	_	Word	Word	_	14	E	14:E	_
-14	umsegler	_	Word	Word	_	1	orphan	1:orphan	_
-15	Cook	_	Word	Word	_	1	orphan	1:orphan	_
+14	umsegler	_	Word	Word	_	15	E	15:E	_
+15	Cook	_	Word	Word	_	22	A	22:A	_
 16	am	_	Word	Word	_	17	E	17:E	_
-17	14	_	Word	Word	_	1	orphan	1:orphan	_
-18	.	_	Punctuation	Punctuation	_	17	punct	17:punct	_
-19	Februar	_	Word	Word	_	17	flat	17:flat	_
-20	1779	_	Word	Word	_	17	flat	17:flat	_
+17	14	_	Word	Word	_	22	T	22:T	_
+18	.	_	Punctuation	Punctuation	_	17	U	17:U	_
+19	Februar	_	Word	Word	_	17	Terminal	17:Terminal	_
+20	1779	_	Word	Word	_	17	Terminal	17:Terminal	_
 21	seinen	_	Word	Word	_	22	E	22:E	_
-22	Tod	_	Word	Word	_	1	orphan	1:orphan	_
+22	Tod	_	Word	Word	_	7	E	7:E	_
 23	fand	_	Word	Word	_	22	D	22:D	_
-24	.	_	Punctuation	Punctuation	_	22	punct	22:punct	_
+24	.	_	Punctuation	Punctuation	_	22	U	22:U	_
 

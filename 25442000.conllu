@@ -2,21 +2,21 @@
 # sent_id = 25442000
 # text = Ned Land war ein Kanadier von seltenem Handgeschick , der seinesgleichen in dem gefährlichen Handwerk nicht hatte .
 1	Ned	_	Word	Word	_	3	A	3:A	_
-2	Land	_	Word	Word	_	1	flat	1:flat	_
+2	Land	_	Word	Word	_	1	Terminal	1:Terminal	_
 3	war	_	Word	Word	_	0	root	0:root	_
 4	ein	_	Word	Word	_	5	E	5:E	_
-5	Kanadier	_	Word	Word	_	3	orphan	3:orphan	_
+5	Kanadier	_	Word	Word	_	3	A	3:A	_
 6	von	_	Word	Word	_	8	R	8:R	_
 7	seltenem	_	Word	Word	_	8	E	8:E	_
-8	Handgeschick	_	Word	Word	_	3	orphan	3:orphan	_
-9	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_
+8	Handgeschick	_	Word	Word	_	5	E	5:E	_
+9	,	_	Punctuation	Punctuation	_	5	U	5:U	_
 10	der	_	Word	Word	_	17	R	17:R	_
 11	seinesgleichen	_	Word	Word	_	17	A	17:A	_
 12	in	_	Word	Word	_	15	R	15:R	_
 13	dem	_	Word	Word	_	15	E	15:E	_
 14	gefährlichen	_	Word	Word	_	15	E	15:E	_
-15	Handwerk	_	Word	Word	_	3	orphan	3:orphan	_
+15	Handwerk	_	Word	Word	_	17	A	17:A	_
 16	nicht	_	Word	Word	_	17	D	17:D	_
-17	hatte	_	Word	Word	_	3	orphan	3:orphan	_
-18	.	_	Punctuation	Punctuation	_	17	punct	17:punct	_
+17	hatte	_	Word	Word	_	5	E	5:E	_
+18	.	_	Punctuation	Punctuation	_	17	U	17:U	_
 

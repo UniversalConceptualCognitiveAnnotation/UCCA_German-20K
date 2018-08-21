@@ -2,17 +2,17 @@
 # sent_id = 25597000
 # text = Endlich , etwa gegen 4 Uhr , fand dieser merkwürdige Ausflug sein Ziel .
 1	Endlich	_	Word	Word	_	8	D	8:D	_
-2	,	_	Punctuation	Punctuation	_	8	punct	8:punct	_
+2	,	_	Punctuation	Punctuation	_	8	U	8:U	_
 3	etwa	_	Word	Word	_	8	D	8:D	_
 4	gegen	_	Word	Word	_	5	R	5:R	_
-5	4	_	Word	Word	_	0	root	0:root	_
-6	Uhr	_	Word	Word	_	5	flat	5:flat	_
-7	,	_	Punctuation	Punctuation	_	8	punct	8:punct	_
-8	fand	_	Word	Word	_	5	orphan	5:orphan	_
+5	4	_	Word	Word	_	8	T	8:T	_
+6	Uhr	_	Word	Word	_	5	Terminal	5:Terminal	_
+7	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+8	fand	_	Word	Word	_	0	root	0:root	_
 9	dieser	_	Word	Word	_	11	E	11:E	_
 10	merkwürdige	_	Word	Word	_	11	E	11:E	_
-11	Ausflug	_	Word	Word	_	5	orphan	5:orphan	_
+11	Ausflug	_	Word	Word	_	8	A	8:A	_
 12	sein	_	Word	Word	_	13	E	13:E	_
-13	Ziel	_	Word	Word	_	5	orphan	5:orphan	_
-14	.	_	Punctuation	Punctuation	_	13	punct	13:punct	_
+13	Ziel	_	Word	Word	_	8	A	8:A	_
+14	.	_	Punctuation	Punctuation	_	13	U	13:U	_
 

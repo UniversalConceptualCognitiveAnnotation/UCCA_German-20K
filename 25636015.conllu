@@ -1,27 +1,27 @@
 # format = ucca
 # sent_id = 25636015
 # text = » Herein ! « rief er , und ich trat ein , fand Kapitän Nemo ganz in Berechnungen mit algebraischen Zeichen vertieft .
-1	»	_	Punctuation	Punctuation	_	5	punct	5:punct	_
-2	Herein	_	Word	Word	_	0	root	0:root	_
-3	!	_	Punctuation	Punctuation	_	5	punct	5:punct	_
-4	«	_	Punctuation	Punctuation	_	5	punct	5:punct	_
-5	rief	_	Word	Word	_	2	orphan	2:orphan	_
+1	»	_	Punctuation	Punctuation	_	5	U	5:U	_
+2	Herein	_	Word	Word	_	5	A	5:A	_
+3	!	_	Punctuation	Punctuation	_	5	U	5:U	_
+4	«	_	Punctuation	Punctuation	_	5	U	5:U	_
+5	rief	_	Word	Word	_	0	root	0:root	_
 6	er	_	Word	Word	_	5	A	5:A	_
-7	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_
+7	,	_	Punctuation	Punctuation	_	5	U	5:U	_
 8	und	_	Word	Word	_	5	L	5:L	_
 9	ich	_	Word	Word	_	10	A	10:A|13:A	_
-10	trat	_	Word	Word	_	2	orphan	2:orphan	_
-11	ein	_	Word	Word	_	10	flat	10:flat	_
-12	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_
-13	fand	_	Word	Word	_	2	orphan	2:orphan	_
+10	trat	_	Word	Word	_	5	H	5:H	_
+11	ein	_	Word	Word	_	10	Terminal	10:Terminal	_
+12	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+13	fand	_	Word	Word	_	5	H	5:H	_
 14	Kapitän	_	Word	Word	_	15	E	15:E	_
-15	Nemo	_	Word	Word	_	2	orphan	2:orphan	_
+15	Nemo	_	Word	Word	_	22	A	22:A	_
 16	ganz	_	Word	Word	_	22	D	22:D	_
 17	in	_	Word	Word	_	18	R	18:R	_
-18	Berechnungen	_	Word	Word	_	2	orphan	2:orphan	_
+18	Berechnungen	_	Word	Word	_	22	A	22:A	_
 19	mit	_	Word	Word	_	21	R	21:R	_
 20	algebraischen	_	Word	Word	_	21	E	21:E	_
-21	Zeichen	_	Word	Word	_	2	orphan	2:orphan	_
-22	vertieft	_	Word	Word	_	2	orphan	2:orphan	_
-23	.	_	Punctuation	Punctuation	_	22	punct	22:punct	_
+21	Zeichen	_	Word	Word	_	18	A	18:A	_
+22	vertieft	_	Word	Word	_	13	A	13:A	_
+23	.	_	Punctuation	Punctuation	_	22	U	22:U	_
 

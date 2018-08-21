@@ -1,21 +1,21 @@
 # format = ucca
 # sent_id = 25712002
 # text = » Und jetzt , Ned , wollen Sie meine Gedanken über Ihr Projekt vollständig kennen ? «
-1	»	_	Punctuation	Punctuation	_	15	punct	15:punct	_
+1	»	_	Punctuation	Punctuation	_	15	U	15:U	_
 2	Und	_	Word	Word	_	15	L	15:L	_
 3	jetzt	_	Word	Word	_	15	T	15:T	_
-4	,	_	Punctuation	Punctuation	_	15	punct	15:punct	_
+4	,	_	Punctuation	Punctuation	_	15	U	15:U	_
 5	Ned	_	Word	Word	_	15	G	15:G	_
-6	,	_	Punctuation	Punctuation	_	15	punct	15:punct	_
+6	,	_	Punctuation	Punctuation	_	15	U	15:U	_
 7	wollen	_	Word	Word	_	15	D	15:D	_
 8	Sie	_	Word	Word	_	15	A	15:A	_
 9	meine	_	Word	Word	_	10	E	10:E	_
-10	Gedanken	_	Word	Word	_	0	root	0:root	_
+10	Gedanken	_	Word	Word	_	15	A	15:A	_
 11	über	_	Word	Word	_	13	R	13:R	_
 12	Ihr	_	Word	Word	_	13	E	13:E	_
-13	Projekt	_	Word	Word	_	10	orphan	10:orphan	_
+13	Projekt	_	Word	Word	_	15	A	15:A	_
 14	vollständig	_	Word	Word	_	15	D	15:D	_
-15	kennen	_	Word	Word	_	10	orphan	10:orphan	_
-16	?	_	Punctuation	Punctuation	_	15	punct	15:punct	_
-17	«	_	Punctuation	Punctuation	_	15	punct	15:punct	_
+15	kennen	_	Word	Word	_	0	root	0:root	_
+16	?	_	Punctuation	Punctuation	_	15	U	15:U	_
+17	«	_	Punctuation	Punctuation	_	15	U	15:U	_
 

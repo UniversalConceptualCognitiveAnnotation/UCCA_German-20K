@@ -1,29 +1,29 @@
 # format = ucca
 # sent_id = 25701005
 # text = » Nein « , erwiderte der Kanadier , » aber ich müßte mich sehr irren , wenn es nicht ein See tier ist . «
-1	»	_	Punctuation	Punctuation	_	2	punct	2:punct	_
-2	Nein	_	Word	Word	_	0	root	0:root	_
-3	«	_	Punctuation	Punctuation	_	5	punct	5:punct	_
-4	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_
-5	erwiderte	_	Word	Word	_	2	orphan	2:orphan	_
+1	»	_	Punctuation	Punctuation	_	2	U	2:U	_
+2	Nein	_	Word	Word	_	5	A	5:A	_
+3	«	_	Punctuation	Punctuation	_	5	U	5:U	_
+4	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+5	erwiderte	_	Word	Word	_	0	root	0:root	_
 6	der	_	Word	Word	_	7	E	7:E	_
-7	Kanadier	_	Word	Word	_	2	orphan	2:orphan	_
-8	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_
-9	»	_	Punctuation	Punctuation	_	5	punct	5:punct	_
+7	Kanadier	_	Word	Word	_	5	A	5:A	_
+8	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+9	»	_	Punctuation	Punctuation	_	5	U	5:U	_
 10	aber	_	Word	Word	_	2	L	2:L	_
 11	ich	_	Word	Word	_	13	A	13:A	_
 12	müßte	_	Word	Word	_	13	D	13:D	_
-13	mich	_	Word	Word	_	2	orphan	2:orphan	_
+13	mich	_	Word	Word	_	2	H	2:H	_
 14	sehr	_	Word	Word	_	13	D	13:D	_
-15	irren	_	Word	Word	_	13	flat	13:flat	_
-16	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
+15	irren	_	Word	Word	_	13	Terminal	13:Terminal	_
+16	,	_	Punctuation	Punctuation	_	2	U	2:U	_
 17	wenn	_	Word	Word	_	2	L	2:L	_
 18	es	_	Word	Word	_	23	A	23:A	_
 19	nicht	_	Word	Word	_	23	D	23:D	_
 20	ein	_	Word	Word	_	22	E	22:E	_
 21	See	_	Word	Word	_	22	E	22:E	_
-22	tier	_	Word	Word	_	2	orphan	2:orphan	_
-23	ist	_	Word	Word	_	2	orphan	2:orphan	_
-24	.	_	Punctuation	Punctuation	_	23	punct	23:punct	_
-25	«	_	Punctuation	Punctuation	_	23	punct	23:punct	_
+22	tier	_	Word	Word	_	23	A	23:A	_
+23	ist	_	Word	Word	_	2	H	2:H	_
+24	.	_	Punctuation	Punctuation	_	23	U	23:U	_
+25	«	_	Punctuation	Punctuation	_	23	U	23:U	_
 

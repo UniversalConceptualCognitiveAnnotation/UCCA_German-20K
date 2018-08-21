@@ -2,22 +2,22 @@
 # sent_id = 25494006
 # text = Diese Frage setzte mich in Verlegenheit , denn gewiß hätte Kommandant Farragut kein Bedenken getragen es zu tun .
 1	Diese	_	Word	Word	_	2	E	2:E	_
-2	Frage	_	Word	Word	_	0	root	0:root	_
-3	setzte	_	Word	Word	_	2	orphan	2:orphan	_
+2	Frage	_	Word	Word	_	3	A	3:A	_
+3	setzte	_	Word	Word	_	0	root	0:root	_
 4	mich	_	Word	Word	_	3	A	3:A	_
-5	in	_	Word	Word	_	3	flat	3:flat	_
-6	Verlegenheit	_	Word	Word	_	3	flat	3:flat	_
-7	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+5	in	_	Word	Word	_	3	Terminal	3:Terminal	_
+6	Verlegenheit	_	Word	Word	_	3	Terminal	3:Terminal	_
+7	,	_	Punctuation	Punctuation	_	3	U	3:U	_
 8	denn	_	Word	Word	_	3	L	3:L	_
 9	gewiß	_	Word	Word	_	18	G	18:G	_
 10	hätte	_	Word	Word	_	18	F	18:F	_
 11	Kommandant	_	Word	Word	_	12	E	12:E	_
-12	Farragut	_	Word	Word	_	2	orphan	2:orphan	_
+12	Farragut	_	Word	Word	_	18	A	18:A	_
 13	kein	_	Word	Word	_	18	D	18:D	_
 14	Bedenken	_	Word	Word	_	18	D	18:D	_
-15	getragen	_	Word	Word	_	14	flat	14:flat	_
+15	getragen	_	Word	Word	_	14	Terminal	14:Terminal	_
 16	es	_	Word	Word	_	18	A	18:A	_
 17	zu	_	Word	Word	_	18	F	18:F	_
-18	tun	_	Word	Word	_	2	orphan	2:orphan	_
-19	.	_	Punctuation	Punctuation	_	18	punct	18:punct	_
+18	tun	_	Word	Word	_	3	H	3:H	_
+19	.	_	Punctuation	Punctuation	_	18	U	18:U	_
 

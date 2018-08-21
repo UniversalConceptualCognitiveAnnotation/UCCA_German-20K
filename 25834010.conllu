@@ -3,27 +3,27 @@
 # text = Sie hielt sich an der Oberfläche des Wassers und in leichtem Schwanken neigte sie bald auf die eine , bald auf die andere Seite .
 1	Sie	_	Word	Word	_	2	A	2:A	_
 2	hielt	_	Word	Word	_	0	root	0:root	_
-3	sich	_	Word	Word	_	2	flat	2:flat	_
+3	sich	_	Word	Word	_	2	Terminal	2:Terminal	_
 4	an	_	Word	Word	_	6	R	6:R	_
 5	der	_	Word	Word	_	6	E	6:E	_
-6	Oberfläche	_	Word	Word	_	2	orphan	2:orphan	_
+6	Oberfläche	_	Word	Word	_	2	A	2:A	_
 7	des	_	Word	Word	_	8	R	8:R	_
-8	Wassers	_	Word	Word	_	2	orphan	2:orphan	_
+8	Wassers	_	Word	Word	_	2	A	2:A	_
 9	und	_	Word	Word	_	2	L	2:L	_
 10	in	_	Word	Word	_	12	R	12:R	_
 11	leichtem	_	Word	Word	_	12	E	12:E	_
-12	Schwanken	_	Word	Word	_	2	orphan	2:orphan	_
-13	neigte	_	Word	Word	_	2	orphan	2:orphan	_
+12	Schwanken	_	Word	Word	_	13	A	13:A	_
+13	neigte	_	Word	Word	_	2	H	2:H	_
 14	sie	_	Word	Word	_	13	A	13:A	_
 15	bald	_	Word	Word	_	18	N	18:N	_
 16	auf	_	Word	Word	_	18	R	18:R	_
 17	die	_	Word	Word	_	18	E	18:E	_
-18	eine	_	Word	Word	_	2	orphan	2:orphan	_
-19	,	_	Punctuation	Punctuation	_	18	punct	18:punct	_
+18	eine	_	Word	Word	_	13	A	13:A	_
+19	,	_	Punctuation	Punctuation	_	18	U	18:U	_
 20	bald	_	Word	Word	_	18	N	18:N	_
 21	auf	_	Word	Word	_	24	R	24:R	_
 22	die	_	Word	Word	_	24	E	24:E	_
 23	andere	_	Word	Word	_	24	E	24:E	_
-24	Seite	_	Word	Word	_	2	orphan	2:orphan	_
-25	.	_	Punctuation	Punctuation	_	24	punct	24:punct	_
+24	Seite	_	Word	Word	_	18	C	18:C	_
+25	.	_	Punctuation	Punctuation	_	24	U	24:U	_
 

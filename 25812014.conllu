@@ -2,14 +2,14 @@
 # sent_id = 25812014
 # text = Die ›Nautilus‹ befand sich damals auf der Oberfläche des Wassers .
 1	Die	_	Word	Word	_	2	E	2:E	_
-2	›Nautilus‹	_	Word	Word	_	0	root	0:root	_
-3	befand	_	Word	Word	_	2	orphan	2:orphan	_
-4	sich	_	Word	Word	_	3	flat	3:flat	_
+2	›Nautilus‹	_	Word	Word	_	3	A	3:A	_
+3	befand	_	Word	Word	_	0	root	0:root	_
+4	sich	_	Word	Word	_	3	Terminal	3:Terminal	_
 5	damals	_	Word	Word	_	3	T	3:T	_
 6	auf	_	Word	Word	_	8	R	8:R	_
 7	der	_	Word	Word	_	8	E	8:E	_
-8	Oberfläche	_	Word	Word	_	2	orphan	2:orphan	_
+8	Oberfläche	_	Word	Word	_	3	A	3:A	_
 9	des	_	Word	Word	_	10	R	10:R	_
-10	Wassers	_	Word	Word	_	2	orphan	2:orphan	_
-11	.	_	Punctuation	Punctuation	_	10	punct	10:punct	_
+10	Wassers	_	Word	Word	_	8	E	8:E	_
+11	.	_	Punctuation	Punctuation	_	10	U	10:U	_
 

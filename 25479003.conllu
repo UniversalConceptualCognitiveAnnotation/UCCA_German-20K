@@ -3,19 +3,19 @@
 # text = Die ›Abraham Lincoln‹ , von seiner gewaltigen Schraube getrieben , fuhr direkt auf das Tier los .
 1	Die	_	Word	Word	_	2	E	2:E	_
 2	›Abraham	_	Word	Word	_	0	root	0:root	_
-3	Lincoln‹	_	Word	Word	_	2	flat	2:flat	_
-4	,	_	Punctuation	Punctuation	_	9	punct	9:punct	_
+3	Lincoln‹	_	Word	Word	_	2	Terminal	2:Terminal	_
+4	,	_	Punctuation	Punctuation	_	9	U	9:U	_
 5	von	_	Word	Word	_	8	R	8:R	_
 6	seiner	_	Word	Word	_	8	E	8:E	_
 7	gewaltigen	_	Word	Word	_	8	E	8:E	_
-8	Schraube	_	Word	Word	_	2	orphan	2:orphan	_
-9	getrieben	_	Word	Word	_	2	orphan	2:orphan	_
-10	,	_	Punctuation	Punctuation	_	11	punct	11:punct	_
+8	Schraube	_	Word	Word	_	9	A	9:A	_
+9	getrieben	_	Word	Word	_	11	H	11:H	_
+10	,	_	Punctuation	Punctuation	_	11	U	11:U	_
 11	fuhr	_	Word	Word	_	2	orphan	2:orphan	_
 12	direkt	_	Word	Word	_	11	D	11:D	_
 13	auf	_	Word	Word	_	15	R	15:R	_
 14	das	_	Word	Word	_	15	E	15:E	_
-15	Tier	_	Word	Word	_	2	orphan	2:orphan	_
-16	los	_	Word	Word	_	11	flat	11:flat	_
-17	.	_	Punctuation	Punctuation	_	11	punct	11:punct	_
+15	Tier	_	Word	Word	_	11	A	11:A	_
+16	los	_	Word	Word	_	11	Terminal	11:Terminal	_
+17	.	_	Punctuation	Punctuation	_	11	U	11:U	_
 

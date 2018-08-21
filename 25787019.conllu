@@ -5,12 +5,12 @@
 2	und	_	Word	Word	_	1	N	1:N	_
 3	Conseil	_	Word	Word	_	1	C	1:C|8:A	_
 4	standen	_	Word	Word	_	1	orphan	1:orphan	_
-5	auf	_	Word	Word	_	4	flat	4:flat	_
-6	,	_	Punctuation	Punctuation	_	4	punct	4:punct	_
+5	auf	_	Word	Word	_	4	Terminal	4:Terminal	_
+6	,	_	Punctuation	Punctuation	_	4	U	4:U	_
 7	um	_	Word	Word	_	4	L	4:L	_
-8	sich	_	Word	Word	_	1	orphan	1:orphan	_
-9	zurück	_	Word	Word	_	8	flat	8:flat	_
+8	sich	_	Word	Word	_	4	H	4:H	_
+9	zurück	_	Word	Word	_	8	Terminal	8:Terminal	_
 10	zu	_	Word	Word	_	8	F	8:F	_
-11	ziehen	_	Word	Word	_	8	flat	8:flat	_
-12	.	_	Punctuation	Punctuation	_	8	punct	8:punct	_
+11	ziehen	_	Word	Word	_	8	Terminal	8:Terminal	_
+12	.	_	Punctuation	Punctuation	_	8	U	8:U	_
 

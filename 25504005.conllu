@@ -1,38 +1,38 @@
 # format = ucca
 # sent_id = 25504005
 # text = » So rauchen Sie davon nach Belieben und ohne sich über ihren Ursprung Gedanken zu machen . Sie sind von keiner Verwaltung kontrolliert und sind darum nicht minder gut , denk' ich . «
-1	»	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+1	»	_	Punctuation	Punctuation	_	3	U	3:U	_
 2	So	_	Word	Word	_	3	L	3:L	_
 3	rauchen	_	Word	Word	_	0	root	0:root	_
 4	Sie	_	Word	Word	_	3	F	3:F|10:A	_
 5	davon	_	Word	Word	_	3	A	3:A	_
 6	nach	_	Word	Word	_	7	R	7:R	_
-7	Belieben	_	Word	Word	_	3	orphan	3:orphan	_
+7	Belieben	_	Word	Word	_	3	D	3:D	_
 8	und	_	Word	Word	_	3	L	3:L	_
 9	ohne	_	Word	Word	_	10	D	10:D	_
-10	sich	_	Word	Word	_	3	orphan	3:orphan	_
+10	sich	_	Word	Word	_	3	H	3:H	_
 11	über	_	Word	Word	_	13	R	13:R	_
 12	ihren	_	Word	Word	_	13	E	13:E	_
-13	Ursprung	_	Word	Word	_	3	orphan	3:orphan	_
-14	Gedanken	_	Word	Word	_	10	flat	10:flat	_
+13	Ursprung	_	Word	Word	_	10	A	10:A	_
+14	Gedanken	_	Word	Word	_	10	Terminal	10:Terminal	_
 15	zu	_	Word	Word	_	10	F	10:F	_
-16	machen	_	Word	Word	_	10	flat	10:flat	_
-17	.	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+16	machen	_	Word	Word	_	10	Terminal	10:Terminal	_
+17	.	_	Punctuation	Punctuation	_	3	U	3:U	_
 18	Sie	_	Word	Word	_	23	A	23:A|29:A	_
 19	sind	_	Word	Word	_	23	F	23:F	_
 20	von	_	Word	Word	_	22	R	22:R	_
 21	keiner	_	Word	Word	_	22	E	22:E	_
-22	Verwaltung	_	Word	Word	_	3	orphan	3:orphan	_
-23	kontrolliert	_	Word	Word	_	3	orphan	3:orphan	_
+22	Verwaltung	_	Word	Word	_	23	A	23:A	_
+23	kontrolliert	_	Word	Word	_	3	H	3:H	_
 24	und	_	Word	Word	_	3	L	3:L	_
 25	sind	_	Word	Word	_	29	F	29:F	_
 26	darum	_	Word	Word	_	29	D	29:D	_
 27	nicht	_	Word	Word	_	28	E	28:E	_
-28	minder	_	Word	Word	_	3	orphan	3:orphan	_
-29	gut	_	Word	Word	_	3	orphan	3:orphan	_
-30	,	_	Punctuation	Punctuation	_	31	punct	31:punct	_
-31	denk'	_	Word	Word	_	3	orphan	3:orphan	_
+28	minder	_	Word	Word	_	29	D	29:D	_
+29	gut	_	Word	Word	_	31	A	31:A	_
+30	,	_	Punctuation	Punctuation	_	31	U	31:U	_
+31	denk'	_	Word	Word	_	3	H	3:H	_
 32	ich	_	Word	Word	_	31	A	31:A	_
-33	.	_	Punctuation	Punctuation	_	31	punct	31:punct	_
-34	«	_	Punctuation	Punctuation	_	31	punct	31:punct	_
+33	.	_	Punctuation	Punctuation	_	31	U	31:U	_
+34	«	_	Punctuation	Punctuation	_	31	U	31:U	_
 

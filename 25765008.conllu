@@ -1,24 +1,24 @@
 # format = ucca
 # sent_id = 25765008
 # text = » Mein Herr « , sagte da Ned Land , » wenn Ihr Kapitän noch weiter fahren wird ? «
-1	»	_	Punctuation	Punctuation	_	17	punct	17:punct	_
+1	»	_	Punctuation	Punctuation	_	17	U	17:U	_
 2	Mein	_	Word	Word	_	3	E	3:E	_
-3	Herr	_	Word	Word	_	0	root	0:root	_
-4	«	_	Punctuation	Punctuation	_	6	punct	6:punct	_
-5	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_
-6	sagte	_	Word	Word	_	3	orphan	3:orphan	_
+3	Herr	_	Word	Word	_	17	G	17:G	_
+4	«	_	Punctuation	Punctuation	_	6	U	6:U	_
+5	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+6	sagte	_	Word	Word	_	0	root	0:root	_
 7	da	_	Word	Word	_	6	T	6:T	_
 8	Ned	_	Word	Word	_	6	A	6:A	_
-9	Land	_	Word	Word	_	8	flat	8:flat	_
-10	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_
-11	»	_	Punctuation	Punctuation	_	6	punct	6:punct	_
+9	Land	_	Word	Word	_	8	Terminal	8:Terminal	_
+10	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+11	»	_	Punctuation	Punctuation	_	6	U	6:U	_
 12	wenn	_	Word	Word	_	17	L	17:L	_
 13	Ihr	_	Word	Word	_	14	E	14:E	_
-14	Kapitän	_	Word	Word	_	3	orphan	3:orphan	_
+14	Kapitän	_	Word	Word	_	17	A	17:A	_
 15	noch	_	Word	Word	_	17	D	17:D	_
 16	weiter	_	Word	Word	_	17	D	17:D	_
-17	fahren	_	Word	Word	_	3	orphan	3:orphan	_
+17	fahren	_	Word	Word	_	6	A	6:A	_
 18	wird	_	Word	Word	_	17	F	17:F	_
-19	?	_	Punctuation	Punctuation	_	17	punct	17:punct	_
-20	«	_	Punctuation	Punctuation	_	17	punct	17:punct	_
+19	?	_	Punctuation	Punctuation	_	17	U	17:U	_
+20	«	_	Punctuation	Punctuation	_	17	U	17:U	_
 

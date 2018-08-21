@@ -1,33 +1,33 @@
 # format = ucca
 # sent_id = 25691005
 # text = » Aber wissen Sie , Herr Arronax « , erwiderte der Kanadier , » daß wir nun seit beinah 3 Monaten an Bord der ›Nautilus‹ Gefangene sind ? «
-1	»	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+1	»	_	Punctuation	Punctuation	_	3	U	3:U	_
 2	Aber	_	Word	Word	_	3	L	3:L	_
-3	wissen	_	Word	Word	_	0	root	0:root	_
+3	wissen	_	Word	Word	_	10	A	10:A	_
 4	Sie	_	Word	Word	_	3	A	3:A	_
-5	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+5	,	_	Punctuation	Punctuation	_	3	U	3:U	_
 6	Herr	_	Word	Word	_	7	E	7:E	_
-7	Arronax	_	Word	Word	_	3	orphan	3:orphan	_
-8	«	_	Punctuation	Punctuation	_	10	punct	10:punct	_
-9	,	_	Punctuation	Punctuation	_	10	punct	10:punct	_
-10	erwiderte	_	Word	Word	_	3	orphan	3:orphan	_
+7	Arronax	_	Word	Word	_	3	G	3:G	_
+8	«	_	Punctuation	Punctuation	_	10	U	10:U	_
+9	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+10	erwiderte	_	Word	Word	_	0	root	0:root	_
 11	der	_	Word	Word	_	12	E	12:E	_
-12	Kanadier	_	Word	Word	_	3	orphan	3:orphan	_
-13	,	_	Punctuation	Punctuation	_	10	punct	10:punct	_
-14	»	_	Punctuation	Punctuation	_	10	punct	10:punct	_
+12	Kanadier	_	Word	Word	_	10	A	10:A	_
+13	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+14	»	_	Punctuation	Punctuation	_	10	U	10:U	_
 15	daß	_	Word	Word	_	26	R	26:R	_
 16	wir	_	Word	Word	_	26	A	26:A	_
 17	nun	_	Word	Word	_	26	D	26:D	_
 18	seit	_	Word	Word	_	21	R	21:R	_
 19	beinah	_	Word	Word	_	21	E	21:E	_
 20	3	_	Word	Word	_	21	E	21:E	_
-21	Monaten	_	Word	Word	_	3	orphan	3:orphan	_
+21	Monaten	_	Word	Word	_	26	T	26:T	_
 22	an	_	Word	Word	_	23	R	23:R	_
-23	Bord	_	Word	Word	_	3	orphan	3:orphan	_
+23	Bord	_	Word	Word	_	26	A	26:A	_
 24	der	_	Word	Word	_	25	R	25:R	_
-25	›Nautilus‹	_	Word	Word	_	3	orphan	3:orphan	_
-26	Gefangene	_	Word	Word	_	3	orphan	3:orphan	_
+25	›Nautilus‹	_	Word	Word	_	23	E	23:E	_
+26	Gefangene	_	Word	Word	_	3	A	3:A	_
 27	sind	_	Word	Word	_	26	F	26:F	_
-28	?	_	Punctuation	Punctuation	_	26	punct	26:punct	_
-29	«	_	Punctuation	Punctuation	_	26	punct	26:punct	_
+28	?	_	Punctuation	Punctuation	_	26	U	26:U	_
+29	«	_	Punctuation	Punctuation	_	26	U	26:U	_
 

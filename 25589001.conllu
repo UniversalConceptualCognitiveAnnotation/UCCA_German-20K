@@ -1,23 +1,23 @@
 # format = ucca
 # sent_id = 25589001
 # text = » Gut ! « sagte der Harpunier enttäuscht , da er seine Träume von frischem Fleisch schwinden sah .
-1	»	_	Punctuation	Punctuation	_	5	punct	5:punct	_
-2	Gut	_	Word	Word	_	0	root	0:root	_
-3	!	_	Punctuation	Punctuation	_	5	punct	5:punct	_
-4	«	_	Punctuation	Punctuation	_	5	punct	5:punct	_
-5	sagte	_	Word	Word	_	2	orphan	2:orphan	_
+1	»	_	Punctuation	Punctuation	_	5	U	5:U	_
+2	Gut	_	Word	Word	_	5	A	5:A	_
+3	!	_	Punctuation	Punctuation	_	5	U	5:U	_
+4	«	_	Punctuation	Punctuation	_	5	U	5:U	_
+5	sagte	_	Word	Word	_	0	root	0:root	_
 6	der	_	Word	Word	_	7	E	7:E	_
-7	Harpunier	_	Word	Word	_	2	orphan	2:orphan	_
+7	Harpunier	_	Word	Word	_	5	A	5:A	_
 8	enttäuscht	_	Word	Word	_	5	D	5:D	_
-9	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_
+9	,	_	Punctuation	Punctuation	_	5	U	5:U	_
 10	da	_	Word	Word	_	5	L	5:L	_
 11	er	_	Word	Word	_	18	A	18:A	_
 12	seine	_	Word	Word	_	13	E	13:E	_
-13	Träume	_	Word	Word	_	2	orphan	2:orphan	_
+13	Träume	_	Word	Word	_	17	A	17:A	_
 14	von	_	Word	Word	_	16	R	16:R	_
 15	frischem	_	Word	Word	_	16	E	16:E	_
-16	Fleisch	_	Word	Word	_	2	orphan	2:orphan	_
-17	schwinden	_	Word	Word	_	2	orphan	2:orphan	_
-18	sah	_	Word	Word	_	2	orphan	2:orphan	_
-19	.	_	Punctuation	Punctuation	_	18	punct	18:punct	_
+16	Fleisch	_	Word	Word	_	13	E	13:E	_
+17	schwinden	_	Word	Word	_	18	A	18:A	_
+18	sah	_	Word	Word	_	5	H	5:H	_
+19	.	_	Punctuation	Punctuation	_	18	U	18:U	_
 

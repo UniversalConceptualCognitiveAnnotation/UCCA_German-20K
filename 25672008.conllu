@@ -1,37 +1,37 @@
 # format = ucca
 # sent_id = 25672008
 # text = » Die Insel Ceylon ist durch ihre Perlen fischereien berühmt ? Würde es Ihnen angenehm sein , Herr Arronax , eine solche Fischerei zu besuchen ? « » Jawohl , Kapitän . «
-1	»	_	Punctuation	Punctuation	_	10	punct	10:punct	_
+1	»	_	Punctuation	Punctuation	_	10	U	10:U	_
 2	Die	_	Word	Word	_	4	E	4:E	_
 3	Insel	_	Word	Word	_	4	E	4:E	_
-4	Ceylon	_	Word	Word	_	0	root	0:root	_
+4	Ceylon	_	Word	Word	_	10	A	10:A	_
 5	ist	_	Word	Word	_	10	F	10:F	_
 6	durch	_	Word	Word	_	9	R	9:R	_
 7	ihre	_	Word	Word	_	9	E	9:E	_
 8	Perlen	_	Word	Word	_	9	E	9:E	_
-9	fischereien	_	Word	Word	_	4	orphan	4:orphan	_
-10	berühmt	_	Word	Word	_	4	orphan	4:orphan	_
-11	?	_	Punctuation	Punctuation	_	10	punct	10:punct	_
+9	fischereien	_	Word	Word	_	10	A	10:A	_
+10	berühmt	_	Word	Word	_	0	root	0:root	_
+11	?	_	Punctuation	Punctuation	_	10	U	10:U	_
 12	Würde	_	Word	Word	_	25	D	25:D	_
 13	es	_	Word	Word	_	25	F	25:F	_
 14	Ihnen	_	Word	Word	_	25	A	25:A	_
 15	angenehm	_	Word	Word	_	25	D	25:D	_
 16	sein	_	Word	Word	_	25	F	25:F	_
-17	,	_	Punctuation	Punctuation	_	25	punct	25:punct	_
+17	,	_	Punctuation	Punctuation	_	25	U	25:U	_
 18	Herr	_	Word	Word	_	19	E	19:E	_
-19	Arronax	_	Word	Word	_	4	orphan	4:orphan	_
-20	,	_	Punctuation	Punctuation	_	25	punct	25:punct	_
+19	Arronax	_	Word	Word	_	25	G	25:G	_
+20	,	_	Punctuation	Punctuation	_	25	U	25:U	_
 21	eine	_	Word	Word	_	23	E	23:E	_
 22	solche	_	Word	Word	_	23	E	23:E	_
-23	Fischerei	_	Word	Word	_	4	orphan	4:orphan	_
+23	Fischerei	_	Word	Word	_	25	A	25:A	_
 24	zu	_	Word	Word	_	25	F	25:F	_
-25	besuchen	_	Word	Word	_	4	orphan	4:orphan	_
-26	?	_	Punctuation	Punctuation	_	29	punct	29:punct	_
-27	«	_	Punctuation	Punctuation	_	29	punct	29:punct	_
-28	»	_	Punctuation	Punctuation	_	29	punct	29:punct	_
-29	Jawohl	_	Word	Word	_	4	orphan	4:orphan	_
-30	,	_	Punctuation	Punctuation	_	29	punct	29:punct	_
+25	besuchen	_	Word	Word	_	10	orphan	10:orphan	_
+26	?	_	Punctuation	Punctuation	_	29	U	29:U	_
+27	«	_	Punctuation	Punctuation	_	29	U	29:U	_
+28	»	_	Punctuation	Punctuation	_	29	U	29:U	_
+29	Jawohl	_	Word	Word	_	10	H	10:H	_
+30	,	_	Punctuation	Punctuation	_	29	U	29:U	_
 31	Kapitän	_	Word	Word	_	29	G	29:G	_
-32	.	_	Punctuation	Punctuation	_	29	punct	29:punct	_
-33	«	_	Punctuation	Punctuation	_	29	punct	29:punct	_
+32	.	_	Punctuation	Punctuation	_	29	U	29:U	_
+33	«	_	Punctuation	Punctuation	_	29	U	29:U	_
 

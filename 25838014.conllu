@@ -1,35 +1,35 @@
 # format = ucca
 # sent_id = 25838014
 # text = » In nächster Nacht . Jede Überwachung scheint von der ›Nautilus‹ verschwunden . Man meint , es herrsche Verstörung an Bord . Werden Sie bereit sein , mein Herr ? «
-1	»	_	Punctuation	Punctuation	_	4	punct	4:punct	_
+1	»	_	Punctuation	Punctuation	_	4	U	4:U	_
 2	In	_	Word	Word	_	4	R	4:R	_
 3	nächster	_	Word	Word	_	4	E	4:E	_
 4	Nacht	_	Word	Word	_	0	root	0:root	_
-5	.	_	Punctuation	Punctuation	_	4	punct	4:punct	_
+5	.	_	Punctuation	Punctuation	_	4	U	4:U	_
 6	Jede	_	Word	Word	_	7	E	7:E	_
-7	Überwachung	_	Word	Word	_	4	orphan	4:orphan	_
+7	Überwachung	_	Word	Word	_	12	A	12:A	_
 8	scheint	_	Word	Word	_	12	G	12:G	_
 9	von	_	Word	Word	_	11	R	11:R	_
 10	der	_	Word	Word	_	11	E	11:E	_
-11	›Nautilus‹	_	Word	Word	_	4	orphan	4:orphan	_
-12	verschwunden	_	Word	Word	_	4	orphan	4:orphan	_
-13	.	_	Punctuation	Punctuation	_	4	punct	4:punct	_
+11	›Nautilus‹	_	Word	Word	_	12	A	12:A	_
+12	verschwunden	_	Word	Word	_	4	H	4:H	_
+13	.	_	Punctuation	Punctuation	_	4	U	4:U	_
 14	Man	_	Word	Word	_	15	A	15:A	_
-15	meint	_	Word	Word	_	4	orphan	4:orphan	_
-16	,	_	Punctuation	Punctuation	_	15	punct	15:punct	_
+15	meint	_	Word	Word	_	4	H	4:H	_
+16	,	_	Punctuation	Punctuation	_	15	U	15:U	_
 17	es	_	Word	Word	_	18	F	18:F	_
-18	herrsche	_	Word	Word	_	4	orphan	4:orphan	_
+18	herrsche	_	Word	Word	_	15	A	15:A	_
 19	Verstörung	_	Word	Word	_	18	A	18:A	_
 20	an	_	Word	Word	_	21	R	21:R	_
-21	Bord	_	Word	Word	_	4	orphan	4:orphan	_
-22	.	_	Punctuation	Punctuation	_	4	punct	4:punct	_
+21	Bord	_	Word	Word	_	18	A	18:A	_
+22	.	_	Punctuation	Punctuation	_	4	U	4:U	_
 23	Werden	_	Word	Word	_	25	F	25:F	_
 24	Sie	_	Word	Word	_	25	A	25:A	_
-25	bereit	_	Word	Word	_	4	orphan	4:orphan	_
+25	bereit	_	Word	Word	_	4	H	4:H	_
 26	sein	_	Word	Word	_	25	F	25:F	_
-27	,	_	Punctuation	Punctuation	_	25	punct	25:punct	_
+27	,	_	Punctuation	Punctuation	_	25	U	25:U	_
 28	mein	_	Word	Word	_	29	E	29:E	_
-29	Herr	_	Word	Word	_	4	orphan	4:orphan	_
-30	?	_	Punctuation	Punctuation	_	29	punct	29:punct	_
-31	«	_	Punctuation	Punctuation	_	29	punct	29:punct	_
+29	Herr	_	Word	Word	_	25	G	25:G	_
+30	?	_	Punctuation	Punctuation	_	29	U	29:U	_
+31	«	_	Punctuation	Punctuation	_	29	U	29:U	_
 

@@ -3,19 +3,19 @@
 # text = Man stelle sich einen Harzwald an den Seiten eines Gebirges vor , aber einen versunkenen Wald .
 1	Man	_	Word	Word	_	2	A	2:A|16:A	_
 2	stelle	_	Word	Word	_	0	root	0:root	_
-3	sich	_	Word	Word	_	2	flat	2:flat	_
+3	sich	_	Word	Word	_	2	Terminal	2:Terminal	_
 4	einen	_	Word	Word	_	5	E	5:E	_
-5	Harzwald	_	Word	Word	_	2	orphan	2:orphan	_
+5	Harzwald	_	Word	Word	_	2	A	2:A	_
 6	an	_	Word	Word	_	8	R	8:R	_
 7	den	_	Word	Word	_	8	E	8:E	_
-8	Seiten	_	Word	Word	_	2	orphan	2:orphan	_
+8	Seiten	_	Word	Word	_	2	A	2:A	_
 9	eines	_	Word	Word	_	10	R	10:R	_
-10	Gebirges	_	Word	Word	_	2	orphan	2:orphan	_
-11	vor	_	Word	Word	_	2	flat	2:flat	_
-12	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
+10	Gebirges	_	Word	Word	_	8	E	8:E	_
+11	vor	_	Word	Word	_	2	Terminal	2:Terminal	_
+12	,	_	Punctuation	Punctuation	_	2	U	2:U	_
 13	aber	_	Word	Word	_	2	L	2:L	_
 14	einen	_	Word	Word	_	16	E	16:E	_
-15	versunkenen	_	Word	Word	_	2	orphan	2:orphan	_
-16	Wald	_	Word	Word	_	2	orphan	2:orphan	_
-17	.	_	Punctuation	Punctuation	_	16	punct	16:punct	_
+15	versunkenen	_	Word	Word	_	16	E	16:E	_
+16	Wald	_	Word	Word	_	2	H	2:H	_
+17	.	_	Punctuation	Punctuation	_	16	U	16:U	_
 

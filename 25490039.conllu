@@ -1,28 +1,28 @@
 # format = ucca
 # sent_id = 25490039
 # text = « » Des Mittagessens , wackerer Harpunier ? Sagen Sie wenigstens des Frühstückens , denn wir sind offenbar am folgenden Tag von gestern .
-1	«	_	Punctuation	Punctuation	_	4	punct	4:punct	_
-2	»	_	Punctuation	Punctuation	_	4	punct	4:punct	_
+1	«	_	Punctuation	Punctuation	_	4	U	4:U	_
+2	»	_	Punctuation	Punctuation	_	4	U	4:U	_
 3	Des	_	Word	Word	_	4	R	4:R	_
 4	Mittagessens	_	Word	Word	_	0	root	0:root	_
-5	,	_	Punctuation	Punctuation	_	4	punct	4:punct	_
+5	,	_	Punctuation	Punctuation	_	4	U	4:U	_
 6	wackerer	_	Word	Word	_	7	E	7:E	_
-7	Harpunier	_	Word	Word	_	4	orphan	4:orphan	_
-8	?	_	Punctuation	Punctuation	_	4	punct	4:punct	_
-9	Sagen	_	Word	Word	_	4	orphan	4:orphan	_
+7	Harpunier	_	Word	Word	_	4	G	4:G	_
+8	?	_	Punctuation	Punctuation	_	4	U	4:U	_
+9	Sagen	_	Word	Word	_	4	H	4:H	_
 10	Sie	_	Word	Word	_	9	A	9:A	_
 11	wenigstens	_	Word	Word	_	9	D	9:D	_
 12	des	_	Word	Word	_	13	R	13:R	_
-13	Frühstückens	_	Word	Word	_	4	orphan	4:orphan	_
-14	,	_	Punctuation	Punctuation	_	4	punct	4:punct	_
+13	Frühstückens	_	Word	Word	_	9	A	9:A	_
+14	,	_	Punctuation	Punctuation	_	4	U	4:U	_
 15	denn	_	Word	Word	_	4	L	4:L	_
 16	wir	_	Word	Word	_	17	A	17:A	_
-17	sind	_	Word	Word	_	4	orphan	4:orphan	_
+17	sind	_	Word	Word	_	4	H	4:H	_
 18	offenbar	_	Word	Word	_	17	G	17:G	_
 19	am	_	Word	Word	_	21	R	21:R	_
 20	folgenden	_	Word	Word	_	21	E	21:E	_
-21	Tag	_	Word	Word	_	4	orphan	4:orphan	_
+21	Tag	_	Word	Word	_	17	A	17:A	_
 22	von	_	Word	Word	_	23	R	23:R	_
-23	gestern	_	Word	Word	_	4	orphan	4:orphan	_
-24	.	_	Punctuation	Punctuation	_	23	punct	23:punct	_
+23	gestern	_	Word	Word	_	17	A	17:A	_
+24	.	_	Punctuation	Punctuation	_	23	U	23:U	_
 

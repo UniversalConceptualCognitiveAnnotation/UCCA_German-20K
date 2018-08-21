@@ -3,21 +3,21 @@
 # text = Wir befanden uns hier im Mittelpunkt einer geräumigen , lichten Stelle , die von hohem Baumwuchs umgeben war .
 1	Wir	_	Word	Word	_	2	A	2:A	_
 2	befanden	_	Word	Word	_	0	root	0:root	_
-3	uns	_	Word	Word	_	2	flat	2:flat	_
+3	uns	_	Word	Word	_	2	Terminal	2:Terminal	_
 4	hier	_	Word	Word	_	2	A	2:A	_
 5	im	_	Word	Word	_	6	R	6:R	_
-6	Mittelpunkt	_	Word	Word	_	2	orphan	2:orphan	_
+6	Mittelpunkt	_	Word	Word	_	2	A	2:A	_
 7	einer	_	Word	Word	_	11	R	11:R	_
-8	geräumigen	_	Word	Word	_	2	orphan	2:orphan	_
-9	,	_	Punctuation	Punctuation	_	8	punct	8:punct	_
+8	geräumigen	_	Word	Word	_	11	E	11:E	_
+9	,	_	Punctuation	Punctuation	_	8	U	8:U	_
 10	lichten	_	Word	Word	_	8	C	8:C	_
-11	Stelle	_	Word	Word	_	2	orphan	2:orphan	_
-12	,	_	Punctuation	Punctuation	_	11	punct	11:punct	_
+11	Stelle	_	Word	Word	_	6	E	6:E	_
+12	,	_	Punctuation	Punctuation	_	11	U	11:U	_
 13	die	_	Word	Word	_	17	R	17:R	_
 14	von	_	Word	Word	_	16	R	16:R	_
 15	hohem	_	Word	Word	_	16	E	16:E	_
-16	Baumwuchs	_	Word	Word	_	2	orphan	2:orphan	_
-17	umgeben	_	Word	Word	_	2	orphan	2:orphan	_
+16	Baumwuchs	_	Word	Word	_	17	A	17:A	_
+17	umgeben	_	Word	Word	_	11	E	11:E	_
 18	war	_	Word	Word	_	17	F	17:F	_
-19	.	_	Punctuation	Punctuation	_	17	punct	17:punct	_
+19	.	_	Punctuation	Punctuation	_	17	U	17:U	_
 

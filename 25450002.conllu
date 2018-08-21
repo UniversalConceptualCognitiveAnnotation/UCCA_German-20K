@@ -1,12 +1,12 @@
 # format = ucca
 # sent_id = 25450002
 # text = » Mit Zahlen lässt sich alles machen !
-1	»	_	Punctuation	Punctuation	_	7	punct	7:punct	_
+1	»	_	Punctuation	Punctuation	_	7	U	7:U	_
 2	Mit	_	Word	Word	_	3	E	3:E	_
-3	Zahlen	_	Word	Word	_	0	root	0:root	_
+3	Zahlen	_	Word	Word	_	7	A	7:A	_
 4	lässt	_	Word	Word	_	7	D	7:D	_
-5	sich	_	Word	Word	_	4	flat	4:flat	_
+5	sich	_	Word	Word	_	4	Terminal	4:Terminal	_
 6	alles	_	Word	Word	_	7	A	7:A	_
-7	machen	_	Word	Word	_	3	orphan	3:orphan	_
-8	!	_	Punctuation	Punctuation	_	7	punct	7:punct	_
+7	machen	_	Word	Word	_	0	root	0:root	_
+8	!	_	Punctuation	Punctuation	_	7	U	7:U	_
 

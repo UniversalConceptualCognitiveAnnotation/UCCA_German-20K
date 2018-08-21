@@ -2,16 +2,16 @@
 # sent_id = 25411006
 # text = Der Vorfall ereignete sich Morgens früh , als schon der Tag graute .
 1	Der	_	Word	Word	_	2	E	2:E	_
-2	Vorfall	_	Word	Word	_	0	root	0:root	_
-3	ereignete	_	Word	Word	_	2	orphan	2:orphan	_
-4	sich	_	Word	Word	_	3	flat	3:flat	_
-5	Morgens	_	Word	Word	_	2	orphan	2:orphan	_
+2	Vorfall	_	Word	Word	_	3	A	3:A	_
+3	ereignete	_	Word	Word	_	0	root	0:root	_
+4	sich	_	Word	Word	_	3	Terminal	3:Terminal	_
+5	Morgens	_	Word	Word	_	3	A	3:A	_
 6	früh	_	Word	Word	_	5	E	5:E	_
-7	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_
+7	,	_	Punctuation	Punctuation	_	5	U	5:U	_
 8	als	_	Word	Word	_	12	R	12:R	_
 9	schon	_	Word	Word	_	12	D	12:D	_
 10	der	_	Word	Word	_	11	E	11:E	_
-11	Tag	_	Word	Word	_	2	orphan	2:orphan	_
-12	graute	_	Word	Word	_	2	orphan	2:orphan	_
-13	.	_	Punctuation	Punctuation	_	12	punct	12:punct	_
+11	Tag	_	Word	Word	_	12	A	12:A	_
+12	graute	_	Word	Word	_	5	E	5:E	_
+13	.	_	Punctuation	Punctuation	_	12	U	12:U	_
 

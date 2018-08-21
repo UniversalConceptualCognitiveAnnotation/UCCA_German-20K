@@ -1,21 +1,21 @@
 # format = ucca
 # sent_id = 25490079
 # text = « » Wahrhaftig ! « sagte Conseil , » besser noch drinnen als darunter oder darüber !
-1	«	_	Punctuation	Punctuation	_	3	punct	3:punct	_
-2	»	_	Punctuation	Punctuation	_	3	punct	3:punct	_
-3	Wahrhaftig	_	Word	Word	_	0	root	0:root	_
-4	!	_	Punctuation	Punctuation	_	6	punct	6:punct	_
-5	«	_	Punctuation	Punctuation	_	6	punct	6:punct	_
-6	sagte	_	Word	Word	_	3	orphan	3:orphan	_
+1	«	_	Punctuation	Punctuation	_	3	U	3:U	_
+2	»	_	Punctuation	Punctuation	_	3	U	3:U	_
+3	Wahrhaftig	_	Word	Word	_	6	A	6:A	_
+4	!	_	Punctuation	Punctuation	_	6	U	6:U	_
+5	«	_	Punctuation	Punctuation	_	6	U	6:U	_
+6	sagte	_	Word	Word	_	0	root	0:root	_
 7	Conseil	_	Word	Word	_	6	A	6:A	_
-8	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_
-9	»	_	Punctuation	Punctuation	_	6	punct	6:punct	_
-10	besser	_	Word	Word	_	3	orphan	3:orphan	_
+8	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+9	»	_	Punctuation	Punctuation	_	6	U	6:U	_
+10	besser	_	Word	Word	_	3	H	3:H	_
 11	noch	_	Word	Word	_	10	E	10:E	_
-12	drinnen	_	Word	Word	_	3	orphan	3:orphan	_
+12	drinnen	_	Word	Word	_	10	A	10:A	_
 13	als	_	Word	Word	_	14	R	14:R	_
-14	darunter	_	Word	Word	_	3	orphan	3:orphan	_
+14	darunter	_	Word	Word	_	3	H	3:H	_
 15	oder	_	Word	Word	_	14	R	14:R	_
 16	darüber	_	Word	Word	_	14	C	14:C	_
-17	!	_	Punctuation	Punctuation	_	14	punct	14:punct	_
+17	!	_	Punctuation	Punctuation	_	14	U	14:U	_
 

@@ -1,30 +1,30 @@
 # format = ucca
 # sent_id = 25712000
 # text = » Gut , Ned . Spüren Sie diese Gelegenheit aus ; aber behalten Sie im Sinn , dass ein Fehl schlagen unser Verderben wäre . «
-1	»	_	Punctuation	Punctuation	_	2	punct	2:punct	_
+1	»	_	Punctuation	Punctuation	_	2	U	2:U	_
 2	Gut	_	Word	Word	_	0	root	0:root	_
-3	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
+3	,	_	Punctuation	Punctuation	_	2	U	2:U	_
 4	Ned	_	Word	Word	_	2	G	2:G	_
-5	.	_	Punctuation	Punctuation	_	2	punct	2:punct	_
-6	Spüren	_	Word	Word	_	2	orphan	2:orphan	_
+5	.	_	Punctuation	Punctuation	_	2	U	2:U	_
+6	Spüren	_	Word	Word	_	2	H	2:H	_
 7	Sie	_	Word	Word	_	6	A	6:A	_
 8	diese	_	Word	Word	_	9	E	9:E	_
-9	Gelegenheit	_	Word	Word	_	2	orphan	2:orphan	_
-10	aus	_	Word	Word	_	6	flat	6:flat	_
-11	;	_	Punctuation	Punctuation	_	2	punct	2:punct	_
+9	Gelegenheit	_	Word	Word	_	6	A	6:A	_
+10	aus	_	Word	Word	_	6	Terminal	6:Terminal	_
+11	;	_	Punctuation	Punctuation	_	2	U	2:U	_
 12	aber	_	Word	Word	_	2	L	2:L	_
 13	behalten	_	Word	Word	_	16	F	16:F	_
 14	Sie	_	Word	Word	_	16	A	16:A	_
 15	im	_	Word	Word	_	16	R	16:R	_
-16	Sinn	_	Word	Word	_	2	orphan	2:orphan	_
-17	,	_	Punctuation	Punctuation	_	16	punct	16:punct	_
+16	Sinn	_	Word	Word	_	2	H	2:H	_
+17	,	_	Punctuation	Punctuation	_	16	U	16:U	_
 18	dass	_	Word	Word	_	23	R	23:R	_
 19	ein	_	Word	Word	_	21	E	21:E	_
 20	Fehl	_	Word	Word	_	21	E	21:E	_
-21	schlagen	_	Word	Word	_	2	orphan	2:orphan	_
+21	schlagen	_	Word	Word	_	23	A	23:A	_
 22	unser	_	Word	Word	_	23	E	23:E|21:A	_
-23	Verderben	_	Word	Word	_	2	orphan	2:orphan	_
+23	Verderben	_	Word	Word	_	16	A	16:A	_
 24	wäre	_	Word	Word	_	23	F	23:F	_
-25	.	_	Punctuation	Punctuation	_	23	punct	23:punct	_
-26	«	_	Punctuation	Punctuation	_	23	punct	23:punct	_
+25	.	_	Punctuation	Punctuation	_	23	U	23:U	_
+26	«	_	Punctuation	Punctuation	_	23	U	23:U	_
 

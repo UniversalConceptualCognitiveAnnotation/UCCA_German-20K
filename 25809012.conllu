@@ -1,18 +1,18 @@
 # format = ucca
 # sent_id = 25809012
 # text = » Glich nicht sein Maul einem Papageien schnabel , aber einem furchtbaren ? «
-1	»	_	Punctuation	Punctuation	_	2	punct	2:punct	_
+1	»	_	Punctuation	Punctuation	_	2	U	2:U	_
 2	Glich	_	Word	Word	_	0	root	0:root	_
 3	nicht	_	Word	Word	_	2	D	2:D	_
 4	sein	_	Word	Word	_	5	E	5:E	_
-5	Maul	_	Word	Word	_	2	orphan	2:orphan	_
+5	Maul	_	Word	Word	_	2	A	2:A	_
 6	einem	_	Word	Word	_	8	E	8:E	_
 7	Papageien	_	Word	Word	_	8	E	8:E	_
-8	schnabel	_	Word	Word	_	2	orphan	2:orphan	_
-9	,	_	Punctuation	Punctuation	_	8	punct	8:punct	_
+8	schnabel	_	Word	Word	_	2	A	2:A	_
+9	,	_	Punctuation	Punctuation	_	8	U	8:U	_
 10	aber	_	Word	Word	_	8	N	8:N	_
-11	einem	_	Word	Word	_	2	orphan	2:orphan	_
+11	einem	_	Word	Word	_	8	C	8:C	_
 12	furchtbaren	_	Word	Word	_	11	E	11:E	_
-13	?	_	Punctuation	Punctuation	_	11	punct	11:punct	_
-14	«	_	Punctuation	Punctuation	_	11	punct	11:punct	_
+13	?	_	Punctuation	Punctuation	_	11	U	11:U	_
+14	«	_	Punctuation	Punctuation	_	11	U	11:U	_
 

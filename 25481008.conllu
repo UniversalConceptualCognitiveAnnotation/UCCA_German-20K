@@ -1,18 +1,18 @@
 # format = ucca
 # sent_id = 25481008
 # text = » Haben Sie den höchsten Grad des Dampfs ? « fragte der Kommandant .
-1	»	_	Punctuation	Punctuation	_	11	punct	11:punct	_
-2	Haben	_	Word	Word	_	0	root	0:root	_
+1	»	_	Punctuation	Punctuation	_	11	U	11:U	_
+2	Haben	_	Word	Word	_	11	A	11:A	_
 3	Sie	_	Word	Word	_	2	A	2:A	_
 4	den	_	Word	Word	_	5	E	5:E	_
-5	höchsten	_	Word	Word	_	2	orphan	2:orphan	_
-6	Grad	_	Word	Word	_	2	orphan	2:orphan	_
+5	höchsten	_	Word	Word	_	6	E	6:E	_
+6	Grad	_	Word	Word	_	8	E	8:E	_
 7	des	_	Word	Word	_	6	R	6:R	_
-8	Dampfs	_	Word	Word	_	2	orphan	2:orphan	_
-9	?	_	Punctuation	Punctuation	_	11	punct	11:punct	_
-10	«	_	Punctuation	Punctuation	_	11	punct	11:punct	_
-11	fragte	_	Word	Word	_	2	orphan	2:orphan	_
+8	Dampfs	_	Word	Word	_	2	A	2:A	_
+9	?	_	Punctuation	Punctuation	_	11	U	11:U	_
+10	«	_	Punctuation	Punctuation	_	11	U	11:U	_
+11	fragte	_	Word	Word	_	0	root	0:root	_
 12	der	_	Word	Word	_	13	E	13:E	_
-13	Kommandant	_	Word	Word	_	2	orphan	2:orphan	_
-14	.	_	Punctuation	Punctuation	_	13	punct	13:punct	_
+13	Kommandant	_	Word	Word	_	11	A	11:A	_
+14	.	_	Punctuation	Punctuation	_	13	U	13:U	_
 

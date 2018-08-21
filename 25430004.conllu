@@ -2,33 +2,33 @@
 # sent_id = 25430004
 # text = Nun aber , wie das meistens geschieht , gerade von dem Moment an , da man entschlossen war , das Ungeheuer zu verfolgen , war es nicht mehr sichtbar .
 1	Nun	_	Word	Word	_	7	L	7:L	_
-2	aber	_	Word	Word	_	1	flat	1:flat	_
-3	,	_	Punctuation	Punctuation	_	7	punct	7:punct	_
+2	aber	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	,	_	Punctuation	Punctuation	_	7	U	7:U	_
 4	wie	_	Word	Word	_	7	D	7:D	_
 5	das	_	Word	Word	_	7	A	7:A	_
 6	meistens	_	Word	Word	_	7	D	7:D	_
 7	geschieht	_	Word	Word	_	0	root	0:root	_
-8	,	_	Punctuation	Punctuation	_	7	punct	7:punct	_
+8	,	_	Punctuation	Punctuation	_	7	U	7:U	_
 9	gerade	_	Word	Word	_	29	D	29:D	_
 10	von	_	Word	Word	_	12	R	12:R	_
 11	dem	_	Word	Word	_	12	E	12:E	_
-12	Moment	_	Word	Word	_	7	orphan	7:orphan	_
-13	an	_	Word	Word	_	10	flat	10:flat	_
-14	,	_	Punctuation	Punctuation	_	12	punct	12:punct	_
+12	Moment	_	Word	Word	_	29	A	29:A	_
+13	an	_	Word	Word	_	10	Terminal	10:Terminal	_
+14	,	_	Punctuation	Punctuation	_	12	U	12:U	_
 15	da	_	Word	Word	_	17	D	17:D	_
 16	man	_	Word	Word	_	17	A	17:A|23:A	_
-17	entschlossen	_	Word	Word	_	7	orphan	7:orphan	_
+17	entschlossen	_	Word	Word	_	12	E	12:E	_
 18	war	_	Word	Word	_	17	F	17:F	_
-19	,	_	Punctuation	Punctuation	_	17	punct	17:punct	_
+19	,	_	Punctuation	Punctuation	_	17	U	17:U	_
 20	das	_	Word	Word	_	21	E	21:E	_
-21	Ungeheuer	_	Word	Word	_	7	orphan	7:orphan	_
+21	Ungeheuer	_	Word	Word	_	23	A	23:A	_
 22	zu	_	Word	Word	_	23	F	23:F	_
-23	verfolgen	_	Word	Word	_	7	orphan	7:orphan	_
-24	,	_	Punctuation	Punctuation	_	29	punct	29:punct	_
+23	verfolgen	_	Word	Word	_	17	A	17:A	_
+24	,	_	Punctuation	Punctuation	_	29	U	29:U	_
 25	war	_	Word	Word	_	29	F	29:F	_
 26	es	_	Word	Word	_	29	A	29:A	_
 27	nicht	_	Word	Word	_	28	E	28:E	_
-28	mehr	_	Word	Word	_	7	orphan	7:orphan	_
-29	sichtbar	_	Word	Word	_	7	orphan	7:orphan	_
-30	.	_	Punctuation	Punctuation	_	29	punct	29:punct	_
+28	mehr	_	Word	Word	_	29	D	29:D	_
+29	sichtbar	_	Word	Word	_	7	H	7:H	_
+30	.	_	Punctuation	Punctuation	_	29	U	29:U	_
 

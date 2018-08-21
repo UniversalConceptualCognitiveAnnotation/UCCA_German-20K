@@ -1,36 +1,36 @@
 # format = ucca
 # sent_id = 25488026
 # text = » Die Fregatte ! « erwiderte Conseil , indem er sich wieder auf den Rücken legte ; ich glaube , mein Herr wird wohltun , nicht allzuviel auf sie zu rechnen !
-1	»	_	Punctuation	Punctuation	_	6	punct	6:punct	_
+1	»	_	Punctuation	Punctuation	_	6	U	6:U	_
 2	Die	_	Word	Word	_	3	E	3:E	_
-3	Fregatte	_	Word	Word	_	0	root	0:root	_
-4	!	_	Punctuation	Punctuation	_	6	punct	6:punct	_
-5	«	_	Punctuation	Punctuation	_	6	punct	6:punct	_
-6	erwiderte	_	Word	Word	_	3	orphan	3:orphan	_
+3	Fregatte	_	Word	Word	_	6	A	6:A	_
+4	!	_	Punctuation	Punctuation	_	6	U	6:U	_
+5	«	_	Punctuation	Punctuation	_	6	U	6:U	_
+6	erwiderte	_	Word	Word	_	0	root	0:root	_
 7	Conseil	_	Word	Word	_	6	A	6:A	_
-8	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_
+8	,	_	Punctuation	Punctuation	_	6	U	6:U	_
 9	indem	_	Word	Word	_	6	L	6:L	_
 10	er	_	Word	Word	_	11	A	11:A	_
-11	sich	_	Word	Word	_	3	orphan	3:orphan	_
+11	sich	_	Word	Word	_	6	H	6:H	_
 12	wieder	_	Word	Word	_	11	D	11:D	_
 13	auf	_	Word	Word	_	15	R	15:R	_
 14	den	_	Word	Word	_	15	E	15:E	_
-15	Rücken	_	Word	Word	_	3	orphan	3:orphan	_
-16	legte	_	Word	Word	_	11	flat	11:flat	_
-17	;	_	Punctuation	Punctuation	_	6	punct	6:punct	_
+15	Rücken	_	Word	Word	_	11	A	11:A	_
+16	legte	_	Word	Word	_	11	Terminal	11:Terminal	_
+17	;	_	Punctuation	Punctuation	_	6	U	6:U	_
 18	ich	_	Word	Word	_	19	A	19:A	_
-19	glaube	_	Word	Word	_	3	orphan	3:orphan	_
-20	,	_	Punctuation	Punctuation	_	19	punct	19:punct	_
+19	glaube	_	Word	Word	_	6	H	6:H	_
+20	,	_	Punctuation	Punctuation	_	19	U	19:U	_
 21	mein	_	Word	Word	_	22	E	22:E	_
-22	Herr	_	Word	Word	_	3	orphan	3:orphan	_
+22	Herr	_	Word	Word	_	24	A	24:A	_
 23	wird	_	Word	Word	_	24	F	24:F	_
-24	wohltun	_	Word	Word	_	3	orphan	3:orphan	_
-25	,	_	Punctuation	Punctuation	_	24	punct	24:punct	_
+24	wohltun	_	Word	Word	_	19	A	19:A	_
+25	,	_	Punctuation	Punctuation	_	24	U	24:U	_
 26	nicht	_	Word	Word	_	31	D	31:D	_
 27	allzuviel	_	Word	Word	_	31	D	31:D	_
 28	auf	_	Word	Word	_	29	R	29:R	_
-29	sie	_	Word	Word	_	3	orphan	3:orphan	_
+29	sie	_	Word	Word	_	31	A	31:A	_
 30	zu	_	Word	Word	_	31	F	31:F	_
-31	rechnen	_	Word	Word	_	3	orphan	3:orphan	_
-32	!	_	Punctuation	Punctuation	_	31	punct	31:punct	_
+31	rechnen	_	Word	Word	_	24	A	24:A	_
+32	!	_	Punctuation	Punctuation	_	31	U	31:U	_
 

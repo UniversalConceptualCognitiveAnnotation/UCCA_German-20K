@@ -3,11 +3,11 @@
 # text = Wir sahen zu als Zeugen einer merkwürdigen Szene .
 1	Wir	_	Word	Word	_	2	A	2:A	_
 2	sahen	_	Word	Word	_	0	root	0:root	_
-3	zu	_	Word	Word	_	2	flat	2:flat	_
+3	zu	_	Word	Word	_	2	Terminal	2:Terminal	_
 4	als	_	Word	Word	_	5	R	5:R	_
-5	Zeugen	_	Word	Word	_	2	orphan	2:orphan	_
+5	Zeugen	_	Word	Word	_	2	A	2:A	_
 6	einer	_	Word	Word	_	8	R	8:R	_
 7	merkwürdigen	_	Word	Word	_	8	E	8:E	_
-8	Szene	_	Word	Word	_	2	orphan	2:orphan	_
-9	.	_	Punctuation	Punctuation	_	8	punct	8:punct	_
+8	Szene	_	Word	Word	_	5	E	5:E	_
+9	.	_	Punctuation	Punctuation	_	8	U	8:U	_
 

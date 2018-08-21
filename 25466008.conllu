@@ -1,16 +1,16 @@
 # format = ucca
 # sent_id = 25466008
 # text = . Die Landschaften Japans waren kaum 200 Meilen unterm Wind entfernt .
-1	.	_	Punctuation	Punctuation	_	11	punct	11:punct	_
+1	.	_	Punctuation	Punctuation	_	11	U	11:U	_
 2	Die	_	Word	Word	_	3	E	3:E	_
-3	Landschaften	_	Word	Word	_	0	root	0:root	_
+3	Landschaften	_	Word	Word	_	11	A	11:A	_
 4	Japans	_	Word	Word	_	3	E	3:E	_
 5	waren	_	Word	Word	_	11	F	11:F	_
 6	kaum	_	Word	Word	_	11	D	11:D	_
 7	200	_	Word	Word	_	8	E	8:E	_
-8	Meilen	_	Word	Word	_	3	orphan	3:orphan	_
-9	unterm	_	Word	Word	_	3	orphan	3:orphan	_
-10	Wind	_	Word	Word	_	9	flat	9:flat	_
-11	entfernt	_	Word	Word	_	3	orphan	3:orphan	_
-12	.	_	Punctuation	Punctuation	_	11	punct	11:punct	_
+8	Meilen	_	Word	Word	_	9	E	9:E	_
+9	unterm	_	Word	Word	_	11	A	11:A	_
+10	Wind	_	Word	Word	_	9	Terminal	9:Terminal	_
+11	entfernt	_	Word	Word	_	0	root	0:root	_
+12	.	_	Punctuation	Punctuation	_	11	U	11:U	_
 

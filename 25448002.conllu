@@ -1,28 +1,28 @@
 # format = ucca
 # sent_id = 25448002
 # text = « » Hm ! « sagte der Harpunier , und schüttelte den Kopf als ein Mann , der sich nicht überzeugen lassen will .
-1	«	_	Punctuation	Punctuation	_	6	punct	6:punct	_
-2	»	_	Punctuation	Punctuation	_	6	punct	6:punct	_
+1	«	_	Punctuation	Punctuation	_	6	U	6:U	_
+2	»	_	Punctuation	Punctuation	_	6	U	6:U	_
 3	Hm	_	Word	Word	_	6	A	6:A	_
-4	!	_	Punctuation	Punctuation	_	6	punct	6:punct	_
-5	«	_	Punctuation	Punctuation	_	6	punct	6:punct	_
+4	!	_	Punctuation	Punctuation	_	6	U	6:U	_
+5	«	_	Punctuation	Punctuation	_	6	U	6:U	_
 6	sagte	_	Word	Word	_	0	root	0:root	_
 7	der	_	Word	Word	_	8	E	8:E	_
-8	Harpunier	_	Word	Word	_	6	orphan	6:orphan	_
-9	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_
+8	Harpunier	_	Word	Word	_	6	A	6:A	_
+9	,	_	Punctuation	Punctuation	_	6	U	6:U	_
 10	und	_	Word	Word	_	6	L	6:L	_
-11	schüttelte	_	Word	Word	_	6	orphan	6:orphan	_
+11	schüttelte	_	Word	Word	_	6	H	6:H	_
 12	den	_	Word	Word	_	13	E	13:E	_
 13	Kopf	_	Word	Word	_	6	orphan	6:orphan	_
 14	als	_	Word	Word	_	16	R	16:R	_
 15	ein	_	Word	Word	_	16	E	16:E	_
-16	Mann	_	Word	Word	_	6	orphan	6:orphan	_
-17	,	_	Punctuation	Punctuation	_	16	punct	16:punct	_
+16	Mann	_	Word	Word	_	6	H	6:H	_
+17	,	_	Punctuation	Punctuation	_	16	U	16:U	_
 18	der	_	Word	Word	_	19	R	19:R	_
-19	sich	_	Word	Word	_	6	orphan	6:orphan	_
+19	sich	_	Word	Word	_	16	E	16:E	_
 20	nicht	_	Word	Word	_	19	D	19:D	_
-21	überzeugen	_	Word	Word	_	19	flat	19:flat	_
+21	überzeugen	_	Word	Word	_	19	Terminal	19:Terminal	_
 22	lassen	_	Word	Word	_	19	D	19:D	_
 23	will	_	Word	Word	_	19	D	19:D	_
-24	.	_	Punctuation	Punctuation	_	19	punct	19:punct	_
+24	.	_	Punctuation	Punctuation	_	19	U	19:U	_
 

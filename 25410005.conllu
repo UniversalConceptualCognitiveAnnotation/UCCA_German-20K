@@ -2,13 +2,13 @@
 # sent_id = 25410005
 # text = Die » Frage des Ungeheuers « erhitzte alle Gemüter .
 1	Die	_	Word	Word	_	3	E	3:E	_
-2	»	_	Punctuation	Punctuation	_	3	punct	3:punct	_
-3	Frage	_	Word	Word	_	0	root	0:root	_
-4	des	_	Word	Word	_	3	flat	3:flat	_
-5	Ungeheuers	_	Word	Word	_	3	flat	3:flat	_
-6	«	_	Punctuation	Punctuation	_	7	punct	7:punct	_
-7	erhitzte	_	Word	Word	_	3	orphan	3:orphan	_
+2	»	_	Punctuation	Punctuation	_	3	U	3:U	_
+3	Frage	_	Word	Word	_	7	A	7:A	_
+4	des	_	Word	Word	_	3	Terminal	3:Terminal	_
+5	Ungeheuers	_	Word	Word	_	3	Terminal	3:Terminal	_
+6	«	_	Punctuation	Punctuation	_	7	U	7:U	_
+7	erhitzte	_	Word	Word	_	0	root	0:root	_
 8	alle	_	Word	Word	_	9	E	9:E	_
-9	Gemüter	_	Word	Word	_	3	orphan	3:orphan	_
-10	.	_	Punctuation	Punctuation	_	9	punct	9:punct	_
+9	Gemüter	_	Word	Word	_	7	A	7:A	_
+10	.	_	Punctuation	Punctuation	_	9	U	9:U	_
 

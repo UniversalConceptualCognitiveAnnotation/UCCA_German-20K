@@ -1,29 +1,29 @@
 # format = ucca
 # sent_id = 25525003
 # text = » Staune nur , Freund , und schau , denn für einen so starken Klassifizierer wie du , gibt 's hier zu tun . «
-1	»	_	Punctuation	Punctuation	_	2	punct	2:punct	_
+1	»	_	Punctuation	Punctuation	_	2	U	2:U	_
 2	Staune	_	Word	Word	_	0	root	0:root	_
 3	nur	_	Word	Word	_	2	D	2:D	_
-4	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
+4	,	_	Punctuation	Punctuation	_	2	U	2:U	_
 5	Freund	_	Word	Word	_	2	G	2:G	_
-6	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
+6	,	_	Punctuation	Punctuation	_	2	U	2:U	_
 7	und	_	Word	Word	_	2	L	2:L	_
-8	schau	_	Word	Word	_	2	orphan	2:orphan	_
-9	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
+8	schau	_	Word	Word	_	2	H	2:H	_
+9	,	_	Punctuation	Punctuation	_	2	U	2:U	_
 10	denn	_	Word	Word	_	2	L	2:L	_
 11	für	_	Word	Word	_	15	R	15:R	_
 12	einen	_	Word	Word	_	15	E	15:E	_
 13	so	_	Word	Word	_	14	E	14:E	_
-14	starken	_	Word	Word	_	2	orphan	2:orphan	_
-15	Klassifizierer	_	Word	Word	_	2	orphan	2:orphan	_
+14	starken	_	Word	Word	_	15	E	15:E	_
+15	Klassifizierer	_	Word	Word	_	19	A	19:A	_
 16	wie	_	Word	Word	_	17	R	17:R	_
-17	du	_	Word	Word	_	2	orphan	2:orphan	_
-18	,	_	Punctuation	Punctuation	_	19	punct	19:punct	_
-19	gibt	_	Word	Word	_	2	orphan	2:orphan	_
-20	's	_	Word	Word	_	19	flat	19:flat	_
+17	du	_	Word	Word	_	19	A	19:A	_
+18	,	_	Punctuation	Punctuation	_	19	U	19:U	_
+19	gibt	_	Word	Word	_	2	H	2:H	_
+20	's	_	Word	Word	_	19	Terminal	19:Terminal	_
 21	hier	_	Word	Word	_	19	A	19:A	_
-22	zu	_	Word	Word	_	19	flat	19:flat	_
-23	tun	_	Word	Word	_	19	flat	19:flat	_
-24	.	_	Punctuation	Punctuation	_	19	punct	19:punct	_
-25	«	_	Punctuation	Punctuation	_	19	punct	19:punct	_
+22	zu	_	Word	Word	_	19	Terminal	19:Terminal	_
+23	tun	_	Word	Word	_	19	Terminal	19:Terminal	_
+24	.	_	Punctuation	Punctuation	_	19	U	19:U	_
+25	«	_	Punctuation	Punctuation	_	19	U	19:U	_
 

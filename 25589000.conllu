@@ -1,29 +1,29 @@
 # format = ucca
 # sent_id = 25589000
 # text = » Mein wackerer Ned « , sagte ich zu ihm , » die Wälder der Insel Crespo sind ja nur unter seeische Wälder . «
-1	»	_	Punctuation	Punctuation	_	18	punct	18:punct	_
+1	»	_	Punctuation	Punctuation	_	18	U	18:U	_
 2	Mein	_	Word	Word	_	4	E	4:E	_
 3	wackerer	_	Word	Word	_	4	E	4:E	_
-4	Ned	_	Word	Word	_	0	root	0:root	_
-5	«	_	Punctuation	Punctuation	_	7	punct	7:punct	_
-6	,	_	Punctuation	Punctuation	_	7	punct	7:punct	_
-7	sagte	_	Word	Word	_	4	orphan	4:orphan	_
+4	Ned	_	Word	Word	_	18	G	18:G	_
+5	«	_	Punctuation	Punctuation	_	7	U	7:U	_
+6	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+7	sagte	_	Word	Word	_	0	root	0:root	_
 8	ich	_	Word	Word	_	7	A	7:A	_
 9	zu	_	Word	Word	_	10	R	10:R	_
-10	ihm	_	Word	Word	_	4	orphan	4:orphan	_
-11	,	_	Punctuation	Punctuation	_	7	punct	7:punct	_
-12	»	_	Punctuation	Punctuation	_	7	punct	7:punct	_
+10	ihm	_	Word	Word	_	7	A	7:A	_
+11	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+12	»	_	Punctuation	Punctuation	_	7	U	7:U	_
 13	die	_	Word	Word	_	14	E	14:E	_
-14	Wälder	_	Word	Word	_	4	orphan	4:orphan	_
+14	Wälder	_	Word	Word	_	18	A	18:A	_
 15	der	_	Word	Word	_	16	R	16:R	_
-16	Insel	_	Word	Word	_	4	orphan	4:orphan	_
-17	Crespo	_	Word	Word	_	16	flat	16:flat	_
-18	sind	_	Word	Word	_	4	orphan	4:orphan	_
+16	Insel	_	Word	Word	_	14	E	14:E	_
+17	Crespo	_	Word	Word	_	16	Terminal	16:Terminal	_
+18	sind	_	Word	Word	_	7	A	7:A	_
 19	ja	_	Word	Word	_	18	F	18:F	_
 20	nur	_	Word	Word	_	18	D	18:D	_
 21	unter	_	Word	Word	_	22	E	22:E	_
-22	seeische	_	Word	Word	_	4	orphan	4:orphan	_
-23	Wälder	_	Word	Word	_	4	orphan	4:orphan	_
-24	.	_	Punctuation	Punctuation	_	23	punct	23:punct	_
-25	«	_	Punctuation	Punctuation	_	23	punct	23:punct	_
+22	seeische	_	Word	Word	_	23	E	23:E	_
+23	Wälder	_	Word	Word	_	18	A	18:A	_
+24	.	_	Punctuation	Punctuation	_	23	U	23:U	_
+25	«	_	Punctuation	Punctuation	_	23	U	23:U	_
 

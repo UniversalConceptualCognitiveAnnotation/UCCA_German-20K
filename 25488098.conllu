@@ -1,12 +1,12 @@
 # format = ucca
 # sent_id = 25488098
 # text = « » Warum , Ned , warum ?
-1	«	_	Punctuation	Punctuation	_	3	punct	3:punct	_
-2	»	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+1	«	_	Punctuation	Punctuation	_	3	U	3:U	_
+2	»	_	Punctuation	Punctuation	_	3	U	3:U	_
 3	Warum	_	Word	Word	_	0	root	0:root	_
-4	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+4	,	_	Punctuation	Punctuation	_	3	U	3:U	_
 5	Ned	_	Word	Word	_	3	G	3:G	_
-6	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
-7	warum	_	Word	Word	_	3	orphan	3:orphan	_
-8	?	_	Punctuation	Punctuation	_	7	punct	7:punct	_
+6	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+7	warum	_	Word	Word	_	3	H	3:H	_
+8	?	_	Punctuation	Punctuation	_	7	U	7:U	_
 

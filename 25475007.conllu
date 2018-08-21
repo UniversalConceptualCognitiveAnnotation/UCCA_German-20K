@@ -1,27 +1,27 @@
 # format = ucca
 # sent_id = 25475007
 # text = » Hm ! « dacht' ich , » ein Walfisch von der Kraft eines Kavallerie regiments , wäre ein hübsches Tier ! «
-1	»	_	Punctuation	Punctuation	_	2	punct	2:punct	_
-2	Hm	_	Word	Word	_	0	root	0:root	_
-3	!	_	Punctuation	Punctuation	_	5	punct	5:punct	_
-4	«	_	Punctuation	Punctuation	_	5	punct	5:punct	_
-5	dacht'	_	Word	Word	_	2	orphan	2:orphan	_
+1	»	_	Punctuation	Punctuation	_	2	U	2:U	_
+2	Hm	_	Word	Word	_	5	A	5:A	_
+3	!	_	Punctuation	Punctuation	_	5	U	5:U	_
+4	«	_	Punctuation	Punctuation	_	5	U	5:U	_
+5	dacht'	_	Word	Word	_	0	root	0:root	_
 6	ich	_	Word	Word	_	5	A	5:A	_
-7	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_
-8	»	_	Punctuation	Punctuation	_	5	punct	5:punct	_
+7	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+8	»	_	Punctuation	Punctuation	_	5	U	5:U	_
 9	ein	_	Word	Word	_	10	E	10:E	_
-10	Walfisch	_	Word	Word	_	2	orphan	2:orphan	_
+10	Walfisch	_	Word	Word	_	18	A	18:A	_
 11	von	_	Word	Word	_	13	R	13:R	_
 12	der	_	Word	Word	_	13	E	13:E	_
-13	Kraft	_	Word	Word	_	2	orphan	2:orphan	_
+13	Kraft	_	Word	Word	_	10	E	10:E	_
 14	eines	_	Word	Word	_	16	R	16:R	_
 15	Kavallerie	_	Word	Word	_	16	E	16:E	_
-16	regiments	_	Word	Word	_	2	orphan	2:orphan	_
-17	,	_	Punctuation	Punctuation	_	18	punct	18:punct	_
-18	wäre	_	Word	Word	_	2	orphan	2:orphan	_
+16	regiments	_	Word	Word	_	13	A	13:A	_
+17	,	_	Punctuation	Punctuation	_	18	U	18:U	_
+18	wäre	_	Word	Word	_	2	H	2:H	_
 19	ein	_	Word	Word	_	21	E	21:E	_
 20	hübsches	_	Word	Word	_	21	E	21:E	_
-21	Tier	_	Word	Word	_	2	orphan	2:orphan	_
-22	!	_	Punctuation	Punctuation	_	21	punct	21:punct	_
-23	«	_	Punctuation	Punctuation	_	21	punct	21:punct	_
+21	Tier	_	Word	Word	_	18	A	18:A	_
+22	!	_	Punctuation	Punctuation	_	21	U	21:U	_
+23	«	_	Punctuation	Punctuation	_	21	U	21:U	_
 

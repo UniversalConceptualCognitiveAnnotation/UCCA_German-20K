@@ -1,21 +1,21 @@
 # format = ucca
 # sent_id = 25697002
 # text = » Bis jetzt habe ich aber doch nur klare Wellen ohne irgend besondere Färbung gesehen . «
-1	»	_	Punctuation	Punctuation	_	15	punct	15:punct	_
+1	»	_	Punctuation	Punctuation	_	15	U	15:U	_
 2	Bis	_	Word	Word	_	3	R	3:R	_
-3	jetzt	_	Word	Word	_	0	root	0:root	_
+3	jetzt	_	Word	Word	_	15	D	15:D	_
 4	habe	_	Word	Word	_	15	F	15:F	_
 5	ich	_	Word	Word	_	15	A	15:A	_
 6	aber	_	Word	Word	_	15	L	15:L	_
 7	doch	_	Word	Word	_	15	D	15:D	_
 8	nur	_	Word	Word	_	15	D	15:D	_
 9	klare	_	Word	Word	_	10	E	10:E	_
-10	Wellen	_	Word	Word	_	3	orphan	3:orphan	_
+10	Wellen	_	Word	Word	_	15	A	15:A	_
 11	ohne	_	Word	Word	_	14	R	14:R	_
 12	irgend	_	Word	Word	_	14	E	14:E	_
 13	besondere	_	Word	Word	_	14	E	14:E	_
-14	Färbung	_	Word	Word	_	3	orphan	3:orphan	_
-15	gesehen	_	Word	Word	_	3	orphan	3:orphan	_
-16	.	_	Punctuation	Punctuation	_	15	punct	15:punct	_
-17	«	_	Punctuation	Punctuation	_	15	punct	15:punct	_
+14	Färbung	_	Word	Word	_	10	E	10:E	_
+15	gesehen	_	Word	Word	_	0	root	0:root	_
+16	.	_	Punctuation	Punctuation	_	15	U	15:U	_
+17	«	_	Punctuation	Punctuation	_	15	U	15:U	_
 

@@ -1,15 +1,15 @@
 # format = ucca
 # sent_id = 25784014
 # text = » Endlich sind wir aufrecht ! « rief ich aus .
-1	»	_	Punctuation	Punctuation	_	8	punct	8:punct	_
+1	»	_	Punctuation	Punctuation	_	8	U	8:U	_
 2	Endlich	_	Word	Word	_	5	D	5:D	_
 3	sind	_	Word	Word	_	5	F	5:F	_
 4	wir	_	Word	Word	_	5	A	5:A	_
-5	aufrecht	_	Word	Word	_	0	root	0:root	_
-6	!	_	Punctuation	Punctuation	_	8	punct	8:punct	_
-7	«	_	Punctuation	Punctuation	_	8	punct	8:punct	_
-8	rief	_	Word	Word	_	5	orphan	5:orphan	_
+5	aufrecht	_	Word	Word	_	8	A	8:A	_
+6	!	_	Punctuation	Punctuation	_	8	U	8:U	_
+7	«	_	Punctuation	Punctuation	_	8	U	8:U	_
+8	rief	_	Word	Word	_	0	root	0:root	_
 9	ich	_	Word	Word	_	8	A	8:A	_
-10	aus	_	Word	Word	_	8	flat	8:flat	_
-11	.	_	Punctuation	Punctuation	_	8	punct	8:punct	_
+10	aus	_	Word	Word	_	8	Terminal	8:Terminal	_
+11	.	_	Punctuation	Punctuation	_	8	U	8:U	_
 

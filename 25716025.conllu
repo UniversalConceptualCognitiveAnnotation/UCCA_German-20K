@@ -3,19 +3,19 @@
 # text = Es versteht sich von selbst , dass dabei Ned Land auf sein Entweichungs projekt verzichten musste .
 1	Es	_	Word	Word	_	2	F	2:F	_
 2	versteht	_	Word	Word	_	0	root	0:root	_
-3	sich	_	Word	Word	_	2	flat	2:flat	_
+3	sich	_	Word	Word	_	2	Terminal	2:Terminal	_
 4	von	_	Word	Word	_	5	R	5:R	_
-5	selbst	_	Word	Word	_	2	orphan	2:orphan	_
-6	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
+5	selbst	_	Word	Word	_	2	D	2:D	_
+6	,	_	Punctuation	Punctuation	_	2	U	2:U	_
 7	dass	_	Word	Word	_	15	R	15:R	_
 8	dabei	_	Word	Word	_	15	A	15:A	_
 9	Ned	_	Word	Word	_	15	A	15:A	_
-10	Land	_	Word	Word	_	9	flat	9:flat	_
+10	Land	_	Word	Word	_	9	Terminal	9:Terminal	_
 11	auf	_	Word	Word	_	14	R	14:R	_
 12	sein	_	Word	Word	_	14	E	14:E	_
 13	Entweichungs	_	Word	Word	_	14	E	14:E	_
-14	projekt	_	Word	Word	_	2	orphan	2:orphan	_
-15	verzichten	_	Word	Word	_	2	orphan	2:orphan	_
+14	projekt	_	Word	Word	_	15	A	15:A	_
+15	verzichten	_	Word	Word	_	2	A	2:A	_
 16	musste	_	Word	Word	_	15	D	15:D	_
-17	.	_	Punctuation	Punctuation	_	15	punct	15:punct	_
+17	.	_	Punctuation	Punctuation	_	15	U	15:U	_
 

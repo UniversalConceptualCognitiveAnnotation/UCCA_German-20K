@@ -2,14 +2,14 @@
 # sent_id = 25732013
 # text = War ' s eine elektrische Ausströmung , die sich kundgab ?
 1	War	_	Word	Word	_	0	root	0:root	_
-2	'	_	Punctuation	Punctuation	_	1	punct	1:punct	_
+2	'	_	Punctuation	Punctuation	_	1	U	1:U	_
 3	s	_	Word	Word	_	1	A	1:A	_
 4	eine	_	Word	Word	_	6	E	6:E	_
 5	elektrische	_	Word	Word	_	6	D	6:D	_
 6	Ausströmung	_	Word	Word	_	1	orphan	1:orphan	_
-7	,	_	Punctuation	Punctuation	_	9	punct	9:punct	_
+7	,	_	Punctuation	Punctuation	_	9	U	9:U	_
 8	die	_	Word	Word	_	9	R	9:R	_
-9	sich	_	Word	Word	_	1	orphan	1:orphan	_
-10	kundgab	_	Word	Word	_	9	flat	9:flat	_
-11	?	_	Punctuation	Punctuation	_	9	punct	9:punct	_
+9	sich	_	Word	Word	_	6	E	6:E	_
+10	kundgab	_	Word	Word	_	9	Terminal	9:Terminal	_
+11	?	_	Punctuation	Punctuation	_	9	U	9:U	_
 

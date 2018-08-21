@@ -1,14 +1,14 @@
 # format = ucca
 # sent_id = 25603006
 # text = Conseil und Land brachten viel Zeit bei mir zu .
-1	Conseil	_	Word	Word	_	0	root	0:root	_
+1	Conseil	_	Word	Word	_	4	A	4:A	_
 2	und	_	Word	Word	_	1	N	1:N	_
 3	Land	_	Word	Word	_	1	C	1:C	_
-4	brachten	_	Word	Word	_	1	orphan	1:orphan	_
+4	brachten	_	Word	Word	_	0	root	0:root	_
 5	viel	_	Word	Word	_	6	E	6:E	_
-6	Zeit	_	Word	Word	_	1	orphan	1:orphan	_
+6	Zeit	_	Word	Word	_	4	A	4:A	_
 7	bei	_	Word	Word	_	8	R	8:R	_
-8	mir	_	Word	Word	_	1	orphan	1:orphan	_
-9	zu	_	Word	Word	_	4	flat	4:flat	_
-10	.	_	Punctuation	Punctuation	_	4	punct	4:punct	_
+8	mir	_	Word	Word	_	4	A	4:A	_
+9	zu	_	Word	Word	_	4	Terminal	4:Terminal	_
+10	.	_	Punctuation	Punctuation	_	4	U	4:U	_
 

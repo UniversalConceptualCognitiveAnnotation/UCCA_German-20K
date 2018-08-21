@@ -1,12 +1,12 @@
 # format = ucca
 # sent_id = 25516005
 # text = » Ich höre Ihnen zu , Kapitän .
-1	»	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+1	»	_	Punctuation	Punctuation	_	3	U	3:U	_
 2	Ich	_	Word	Word	_	3	A	3:A	_
 3	höre	_	Word	Word	_	0	root	0:root	_
 4	Ihnen	_	Word	Word	_	3	A	3:A	_
-5	zu	_	Word	Word	_	3	flat	3:flat	_
-6	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+5	zu	_	Word	Word	_	3	Terminal	3:Terminal	_
+6	,	_	Punctuation	Punctuation	_	3	U	3:U	_
 7	Kapitän	_	Word	Word	_	3	G	3:G	_
-8	.	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+8	.	_	Punctuation	Punctuation	_	3	U	3:U	_
 

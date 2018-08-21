@@ -3,16 +3,16 @@
 # text = In dem Augenblick befand ich mich vorn beim Steuerbord , aufs Geländer gelehnt .
 1	In	_	Word	Word	_	3	R	3:R	_
 2	dem	_	Word	Word	_	3	E	3:E	_
-3	Augenblick	_	Word	Word	_	0	root	0:root	_
-4	befand	_	Word	Word	_	3	orphan	3:orphan	_
+3	Augenblick	_	Word	Word	_	4	T	4:T	_
+4	befand	_	Word	Word	_	0	root	0:root	_
 5	ich	_	Word	Word	_	4	A	4:A|13:A	_
-6	mich	_	Word	Word	_	4	flat	4:flat	_
-7	vorn	_	Word	Word	_	3	orphan	3:orphan	_
+6	mich	_	Word	Word	_	4	Terminal	4:Terminal	_
+7	vorn	_	Word	Word	_	4	A	4:A	_
 8	beim	_	Word	Word	_	9	R	9:R	_
-9	Steuerbord	_	Word	Word	_	3	orphan	3:orphan	_
-10	,	_	Punctuation	Punctuation	_	4	punct	4:punct	_
+9	Steuerbord	_	Word	Word	_	7	E	7:E	_
+10	,	_	Punctuation	Punctuation	_	4	U	4:U	_
 11	aufs	_	Word	Word	_	12	R	12:R	_
-12	Geländer	_	Word	Word	_	3	orphan	3:orphan	_
-13	gelehnt	_	Word	Word	_	3	orphan	3:orphan	_
-14	.	_	Punctuation	Punctuation	_	13	punct	13:punct	_
+12	Geländer	_	Word	Word	_	13	A	13:A	_
+13	gelehnt	_	Word	Word	_	4	H	4:H	_
+14	.	_	Punctuation	Punctuation	_	13	U	13:U	_
 

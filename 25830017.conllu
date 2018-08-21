@@ -1,17 +1,17 @@
 # format = ucca
 # sent_id = 25830017
 # text = » Sie nehmen uns also nicht für Schiffbrüchige auf einem Wrack ! «
-1	»	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+1	»	_	Punctuation	Punctuation	_	3	U	3:U	_
 2	Sie	_	Word	Word	_	3	A	3:A	_
 3	nehmen	_	Word	Word	_	0	root	0:root	_
 4	uns	_	Word	Word	_	3	A	3:A	_
 5	also	_	Word	Word	_	3	F	3:F	_
 6	nicht	_	Word	Word	_	3	D	3:D	_
 7	für	_	Word	Word	_	8	R	8:R	_
-8	Schiffbrüchige	_	Word	Word	_	3	orphan	3:orphan	_
+8	Schiffbrüchige	_	Word	Word	_	3	A	3:A	_
 9	auf	_	Word	Word	_	11	R	11:R	_
 10	einem	_	Word	Word	_	11	E	11:E	_
-11	Wrack	_	Word	Word	_	3	orphan	3:orphan	_
-12	!	_	Punctuation	Punctuation	_	11	punct	11:punct	_
-13	«	_	Punctuation	Punctuation	_	11	punct	11:punct	_
+11	Wrack	_	Word	Word	_	8	A	8:A	_
+12	!	_	Punctuation	Punctuation	_	11	U	11:U	_
+13	«	_	Punctuation	Punctuation	_	11	U	11:U	_
 

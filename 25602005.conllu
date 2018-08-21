@@ -1,19 +1,19 @@
 # format = ucca
 # sent_id = 25602005
 # text = » Ich weiß wenigstens , Kapitän , was die hauptsächlichen Sondierungen ergeben haben . «
-1	»	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+1	»	_	Punctuation	Punctuation	_	3	U	3:U	_
 2	Ich	_	Word	Word	_	3	A	3:A	_
 3	weiß	_	Word	Word	_	0	root	0:root	_
 4	wenigstens	_	Word	Word	_	3	D	3:D	_
-5	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+5	,	_	Punctuation	Punctuation	_	3	U	3:U	_
 6	Kapitän	_	Word	Word	_	3	G	3:G	_
-7	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+7	,	_	Punctuation	Punctuation	_	3	U	3:U	_
 8	was	_	Word	Word	_	12	A	12:A	_
 9	die	_	Word	Word	_	11	E	11:E	_
 10	hauptsächlichen	_	Word	Word	_	11	E	11:E	_
-11	Sondierungen	_	Word	Word	_	3	orphan	3:orphan	_
-12	ergeben	_	Word	Word	_	3	orphan	3:orphan	_
+11	Sondierungen	_	Word	Word	_	12	A	12:A	_
+12	ergeben	_	Word	Word	_	3	A	3:A	_
 13	haben	_	Word	Word	_	12	F	12:F	_
-14	.	_	Punctuation	Punctuation	_	12	punct	12:punct	_
-15	«	_	Punctuation	Punctuation	_	12	punct	12:punct	_
+14	.	_	Punctuation	Punctuation	_	12	U	12:U	_
+15	«	_	Punctuation	Punctuation	_	12	U	12:U	_
 

@@ -1,20 +1,20 @@
 # format = ucca
 # sent_id = 25511013
 # text = « » Aber dann müssen Sie zum Einsteigen sich auf der Meeres- oberfläche befinden ? «
-1	«	_	Punctuation	Punctuation	_	9	punct	9:punct	_
-2	»	_	Punctuation	Punctuation	_	9	punct	9:punct	_
+1	«	_	Punctuation	Punctuation	_	9	U	9:U	_
+2	»	_	Punctuation	Punctuation	_	9	U	9:U	_
 3	Aber	_	Word	Word	_	9	L	9:L	_
 4	dann	_	Word	Word	_	9	L	9:L	_
 5	müssen	_	Word	Word	_	9	D	9:D	_
 6	Sie	_	Word	Word	_	9	A	9:A|8:A	_
 7	zum	_	Word	Word	_	8	R	8:R	_
-8	Einsteigen	_	Word	Word	_	0	root	0:root	_
-9	sich	_	Word	Word	_	8	orphan	8:orphan	_
+8	Einsteigen	_	Word	Word	_	9	A	9:A	_
+9	sich	_	Word	Word	_	0	root	0:root	_
 10	auf	_	Word	Word	_	13	R	13:R	_
 11	der	_	Word	Word	_	13	E	13:E	_
 12	Meeres-	_	Word	Word	_	13	E	13:E	_
-13	oberfläche	_	Word	Word	_	8	orphan	8:orphan	_
-14	befinden	_	Word	Word	_	9	flat	9:flat	_
-15	?	_	Punctuation	Punctuation	_	9	punct	9:punct	_
-16	«	_	Punctuation	Punctuation	_	9	punct	9:punct	_
+13	oberfläche	_	Word	Word	_	9	A	9:A	_
+14	befinden	_	Word	Word	_	9	Terminal	9:Terminal	_
+15	?	_	Punctuation	Punctuation	_	9	U	9:U	_
+16	«	_	Punctuation	Punctuation	_	9	U	9:U	_
 

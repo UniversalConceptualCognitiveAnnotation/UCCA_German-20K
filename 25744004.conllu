@@ -3,13 +3,13 @@
 # text = Ich trat hinzu und musste mich durch den Augenschein überzeugen .
 1	Ich	_	Word	Word	_	2	A	2:A|6:A	_
 2	trat	_	Word	Word	_	0	root	0:root	_
-3	hinzu	_	Word	Word	_	2	flat	2:flat	_
+3	hinzu	_	Word	Word	_	2	Terminal	2:Terminal	_
 4	und	_	Word	Word	_	2	L	2:L	_
 5	musste	_	Word	Word	_	6	D	6:D	_
-6	mich	_	Word	Word	_	2	orphan	2:orphan	_
+6	mich	_	Word	Word	_	2	H	2:H	_
 7	durch	_	Word	Word	_	9	R	9:R	_
 8	den	_	Word	Word	_	9	E	9:E	_
-9	Augenschein	_	Word	Word	_	2	orphan	2:orphan	_
-10	überzeugen	_	Word	Word	_	6	flat	6:flat	_
-11	.	_	Punctuation	Punctuation	_	6	punct	6:punct	_
+9	Augenschein	_	Word	Word	_	6	A	6:A	_
+10	überzeugen	_	Word	Word	_	6	Terminal	6:Terminal	_
+11	.	_	Punctuation	Punctuation	_	6	U	6:U	_
 

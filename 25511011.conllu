@@ -1,18 +1,18 @@
 # format = ucca
 # sent_id = 25511011
 # text = » Wie ? Sie haben ein Boot ? « versetzte ich etwas erstaunt .
-1	»	_	Punctuation	Punctuation	_	10	punct	10:punct	_
-2	Wie	_	Word	Word	_	0	root	0:root	_
-3	?	_	Punctuation	Punctuation	_	2	punct	2:punct	_
+1	»	_	Punctuation	Punctuation	_	10	U	10:U	_
+2	Wie	_	Word	Word	_	10	A	10:A	_
+3	?	_	Punctuation	Punctuation	_	2	U	2:U	_
 4	Sie	_	Word	Word	_	5	A	5:A	_
-5	haben	_	Word	Word	_	2	orphan	2:orphan	_
+5	haben	_	Word	Word	_	2	H	2:H	_
 6	ein	_	Word	Word	_	7	E	7:E	_
-7	Boot	_	Word	Word	_	2	orphan	2:orphan	_
-8	?	_	Punctuation	Punctuation	_	10	punct	10:punct	_
-9	«	_	Punctuation	Punctuation	_	10	punct	10:punct	_
-10	versetzte	_	Word	Word	_	2	orphan	2:orphan	_
+7	Boot	_	Word	Word	_	5	A	5:A	_
+8	?	_	Punctuation	Punctuation	_	10	U	10:U	_
+9	«	_	Punctuation	Punctuation	_	10	U	10:U	_
+10	versetzte	_	Word	Word	_	0	root	0:root	_
 11	ich	_	Word	Word	_	10	A	10:A	_
 12	etwas	_	Word	Word	_	13	E	13:E	_
-13	erstaunt	_	Word	Word	_	2	orphan	2:orphan	_
-14	.	_	Punctuation	Punctuation	_	13	punct	13:punct	_
+13	erstaunt	_	Word	Word	_	10	D	10:D	_
+14	.	_	Punctuation	Punctuation	_	13	U	13:U	_
 

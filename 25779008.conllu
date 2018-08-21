@@ -2,25 +2,25 @@
 # sent_id = 25779008
 # text = Der Himmel klärte sich auf , die Wolken flohen nach dem Süden ; die Nebel verließen die kalte Oberfläche der Gewässer .
 1	Der	_	Word	Word	_	2	E	2:E	_
-2	Himmel	_	Word	Word	_	0	root	0:root	_
-3	klärte	_	Word	Word	_	2	orphan	2:orphan	_
-4	sich	_	Word	Word	_	3	flat	3:flat	_
-5	auf	_	Word	Word	_	3	flat	3:flat	_
-6	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+2	Himmel	_	Word	Word	_	3	A	3:A	_
+3	klärte	_	Word	Word	_	0	root	0:root	_
+4	sich	_	Word	Word	_	3	Terminal	3:Terminal	_
+5	auf	_	Word	Word	_	3	Terminal	3:Terminal	_
+6	,	_	Punctuation	Punctuation	_	3	U	3:U	_
 7	die	_	Word	Word	_	8	E	8:E	_
-8	Wolken	_	Word	Word	_	2	orphan	2:orphan	_
-9	flohen	_	Word	Word	_	2	orphan	2:orphan	_
+8	Wolken	_	Word	Word	_	9	A	9:A	_
+9	flohen	_	Word	Word	_	3	H	3:H	_
 10	nach	_	Word	Word	_	12	R	12:R	_
 11	dem	_	Word	Word	_	12	E	12:E	_
-12	Süden	_	Word	Word	_	2	orphan	2:orphan	_
-13	;	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+12	Süden	_	Word	Word	_	9	A	9:A	_
+13	;	_	Punctuation	Punctuation	_	3	U	3:U	_
 14	die	_	Word	Word	_	15	E	15:E	_
-15	Nebel	_	Word	Word	_	2	orphan	2:orphan	_
-16	verließen	_	Word	Word	_	2	orphan	2:orphan	_
+15	Nebel	_	Word	Word	_	16	A	16:A	_
+16	verließen	_	Word	Word	_	3	H	3:H	_
 17	die	_	Word	Word	_	19	E	19:E	_
 18	kalte	_	Word	Word	_	19	E	19:E	_
-19	Oberfläche	_	Word	Word	_	2	orphan	2:orphan	_
+19	Oberfläche	_	Word	Word	_	16	A	16:A	_
 20	der	_	Word	Word	_	21	R	21:R	_
-21	Gewässer	_	Word	Word	_	2	orphan	2:orphan	_
-22	.	_	Punctuation	Punctuation	_	21	punct	21:punct	_
+21	Gewässer	_	Word	Word	_	19	E	19:E	_
+22	.	_	Punctuation	Punctuation	_	21	U	21:U	_
 

@@ -1,18 +1,18 @@
 # format = ucca
 # sent_id = 25482002
 # text = » Nun ! Ich gestehe , ich wäre schon zufrieden es zu riskieren .
-1	»	_	Punctuation	Punctuation	_	2	punct	2:punct	_
+1	»	_	Punctuation	Punctuation	_	2	U	2:U	_
 2	Nun	_	Word	Word	_	0	root	0:root	_
-3	!	_	Punctuation	Punctuation	_	2	punct	2:punct	_
+3	!	_	Punctuation	Punctuation	_	2	U	2:U	_
 4	Ich	_	Word	Word	_	5	A	5:A	_
-5	gestehe	_	Word	Word	_	2	orphan	2:orphan	_
-6	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_
+5	gestehe	_	Word	Word	_	2	H	2:H	_
+6	,	_	Punctuation	Punctuation	_	5	U	5:U	_
 7	ich	_	Word	Word	_	10	A	10:A|13:A	_
 8	wäre	_	Word	Word	_	10	D	10:D	_
 9	schon	_	Word	Word	_	10	D	10:D	_
-10	zufrieden	_	Word	Word	_	2	orphan	2:orphan	_
+10	zufrieden	_	Word	Word	_	5	A	5:A	_
 11	es	_	Word	Word	_	13	A	13:A	_
 12	zu	_	Word	Word	_	13	F	13:F	_
-13	riskieren	_	Word	Word	_	2	orphan	2:orphan	_
-14	.	_	Punctuation	Punctuation	_	13	punct	13:punct	_
+13	riskieren	_	Word	Word	_	10	A	10:A	_
+14	.	_	Punctuation	Punctuation	_	13	U	13:U	_
 

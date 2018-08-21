@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 25702010
 # text = » Und es würde Ihnen nicht unangenehm sein , für einen Tag einmal wieder Ihr Fischer geschäft zu treiben und dieses Tier zu den von Ihnen erlegten hinzuzufügen ? «
-1	»	_	Punctuation	Punctuation	_	7	punct	7:punct	_
+1	»	_	Punctuation	Punctuation	_	7	U	7:U	_
 2	Und	_	Word	Word	_	7	L	7:L	_
 3	es	_	Word	Word	_	7	F	7:F	_
 4	würde	_	Word	Word	_	7	D	7:D	_
@@ -9,26 +9,26 @@
 6	nicht	_	Word	Word	_	7	D	7:D	_
 7	unangenehm	_	Word	Word	_	0	root	0:root	_
 8	sein	_	Word	Word	_	7	F	7:F	_
-9	,	_	Punctuation	Punctuation	_	7	punct	7:punct	_
+9	,	_	Punctuation	Punctuation	_	7	U	7:U	_
 10	für	_	Word	Word	_	12	R	12:R	_
 11	einen	_	Word	Word	_	12	E	12:E	_
-12	Tag	_	Word	Word	_	7	orphan	7:orphan	_
+12	Tag	_	Word	Word	_	19	T	19:T	_
 13	einmal	_	Word	Word	_	19	D	19:D	_
 14	wieder	_	Word	Word	_	19	D	19:D	_
 15	Ihr	_	Word	Word	_	17	E	17:E	_
 16	Fischer	_	Word	Word	_	17	E	17:E	_
-17	geschäft	_	Word	Word	_	7	orphan	7:orphan	_
+17	geschäft	_	Word	Word	_	19	A	19:A	_
 18	zu	_	Word	Word	_	19	F	19:F	_
-19	treiben	_	Word	Word	_	7	orphan	7:orphan	_
+19	treiben	_	Word	Word	_	7	A	7:A	_
 20	und	_	Word	Word	_	19	L	19:L	_
 21	dieses	_	Word	Word	_	22	E	22:E	_
-22	Tier	_	Word	Word	_	7	orphan	7:orphan	_
+22	Tier	_	Word	Word	_	28	A	28:A	_
 23	zu	_	Word	Word	_	24	R	24:R	_
-24	den	_	Word	Word	_	7	orphan	7:orphan	_
+24	den	_	Word	Word	_	27	A	27:A	_
 25	von	_	Word	Word	_	26	R	26:R	_
-26	Ihnen	_	Word	Word	_	7	orphan	7:orphan	_
-27	erlegten	_	Word	Word	_	7	orphan	7:orphan	_
-28	hinzuzufügen	_	Word	Word	_	7	orphan	7:orphan	_
-29	?	_	Punctuation	Punctuation	_	28	punct	28:punct	_
-30	«	_	Punctuation	Punctuation	_	28	punct	28:punct	_
+26	Ihnen	_	Word	Word	_	27	A	27:A	_
+27	erlegten	_	Word	Word	_	28	A	28:A	_
+28	hinzuzufügen	_	Word	Word	_	19	H	19:H	_
+29	?	_	Punctuation	Punctuation	_	28	U	28:U	_
+30	«	_	Punctuation	Punctuation	_	28	U	28:U	_
 

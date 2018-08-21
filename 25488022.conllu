@@ -1,18 +1,18 @@
 # format = ucca
 # sent_id = 25488022
 # text = « » Und der Stoß hat dich zugleich mit mir ins Meer geschleudert ?
-1	«	_	Punctuation	Punctuation	_	13	punct	13:punct	_
-2	»	_	Punctuation	Punctuation	_	13	punct	13:punct	_
+1	«	_	Punctuation	Punctuation	_	13	U	13:U	_
+2	»	_	Punctuation	Punctuation	_	13	U	13:U	_
 3	Und	_	Word	Word	_	13	F	13:F	_
 4	der	_	Word	Word	_	5	E	5:E	_
-5	Stoß	_	Word	Word	_	0	root	0:root	_
+5	Stoß	_	Word	Word	_	13	A	13:A	_
 6	hat	_	Word	Word	_	13	F	13:F	_
 7	dich	_	Word	Word	_	13	A	13:A	_
 8	zugleich	_	Word	Word	_	13	D	13:D	_
 9	mit	_	Word	Word	_	10	R	10:R	_
-10	mir	_	Word	Word	_	5	orphan	5:orphan	_
+10	mir	_	Word	Word	_	13	A	13:A	_
 11	ins	_	Word	Word	_	12	R	12:R	_
-12	Meer	_	Word	Word	_	5	orphan	5:orphan	_
-13	geschleudert	_	Word	Word	_	5	orphan	5:orphan	_
-14	?	_	Punctuation	Punctuation	_	13	punct	13:punct	_
+12	Meer	_	Word	Word	_	13	A	13:A	_
+13	geschleudert	_	Word	Word	_	0	root	0:root	_
+14	?	_	Punctuation	Punctuation	_	13	U	13:U	_
 

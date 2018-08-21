@@ -1,31 +1,31 @@
 # format = ucca
 # sent_id = 25820003
 # text = » Wer versagt Ihnen dieses Recht ? « erwiderte der Kapitän , » habe ich je daran gedacht , Sie durch einen Eid zu binden ? «
-1	»	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+1	»	_	Punctuation	Punctuation	_	3	U	3:U	_
 2	Wer	_	Word	Word	_	3	A	3:A	_
-3	versagt	_	Word	Word	_	0	root	0:root	_
+3	versagt	_	Word	Word	_	9	A	9:A	_
 4	Ihnen	_	Word	Word	_	3	A	3:A	_
 5	dieses	_	Word	Word	_	6	E	6:E	_
-6	Recht	_	Word	Word	_	3	orphan	3:orphan	_
-7	?	_	Punctuation	Punctuation	_	9	punct	9:punct	_
-8	«	_	Punctuation	Punctuation	_	9	punct	9:punct	_
-9	erwiderte	_	Word	Word	_	3	orphan	3:orphan	_
+6	Recht	_	Word	Word	_	3	A	3:A	_
+7	?	_	Punctuation	Punctuation	_	9	U	9:U	_
+8	«	_	Punctuation	Punctuation	_	9	U	9:U	_
+9	erwiderte	_	Word	Word	_	0	root	0:root	_
 10	der	_	Word	Word	_	11	E	11:E	_
-11	Kapitän	_	Word	Word	_	3	orphan	3:orphan	_
-12	,	_	Punctuation	Punctuation	_	9	punct	9:punct	_
-13	»	_	Punctuation	Punctuation	_	9	punct	9:punct	_
+11	Kapitän	_	Word	Word	_	9	A	9:A	_
+12	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+13	»	_	Punctuation	Punctuation	_	9	U	9:U	_
 14	habe	_	Word	Word	_	18	F	18:F	_
 15	ich	_	Word	Word	_	18	A	18:A|25:A	_
 16	je	_	Word	Word	_	18	T	18:T	_
 17	daran	_	Word	Word	_	25	F	25:F	_
-18	gedacht	_	Word	Word	_	3	orphan	3:orphan	_
-19	,	_	Punctuation	Punctuation	_	18	punct	18:punct	_
+18	gedacht	_	Word	Word	_	3	H	3:H	_
+19	,	_	Punctuation	Punctuation	_	18	U	18:U	_
 20	Sie	_	Word	Word	_	25	A	25:A	_
 21	durch	_	Word	Word	_	23	R	23:R	_
 22	einen	_	Word	Word	_	23	E	23:E	_
-23	Eid	_	Word	Word	_	3	orphan	3:orphan	_
+23	Eid	_	Word	Word	_	25	A	25:A	_
 24	zu	_	Word	Word	_	25	F	25:F	_
-25	binden	_	Word	Word	_	3	orphan	3:orphan	_
-26	?	_	Punctuation	Punctuation	_	25	punct	25:punct	_
-27	«	_	Punctuation	Punctuation	_	25	punct	25:punct	_
+25	binden	_	Word	Word	_	18	A	18:A	_
+26	?	_	Punctuation	Punctuation	_	25	U	25:U	_
+27	«	_	Punctuation	Punctuation	_	25	U	25:U	_
 

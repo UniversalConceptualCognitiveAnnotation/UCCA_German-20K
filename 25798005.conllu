@@ -1,27 +1,27 @@
 # format = ucca
 # sent_id = 25798005
 # text = » Ja « , erwiderte ich , » weil wir der Sonne zufahren , und hier ist die Sonne im Norden . «
-1	»	_	Punctuation	Punctuation	_	2	punct	2:punct	_
-2	Ja	_	Word	Word	_	0	root	0:root	_
-3	«	_	Punctuation	Punctuation	_	5	punct	5:punct	_
-4	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_
-5	erwiderte	_	Word	Word	_	2	orphan	2:orphan	_
+1	»	_	Punctuation	Punctuation	_	2	U	2:U	_
+2	Ja	_	Word	Word	_	5	A	5:A	_
+3	«	_	Punctuation	Punctuation	_	5	U	5:U	_
+4	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+5	erwiderte	_	Word	Word	_	0	root	0:root	_
 6	ich	_	Word	Word	_	5	A	5:A	_
-7	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_
-8	»	_	Punctuation	Punctuation	_	5	punct	5:punct	_
+7	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+8	»	_	Punctuation	Punctuation	_	5	U	5:U	_
 9	weil	_	Word	Word	_	2	L	2:L	_
 10	wir	_	Word	Word	_	13	A	13:A	_
 11	der	_	Word	Word	_	12	E	12:E	_
-12	Sonne	_	Word	Word	_	2	orphan	2:orphan	_
-13	zufahren	_	Word	Word	_	2	orphan	2:orphan	_
-14	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
+12	Sonne	_	Word	Word	_	13	A	13:A	_
+13	zufahren	_	Word	Word	_	2	H	2:H	_
+14	,	_	Punctuation	Punctuation	_	2	U	2:U	_
 15	und	_	Word	Word	_	2	L	2:L	_
 16	hier	_	Word	Word	_	17	A	17:A	_
-17	ist	_	Word	Word	_	2	orphan	2:orphan	_
+17	ist	_	Word	Word	_	2	H	2:H	_
 18	die	_	Word	Word	_	19	E	19:E	_
-19	Sonne	_	Word	Word	_	2	orphan	2:orphan	_
+19	Sonne	_	Word	Word	_	17	A	17:A	_
 20	im	_	Word	Word	_	21	R	21:R	_
-21	Norden	_	Word	Word	_	2	orphan	2:orphan	_
-22	.	_	Punctuation	Punctuation	_	21	punct	21:punct	_
-23	«	_	Punctuation	Punctuation	_	21	punct	21:punct	_
+21	Norden	_	Word	Word	_	17	A	17:A	_
+22	.	_	Punctuation	Punctuation	_	21	U	21:U	_
+23	«	_	Punctuation	Punctuation	_	21	U	21:U	_
 

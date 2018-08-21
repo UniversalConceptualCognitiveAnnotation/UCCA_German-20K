@@ -1,15 +1,15 @@
 # format = ucca
 # sent_id = 25766009
 # text = » Ich denke , wir stecken fest , Kapitän . «
-1	»	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+1	»	_	Punctuation	Punctuation	_	3	U	3:U	_
 2	Ich	_	Word	Word	_	3	A	3:A	_
 3	denke	_	Word	Word	_	0	root	0:root	_
-4	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+4	,	_	Punctuation	Punctuation	_	3	U	3:U	_
 5	wir	_	Word	Word	_	6	A	6:A	_
-6	stecken	_	Word	Word	_	3	orphan	3:orphan	_
-7	fest	_	Word	Word	_	6	flat	6:flat	_
-8	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_
+6	stecken	_	Word	Word	_	3	A	3:A	_
+7	fest	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	,	_	Punctuation	Punctuation	_	6	U	6:U	_
 9	Kapitän	_	Word	Word	_	6	G	6:G	_
-10	.	_	Punctuation	Punctuation	_	6	punct	6:punct	_
-11	«	_	Punctuation	Punctuation	_	6	punct	6:punct	_
+10	.	_	Punctuation	Punctuation	_	6	U	6:U	_
+11	«	_	Punctuation	Punctuation	_	6	U	6:U	_
 

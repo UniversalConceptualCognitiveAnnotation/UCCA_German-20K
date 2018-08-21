@@ -3,14 +3,14 @@
 # text = Wir befanden uns also an dieser gefährlichen Stelle der norwegischen Küste ?
 1	Wir	_	Word	Word	_	2	A	2:A	_
 2	befanden	_	Word	Word	_	0	root	0:root	_
-3	uns	_	Word	Word	_	2	flat	2:flat	_
+3	uns	_	Word	Word	_	2	Terminal	2:Terminal	_
 4	also	_	Word	Word	_	2	D	2:D	_
 5	an	_	Word	Word	_	8	R	8:R	_
 6	dieser	_	Word	Word	_	8	E	8:E	_
 7	gefährlichen	_	Word	Word	_	8	E	8:E	_
-8	Stelle	_	Word	Word	_	2	orphan	2:orphan	_
+8	Stelle	_	Word	Word	_	2	A	2:A	_
 9	der	_	Word	Word	_	11	R	11:R	_
 10	norwegischen	_	Word	Word	_	11	E	11:E	_
-11	Küste	_	Word	Word	_	2	orphan	2:orphan	_
-12	?	_	Punctuation	Punctuation	_	11	punct	11:punct	_
+11	Küste	_	Word	Word	_	8	E	8:E	_
+12	?	_	Punctuation	Punctuation	_	11	U	11:U	_
 

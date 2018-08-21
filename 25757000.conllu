@@ -1,29 +1,29 @@
 # format = ucca
 # sent_id = 25757000
 # text = » Das ist auch meine Meinung « , sagte Conseil , » und ich bin begierig , was mein Herr darauf antworten wird . «
-1	»	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+1	»	_	Punctuation	Punctuation	_	3	U	3:U	_
 2	Das	_	Word	Word	_	3	A	3:A	_
-3	ist	_	Word	Word	_	0	root	0:root	_
+3	ist	_	Word	Word	_	9	A	9:A	_
 4	auch	_	Word	Word	_	3	D	3:D	_
 5	meine	_	Word	Word	_	6	E	6:E	_
-6	Meinung	_	Word	Word	_	3	orphan	3:orphan	_
-7	«	_	Punctuation	Punctuation	_	9	punct	9:punct	_
-8	,	_	Punctuation	Punctuation	_	9	punct	9:punct	_
-9	sagte	_	Word	Word	_	3	orphan	3:orphan	_
+6	Meinung	_	Word	Word	_	3	A	3:A	_
+7	«	_	Punctuation	Punctuation	_	9	U	9:U	_
+8	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+9	sagte	_	Word	Word	_	0	root	0:root	_
 10	Conseil	_	Word	Word	_	9	A	9:A	_
-11	,	_	Punctuation	Punctuation	_	9	punct	9:punct	_
-12	»	_	Punctuation	Punctuation	_	9	punct	9:punct	_
+11	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+12	»	_	Punctuation	Punctuation	_	9	U	9:U	_
 13	und	_	Word	Word	_	3	L	3:L	_
 14	ich	_	Word	Word	_	16	A	16:A	_
 15	bin	_	Word	Word	_	16	F	16:F	_
-16	begierig	_	Word	Word	_	3	orphan	3:orphan	_
-17	,	_	Punctuation	Punctuation	_	16	punct	16:punct	_
+16	begierig	_	Word	Word	_	3	H	3:H	_
+17	,	_	Punctuation	Punctuation	_	16	U	16:U	_
 18	was	_	Word	Word	_	22	A	22:A	_
 19	mein	_	Word	Word	_	20	E	20:E	_
-20	Herr	_	Word	Word	_	3	orphan	3:orphan	_
+20	Herr	_	Word	Word	_	22	A	22:A	_
 21	darauf	_	Word	Word	_	22	A	22:A	_
-22	antworten	_	Word	Word	_	3	orphan	3:orphan	_
+22	antworten	_	Word	Word	_	16	A	16:A	_
 23	wird	_	Word	Word	_	22	F	22:F	_
-24	.	_	Punctuation	Punctuation	_	22	punct	22:punct	_
-25	«	_	Punctuation	Punctuation	_	22	punct	22:punct	_
+24	.	_	Punctuation	Punctuation	_	22	U	22:U	_
+25	«	_	Punctuation	Punctuation	_	22	U	22:U	_
 

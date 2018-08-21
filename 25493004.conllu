@@ -2,21 +2,21 @@
 # sent_id = 25493004
 # text = Conseil , außergewöhnlich teilnehmend , ich voll Bestürzung , harrten wir schweigend auf die Entwicklung der Szene .
 1	Conseil	_	Word	Word	_	4	A	4:A	_
-2	,	_	Punctuation	Punctuation	_	4	punct	4:punct	_
+2	,	_	Punctuation	Punctuation	_	4	U	4:U	_
 3	außergewöhnlich	_	Word	Word	_	4	D	4:D	_
 4	teilnehmend	_	Word	Word	_	0	root	0:root	_
-5	,	_	Punctuation	Punctuation	_	4	punct	4:punct	_
+5	,	_	Punctuation	Punctuation	_	4	U	4:U	_
 6	ich	_	Word	Word	_	8	A	8:A	_
 7	voll	_	Word	Word	_	8	D	8:D	_
-8	Bestürzung	_	Word	Word	_	4	orphan	4:orphan	_
-9	,	_	Punctuation	Punctuation	_	4	punct	4:punct	_
-10	harrten	_	Word	Word	_	4	orphan	4:orphan	_
+8	Bestürzung	_	Word	Word	_	4	H	4:H	_
+9	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+10	harrten	_	Word	Word	_	4	H	4:H	_
 11	wir	_	Word	Word	_	10	A	10:A|12:A	_
-12	schweigend	_	Word	Word	_	4	orphan	4:orphan	_
+12	schweigend	_	Word	Word	_	4	H	4:H	_
 13	auf	_	Word	Word	_	15	R	15:R	_
 14	die	_	Word	Word	_	15	E	15:E	_
-15	Entwicklung	_	Word	Word	_	4	orphan	4:orphan	_
+15	Entwicklung	_	Word	Word	_	10	A	10:A	_
 16	der	_	Word	Word	_	17	R	17:R	_
-17	Szene	_	Word	Word	_	4	orphan	4:orphan	_
-18	.	_	Punctuation	Punctuation	_	17	punct	17:punct	_
+17	Szene	_	Word	Word	_	15	A	15:A	_
+18	.	_	Punctuation	Punctuation	_	17	U	17:U	_
 

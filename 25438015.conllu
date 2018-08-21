@@ -1,30 +1,30 @@
 # format = ucca
 # sent_id = 25438015
 # text = « Ich überließ es Conseil , unsere Koffer gehörig zu ordnen , und begab mich wieder aufs Verdeck , um den Vorbereitungen zur Abfahrt zuzusehen .
-1	«	_	Punctuation	Punctuation	_	25	punct	25:punct	_
-2	Ich	_	Word	Word	_	3	A	3:A|14:A|25:A	_
+1	«	_	Punctuation	Punctuation	_	25	U	25:U	_
+2	Ich	_	Word	Word	_	3	A	3:A|25:A|14:A	_
 3	überließ	_	Word	Word	_	0	root	0:root	_
 4	es	_	Word	Word	_	3	F	3:F	_
 5	Conseil	_	Word	Word	_	3	A	3:A|11:A	_
-6	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+6	,	_	Punctuation	Punctuation	_	3	U	3:U	_
 7	unsere	_	Word	Word	_	8	E	8:E	_
-8	Koffer	_	Word	Word	_	3	orphan	3:orphan	_
+8	Koffer	_	Word	Word	_	11	A	11:A	_
 9	gehörig	_	Word	Word	_	11	D	11:D	_
 10	zu	_	Word	Word	_	11	F	11:F	_
-11	ordnen	_	Word	Word	_	3	orphan	3:orphan	_
-12	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+11	ordnen	_	Word	Word	_	3	A	3:A	_
+12	,	_	Punctuation	Punctuation	_	3	U	3:U	_
 13	und	_	Word	Word	_	3	L	3:L	_
-14	begab	_	Word	Word	_	3	orphan	3:orphan	_
-15	mich	_	Word	Word	_	14	flat	14:flat	_
+14	begab	_	Word	Word	_	3	H	3:H	_
+15	mich	_	Word	Word	_	14	Terminal	14:Terminal	_
 16	wieder	_	Word	Word	_	14	D	14:D	_
 17	aufs	_	Word	Word	_	18	R	18:R	_
-18	Verdeck	_	Word	Word	_	3	orphan	3:orphan	_
-19	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+18	Verdeck	_	Word	Word	_	14	A	14:A	_
+19	,	_	Punctuation	Punctuation	_	3	U	3:U	_
 20	um	_	Word	Word	_	3	L	3:L	_
 21	den	_	Word	Word	_	22	E	22:E	_
-22	Vorbereitungen	_	Word	Word	_	3	orphan	3:orphan	_
+22	Vorbereitungen	_	Word	Word	_	24	D	24:D	_
 23	zur	_	Word	Word	_	24	R	24:R	_
-24	Abfahrt	_	Word	Word	_	3	orphan	3:orphan	_
-25	zuzusehen	_	Word	Word	_	3	orphan	3:orphan	_
-26	.	_	Punctuation	Punctuation	_	25	punct	25:punct	_
+24	Abfahrt	_	Word	Word	_	25	A	25:A	_
+25	zuzusehen	_	Word	Word	_	3	H	3:H	_
+26	.	_	Punctuation	Punctuation	_	25	U	25:U	_
 

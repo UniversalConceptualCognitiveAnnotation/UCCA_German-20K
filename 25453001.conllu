@@ -1,29 +1,29 @@
 # format = ucca
 # sent_id = 25453001
 # text = « » Sie müssen wohl « , versetzte Ned Land , » mit 8 Zoll dickem Eisen blech beschlagen sein wie die Panzer fregatten .
-1	«	_	Punctuation	Punctuation	_	19	punct	19:punct	_
-2	»	_	Punctuation	Punctuation	_	19	punct	19:punct	_
+1	«	_	Punctuation	Punctuation	_	19	U	19:U	_
+2	»	_	Punctuation	Punctuation	_	19	U	19:U	_
 3	Sie	_	Word	Word	_	19	A	19:A	_
 4	müssen	_	Word	Word	_	19	D	19:D	_
 5	wohl	_	Word	Word	_	19	G	19:G	_
-6	«	_	Punctuation	Punctuation	_	8	punct	8:punct	_
-7	,	_	Punctuation	Punctuation	_	8	punct	8:punct	_
+6	«	_	Punctuation	Punctuation	_	8	U	8:U	_
+7	,	_	Punctuation	Punctuation	_	8	U	8:U	_
 8	versetzte	_	Word	Word	_	0	root	0:root	_
 9	Ned	_	Word	Word	_	8	A	8:A	_
-10	Land	_	Word	Word	_	9	flat	9:flat	_
-11	,	_	Punctuation	Punctuation	_	8	punct	8:punct	_
-12	»	_	Punctuation	Punctuation	_	8	punct	8:punct	_
+10	Land	_	Word	Word	_	9	Terminal	9:Terminal	_
+11	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+12	»	_	Punctuation	Punctuation	_	8	U	8:U	_
 13	mit	_	Word	Word	_	18	R	18:R	_
 14	8	_	Word	Word	_	15	E	15:E	_
-15	Zoll	_	Word	Word	_	8	orphan	8:orphan	_
+15	Zoll	_	Word	Word	_	18	E	18:E	_
 16	dickem	_	Word	Word	_	15	E	15:E	_
 17	Eisen	_	Word	Word	_	18	E	18:E	_
-18	blech	_	Word	Word	_	8	orphan	8:orphan	_
-19	beschlagen	_	Word	Word	_	8	orphan	8:orphan	_
+18	blech	_	Word	Word	_	19	A	19:A	_
+19	beschlagen	_	Word	Word	_	8	A	8:A	_
 20	sein	_	Word	Word	_	19	F	19:F	_
 21	wie	_	Word	Word	_	24	R	24:R	_
 22	die	_	Word	Word	_	24	E	24:E	_
 23	Panzer	_	Word	Word	_	24	E	24:E	_
-24	fregatten	_	Word	Word	_	8	orphan	8:orphan	_
-25	.	_	Punctuation	Punctuation	_	24	punct	24:punct	_
+24	fregatten	_	Word	Word	_	19	H	19:H	_
+25	.	_	Punctuation	Punctuation	_	24	U	24:U	_
 
