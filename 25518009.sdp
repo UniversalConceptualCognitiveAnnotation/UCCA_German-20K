@@ -18,7 +18,7 @@
 17	Marine	_	Word	-	+	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_
 18	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_
 19	aber	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_	_	_	_
-20	ich	_	Word	-	-	_	_	_	_	_	A	A	_	_	_	_	_	_	_	_
+20	ich	_	Word	-	-	_	_	_	_	_	A	A*	_	_	_	_	_	_	_	_
 21	wurde	_	Word	-	-	_	_	_	_	_	F	_	_	_	_	_	_	_	_	_
 22	angegriffen	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_
 23	und	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_	_	_	_
@@ -26,7 +26,7 @@
 25	mich	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_
 26	verteidigen	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_
 27	!	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_
-28	Ich	_	Word	-	-	_	_	_	_	_	_	_	A	_	A	_	_	_	_	_
+28	Ich	_	Word	-	-	_	_	_	_	_	_	_	A	_	A*	_	_	_	_	_
 29	habe	_	Word	-	-	_	_	_	_	_	_	_	F	_	_	_	_	_	_	_
 30	mich	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_
 31	jedoch	_	Word	-	-	_	_	_	_	_	_	_	D	_	_	_	_	_	_	_
@@ -46,7 +46,7 @@
 45	-	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_
 46	es	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	F	_	_	_
 47	wird	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	F	_	_	_
-48	sie	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	A	_	_	A
+48	sie	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	A	_	_	A*
 49	nicht	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	D	_	_	_
 50	viel	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	D	_	_	_
 51	kosten	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_

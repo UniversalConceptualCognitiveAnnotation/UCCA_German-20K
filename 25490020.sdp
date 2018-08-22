@@ -11,7 +11,7 @@
 10	war	_	Word	-	-	_	F	_	_	_	_	_	_	_	_	_	_
 11	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_
 12	begnügte	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_
-13	er	_	Word	-	-	_	_	_	A	_	_	_	A	_	_	_	A
+13	er	_	Word	-	-	_	_	_	A	_	_	_	A*	_	_	_	A*
 14	sich	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_	_
 15	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_
 16	wie	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_	_
@@ -32,6 +32,6 @@
 31	24	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	T
 32	Stunden	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	Terminal	_
 33	zu	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	F
-34	erneuern	_	Word	-	+	_	_	_	_	P	_	_	_	_	_	_	_
+34	erneuern	_	Word	-	+	_	_	_	_	P*	_	_	_	_	_	_	_
 35	?	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_
 
