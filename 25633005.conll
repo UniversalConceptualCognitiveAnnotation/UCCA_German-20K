@@ -1,10 +1,10 @@
 # format = ucca
 # sent_id = 25633005
 1	Er	_	Word	Word	_	2	A	_	_
-1	Er	_	Word	Word	_	5	A*	_	_
 1	Er	_	Word	Word	_	12	A*	_	_
 1	Er	_	Word	Word	_	9	A*	_	_
-2	fuhr	_	Word	Word	_	0	ROOT	_	_
+1	Er	_	Word	Word	_	5	A*	_	_
+2	fuhr	_	Word	Word	_	0	H	_	_
 3	zusammen	_	Word	Word	_	2	Terminal	_	_
 4	,	_	Punctuation	Punctuation	_	2	U	_	_
 5	wendete	_	Word	Word	_	2	H	_	_
@@ -38,6 +38,7 @@
 33	nach	_	Word	Word	_	34	R	_	_
 34	Wünschen	_	Word	Word	_	36	A	_	_
 35	Kräuter	_	Word	Word	_	36	A	_	_
+36	gesammelt	_	Word	Word	_	0	P	_	_
 36	gesammelt	_	Word	Word	_	42	P*	_	_
 37	?	_	Punctuation	Punctuation	_	42	U	_	_
 38	«	_	Punctuation	Punctuation	_	42	U	_	_

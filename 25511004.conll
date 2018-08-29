@@ -3,7 +3,7 @@
 1	In	_	Word	Word	_	4	G	_	_
 2	der	_	Word	Word	_	1	Terminal	_	_
 3	Tat	_	Word	Word	_	1	Terminal	_	_
-4	kannte	_	Word	Word	_	0	ROOT	_	_
+4	kannte	_	Word	Word	_	0	H	_	_
 5	ich	_	Word	Word	_	4	A	_	_
 6	jetzt	_	Word	Word	_	4	D	_	_
 7	den	_	Word	Word	_	8	E	_	_
@@ -28,6 +28,7 @@
 26	:	_	Punctuation	Punctuation	_	4	U	_	_
 27	der	_	Word	Word	_	29	E	_	_
 28	Speise	_	Word	Word	_	29	E	_	_
+29	saal	_	Word	Word	_	0	C	_	_
 29	saal	_	Word	Word	_	42	A*	_	_
 30	5	_	Word	Word	_	31	E	_	_
 31	Meter	_	Word	Word	_	32	A	_	_
@@ -83,7 +84,7 @@
 81	von	_	Word	Word	_	86	R	_	_
 82	2	_	Word	Word	_	86	E	_	_
 83	1	_	Word	Word	_	82	Terminal	_	_
-84	/	_	Punctuation	Punctuation	_	86	U	_	_
+84	/	_	Punctuation	Punctuation	_	82	U	_	_
 85	2	_	Word	Word	_	82	Terminal	_	_
 86	Meter	_	Word	Word	_	80	A	_	_
 87	;	_	Punctuation	Punctuation	_	4	U	_	_
@@ -95,7 +96,7 @@
 93	,	_	Punctuation	Punctuation	_	99	U	_	_
 94	7	_	Word	Word	_	98	E	_	_
 95	1	_	Word	Word	_	94	Terminal	_	_
-96	/	_	Punctuation	Punctuation	_	98	U	_	_
+96	/	_	Punctuation	Punctuation	_	94	U	_	_
 97	2	_	Word	Word	_	94	Terminal	_	_
 98	Meter	_	Word	Word	_	99	A	_	_
 99	groß	_	Word	Word	_	101	A	_	_

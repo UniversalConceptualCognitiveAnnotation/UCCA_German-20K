@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 25678001
 1	»	_	Punctuation	Punctuation	_	2	U	_	_
-2	Nein	_	Word	Word	_	0	ROOT	_	_
+2	Nein	_	Word	Word	_	0	H	_	_
 3	,	_	Punctuation	Punctuation	_	2	U	_	_
 4	mein	_	Word	Word	_	5	E	_	_
 5	Freund	_	Word	Word	_	2	G	_	_
@@ -20,7 +20,9 @@
 18	haben	_	Word	Word	_	11	E	_	_
 19	.	_	Punctuation	Punctuation	_	2	U	_	_
 20	Die	_	Word	Word	_	21	E	_	_
-21	Perlen	_	Word	Word	_	0	ROOT	_	_
+21	Perlen	_	Word	Word	_	0	C	_	_
+21	Perlen	_	Word	Word	_	32	A*	_	_
+21	Perlen	_	Word	Word	_	46	A*	_	_
 22	,	_	Punctuation	Punctuation	_	21	U	_	_
 23	die	_	Word	Word	_	32	R	_	_
 24	in	_	Word	Word	_	26	R	_	_
