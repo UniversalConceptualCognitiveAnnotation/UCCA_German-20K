@@ -2,7 +2,7 @@
 # sent_id = 25740004
 # text = » Ja , sein Krater , der vormals von Lava , Dünsten und Flammen erfüllt , nun diese erquickende Luft , die wir einatmen , hereinläßt .
 1	»	_	Punctuation	Punctuation	_	2	U	2:U	_
-2	Ja	_	Word	Word	_	0	root	0:root	_
+2	Ja	_	Word	Word	_	0	H	0:H	_
 3	,	_	Punctuation	Punctuation	_	2	U	2:U	_
 4	sein	_	Word	Word	_	5	E	5:E	_
 5	Krater	_	Word	Word	_	26	A	26:A	_
@@ -20,7 +20,7 @@
 17	nun	_	Word	Word	_	26	F	26:F	_
 18	diese	_	Word	Word	_	20	E	20:E	_
 19	erquickende	_	Word	Word	_	26	A	26:A	_
-20	Luft	_	Word	Word	_	2	orphan	2:orphan	_
+20	Luft	_	Word	Word	_	0	C	0:C|24:A	_
 21	,	_	Punctuation	Punctuation	_	24	U	24:U	_
 22	die	_	Word	Word	_	24	R	24:R	_
 23	wir	_	Word	Word	_	24	A	24:A	_

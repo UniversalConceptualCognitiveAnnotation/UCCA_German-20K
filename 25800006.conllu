@@ -1,10 +1,10 @@
 # format = ucca
 # sent_id = 25800006
 # text = Gänse und Enten ließen sich zu Dutzenden auf der Plattform nieder , und fanden bald ihren Platz in der Küche .
-1	Gänse	_	Word	Word	_	0	root	0:root	_
+1	Gänse	_	Word	Word	_	0	C	0:C|14:A	_
 2	und	_	Word	Word	_	1	N	1:N	_
 3	Enten	_	Word	Word	_	1	C	1:C	_
-4	ließen	_	Word	Word	_	1	orphan	1:orphan	_
+4	ließen	_	Word	Word	_	0	H	0:H	_
 5	sich	_	Word	Word	_	4	Terminal	4:Terminal	_
 6	zu	_	Word	Word	_	7	R	7:R	_
 7	Dutzenden	_	Word	Word	_	4	D	4:D	_

@@ -1,8 +1,8 @@
 # format = ucca
 # sent_id = 25633005
 # text = Er fuhr zusammen , wendete sich um und sagte : » Ah ! Sie sind 's , Herr Professor ? Nun , haben Sie Glück auf der Jagd gehabt , haben Sie nach Wünschen Kräuter gesammelt ? « » Ja , Kapitän « , erwiderte ich , » aber wir haben leider einen Trupp Zweifüßler herbeigezogen , deren Nähe mir besorglich scheint . «
-1	Er	_	Word	Word	_	2	A	2:A|9:A|5:A|12:A	_
-2	fuhr	_	Word	Word	_	0	root	0:root	_
+1	Er	_	Word	Word	_	2	A	2:A|5:A|9:A|12:A	_
+2	fuhr	_	Word	Word	_	0	H	0:H	_
 3	zusammen	_	Word	Word	_	2	Terminal	2:Terminal	_
 4	,	_	Punctuation	Punctuation	_	2	U	2:U	_
 5	wendete	_	Word	Word	_	2	H	2:H	_
@@ -36,7 +36,7 @@
 33	nach	_	Word	Word	_	34	R	34:R	_
 34	Wünschen	_	Word	Word	_	36	A	36:A	_
 35	Kräuter	_	Word	Word	_	36	A	36:A	_
-36	gesammelt	_	Word	Word	_	2	orphan	2:orphan	_
+36	gesammelt	_	Word	Word	_	0	P	0:P|42:P	_
 37	?	_	Punctuation	Punctuation	_	42	U	42:U	_
 38	«	_	Punctuation	Punctuation	_	42	U	42:U	_
 39	»	_	Punctuation	Punctuation	_	42	U	42:U	_

@@ -2,7 +2,7 @@
 # sent_id = 25462004
 # text = Es war damals die üble Jahreszeit des Südens , denn der Juli dieser Zone entspricht unserem Januar in Europa ; aber das Meer hielt sich ruhig und gestattete in weitem Umfang die Beobachtung .
 1	Es	_	Word	Word	_	2	F	2:F	_
-2	war	_	Word	Word	_	0	root	0:root	_
+2	war	_	Word	Word	_	0	H	0:H	_
 3	damals	_	Word	Word	_	2	T	2:T	_
 4	die	_	Word	Word	_	6	E	6:E	_
 5	üble	_	Word	Word	_	6	E	6:E	_
@@ -23,7 +23,7 @@
 20	;	_	Punctuation	Punctuation	_	2	U	2:U	_
 21	aber	_	Word	Word	_	2	L	2:L	_
 22	das	_	Word	Word	_	23	E	23:E	_
-23	Meer	_	Word	Word	_	2	orphan	2:orphan	_
+23	Meer	_	Word	Word	_	0	C	0:C|28:A	_
 24	hielt	_	Word	Word	_	26	F	26:F	_
 25	sich	_	Word	Word	_	24	Terminal	24:Terminal	_
 26	ruhig	_	Word	Word	_	2	H	2:H	_

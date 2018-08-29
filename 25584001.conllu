@@ -2,7 +2,7 @@
 # sent_id = 25584001
 # text = Ich sah mich zuerst auf der Landkarte um , und fand unter 32 ° 40 ? nördlicher Breite und 167 ° 50 ? westlicher Länge ein im Jahr 1801 vom Kapitän Crespo entdecktes Inselchen , das auf den alten spanischen Karten Rocca de la Plata , d.h . » Silberfelsen « , benannt war .
 1	Ich	_	Word	Word	_	2	A	2:A|11:A	_
-2	sah	_	Word	Word	_	0	root	0:root	_
+2	sah	_	Word	Word	_	0	H	0:H	_
 3	mich	_	Word	Word	_	2	Terminal	2:Terminal	_
 4	zuerst	_	Word	Word	_	2	D	2:D	_
 5	auf	_	Word	Word	_	7	R	7:R	_
@@ -14,14 +14,14 @@
 11	fand	_	Word	Word	_	2	H	2:H	_
 12	unter	_	Word	Word	_	18	R	18:R	_
 13	32	_	Word	Word	_	18	E	18:E	_
-14	°	_	Punctuation	Punctuation	_	18	U	18:U	_
+14	°	_	Punctuation	Punctuation	_	13	U	13:U	_
 15	40	_	Word	Word	_	13	Terminal	13:Terminal	_
 16	?	_	Punctuation	Punctuation	_	18	U	18:U	_
 17	nördlicher	_	Word	Word	_	18	E	18:E	_
 18	Breite	_	Word	Word	_	11	A	11:A	_
 19	und	_	Word	Word	_	18	N	18:N	_
 20	167	_	Word	Word	_	25	E	25:E	_
-21	°	_	Punctuation	Punctuation	_	25	U	25:U	_
+21	°	_	Punctuation	Punctuation	_	20	U	20:U	_
 22	50	_	Word	Word	_	20	Terminal	20:Terminal	_
 23	?	_	Punctuation	Punctuation	_	25	U	25:U	_
 24	westlicher	_	Word	Word	_	25	E	25:E	_

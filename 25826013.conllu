@@ -2,7 +2,7 @@
 # sent_id = 25826013
 # text = Sie lag ruhig , gegen die Bewegungen des Meeres gesichert , und unter einem Druck , der die Hinüberleitung des elektrischen Funkens , der in 32 / 100 einer Sekunde von Amerika nach Europa läuft , begünstigt .
 1	Sie	_	Word	Word	_	2	A	2:A|15:A|10:A	_
-2	lag	_	Word	Word	_	0	root	0:root	_
+2	lag	_	Word	Word	_	0	H	0:H	_
 3	ruhig	_	Word	Word	_	2	D	2:D	_
 4	,	_	Punctuation	Punctuation	_	2	U	2:U	_
 5	gegen	_	Word	Word	_	10	R	10:R	_
@@ -15,7 +15,7 @@
 12	und	_	Word	Word	_	2	L	2:L	_
 13	unter	_	Word	Word	_	15	R	15:R	_
 14	einem	_	Word	Word	_	15	E	15:E	_
-15	Druck	_	Word	Word	_	2	orphan	2:orphan	_
+15	Druck	_	Word	Word	_	0	C	0:C|19:A	_
 16	,	_	Punctuation	Punctuation	_	2	U	2:U	_
 17	der	_	Word	Word	_	2	L	2:L	_
 18	die	_	Word	Word	_	19	E	19:E	_

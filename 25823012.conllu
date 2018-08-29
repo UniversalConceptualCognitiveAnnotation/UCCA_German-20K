@@ -2,7 +2,7 @@
 # sent_id = 25823012
 # text = Ich dachte , sie werde in einer Tiefe von 15 Meter wieder ruhiges Wasser finden . Nein .
 1	Ich	_	Word	Word	_	2	A	2:A	_
-2	dachte	_	Word	Word	_	0	root	0:root	_
+2	dachte	_	Word	Word	_	0	H	0:H	_
 3	,	_	Punctuation	Punctuation	_	2	U	2:U	_
 4	sie	_	Word	Word	_	15	A	15:A	_
 5	werde	_	Word	Word	_	15	F	15:F	_
@@ -15,7 +15,7 @@
 12	wieder	_	Word	Word	_	15	D	15:D	_
 13	ruhiges	_	Word	Word	_	14	E	14:E	_
 14	Wasser	_	Word	Word	_	15	A	15:A|17:A	_
-15	finden	_	Word	Word	_	2	orphan	2:orphan	_
+15	finden	_	Word	Word	_	0	P	0:P|17:P	_
 16	.	_	Punctuation	Punctuation	_	17	U	17:U	_
 17	Nein	_	Word	Word	_	2	H	2:H	_
 18	.	_	Punctuation	Punctuation	_	17	U	17:U	_

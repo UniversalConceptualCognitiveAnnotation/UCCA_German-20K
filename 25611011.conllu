@@ -2,7 +2,7 @@
 # sent_id = 25611011
 # text = Hier bekam er Kunde von den Resultaten der Bemühungen Dillons und erfuhr weiter , ein gewisser James Hobbs , Unter befehlshaber der Union zu Calcutta , habe bei einer Landung auf einer Insel unter 8 ° 18 ? südlicher Breite und 156 ° 30 ? östlicher Länge eiserne Stangen und rote Stoffe in den Händen der Eingeborenen jener Gegenden wahrgenommen .
 1	Hier	_	Word	Word	_	2	A	2:A	_
-2	bekam	_	Word	Word	_	0	root	0:root	_
+2	bekam	_	Word	Word	_	0	H	0:H	_
 3	er	_	Word	Word	_	2	A	2:A|12:A	_
 4	Kunde	_	Word	Word	_	2	A	2:A	_
 5	von	_	Word	Word	_	7	R	7:R	_
@@ -43,9 +43,9 @@
 40	Breite	_	Word	Word	_	35	Terminal	35:Terminal	_
 41	und	_	Word	Word	_	35	N	35:N	_
 42	156	_	Word	Word	_	35	C	35:C	_
-43	°	_	Punctuation	Punctuation	_	35	U	35:U	_
+43	°	_	Punctuation	Punctuation	_	42	U	42:U	_
 44	30	_	Word	Word	_	42	Terminal	42:Terminal	_
-45	?	_	Punctuation	Punctuation	_	35	U	35:U	_
+45	?	_	Punctuation	Punctuation	_	42	U	42:U	_
 46	östlicher	_	Word	Word	_	42	Terminal	42:Terminal	_
 47	Länge	_	Word	Word	_	42	Terminal	42:Terminal	_
 48	eiserne	_	Word	Word	_	49	E	49:E	_

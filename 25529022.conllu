@@ -3,7 +3,7 @@
 # text = Ein Trupp Hornfische , mit plattem Körper und einem Stachel auf dem Rücken , trieben sich munter um die ›Nautilus‹ herum und bewegten die vier Reihen Stacheln , die auf beiden Seiten ihres Schwanzes wie Borsten starren .
 1	Ein	_	Word	Word	_	2	E	2:E	_
 2	Trupp	_	Word	Word	_	3	E	3:E	_
-3	Hornfische	_	Word	Word	_	0	root	0:root	_
+3	Hornfische	_	Word	Word	_	0	C	0:C|7:A|23:A	_
 4	,	_	Punctuation	Punctuation	_	3	U	3:U	_
 5	mit	_	Word	Word	_	7	R	7:R	_
 6	plattem	_	Word	Word	_	7	E	7:E	_
@@ -15,7 +15,7 @@
 12	dem	_	Word	Word	_	13	E	13:E	_
 13	Rücken	_	Word	Word	_	10	E	10:E	_
 14	,	_	Punctuation	Punctuation	_	15	U	15:U	_
-15	trieben	_	Word	Word	_	3	orphan	3:orphan	_
+15	trieben	_	Word	Word	_	0	H	0:H	_
 16	sich	_	Word	Word	_	15	Terminal	15:Terminal	_
 17	munter	_	Word	Word	_	15	D	15:D	_
 18	um	_	Word	Word	_	20	R	20:R	_

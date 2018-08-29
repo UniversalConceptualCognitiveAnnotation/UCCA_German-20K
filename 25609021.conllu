@@ -2,7 +2,7 @@
 # sent_id = 25609021
 # text = Wir befanden uns vor der eigentlich Vanikoro genannten Insel , der Dumont d'Urville den Namen " Recherche " gab , und gerade vor dem kleinen Hafen Vanou , unter 16 ° 4 ? südlicher Breite und 164 ° 32 ? Länge .
 1	Wir	_	Word	Word	_	2	A	2:A|27:A	_
-2	befanden	_	Word	Word	_	0	root	0:root	_
+2	befanden	_	Word	Word	_	0	H	0:H	_
 3	uns	_	Word	Word	_	2	Terminal	2:Terminal	_
 4	vor	_	Word	Word	_	9	R	9:R	_
 5	der	_	Word	Word	_	9	E	9:E	_
@@ -31,14 +31,14 @@
 28	,	_	Punctuation	Punctuation	_	27	U	27:U	_
 29	unter	_	Word	Word	_	34	R	34:R	_
 30	16	_	Word	Word	_	34	E	34:E	_
-31	°	_	Punctuation	Punctuation	_	34	U	34:U	_
+31	°	_	Punctuation	Punctuation	_	30	U	30:U	_
 32	4	_	Word	Word	_	30	Terminal	30:Terminal	_
 33	?	_	Punctuation	Punctuation	_	34	U	34:U	_
 34	südlicher	_	Word	Word	_	27	E	27:E	_
 35	Breite	_	Word	Word	_	34	Terminal	34:Terminal	_
 36	und	_	Word	Word	_	34	N	34:N	_
 37	164	_	Word	Word	_	41	E	41:E	_
-38	°	_	Punctuation	Punctuation	_	41	U	41:U	_
+38	°	_	Punctuation	Punctuation	_	37	U	37:U	_
 39	32	_	Word	Word	_	37	Terminal	37:Terminal	_
 40	?	_	Punctuation	Punctuation	_	41	U	41:U	_
 41	Länge	_	Word	Word	_	34	C	34:C	_

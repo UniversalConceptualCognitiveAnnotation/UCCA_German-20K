@@ -2,7 +2,7 @@
 # sent_id = 25753014
 # text = Man sieht darauf jene urweltlichen Felsen , die niemals das Himmelslicht erblickt haben , jenen Granitkern , der die mächtige Grundschicht des Erdballs bildet , diese tiefen , in den Steinmassen ausgehöhlten Grotten , diese unvergleichlich klaren Profile , deren letzter Strich sich schwarz abhebt .
 1	Man	_	Word	Word	_	2	A	2:A	_
-2	sieht	_	Word	Word	_	0	root	0:root	_
+2	sieht	_	Word	Word	_	0	H	0:H	_
 3	darauf	_	Word	Word	_	2	A	2:A	_
 4	jene	_	Word	Word	_	6	E	6:E	_
 5	urweltlichen	_	Word	Word	_	6	E	6:E	_
@@ -38,7 +38,7 @@
 35	diese	_	Word	Word	_	38	E	38:E	_
 36	unvergleichlich	_	Word	Word	_	37	D	37:D	_
 37	klaren	_	Word	Word	_	2	A	2:A	_
-38	Profile	_	Word	Word	_	2	orphan	2:orphan	_
+38	Profile	_	Word	Word	_	0	C	0:C|43:A	_
 39	,	_	Punctuation	Punctuation	_	43	U	43:U	_
 40	deren	_	Word	Word	_	43	R	43:R	_
 41	letzter	_	Word	Word	_	42	E	42:E	_

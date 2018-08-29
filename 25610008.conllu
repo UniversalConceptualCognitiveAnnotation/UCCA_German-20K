@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 25610008
 # text = La Pérouse und sein Unter befehlshaber , Kapitän de Langle , wurden von Ludwig XVI . im Jahr 1785 ausgeschickt , um eine Welt umsegelung vor zu nehmen .
-1	La	_	Word	Word	_	0	root	0:root	_
+1	La	_	Word	Word	_	0	C	0:C|26:A	_
 2	Pérouse	_	Word	Word	_	1	Terminal	1:Terminal	_
 3	und	_	Word	Word	_	1	N	1:N	_
 4	sein	_	Word	Word	_	6	E	6:E	_
@@ -20,7 +20,7 @@
 17	im	_	Word	Word	_	18	R	18:R	_
 18	Jahr	_	Word	Word	_	20	T	20:T	_
 19	1785	_	Word	Word	_	18	Terminal	18:Terminal	_
-20	ausgeschickt	_	Word	Word	_	1	orphan	1:orphan	_
+20	ausgeschickt	_	Word	Word	_	0	H	0:H	_
 21	,	_	Punctuation	Punctuation	_	20	U	20:U	_
 22	um	_	Word	Word	_	20	L	20:L	_
 23	eine	_	Word	Word	_	25	E	25:E	_

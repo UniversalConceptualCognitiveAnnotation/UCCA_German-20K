@@ -3,7 +3,7 @@
 # text = « » Jawohl ! Das Meer bedeckt 7 / 10 der Erd oberfläche , und der See wind ist rein und gesund . In dieser unermeßlichen Einöde ist der Mensch doch nie allein ; denn er fühlt das Leben um ihn herum ; ein übernatürliches wundervolles Dasein rührt sich darin ; es ist nur Bewegung und Liebe . Und wirklich , Herr Professor , finden wir die drei Natur reiche Mineralien , Pflanzen und Tiere darin repräsentiert . Das letztere Reich am stärksten durch vier Gruppen von Pflanzen tieren , drei Klassen Glieder tiere , fünf Klassen Mollusken , drei Klassen Wirbel tiere , Säugetiere , Reptilien und die unzählige Menge Fische . Diese Abteilung des Tier reichs zählt 13.000 Gattungen , wovon nur 1 / 10 den süßen Gewässern angehört . So ist das Meer eine ungeheure Wohnstätte der Natur . Es herrscht darin die äußerste Ruhe . Das Meer ist außerhalb der Macht der Tyrannen . Auf seiner Oberfläche können sie noch Ungerechtigkeit üben , sich bekämpfen , alle Schrecken verüben . Aber 30 Fuß unterhalb hört ihre Gewalt auf . Ach ! Mein Herr , im Meeres schoß allein ist Unabhängigkeit ! Da fühlt man sich frei ! «
 1	«	_	Punctuation	Punctuation	_	3	U	3:U	_
 2	»	_	Punctuation	Punctuation	_	3	U	3:U	_
-3	Jawohl	_	Word	Word	_	0	root	0:root	_
+3	Jawohl	_	Word	Word	_	0	H	0:H	_
 4	!	_	Punctuation	Punctuation	_	3	U	3:U	_
 5	Das	_	Word	Word	_	6	E	6:E	_
 6	Meer	_	Word	Word	_	7	A	7:A	_
@@ -77,7 +77,7 @@
 74	und	_	Word	Word	_	71	N	71:N	_
 75	Tiere	_	Word	Word	_	71	C	71:C	_
 76	darin	_	Word	Word	_	77	A	77:A	_
-77	repräsentiert	_	Word	Word	_	3	orphan	3:orphan	_
+77	repräsentiert	_	Word	Word	_	0	S	0:S|81:S	_
 78	.	_	Punctuation	Punctuation	_	81	U	81:U	_
 79	Das	_	Word	Word	_	81	E	81:E	_
 80	letztere	_	Word	Word	_	81	E	81:E	_
@@ -121,12 +121,12 @@
 118	reichs	_	Word	Word	_	115	E	115:E	_
 119	zählt	_	Word	Word	_	3	H	3:H	_
 120	13.000	_	Word	Word	_	121	E	121:E	_
-121	Gattungen	_	Word	Word	_	3	orphan	3:orphan	_
+121	Gattungen	_	Word	Word	_	0	C	0:C|131:A	_
 122	,	_	Punctuation	Punctuation	_	3	U	3:U	_
 123	wovon	_	Word	Word	_	3	L	3:L	_
 124	nur	_	Word	Word	_	131	D	131:D	_
 125	1	_	Word	Word	_	131	A	131:A	_
-126	/	_	Punctuation	Punctuation	_	131	U	131:U	_
+126	/	_	Punctuation	Punctuation	_	125	U	125:U	_
 127	10	_	Word	Word	_	125	Terminal	125:Terminal	_
 128	den	_	Word	Word	_	130	E	130:E	_
 129	süßen	_	Word	Word	_	130	E	130:E	_
@@ -162,7 +162,7 @@
 159	Auf	_	Word	Word	_	161	R	161:R	_
 160	seiner	_	Word	Word	_	161	E	161:E	_
 161	Oberfläche	_	Word	Word	_	166	A	166:A	_
-162	können	_	Word	Word	_	166	D	166:D|173:D|168:D	_
+162	können	_	Word	Word	_	166	D	166:D|168:D|173:D	_
 163	sie	_	Word	Word	_	166	A	166:A|168:A|173:A	_
 164	noch	_	Word	Word	_	166	D	166:D	_
 165	Ungerechtigkeit	_	Word	Word	_	166	A	166:A	_

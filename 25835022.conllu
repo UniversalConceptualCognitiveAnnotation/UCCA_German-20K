@@ -2,8 +2,8 @@
 # sent_id = 25835022
 # text = Die ›Nautilus‹ hatte nicht vor , den Zweidecker an seinem undurchdringlichen Panzer zu treffen , sondern unterhalb der Wasser linie , wo er nicht mehr von der Metall decke geschützt war .
 1	Die	_	Word	Word	_	2	E	2:E	_
-2	›Nautilus‹	_	Word	Word	_	0	root	0:root	_
-3	hatte	_	Word	Word	_	2	orphan	2:orphan	_
+2	›Nautilus‹	_	Word	Word	_	0	C	0:C|14:A|20:A	_
+3	hatte	_	Word	Word	_	0	H	0:H	_
 4	nicht	_	Word	Word	_	3	D	3:D	_
 5	vor	_	Word	Word	_	3	Terminal	3:Terminal	_
 6	,	_	Punctuation	Punctuation	_	3	U	3:U	_
@@ -14,7 +14,7 @@
 11	undurchdringlichen	_	Word	Word	_	12	E	12:E	_
 12	Panzer	_	Word	Word	_	14	A	14:A	_
 13	zu	_	Word	Word	_	14	F	14:F	_
-14	treffen	_	Word	Word	_	2	orphan	2:orphan	_
+14	treffen	_	Word	Word	_	0	P	0:P|20:P	_
 15	,	_	Punctuation	Punctuation	_	3	U	3:U	_
 16	sondern	_	Word	Word	_	3	L	3:L	_
 17	unterhalb	_	Word	Word	_	20	R	20:R	_

@@ -3,7 +3,7 @@
 # text = Dumont d'Urville vernahm auf Befragen der Eingeborenen , dass La Pérouse , nachdem er seine beiden Schiffe auf den Riffen der Insel verloren , ein kleineres Fahrzeug bauen ließ , um damit abermals zugrunde zu gehen ... Wo ? wusste man nicht .
 1	Dumont	_	Word	Word	_	3	A	3:A	_
 2	d'Urville	_	Word	Word	_	1	Terminal	1:Terminal	_
-3	vernahm	_	Word	Word	_	0	root	0:root	_
+3	vernahm	_	Word	Word	_	0	H	0:H	_
 4	auf	_	Word	Word	_	5	R	5:R	_
 5	Befragen	_	Word	Word	_	3	A	3:A	_
 6	der	_	Word	Word	_	7	R	7:R	_
@@ -27,7 +27,7 @@
 24	,	_	Punctuation	Punctuation	_	28	U	28:U	_
 25	ein	_	Word	Word	_	27	E	27:E	_
 26	kleineres	_	Word	Word	_	27	E	27:E	_
-27	Fahrzeug	_	Word	Word	_	3	orphan	3:orphan	_
+27	Fahrzeug	_	Word	Word	_	0	C	0:C|34:A	_
 28	bauen	_	Word	Word	_	3	A	3:A	_
 29	ließ	_	Word	Word	_	28	D	28:D	_
 30	,	_	Punctuation	Punctuation	_	28	U	28:U	_

@@ -2,14 +2,14 @@
 # sent_id = 25618010
 # text = Ich stellte diese Betrachtungen an , als der Kapitän , kalt und ruhig , stets sich selbst beherrschend , ohne eine Unruhe oder Verlegenheit zu zeigen , herantrat :
 1	Ich	_	Word	Word	_	2	A	2:A	_
-2	stellte	_	Word	Word	_	0	root	0:root	_
+2	stellte	_	Word	Word	_	0	H	0:H	_
 3	diese	_	Word	Word	_	4	E	4:E	_
 4	Betrachtungen	_	Word	Word	_	2	A	2:A	_
 5	an	_	Word	Word	_	2	Terminal	2:Terminal	_
 6	,	_	Punctuation	Punctuation	_	2	U	2:U	_
 7	als	_	Word	Word	_	2	L	2:L	_
 8	der	_	Word	Word	_	9	E	9:E	_
-9	Kapitän	_	Word	Word	_	2	orphan	2:orphan	_
+9	Kapitän	_	Word	Word	_	0	C	0:C|16:A|26:A|11:A	_
 10	,	_	Punctuation	Punctuation	_	11	U	11:U	_
 11	kalt	_	Word	Word	_	2	H	2:H	_
 12	und	_	Word	Word	_	11	N	11:N	_

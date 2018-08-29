@@ -2,7 +2,7 @@
 # sent_id = 25488127
 # text = Ich suchte an seiner Oberfläche nach einer Öffnung , einer Luke ; aber die aneinanderstoßenden Platten waren festgefugt und wie aus einem Stück .
 1	Ich	_	Word	Word	_	2	A	2:A	_
-2	suchte	_	Word	Word	_	0	root	0:root	_
+2	suchte	_	Word	Word	_	0	H	0:H	_
 3	an	_	Word	Word	_	5	R	5:R	_
 4	seiner	_	Word	Word	_	5	E	5:E	_
 5	Oberfläche	_	Word	Word	_	2	A	2:A	_
@@ -16,7 +16,7 @@
 13	aber	_	Word	Word	_	2	L	2:L	_
 14	die	_	Word	Word	_	16	E	16:E	_
 15	aneinanderstoßenden	_	Word	Word	_	16	E	16:E	_
-16	Platten	_	Word	Word	_	2	orphan	2:orphan	_
+16	Platten	_	Word	Word	_	0	C	0:C|23:A	_
 17	waren	_	Word	Word	_	18	F	18:F|23:S	_
 18	festgefugt	_	Word	Word	_	2	H	2:H	_
 19	und	_	Word	Word	_	2	L	2:L	_

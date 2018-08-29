@@ -3,7 +3,7 @@
 # text = » Ich mache aus ihrem Fleisch einen gegorenen Teig , der hält sich sehr lange , ohne zu verderben . Wann ich davon brauche , röste ich ihn in der Küche , und dieses Gebäck wird Ihnen , trotz seines etwas säuerlichen Geschmacks , vortrefflich munden .
 1	»	_	Punctuation	Punctuation	_	3	U	3:U	_
 2	Ich	_	Word	Word	_	3	A	3:A	_
-3	mache	_	Word	Word	_	0	root	0:root	_
+3	mache	_	Word	Word	_	0	H	0:H	_
 4	aus	_	Word	Word	_	6	R	6:R	_
 5	ihrem	_	Word	Word	_	6	E	6:E	_
 6	Fleisch	_	Word	Word	_	3	A	3:A	_
@@ -35,7 +35,7 @@
 32	,	_	Punctuation	Punctuation	_	3	U	3:U	_
 33	und	_	Word	Word	_	3	L	3:L	_
 34	dieses	_	Word	Word	_	35	E	35:E	_
-35	Gebäck	_	Word	Word	_	3	orphan	3:orphan	_
+35	Gebäck	_	Word	Word	_	0	C	0:C|43:A	_
 36	wird	_	Word	Word	_	46	F	46:F	_
 37	Ihnen	_	Word	Word	_	46	A	46:A	_
 38	,	_	Punctuation	Punctuation	_	3	U	3:U	_

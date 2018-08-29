@@ -2,7 +2,7 @@
 # sent_id = 25749013
 # text = Hauptsächlich gehörten sie der fürchterlichen Gattung der Knorpelfische an , die nicht weniger als 32 Arten zählt : gestreifte Haifische , 5 Meter lang , mit plattem Kopf , der breiter als der Körper ist , zugerundeten Schwanzflossen und sieben großen schwarzen Parallelstreifen der Länge nach auf dem Rücken ; sodann perlgraue oder aschgraue mit sieben Kieferöffnungen und einer einzigen Rückenflosse , ungefähr an der Mitte des Körpers .
 1	Hauptsächlich	_	Word	Word	_	2	D	2:D	_
-2	gehörten	_	Word	Word	_	0	root	0:root	_
+2	gehörten	_	Word	Word	_	0	H	0:H	_
 3	sie	_	Word	Word	_	2	A	2:A	_
 4	der	_	Word	Word	_	6	R	6:R	_
 5	fürchterlichen	_	Word	Word	_	6	E	6:E	_
@@ -20,7 +20,7 @@
 17	zählt	_	Word	Word	_	8	E	8:E	_
 18	:	_	Punctuation	Punctuation	_	2	U	2:U	_
 19	gestreifte	_	Word	Word	_	20	E	20:E	_
-20	Haifische	_	Word	Word	_	2	orphan	2:orphan	_
+20	Haifische	_	Word	Word	_	0	C	0:C|19:A|52:A	_
 21	,	_	Punctuation	Punctuation	_	2	U	2:U	_
 22	5	_	Word	Word	_	23	E	23:E	_
 23	Meter	_	Word	Word	_	24	A	24:A	_

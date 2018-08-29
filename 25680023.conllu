@@ -1,10 +1,10 @@
 # format = ucca
 # sent_id = 25680023
 # text = Ned und Conseil befanden sich schon da , voll Freude über » die Vergnügungs partie « , die vorbereitet wurde .
-1	Ned	_	Word	Word	_	0	root	0:root	_
+1	Ned	_	Word	Word	_	0	C	0:C|10:A	_
 2	und	_	Word	Word	_	1	N	1:N	_
 3	Conseil	_	Word	Word	_	1	C	1:C|10:A	_
-4	befanden	_	Word	Word	_	1	orphan	1:orphan	_
+4	befanden	_	Word	Word	_	0	H	0:H	_
 5	sich	_	Word	Word	_	4	Terminal	4:Terminal	_
 6	schon	_	Word	Word	_	4	D	4:D	_
 7	da	_	Word	Word	_	4	A	4:A	_

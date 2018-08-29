@@ -2,7 +2,7 @@
 # sent_id = 25606003
 # text = Inzwischen kamen wir , in ununterbrochener rascher Fahrt auf der " Nautilus " isoliert , am 11.Dezember zu dem Pomotou-Archipel , der früher » gefährlichen Gruppe « Bougainville , die sich über 500 Meilen weit von Ost-Süd-Ost nach West-Nord-West hin erstreckt , zwischen 13 ° 30 ? und 23 ° 50 ? südlicher Breite und 125 ° 30 ? und 151 ° 30 ? westlicher Länge .
 1	Inzwischen	_	Word	Word	_	2	L	2:L	_
-2	kamen	_	Word	Word	_	0	root	0:root	_
+2	kamen	_	Word	Word	_	0	H	0:H	_
 3	wir	_	Word	Word	_	2	A	2:A	_
 4	,	_	Punctuation	Punctuation	_	2	U	2:U	_
 5	in	_	Word	Word	_	8	R	8:R	_
@@ -50,7 +50,7 @@
 47	?	_	Punctuation	Punctuation	_	44	U	44:U	_
 48	und	_	Word	Word	_	44	N	44:N	_
 49	23	_	Word	Word	_	44	C	44:C	_
-50	°	_	Punctuation	Punctuation	_	44	U	44:U	_
+50	°	_	Punctuation	Punctuation	_	49	U	49:U	_
 51	50	_	Word	Word	_	49	Terminal	49:Terminal	_
 52	?	_	Punctuation	Punctuation	_	44	U	44:U	_
 53	südlicher	_	Word	Word	_	44	E	44:E	_
@@ -62,7 +62,7 @@
 59	?	_	Punctuation	Punctuation	_	56	U	56:U	_
 60	und	_	Word	Word	_	56	N	56:N	_
 61	151	_	Word	Word	_	56	C	56:C	_
-62	°	_	Punctuation	Punctuation	_	56	U	56:U	_
+62	°	_	Punctuation	Punctuation	_	61	U	61:U	_
 63	30	_	Word	Word	_	61	Terminal	61:Terminal	_
 64	?	_	Punctuation	Punctuation	_	56	U	56:U	_
 65	westlicher	_	Word	Word	_	56	E	56:E	_

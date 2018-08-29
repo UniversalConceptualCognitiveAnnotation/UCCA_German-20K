@@ -3,7 +3,7 @@
 # text = Die Unterhaltung wendete sich auf die ewigen Entweichungsprojekte , und ich glaubte , ohne Übertreibung , ihm die Hoffnung geben zu können , Kapitän Nemo sei nur deshalb so weit nach Süden gegangen , um sich mit Sodium zu versehen .
 1	Die	_	Word	Word	_	2	R	2:R	_
 2	Unterhaltung	_	Word	Word	_	3	A	3:A	_
-3	wendete	_	Word	Word	_	0	root	0:root	_
+3	wendete	_	Word	Word	_	0	H	0:H	_
 4	sich	_	Word	Word	_	3	Terminal	3:Terminal	_
 5	auf	_	Word	Word	_	8	R	8:R	_
 6	die	_	Word	Word	_	8	E	8:E	_
@@ -25,7 +25,7 @@
 22	können	_	Word	Word	_	20	D	20:D	_
 23	,	_	Punctuation	Punctuation	_	3	U	3:U	_
 24	Kapitän	_	Word	Word	_	25	E	25:E	_
-25	Nemo	_	Word	Word	_	3	orphan	3:orphan	_
+25	Nemo	_	Word	Word	_	0	C	0:C|36:A	_
 26	sei	_	Word	Word	_	33	F	33:F	_
 27	nur	_	Word	Word	_	33	D	33:D	_
 28	deshalb	_	Word	Word	_	33	A	33:A	_

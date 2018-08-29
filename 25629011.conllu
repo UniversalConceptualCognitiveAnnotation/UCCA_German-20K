@@ -3,7 +3,7 @@
 # text = » Aber nein , lieber Junge . Da hast du einen Meister griff getan . Einen solchen Vogel lebendig und mit der Hand zu fangen ! «
 1	»	_	Punctuation	Punctuation	_	3	U	3:U	_
 2	Aber	_	Word	Word	_	3	F	3:F	_
-3	nein	_	Word	Word	_	0	root	0:root	_
+3	nein	_	Word	Word	_	0	H	0:H	_
 4	,	_	Punctuation	Punctuation	_	3	U	3:U	_
 5	lieber	_	Word	Word	_	6	E	6:E	_
 6	Junge	_	Word	Word	_	3	G	3:G	_
@@ -18,14 +18,14 @@
 15	.	_	Punctuation	Punctuation	_	3	U	3:U	_
 16	Einen	_	Word	Word	_	18	E	18:E	_
 17	solchen	_	Word	Word	_	18	E	18:E	_
-18	Vogel	_	Word	Word	_	3	orphan	3:orphan	_
+18	Vogel	_	Word	Word	_	0	C	0:C|25:A	_
 19	lebendig	_	Word	Word	_	18	D	18:D	_
 20	und	_	Word	Word	_	3	L	3:L	_
 21	mit	_	Word	Word	_	23	R	23:R	_
 22	der	_	Word	Word	_	23	E	23:E	_
 23	Hand	_	Word	Word	_	25	A	25:A	_
 24	zu	_	Word	Word	_	25	F	25:F	_
-25	fangen	_	Word	Word	_	3	orphan	3:orphan	_
+25	fangen	_	Word	Word	_	0	P	0:P|18:P	_
 26	!	_	Punctuation	Punctuation	_	18	U	18:U	_
 27	«	_	Punctuation	Punctuation	_	18	U	18:U	_
 

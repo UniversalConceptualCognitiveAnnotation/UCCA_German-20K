@@ -2,7 +2,7 @@
 # sent_id = 25673003
 # text = » Jawohl , denn die armen Fischer können ' s nicht lange unter Wasser aushalten . Der Engländer Parceval spricht zwar von einem Kaffer , der 5 Minuten lang unter Wasser bleiben konnte , aber es scheint mir dies nicht sehr glaubhaft . Ich weiß , dass manche Taucher es bis auf 57 Sekunden und sehr geschickte bis 87 bringen ; doch sind solche selten , und wenn die armen Kerle wieder an Bord kommen , strömt ihnen Wasser mit Blut vermischt aus Nase und Ohren . Ich glaube , dass die Durchschnitts zeit , die diese Fischer es aushalten können , nur 30 Sekunden beträgt , währenddessen sie in aller Eile mit einem kleinen Netz alle Perl muscheln , deren sie habhaft werden können , zusammenraffen ; aber im allgemeinen werden diese Fischer nicht alt ; sie bekommen schwache Seh kraft , es bilden sich Geschwüre an ihren Augen und zeigen sich Wunden über dem ganzen Körper ; und oft auch werden sie auf dem Meeres grund vom Schlag getroffen . «
 1	»	_	Punctuation	Punctuation	_	2	U	2:U	_
-2	Jawohl	_	Word	Word	_	0	root	0:root	_
+2	Jawohl	_	Word	Word	_	0	H	0:H	_
 3	,	_	Punctuation	Punctuation	_	2	U	2:U	_
 4	denn	_	Word	Word	_	2	L	2:L	_
 5	die	_	Word	Word	_	7	E	7:E	_
@@ -49,7 +49,7 @@
 46	,	_	Punctuation	Punctuation	_	45	U	45:U	_
 47	dass	_	Word	Word	_	49	L	49:L	_
 48	manche	_	Word	Word	_	49	E	49:E	_
-49	Taucher	_	Word	Word	_	2	orphan	2:orphan	_
+49	Taucher	_	Word	Word	_	0	C	0:C|65:A|60:A|57:A	_
 50	es	_	Word	Word	_	49	F	49:F	_
 51	bis	_	Word	Word	_	53	R	53:R	_
 52	auf	_	Word	Word	_	51	Terminal	51:Terminal	_
@@ -60,7 +60,7 @@
 57	geschickte	_	Word	Word	_	49	H	49:H	_
 58	bis	_	Word	Word	_	60	A	60:A	_
 59	87	_	Word	Word	_	58	Terminal	58:Terminal	_
-60	bringen	_	Word	Word	_	2	orphan	2:orphan	_
+60	bringen	_	Word	Word	_	0	P	0:P|49:P	_
 61	;	_	Punctuation	Punctuation	_	2	U	2:U	_
 62	doch	_	Word	Word	_	2	L	2:L	_
 63	sind	_	Word	Word	_	65	F	65:F	_

@@ -2,13 +2,13 @@
 # sent_id = 25634002
 # text = Ich dachte , dieser treue , gefällige Trabant werde übermorgen wieder an dieser Stelle erscheinen , um die Wogen zu heben und damit die " Nautilus " von ihrem Korallen lager los zu machen .
 1	Ich	_	Word	Word	_	2	A	2:A	_
-2	dachte	_	Word	Word	_	0	root	0:root	_
+2	dachte	_	Word	Word	_	0	H	0:H	_
 3	,	_	Punctuation	Punctuation	_	2	U	2:U	_
 4	dieser	_	Word	Word	_	8	E	8:E	_
 5	treue	_	Word	Word	_	8	E	8:E	_
 6	,	_	Punctuation	Punctuation	_	8	U	8:U	_
 7	gefällige	_	Word	Word	_	8	E	8:E	_
-8	Trabant	_	Word	Word	_	2	orphan	2:orphan	_
+8	Trabant	_	Word	Word	_	0	C	0:C|21:A|32:A	_
 9	werde	_	Word	Word	_	15	F	15:F	_
 10	übermorgen	_	Word	Word	_	15	T	15:T	_
 11	wieder	_	Word	Word	_	15	D	15:D	_

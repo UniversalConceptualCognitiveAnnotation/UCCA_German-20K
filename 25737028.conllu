@@ -2,7 +2,7 @@
 # sent_id = 25737028
 # text = Es waren Rochen von riesenhafter Größe , 5 Meter lang und von ungeheurer Muskelkraft , so dass sie sich über die Oberfläche des Wassers emporschnellen konnten ; verschiedene Arten Haifische , unter anderen ein blaugrüner , 15 Fuß langer , der wegen seiner Durchsichtigkeit mitten im Wasser fast unsichtbar war , braune Speerhaie , Störe gleich denen im Mittelmeer , Seepferde , Trompetenfische , 1 1 / 2 Fuß lang , gelbbraune , mit kleinen grauen Flossen , ohne Zähne noch Zunge .
 1	Es	_	Word	Word	_	2	F	2:F	_
-2	waren	_	Word	Word	_	0	root	0:root	_
+2	waren	_	Word	Word	_	0	H	0:H	_
 3	Rochen	_	Word	Word	_	2	A	2:A	_
 4	von	_	Word	Word	_	6	R	6:R	_
 5	riesenhafter	_	Word	Word	_	6	D	6:D	_
@@ -67,7 +67,7 @@
 64	,	_	Punctuation	Punctuation	_	70	U	70:U	_
 65	1	_	Word	Word	_	69	E	69:E	_
 66	1	_	Word	Word	_	65	Terminal	65:Terminal	_
-67	/	_	Punctuation	Punctuation	_	69	U	69:U	_
+67	/	_	Punctuation	Punctuation	_	65	U	65:U	_
 68	2	_	Word	Word	_	65	Terminal	65:Terminal	_
 69	Fuß	_	Word	Word	_	70	E	70:E	_
 70	lang	_	Word	Word	_	2	A	2:A	_

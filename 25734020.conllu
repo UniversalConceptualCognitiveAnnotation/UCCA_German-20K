@@ -2,7 +2,7 @@
 # sent_id = 25734020
 # text = Man bekam da malerische Ruinen zu Gesicht , welche die Hand des Menschen erkennen ließen : ungeheure Haufen von Steintrümmern , woran man unklare Formen von Schlössern und Tempeln unterscheiden konnte , die mit einer Welt von Zoophyten in Blüte und mit einer dicken Hülle von Tang und Algen gleich Efeu überdeckt waren .
 1	Man	_	Word	Word	_	2	A	2:A	_
-2	bekam	_	Word	Word	_	0	root	0:root	_
+2	bekam	_	Word	Word	_	0	H	0:H	_
 3	da	_	Word	Word	_	2	A	2:A	_
 4	malerische	_	Word	Word	_	5	E	5:E	_
 5	Ruinen	_	Word	Word	_	2	A	2:A	_
@@ -52,7 +52,7 @@
 49	Algen	_	Word	Word	_	47	C	47:C	_
 50	gleich	_	Word	Word	_	51	R	51:R	_
 51	Efeu	_	Word	Word	_	25	E	25:E	_
-52	überdeckt	_	Word	Word	_	2	orphan	2:orphan	_
+52	überdeckt	_	Word	Word	_	0	S	0:S|51:S	_
 53	waren	_	Word	Word	_	52	F	52:F	_
 54	.	_	Punctuation	Punctuation	_	52	U	52:U	_
 

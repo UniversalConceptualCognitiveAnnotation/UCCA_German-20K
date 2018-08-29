@@ -2,7 +2,7 @@
 # sent_id = 25723006
 # text = Ich fragte mich weiter , wie Kapitän Nemo unser Entweichen aufnehmen ; welche Unruhe , vielleicht Kränkungen es ihm bereiten würde ; was er wohl tun würde , wenn der Plan ihm enthüllt oder vereitelt würde .
 1	Ich	_	Word	Word	_	2	A	2:A	_
-2	fragte	_	Word	Word	_	0	root	0:root	_
+2	fragte	_	Word	Word	_	0	H	0:H	_
 3	mich	_	Word	Word	_	2	Terminal	2:Terminal	_
 4	weiter	_	Word	Word	_	2	D	2:D	_
 5	,	_	Punctuation	Punctuation	_	2	U	2:U	_
@@ -31,7 +31,7 @@
 28	,	_	Punctuation	Punctuation	_	2	U	2:U	_
 29	wenn	_	Word	Word	_	2	L	2:L	_
 30	der	_	Word	Word	_	31	E	31:E	_
-31	Plan	_	Word	Word	_	2	orphan	2:orphan	_
+31	Plan	_	Word	Word	_	0	C	0:C|35:A	_
 32	ihm	_	Word	Word	_	33	A	33:A	_
 33	enthüllt	_	Word	Word	_	2	H	2:H	_
 34	oder	_	Word	Word	_	2	L	2:L	_

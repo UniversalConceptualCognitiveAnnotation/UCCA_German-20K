@@ -2,7 +2,7 @@
 # sent_id = 25706007
 # text = Vor Ungeduld , den Tunnel von Kapitän Nemo zu durchfahren , hielt ich ' s innen nicht aus und suchte die frische Nacht luft zu atmen .
 1	Vor	_	Word	Word	_	2	R	2:R	_
-2	Ungeduld	_	Word	Word	_	0	root	0:root	_
+2	Ungeduld	_	Word	Word	_	0	H	0:H	_
 3	,	_	Punctuation	Punctuation	_	2	U	2:U	_
 4	den	_	Word	Word	_	5	E	5:E	_
 5	Tunnel	_	Word	Word	_	10	A	10:A	_
@@ -24,7 +24,7 @@
 21	die	_	Word	Word	_	24	E	24:E	_
 22	frische	_	Word	Word	_	24	E	24:E	_
 23	Nacht	_	Word	Word	_	24	E	24:E	_
-24	luft	_	Word	Word	_	2	orphan	2:orphan	_
+24	luft	_	Word	Word	_	0	C	0:C|26:A	_
 25	zu	_	Word	Word	_	26	F	26:F	_
 26	atmen	_	Word	Word	_	2	H	2:H	_
 27	.	_	Punctuation	Punctuation	_	26	U	26:U	_

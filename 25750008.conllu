@@ -2,7 +2,7 @@
 # sent_id = 25750008
 # text = Es waren entweder Seehäher oder Meerweihe mit leuchtendem Maul , die bei der Nacht feurige Streifen durch die Luft zogen , dann gleich Sternschnuppen in das dunkle Wasser fielen .
 1	Es	_	Word	Word	_	2	F	2:F	_
-2	waren	_	Word	Word	_	0	root	0:root	_
+2	waren	_	Word	Word	_	0	H	0:H	_
 3	entweder	_	Word	Word	_	2	L	2:L	_
 4	Seehäher	_	Word	Word	_	2	A	2:A	_
 5	oder	_	Word	Word	_	2	L	2:L	_
@@ -29,6 +29,6 @@
 26	das	_	Word	Word	_	28	E	28:E	_
 27	dunkle	_	Word	Word	_	28	E	28:E	_
 28	Wasser	_	Word	Word	_	29	A	29:A	_
-29	fielen	_	Word	Word	_	2	orphan	2:orphan	_
+29	fielen	_	Word	Word	_	0	P	0:P|24:P	_
 30	.	_	Punctuation	Punctuation	_	24	U	24:U	_
 

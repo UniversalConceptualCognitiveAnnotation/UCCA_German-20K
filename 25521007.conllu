@@ -2,7 +2,7 @@
 # sent_id = 25521007
 # text = Darauf traten in der Übergangs epoche die Berg spitzen hervor , die Inseln tauchten auf , verschwanden wieder bei teilweisen Überschwemmungen , zeigten sich von neuem , setzten sich aneinander an , bildeten Kontinente , und endlich gewannen die Länder die feste Gestalt , wie wir sie jetzt geographisch kennen .
 1	Darauf	_	Word	Word	_	2	L	2:L	_
-2	traten	_	Word	Word	_	0	root	0:root	_
+2	traten	_	Word	Word	_	0	H	0:H	_
 3	in	_	Word	Word	_	6	R	6:R	_
 4	der	_	Word	Word	_	6	E	6:E	_
 5	Übergangs	_	Word	Word	_	6	E	6:E	_
@@ -13,7 +13,7 @@
 10	hervor	_	Word	Word	_	2	Terminal	2:Terminal	_
 11	,	_	Punctuation	Punctuation	_	2	U	2:U	_
 12	die	_	Word	Word	_	13	E	13:E	_
-13	Inseln	_	Word	Word	_	2	orphan	2:orphan	_
+13	Inseln	_	Word	Word	_	0	C	0:C|28:A|17:A|23:A|33:A	_
 14	tauchten	_	Word	Word	_	2	H	2:H	_
 15	auf	_	Word	Word	_	14	Terminal	14:Terminal	_
 16	,	_	Punctuation	Punctuation	_	2	U	2:U	_

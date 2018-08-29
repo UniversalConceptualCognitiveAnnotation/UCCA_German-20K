@@ -2,10 +2,10 @@
 # sent_id = 25724003
 # text = Dieser Tag schien kein Ende nehmen zu wollen .
 1	Dieser	_	Word	Word	_	2	E	2:E	_
-2	Tag	_	Word	Word	_	0	root	0:root	_
+2	Tag	_	Word	Word	_	0	C	0:C|3:A	_
 3	schien	_	Word	Word	_	5	H	5:H	_
 4	kein	_	Word	Word	_	5	D	5:D	_
-5	Ende	_	Word	Word	_	2	orphan	2:orphan	_
+5	Ende	_	Word	Word	_	0	H	0:H	_
 6	nehmen	_	Word	Word	_	5	Terminal	5:Terminal	_
 7	zu	_	Word	Word	_	5	F	5:F	_
 8	wollen	_	Word	Word	_	5	D	5:D	_

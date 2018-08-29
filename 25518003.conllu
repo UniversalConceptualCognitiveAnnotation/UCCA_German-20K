@@ -2,7 +2,7 @@
 # sent_id = 25518003
 # text = » Jawohl . Das beim Anstoßen zerbrechliche Kristall glas enthält doch eine beträchtliche Widerstandsfähigkeit . Bei den im Jahr 1864 angestellten Experimenten mit Fischerei bei elektrischem Licht hat man gesehen , wie Stücke Glas , die nur 7 Millimeter dick waren , einem Druck von 16 Atmosphären widerstanden und dabei noch wirksame Wärme strahlen durchließen , die in ungleicher Weise die Wärme zuerteilten . Nun sind die Gläser , die ich gebrauche , 30mal so dick , denn sie sind im Zentrum mindestens 21 Zentimeter stark . «
 1	»	_	Punctuation	Punctuation	_	2	U	2:U	_
-2	Jawohl	_	Word	Word	_	0	root	0:root	_
+2	Jawohl	_	Word	Word	_	0	H	0:H	_
 3	.	_	Punctuation	Punctuation	_	2	U	2:U	_
 4	Das	_	Word	Word	_	9	E	9:E	_
 5	beim	_	Word	Word	_	6	R	6:R	_
@@ -33,7 +33,7 @@
 30	gesehen	_	Word	Word	_	2	H	2:H	_
 31	,	_	Punctuation	Punctuation	_	30	U	30:U	_
 32	wie	_	Word	Word	_	48	L	48:L	_
-33	Stücke	_	Word	Word	_	2	orphan	2:orphan	_
+33	Stücke	_	Word	Word	_	0	C	0:C|55:A|40:A	_
 34	Glas	_	Word	Word	_	33	E	33:E	_
 35	,	_	Punctuation	Punctuation	_	33	U	33:U	_
 36	die	_	Word	Word	_	40	R	40:R	_

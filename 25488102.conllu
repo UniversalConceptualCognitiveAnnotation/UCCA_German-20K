@@ -2,7 +2,7 @@
 # sent_id = 25488102
 # text = Ich klimmte rasch nach oben auf das Geschöpf oder den Gegenstand , der halb unterm Wasser uns als Zuflucht diente .
 1	Ich	_	Word	Word	_	2	A	2:A	_
-2	klimmte	_	Word	Word	_	0	root	0:root	_
+2	klimmte	_	Word	Word	_	0	H	0:H	_
 3	rasch	_	Word	Word	_	2	D	2:D	_
 4	nach	_	Word	Word	_	5	R	5:R	_
 5	oben	_	Word	Word	_	2	A	2:A	_
@@ -11,7 +11,7 @@
 8	Geschöpf	_	Word	Word	_	2	A	2:A	_
 9	oder	_	Word	Word	_	8	N	8:N	_
 10	den	_	Word	Word	_	11	R	11:R	_
-11	Gegenstand	_	Word	Word	_	2	orphan	2:orphan	_
+11	Gegenstand	_	Word	Word	_	0	C	0:C|20:A	_
 12	,	_	Punctuation	Punctuation	_	20	U	20:U	_
 13	der	_	Word	Word	_	20	R	20:R	_
 14	halb	_	Word	Word	_	20	D	20:D	_

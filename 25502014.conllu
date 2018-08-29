@@ -2,7 +2,7 @@
 # sent_id = 25502014
 # text = » 12.000 , Herr Arronax . Diese einzigen Bande fesseln mich noch an die Erde . Aber seit dem Tag , wo meine ›Nautilus‹ zum erstenmal unter die Gewässer tauchte , existiert die Welt für mich nicht mehr . An jenem Tag habe ich meine letzten Bücher , meine letzten Broschüren und Zeitschriften gekauft , und seitdem lebe ich in dem Gedanken , dass die Menschheit nichts weiter gedacht und geschrieben hat . Diese Bücher , Herr Professor , stehen übrigens zu Ihrer Verfügung , um nach Belieben davon Gebrauch zu machen . «
 1	»	_	Punctuation	Punctuation	_	2	U	2:U	_
-2	12.000	_	Word	Word	_	0	root	0:root	_
+2	12.000	_	Word	Word	_	0	H	0:H	_
 3	,	_	Punctuation	Punctuation	_	2	U	2:U	_
 4	Herr	_	Word	Word	_	5	E	5:E	_
 5	Arronax	_	Word	Word	_	2	G	2:G	_
@@ -78,7 +78,7 @@
 75	Bücher	_	Word	Word	_	80	A	80:A	_
 76	,	_	Punctuation	Punctuation	_	80	U	80:U	_
 77	Herr	_	Word	Word	_	78	E	78:E	_
-78	Professor	_	Word	Word	_	2	orphan	2:orphan	_
+78	Professor	_	Word	Word	_	0	C	0:C|90:A	_
 79	,	_	Punctuation	Punctuation	_	2	U	2:U	_
 80	stehen	_	Word	Word	_	2	H	2:H	_
 81	übrigens	_	Word	Word	_	80	G	80:G	_

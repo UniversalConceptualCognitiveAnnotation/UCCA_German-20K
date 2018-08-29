@@ -2,10 +2,10 @@
 # sent_id = 25764012
 # text = Nach Hansten liegt dieser Pol in Wirklichkeit fast unter 70 ° Breite und 130 ° Länge und nach den Beobachtungen Duperreys unter 135 ° Länge und 70 ° 30 ? Breite .
 1	Nach	_	Word	Word	_	2	R	2:R	_
-2	Hansten	_	Word	Word	_	0	root	0:root	_
+2	Hansten	_	Word	Word	_	0	H	0:H	_
 3	liegt	_	Word	Word	_	2	H	2:H	_
 4	dieser	_	Word	Word	_	5	E	5:E	_
-5	Pol	_	Word	Word	_	2	orphan	2:orphan	_
+5	Pol	_	Word	Word	_	0	C	0:C|25:A	_
 6	in	_	Word	Word	_	7	R	7:R	_
 7	Wirklichkeit	_	Word	Word	_	3	D	3:D	_
 8	fast	_	Word	Word	_	3	D	3:D	_
@@ -28,7 +28,7 @@
 25	Länge	_	Word	Word	_	2	H	2:H	_
 26	und	_	Word	Word	_	25	N	25:N	_
 27	70	_	Word	Word	_	31	E	31:E	_
-28	°	_	Punctuation	Punctuation	_	31	U	31:U	_
+28	°	_	Punctuation	Punctuation	_	27	U	27:U	_
 29	30	_	Word	Word	_	27	Terminal	27:Terminal	_
 30	?	_	Punctuation	Punctuation	_	31	U	31:U	_
 31	Breite	_	Word	Word	_	25	C	25:C	_

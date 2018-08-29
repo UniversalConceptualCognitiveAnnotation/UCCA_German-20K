@@ -2,7 +2,7 @@
 # sent_id = 25446000
 # text = » Doch , Ned , Sie , ein Walfisch fänger von Profession , der mit den großen See säugetieren vertraut ist , dessen Einbildungskraft leicht die Hypothese von enormen See tieren gelten lassen kann , Sie sollten der Letzte sein , der in solche Dinge Zweifel setzt !
 1	»	_	Punctuation	Punctuation	_	2	U	2:U	_
-2	Doch	_	Word	Word	_	0	root	0:root	_
+2	Doch	_	Word	Word	_	0	H	0:H	_
 3	,	_	Punctuation	Punctuation	_	2	U	2:U	_
 4	Ned	_	Word	Word	_	2	G	2:G	_
 5	,	_	Punctuation	Punctuation	_	2	U	2:U	_
@@ -10,7 +10,7 @@
 7	,	_	Punctuation	Punctuation	_	6	U	6:U	_
 8	ein	_	Word	Word	_	10	E	10:E	_
 9	Walfisch	_	Word	Word	_	10	E	10:E	_
-10	fänger	_	Word	Word	_	2	orphan	2:orphan	_
+10	fänger	_	Word	Word	_	0	C	0:C|32:A|20:A	_
 11	von	_	Word	Word	_	12	R	12:R	_
 12	Profession	_	Word	Word	_	10	A	10:A	_
 13	,	_	Punctuation	Punctuation	_	6	U	6:U	_

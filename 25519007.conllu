@@ -2,7 +2,7 @@
 # sent_id = 25519007
 # text = » Ich habe jedes ihrer einzelnen Stücke , Herr Arronax , von einem anderen Ort her und unter falscher Angabe seiner Bestimmung bezogen . Sein Kiel wurde zu Creuzot geschmiedet , die Welle seiner Schraube von Pen & Cie . in London , die Platten für den Rumpf bei Leard zu Liverpool , die Schraube bei Scott in Glasgow . Seine Behälter wurden von Cail & Cie . zu Paris gefertigt , seine Maschine von Krupp in Preußen , sein Schnabel zu Motala in Schweden , seine Instrumente bei Gebrüder Hart in New York usw . Und jeder der Lieferanten bekam meine Pläne unter anderem Namen . «
 1	»	_	Punctuation	Punctuation	_	2	U	2:U	_
-2	Ich	_	Word	Word	_	0	root	0:root	_
+2	Ich	_	Word	Word	_	0	H	0:H	_
 3	habe	_	Word	Word	_	2	F	2:F	_
 4	jedes	_	Word	Word	_	7	E	7:E	_
 5	ihrer	_	Word	Word	_	7	R	7:R	_
@@ -23,7 +23,7 @@
 20	Angabe	_	Word	Word	_	23	A	23:A	_
 21	seiner	_	Word	Word	_	20	R	20:R	_
 22	Bestimmung	_	Word	Word	_	20	E	20:E	_
-23	bezogen	_	Word	Word	_	2	orphan	2:orphan	_
+23	bezogen	_	Word	Word	_	0	P	0:P|2:P	_
 24	.	_	Punctuation	Punctuation	_	2	U	2:U	_
 25	Sein	_	Word	Word	_	26	E	26:E	_
 26	Kiel	_	Word	Word	_	30	A	30:A	_

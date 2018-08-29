@@ -1,11 +1,11 @@
 # format = ucca
 # sent_id = 25839017
 # text = Ned Land und Conseil vermieden mit mir zu reden , aus Furcht sich zu verraten .
-1	Ned	_	Word	Word	_	5	A	5:A|9:A|13:A	_
+1	Ned	_	Word	Word	_	5	A	5:A|13:A|9:A	_
 2	Land	_	Word	Word	_	1	Terminal	1:Terminal	_
 3	und	_	Word	Word	_	1	N	1:N	_
 4	Conseil	_	Word	Word	_	1	C	1:C	_
-5	vermieden	_	Word	Word	_	0	root	0:root	_
+5	vermieden	_	Word	Word	_	0	H	0:H	_
 6	mit	_	Word	Word	_	7	R	7:R	_
 7	mir	_	Word	Word	_	9	A	9:A	_
 8	zu	_	Word	Word	_	9	F	9:F	_

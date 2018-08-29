@@ -2,10 +2,10 @@
 # sent_id = 25498001
 # text = Ich dachte , der Kommandant werde mir die Hand reichen , um unseren Vertrag zu besiegeln .
 1	Ich	_	Word	Word	_	2	A	2:A	_
-2	dachte	_	Word	Word	_	0	root	0:root	_
+2	dachte	_	Word	Word	_	0	H	0:H	_
 3	,	_	Punctuation	Punctuation	_	2	U	2:U	_
 4	der	_	Word	Word	_	5	E	5:E	_
-5	Kommandant	_	Word	Word	_	2	orphan	2:orphan	_
+5	Kommandant	_	Word	Word	_	0	C	0:C|16:A	_
 6	werde	_	Word	Word	_	10	F	10:F	_
 7	mir	_	Word	Word	_	10	A	10:A	_
 8	die	_	Word	Word	_	9	E	9:E	_

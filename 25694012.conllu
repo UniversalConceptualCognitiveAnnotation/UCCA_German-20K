@@ -2,7 +2,7 @@
 # sent_id = 25694012
 # text = Dann bleiben nur diese horn- oder gallertartigen Gewebe , woraus der Haus schwamm besteht , der eine rötliche Farbe bekommt und nach dem verschiedenen Grad seiner Elastizität , Durchdringlichkeit oder Sprödigkeit bei m Einweichen zu verschiedenem Gebrauch verwendet wird .
 1	Dann	_	Word	Word	_	2	L	2:L	_
-2	bleiben	_	Word	Word	_	0	root	0:root	_
+2	bleiben	_	Word	Word	_	0	H	0:H	_
 3	nur	_	Word	Word	_	2	D	2:D	_
 4	diese	_	Word	Word	_	8	E	8:E	_
 5	horn-	_	Word	Word	_	8	E	8:E	_
@@ -13,7 +13,7 @@
 10	woraus	_	Word	Word	_	14	R	14:R	_
 11	der	_	Word	Word	_	13	E	13:E	_
 12	Haus	_	Word	Word	_	13	E	13:E	_
-13	schwamm	_	Word	Word	_	2	orphan	2:orphan	_
+13	schwamm	_	Word	Word	_	0	C	0:C|38:A|20:A	_
 14	besteht	_	Word	Word	_	8	E	8:E	_
 15	,	_	Punctuation	Punctuation	_	14	U	14:U	_
 16	der	_	Word	Word	_	20	R	20:R	_

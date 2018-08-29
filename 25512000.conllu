@@ -2,7 +2,7 @@
 # sent_id = 25512000
 # text = » Keineswegs . Dieses Boot ist am oberen Teil des Schiffs rumpfs in einer dafür hergerichteten Aushöhlung befestigt . Es ist ganz mit Verdeck versehen , durchaus wasserdicht und mit soliden Bolzen gefügt . Diese Leiter nun führt zu einer im Rumpf der ›Nautilus‹ angebrachten Öffnung , die mit einer gleichen in der Seite des Boots in Verbindung steht , so dass ich durch diese doppelte Öffnung in das Fahrzeug gelange . Dann schließt man wieder die der ›Nautilus‹ , und ich schließe hinter mir die des Boots vermittels Stell schrauben . Ich mache die Zapfen los , und das Fahrzeug steigt reißend schnell zur Meeres oberfläche auf . Dann öffne ich einen bisher sorgfältig verschlossenen Luken deckel des Verdecks , richte einen Mast auf , hisse mein Segel oder nehme meine Ruder zur Hand und fahre spazieren . «
 1	»	_	Punctuation	Punctuation	_	2	U	2:U	_
-2	Keineswegs	_	Word	Word	_	0	root	0:root	_
+2	Keineswegs	_	Word	Word	_	0	H	0:H	_
 3	.	_	Punctuation	Punctuation	_	2	U	2:U	_
 4	Dieses	_	Word	Word	_	5	E	5:E	_
 5	Boot	_	Word	Word	_	18	A	18:A	_
@@ -46,7 +46,7 @@
 43	der	_	Word	Word	_	44	R	44:R	_
 44	›Nautilus‹	_	Word	Word	_	42	E	42:E	_
 45	angebrachten	_	Word	Word	_	46	E	46:E	_
-46	Öffnung	_	Word	Word	_	2	orphan	2:orphan	_
+46	Öffnung	_	Word	Word	_	0	C	0:C|45:A|57:A|50:C	_
 47	,	_	Punctuation	Punctuation	_	57	U	57:U	_
 48	die	_	Word	Word	_	57	R	57:R	_
 49	mit	_	Word	Word	_	50	R	50:R	_
@@ -67,7 +67,7 @@
 64	durch	_	Word	Word	_	67	R	67:R	_
 65	diese	_	Word	Word	_	67	E	67:E	_
 66	doppelte	_	Word	Word	_	67	E	67:E	_
-67	Öffnung	_	Word	Word	_	2	orphan	2:orphan	_
+67	Öffnung	_	Word	Word	_	0	C	0:C|77:C|86:C	_
 68	in	_	Word	Word	_	70	R	70:R	_
 69	das	_	Word	Word	_	70	E	70:E	_
 70	Fahrzeug	_	Word	Word	_	71	A	71:A	_

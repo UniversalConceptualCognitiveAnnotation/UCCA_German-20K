@@ -3,7 +3,7 @@
 # text = Der Kapitän teilte mir mit , diese Striche seien ehemals von zahlreichen Robben bewohnt gewesen , aber die englischen und amerikanischen Walfischjäger hätten in Zerstörungswut durch Vernichtung der Erwachsenen samt den trächtigen Weibchen Todesstille an der Stelle regen Lebens verbreitet .
 1	Der	_	Word	Word	_	2	E	2:E	_
 2	Kapitän	_	Word	Word	_	3	A	3:A	_
-3	teilte	_	Word	Word	_	0	root	0:root	_
+3	teilte	_	Word	Word	_	0	H	0:H	_
 4	mir	_	Word	Word	_	3	A	3:A	_
 5	mit	_	Word	Word	_	3	Terminal	3:Terminal	_
 6	,	_	Punctuation	Punctuation	_	3	U	3:U	_
@@ -22,7 +22,7 @@
 19	englischen	_	Word	Word	_	22	E	22:E	_
 20	und	_	Word	Word	_	19	N	19:N	_
 21	amerikanischen	_	Word	Word	_	19	C	19:C	_
-22	Walfischjäger	_	Word	Word	_	3	orphan	3:orphan	_
+22	Walfischjäger	_	Word	Word	_	0	C	0:C|25:A	_
 23	hätten	_	Word	Word	_	40	F	40:F	_
 24	in	_	Word	Word	_	25	R	25:R	_
 25	Zerstörungswut	_	Word	Word	_	14	H	14:H	_

@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 25785010
 # text = Unbeschreiblich war die Wirkung der voltaischen Strahlen auf die großen launenhaft gestalteten Eis blöcke mit ihren verschiedenen Winkeln , Spitzen , kleinen Flächen , die jede nach Beschaffenheit ihrer Adern ein verschiedenes Licht zurückwarfen , eine unerschöpfliche Mine von Edelgestein , besonders von Saphir , der seine blauen Strahlen mit den grünen des Smaragds durchkreuzte .
-1	Unbeschreiblich	_	Word	Word	_	0	root	0:root	_
+1	Unbeschreiblich	_	Word	Word	_	0	H	0:H	_
 2	war	_	Word	Word	_	1	F	1:F	_
 3	die	_	Word	Word	_	4	E	4:E	_
 4	Wirkung	_	Word	Word	_	1	A	1:A	_
@@ -23,7 +23,7 @@
 20	Spitzen	_	Word	Word	_	18	C	18:C	_
 21	,	_	Punctuation	Punctuation	_	18	U	18:U	_
 22	kleinen	_	Word	Word	_	23	E	23:E	_
-23	Flächen	_	Word	Word	_	1	orphan	1:orphan	_
+23	Flächen	_	Word	Word	_	0	C	0:C|34:A	_
 24	,	_	Punctuation	Punctuation	_	34	U	34:U	_
 25	die	_	Word	Word	_	34	R	34:R	_
 26	jede	_	Word	Word	_	34	A	34:A	_

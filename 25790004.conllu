@@ -2,7 +2,7 @@
 # sent_id = 25790004
 # text = Meine Bewegungen , obwohl unter einem Druck von 30 Atmosphären , waren sehr frei .
 1	Meine	_	Word	Word	_	2	E	2:E	_
-2	Bewegungen	_	Word	Word	_	0	root	0:root	_
+2	Bewegungen	_	Word	Word	_	0	C	0:C|7:A	_
 3	,	_	Punctuation	Punctuation	_	14	U	14:U	_
 4	obwohl	_	Word	Word	_	14	L	14:L	_
 5	unter	_	Word	Word	_	7	R	7:R	_
@@ -14,6 +14,6 @@
 11	,	_	Punctuation	Punctuation	_	14	U	14:U	_
 12	waren	_	Word	Word	_	14	F	14:F	_
 13	sehr	_	Word	Word	_	14	D	14:D	_
-14	frei	_	Word	Word	_	2	orphan	2:orphan	_
+14	frei	_	Word	Word	_	0	H	0:H	_
 15	.	_	Punctuation	Punctuation	_	14	U	14:U	_
 

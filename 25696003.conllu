@@ -2,7 +2,7 @@
 # sent_id = 25696003
 # text = » Jawohl , Herr Arronax . Die griechischen und lateinischen Geschichtsschreiber reden nicht günstig von ihm . Der arabische Historiker Edrisi , der es unter der Benennung Golf von Colzun schildert , berichtet , es gingen zahlreiche Schiffe auf seinen Sand bänken zugrunde , und niemand wage bei Nacht darauf zu fahren . Dies Meer ist , behauptet er , von schrecklichen Stürmen heimgesucht , mit ungastlichen Inseln bedeckt und hat nichts Gutes an sich , weder in der Tiefe noch an der Oberfläche . Und wirklich , so wird es von Arrian , Agatharchides und Artemidorus geschildert . «
 1	»	_	Punctuation	Punctuation	_	2	U	2:U	_
-2	Jawohl	_	Word	Word	_	0	root	0:root	_
+2	Jawohl	_	Word	Word	_	0	H	0:H	_
 3	,	_	Punctuation	Punctuation	_	2	U	2:U	_
 4	Herr	_	Word	Word	_	5	E	5:E	_
 5	Arronax	_	Word	Word	_	2	G	2:G	_
@@ -55,7 +55,7 @@
 52	fahren	_	Word	Word	_	36	H	36:H	_
 53	.	_	Punctuation	Punctuation	_	2	U	2:U	_
 54	Dies	_	Word	Word	_	55	E	55:E	_
-55	Meer	_	Word	Word	_	2	orphan	2:orphan	_
+55	Meer	_	Word	Word	_	0	C	0:C|69:A|71:A	_
 56	ist	_	Word	Word	_	64	F	64:F	_
 57	,	_	Punctuation	Punctuation	_	58	U	58:U	_
 58	behauptet	_	Word	Word	_	2	H	2:H	_

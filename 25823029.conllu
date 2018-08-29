@@ -2,7 +2,7 @@
 # sent_id = 25823029
 # text = Daher bot auch der Meeres grund hier den Anblick eines Schlachtfelds , wo von Trümmern bedeckt die vom Ozean geforderten Opfer lagen , mit Schiff und Geräte ; Fahrzeuge aller Art , die mit Mann und Maus untergegangen , mit den Massen von Auswanderern an den gefährlichen Stellen wie Kap Race , Insel St . Paul , Straße Belle-Isle , Mündung des St . Lorenz !
 1	Daher	_	Word	Word	_	2	L	2:L	_
-2	bot	_	Word	Word	_	0	root	0:root	_
+2	bot	_	Word	Word	_	0	H	0:H	_
 3	auch	_	Word	Word	_	2	D	2:D	_
 4	der	_	Word	Word	_	6	E	6:E	_
 5	Meeres	_	Word	Word	_	6	E	6:E	_
@@ -38,7 +38,7 @@
 35	Mann	_	Word	Word	_	38	A	38:A	_
 36	und	_	Word	Word	_	35	N	35:N	_
 37	Maus	_	Word	Word	_	35	C	35:C	_
-38	untergegangen	_	Word	Word	_	2	orphan	2:orphan	_
+38	untergegangen	_	Word	Word	_	0	P	0:P|44:P	_
 39	,	_	Punctuation	Punctuation	_	44	U	44:U	_
 40	mit	_	Word	Word	_	44	R	44:R	_
 41	den	_	Word	Word	_	42	E	42:E	_
@@ -55,7 +55,7 @@
 52	,	_	Punctuation	Punctuation	_	50	U	50:U	_
 53	Insel	_	Word	Word	_	50	C	50:C	_
 54	St	_	Word	Word	_	53	Terminal	53:Terminal	_
-55	.	_	Punctuation	Punctuation	_	50	U	50:U	_
+55	.	_	Punctuation	Punctuation	_	53	U	53:U	_
 56	Paul	_	Word	Word	_	53	Terminal	53:Terminal	_
 57	,	_	Punctuation	Punctuation	_	50	U	50:U	_
 58	Straße	_	Word	Word	_	50	C	50:C	_
@@ -64,7 +64,7 @@
 61	Mündung	_	Word	Word	_	50	C	50:C	_
 62	des	_	Word	Word	_	61	Terminal	61:Terminal	_
 63	St	_	Word	Word	_	61	Terminal	61:Terminal	_
-64	.	_	Punctuation	Punctuation	_	50	U	50:U	_
+64	.	_	Punctuation	Punctuation	_	61	U	61:U	_
 65	Lorenz	_	Word	Word	_	61	Terminal	61:Terminal	_
 66	!	_	Punctuation	Punctuation	_	50	U	50:U	_
 

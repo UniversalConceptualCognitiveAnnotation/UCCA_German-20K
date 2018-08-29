@@ -2,7 +2,7 @@
 # sent_id = 25678001
 # text = » Nein , mein Freund , sie geschieht vermittels 11 Sieben , die eine unterschiedliche Anzahl Löcher haben . Die Perlen , die in den Sieben mit 20 bis 80 Löchern zurückbleiben , sind ersten Ranges ; die bei 100 bis 800 nicht durchfallen , bilden die zweite Sorte ; für die dritte Sorte endlich , die Saat perlen , gebraucht man Siebe mit 900 bis 1.000 Löchern . «
 1	»	_	Punctuation	Punctuation	_	2	U	2:U	_
-2	Nein	_	Word	Word	_	0	root	0:root	_
+2	Nein	_	Word	Word	_	0	H	0:H	_
 3	,	_	Punctuation	Punctuation	_	2	U	2:U	_
 4	mein	_	Word	Word	_	5	E	5:E	_
 5	Freund	_	Word	Word	_	2	G	2:G	_
@@ -21,7 +21,7 @@
 18	haben	_	Word	Word	_	11	E	11:E	_
 19	.	_	Punctuation	Punctuation	_	2	U	2:U	_
 20	Die	_	Word	Word	_	21	E	21:E	_
-21	Perlen	_	Word	Word	_	2	orphan	2:orphan	_
+21	Perlen	_	Word	Word	_	0	C	0:C|46:A|32:A	_
 22	,	_	Punctuation	Punctuation	_	21	U	21:U	_
 23	die	_	Word	Word	_	32	R	32:R	_
 24	in	_	Word	Word	_	26	R	26:R	_

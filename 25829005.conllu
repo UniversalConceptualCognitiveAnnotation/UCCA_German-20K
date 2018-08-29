@@ -6,7 +6,7 @@
 3	11	_	Word	Word	_	1	C	1:C	_
 4	.	_	Punctuation	Punctuation	_	3	U	3:U	_
 5	Juli	_	Word	Word	_	3	Terminal	3:Terminal	_
-6	war	_	Word	Word	_	0	root	0:root	_
+6	war	_	Word	Word	_	0	H	0:H	_
 7	es	_	Word	Word	_	6	A	6:A|16:A	_
 8	mit	_	Word	Word	_	10	R	10:R	_
 9	dem	_	Word	Word	_	10	E	10:E	_
@@ -104,7 +104,7 @@
 101	.	_	Punctuation	Punctuation	_	100	U	100:U	_
 102	Prairial	_	Word	Word	_	100	Terminal	100:Terminal	_
 103	1	_	Word	Word	_	100	C	100:C	_
-104	.	_	Punctuation	Punctuation	_	100	U	100:U	_
+104	.	_	Punctuation	Punctuation	_	103	U	103:U	_
 105	Juni	_	Word	Word	_	103	Terminal	103:Terminal	_
 106	1868	_	Word	Word	_	103	Terminal	103:Terminal	_
 107	.	_	Punctuation	Punctuation	_	6	U	6:U	_
@@ -128,13 +128,13 @@
 125	Breite	_	Word	Word	_	121	Terminal	121:Terminal	_
 126	und	_	Word	Word	_	121	N	121:N	_
 127	17	_	Word	Word	_	121	C	121:C	_
-128	°	_	Punctuation	Punctuation	_	121	U	121:U	_
+128	°	_	Punctuation	Punctuation	_	127	U	127:U	_
 129	28	_	Word	Word	_	127	Terminal	127:Terminal	_
-130	?	_	Punctuation	Punctuation	_	121	U	121:U	_
+130	?	_	Punctuation	Punctuation	_	127	U	127:U	_
 131	Länge	_	Word	Word	_	127	Terminal	127:Terminal	_
 132	,	_	Punctuation	Punctuation	_	165	U	165:U	_
 133	dieses	_	Word	Word	_	134	E	134:E	_
-134	Schiff	_	Word	Word	_	6	orphan	6:orphan	_
+134	Schiff	_	Word	Word	_	0	C	0:C|169:A	_
 135	,	_	Punctuation	Punctuation	_	6	U	6:U	_
 136	als	_	Word	Word	_	6	L	6:L	_
 137	es	_	Word	Word	_	144	A	144:A	_

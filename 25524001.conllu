@@ -2,7 +2,7 @@
 # sent_id = 25524001
 # text = Darauf hefteten sich meine Blicke auf die große über den Tisch gebreitete Karte , und ich bezeichnete mit dem Finger den Punkt , wo die beobachtete Länge und Breite sich kreuzten .
 1	Darauf	_	Word	Word	_	2	L	2:L	_
-2	hefteten	_	Word	Word	_	0	root	0:root	_
+2	hefteten	_	Word	Word	_	0	H	0:H	_
 3	sich	_	Word	Word	_	2	Terminal	2:Terminal	_
 4	meine	_	Word	Word	_	5	E	5:E	_
 5	Blicke	_	Word	Word	_	2	A	2:A	_
@@ -27,7 +27,7 @@
 24	wo	_	Word	Word	_	30	R	30:R	_
 25	die	_	Word	Word	_	27	E	27:E	_
 26	beobachtete	_	Word	Word	_	27	E	27:E	_
-27	Länge	_	Word	Word	_	2	orphan	2:orphan	_
+27	Länge	_	Word	Word	_	0	C	0:C|26:A	_
 28	und	_	Word	Word	_	27	N	27:N	_
 29	Breite	_	Word	Word	_	27	C	27:C	_
 30	sich	_	Word	Word	_	22	E	22:E	_

@@ -2,7 +2,7 @@
 # sent_id = 25814008
 # text = Die Ungeheuer , überwältigt , verstümmelt , zu Tode getroffen , räumten uns endlich den Platz und verschwanden unter den Wellen .
 1	Die	_	Word	Word	_	2	E	2:E	_
-2	Ungeheuer	_	Word	Word	_	0	root	0:root	_
+2	Ungeheuer	_	Word	Word	_	0	C	0:C|18:A|4:A	_
 3	,	_	Punctuation	Punctuation	_	2	U	2:U	_
 4	überwältigt	_	Word	Word	_	2	E	2:E	_
 5	,	_	Punctuation	Punctuation	_	4	U	4:U	_
@@ -12,7 +12,7 @@
 9	Tode	_	Word	Word	_	8	Terminal	8:Terminal	_
 10	getroffen	_	Word	Word	_	8	Terminal	8:Terminal	_
 11	,	_	Punctuation	Punctuation	_	12	U	12:U	_
-12	räumten	_	Word	Word	_	2	orphan	2:orphan	_
+12	räumten	_	Word	Word	_	0	H	0:H	_
 13	uns	_	Word	Word	_	12	A	12:A	_
 14	endlich	_	Word	Word	_	12	D	12:D	_
 15	den	_	Word	Word	_	16	E	16:E	_

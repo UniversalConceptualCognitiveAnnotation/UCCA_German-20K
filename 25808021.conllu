@@ -2,7 +2,7 @@
 # sent_id = 25808021
 # text = » Nichts , meine Freunde , wenigstens nichts über die Grenzen der Wahrscheinlichkeit hinaus , um bis zur Fabel oder Legende gesteigert zu werden . Ja , doch für die Einbildungskraft der Erzähler bedarf es , wo nicht einer Ursache , doch eines Vorwandes . Unleugbar gibt 's Polypen und Kalmar von riesenhafter Größe ; doch sind sie immer nicht so groß als Walfische . Unsere Fischer sehen deren häufig , die fast 2 Meter lang sind .
 1	»	_	Punctuation	Punctuation	_	2	U	2:U	_
-2	Nichts	_	Word	Word	_	0	root	0:root	_
+2	Nichts	_	Word	Word	_	0	H	0:H	_
 3	,	_	Punctuation	Punctuation	_	2	U	2:U	_
 4	meine	_	Word	Word	_	5	E	5:E	_
 5	Freunde	_	Word	Word	_	2	G	2:G	_
@@ -49,7 +49,7 @@
 46	Unleugbar	_	Word	Word	_	47	G	47:G	_
 47	gibt	_	Word	Word	_	2	H	2:H	_
 48	's	_	Word	Word	_	47	F	47:F	_
-49	Polypen	_	Word	Word	_	2	orphan	2:orphan	_
+49	Polypen	_	Word	Word	_	0	C	0:C|76:A	_
 50	und	_	Word	Word	_	49	N	49:N	_
 51	Kalmar	_	Word	Word	_	49	C	49:C	_
 52	von	_	Word	Word	_	54	R	54:R	_

@@ -3,7 +3,7 @@
 # text = Die Paradiesvögel verloren sich , als wir in die Nähe kamen , und wahrhaftig , schon gab ich die Hoffnung auf , sie zu erreichen , als Conseil , der voranging , sich plötzlich bückte , und jubelnd zu mir zurückkam , einen prachtvollen Paradiesvogel in der Hand .
 1	Die	_	Word	Word	_	2	E	2:E	_
 2	Paradiesvögel	_	Word	Word	_	3	A	3:A	_
-3	verloren	_	Word	Word	_	0	root	0:root	_
+3	verloren	_	Word	Word	_	0	H	0:H	_
 4	sich	_	Word	Word	_	3	Terminal	3:Terminal	_
 5	,	_	Punctuation	Punctuation	_	3	U	3:U	_
 6	als	_	Word	Word	_	3	L	3:L	_
@@ -28,7 +28,7 @@
 25	erreichen	_	Word	Word	_	20	E	20:E	_
 26	,	_	Punctuation	Punctuation	_	3	U	3:U	_
 27	als	_	Word	Word	_	3	L	3:L	_
-28	Conseil	_	Word	Word	_	3	orphan	3:orphan	_
+28	Conseil	_	Word	Word	_	0	C	0:C|45:A|31:A|41:A	_
 29	,	_	Punctuation	Punctuation	_	28	U	28:U	_
 30	der	_	Word	Word	_	31	R	31:R	_
 31	voranging	_	Word	Word	_	28	E	28:E	_

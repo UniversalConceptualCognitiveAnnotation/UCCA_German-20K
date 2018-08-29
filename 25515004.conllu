@@ -3,7 +3,7 @@
 # text = Seine Länge beträgt genau 70 , seine größte Breite 8 Meter ; also letztere nicht völlig im Verhältnis von 1 zu 10 , wie die schnell segelnden Dampfer gewöhnlich gebaut sind , und die Länge ist hinreichend zugespitzt , damit das verdrängte Wasser leicht sich scheidet und dem Lauf nicht hinderlich ist .
 1	Seine	_	Word	Word	_	2	E	2:E	_
 2	Länge	_	Word	Word	_	3	A	3:A	_
-3	beträgt	_	Word	Word	_	0	root	0:root	_
+3	beträgt	_	Word	Word	_	0	H	0:H	_
 4	genau	_	Word	Word	_	3	D	3:D	_
 5	70	_	Word	Word	_	3	A	3:A	_
 6	,	_	Punctuation	Punctuation	_	3	U	3:U	_
@@ -43,7 +43,7 @@
 40	damit	_	Word	Word	_	3	L	3:L	_
 41	das	_	Word	Word	_	43	E	43:E	_
 42	verdrängte	_	Word	Word	_	43	E	43:E	_
-43	Wasser	_	Word	Word	_	3	orphan	3:orphan	_
+43	Wasser	_	Word	Word	_	0	C	0:C|42:A|51:A	_
 44	leicht	_	Word	Word	_	45	D	45:D	_
 45	sich	_	Word	Word	_	3	H	3:H	_
 46	scheidet	_	Word	Word	_	45	Terminal	45:Terminal	_

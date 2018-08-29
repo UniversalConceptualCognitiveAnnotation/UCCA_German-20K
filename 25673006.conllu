@@ -2,7 +2,7 @@
 # sent_id = 25673006
 # text = » Schwerlich , Herr Professor . Zu Panama verdienen sie nur einen Dollar die Woche . Meistens bekommen sie nur einen Sou für die Muschel mit einer Perle , und wie viele bringen Sie herauf , die keine enthalten ! «
 1	»	_	Punctuation	Punctuation	_	2	U	2:U	_
-2	Schwerlich	_	Word	Word	_	0	root	0:root	_
+2	Schwerlich	_	Word	Word	_	0	H	0:H	_
 3	,	_	Punctuation	Punctuation	_	2	U	2:U	_
 4	Herr	_	Word	Word	_	5	E	5:E	_
 5	Professor	_	Word	Word	_	2	G	2:G	_
@@ -25,10 +25,10 @@
 22	Sou	_	Word	Word	_	21	Terminal	21:Terminal	_
 23	für	_	Word	Word	_	25	R	25:R	_
 24	die	_	Word	Word	_	25	E	25:E	_
-25	Muschel	_	Word	Word	_	2	orphan	2:orphan	_
+25	Muschel	_	Word	Word	_	0	C	0:C|39:A|33:A	_
 26	mit	_	Word	Word	_	28	R	28:R	_
 27	einer	_	Word	Word	_	28	E	28:E	_
-28	Perle	_	Word	Word	_	2	orphan	2:orphan	_
+28	Perle	_	Word	Word	_	0	C	0:C|39:A	_
 29	,	_	Punctuation	Punctuation	_	2	U	2:U	_
 30	und	_	Word	Word	_	2	L	2:L	_
 31	wie	_	Word	Word	_	33	A	33:A	_
