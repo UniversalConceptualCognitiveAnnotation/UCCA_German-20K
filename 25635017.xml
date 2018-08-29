@@ -38,9 +38,6 @@
       <edge toID="1.7" type="D">
         <attributes />
       </edge>
-      <edge toID="1.8" type="U">
-        <attributes />
-      </edge>
       <edge toID="1.9" type="U">
         <attributes />
       </edge>
@@ -51,6 +48,9 @@
     <node ID="1.7" type="FN">
       <attributes />
       <edge toID="0.2" type="Terminal">
+        <attributes />
+      </edge>
+      <edge toID="1.8" type="U">
         <attributes />
       </edge>
     </node>

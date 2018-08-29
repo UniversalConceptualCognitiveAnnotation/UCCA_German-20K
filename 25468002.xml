@@ -51,12 +51,6 @@
       <edge toID="1.9" type="S">
         <attributes />
       </edge>
-      <edge toID="1.10" type="U">
-        <attributes />
-      </edge>
-      <edge toID="1.11" type="U">
-        <attributes />
-      </edge>
       <edge toID="1.12" type="U">
         <attributes />
       </edge>
@@ -64,6 +58,12 @@
     <node ID="1.9" type="FN">
       <attributes />
       <edge toID="0.3" type="Terminal">
+        <attributes />
+      </edge>
+      <edge toID="1.10" type="U">
+        <attributes />
+      </edge>
+      <edge toID="1.11" type="U">
         <attributes />
       </edge>
     </node>
