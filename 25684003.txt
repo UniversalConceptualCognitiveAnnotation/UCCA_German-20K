@@ -1,6 +1,6 @@
 # ::id 25684003
 # ::tok Manche waren mit grünlichen , von oben herablaufenden Streifen geziert ; sie gehörten jungen Austern .
-# ::alignments 0-1.1.2 2-1.1.4.1 3-1.1.4.2 5-1.1.4.3.2.1 6-1.1.4.3.2.2 7-1.1.4.3.3 8-1.1.4.4 9-1.1.5 11-1.2.1 12-1.2.2 13-1.2.3.1 14-1.2.3.2
+# ::alignments 0-1.1.2 2-1.1.4.1 3-1.1.4.2 5-1.1.4.3.2.1 6-1.1.4.3.2.2 7-1.1.4.3.3 8-1.1.4.4 9-1.1.5 11-1.2.1 12-1.2.2 13-1.2.3.3 14-1.2.3.1
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -21,5 +21,5 @@
            :A (v8 / label~e.11)
            :S (v9 / label~e.12)
            :A (v10 / label
-                   :E (v15 / label~e.13)
-                   :C (v16 / label~e.14))))
+                   :C (v15 / label~e.14)
+                   :E (v16 / label~e.13))))

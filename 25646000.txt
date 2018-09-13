@@ -1,6 +1,6 @@
 # ::id 25646000
 # ::tok Ich hatte sorgfältig in der beobachteten Richtung geschaut , ohne etwas zu bemerken .
-# ::alignments 0-1.1.1 2-1.1.3 3-1.1.4.1 4-1.1.4.2 5-1.1.4.3 6-1.1.4.4 7-1.1.5 9-1.2 10-1.3.2 12-1.3.4
+# ::alignments 0-1.1.1 2-1.1.3 3-1.1.4.1 4-1.1.4.2 5-1.1.4.3 6-1.1.4.4 7-1.1.5 9-1.2 10-1.3.5 12-1.3.1
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -14,7 +14,7 @@
            :P (v8 / label~e.7))
     :L (v3 / label~e.9)
     :H (v4 / label
-           :D (v9 / label)
-           :A (v10 / label~e.10)
-           :P (v11 / label~e.12)
-           :A v5))
+           :P (v9 / label~e.12)
+           :A v5
+           :D (v10 / label)
+           :A (v11 / label~e.10)))

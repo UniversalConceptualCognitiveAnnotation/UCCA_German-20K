@@ -1,6 +1,6 @@
 # ::id 25634002
 # ::tok Ich dachte , dieser treue , gefällige Trabant werde übermorgen wieder an dieser Stelle erscheinen , um die Wogen zu heben und damit die " Nautilus " von ihrem Korallen lager los zu machen .
-# ::alignments 0-1.1.1 1-1.1.2 3-1.1.3.1.1 4-1.1.3.1.2 6-1.1.3.1.3 7-1.3.4 9-1.1.3.3 10-1.1.3.4 11-1.1.3.5.1 12-1.1.3.5.2 13-1.1.3.5.3 14-1.1.3.6 16-1.2 17-1.3.1.1 18-1.3.1.2 20-1.3.3 21-1.4 22-1.5.1 23-1.5.2.1 25-1.5.2.2 27-1.5.3.1 28-1.5.3.2 29-1.5.3.3 30-1.5.3.4 31-1.5.4 33-1.5.4
+# ::alignments 0-1.1.1 1-1.1.2 3-1.1.3.1.1 4-1.1.3.1.2 6-1.1.3.1.3 7-1.3.4 9-1.1.3.3 10-1.1.3.4 11-1.1.3.5.1 12-1.1.3.5.2 13-1.1.3.5.3 14-1.1.3.6 16-1.2 17-1.3.1.1 18-1.3.1.2 20-1.3.3 21-1.4 22-1.5.8 23-1.5.1.1 25-1.5.1.2 27-1.5.2.1 28-1.5.2.2 29-1.5.2.3 30-1.5.2.4 31-1.5.3 33-1.5.3
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -28,14 +28,14 @@
            :A v12)
     :L (v5 / label~e.21)
     :H (v6 / label
-           :R (v13 / label~e.22)
-           :A (v14 / label
+           :A (v13 / label
                    :E (v24 / label~e.23)
                    :C (v25 / label~e.25))
-           :A (v15 / label
+           :A (v14 / label
                    :R (v26 / label~e.27)
                    :E (v27 / label~e.28)
                    :C (v28 / label~e.29)
                    :E (v29 / label~e.30))
-           :P (v16 / label~e.31,33)
-           :A v12))
+           :P (v15 / label~e.31,33)
+           :A v12
+           :R (v16 / label~e.22)))

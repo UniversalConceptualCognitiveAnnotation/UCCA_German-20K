@@ -1,6 +1,6 @@
 # ::id 25611010
 # ::tok Dumont d'Urville , Kommandant der " Astrolabe " , war also auf der Fahrt und ankerte , 2 Monate nachdem Dillon Vanikoro verlassen hatte , vor Hobart Town .
-# ::alignments 0-1.1.1.1 1-1.1.1.1 3-1.1.1.2.1 4-1.1.1.2.2.1 6-1.1.1.2.2.2 11-1.1.4.1 12-1.1.4.2 13-1.1.4.3 14-1.2 15-1.3.1 17-1.4.1 18-1.4.1 19-1.4.2 20-1.4.3 21-1.4.4 22-1.4.5 25-1.3.3.1 26-1.3.3.2 27-1.3.3.2
+# ::alignments 0-1.1.1.1 1-1.1.1.1 3-1.1.1.2.1 4-1.1.1.2.2.1 6-1.1.1.2.2.2 11-1.1.4.1 12-1.1.4.2 13-1.1.4.3 14-1.2 15-1.3.1 17-1.4.6 18-1.4.6 19-1.4.1 20-1.4.2 21-1.4.3 22-1.4.4 25-1.3.3.1 26-1.3.3.2 27-1.3.3.2
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -23,8 +23,8 @@
                    :R (v21 / label~e.25)
                    :C (v22 / label~e.26,27)))
     :H (v5 / label
-           :T (v11 / label~e.17,18)
-           :D (v12 / label~e.19)
-           :A (v13 / label~e.20)
-           :A (v14 / label~e.21)
-           :P (v15 / label~e.22)))
+           :D (v11 / label~e.19)
+           :A (v12 / label~e.20)
+           :A (v13 / label~e.21)
+           :P (v14 / label~e.22)
+           :T (v15 / label~e.17,18)))

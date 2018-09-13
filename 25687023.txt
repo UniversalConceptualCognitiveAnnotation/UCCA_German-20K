@@ -1,6 +1,6 @@
 # ::id 25687023
 # ::tok Das Blut strömte aus seinen Wunden , das Meer färbte sich rot , und ich konnte in dem dunkeln Schein nichts mehr sehen .
-# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.2 3-1.1.3.1 4-1.1.3.2 5-1.1.3.3 7-1.2.1.1 8-1.2.1.2 9-1.2.2 10-1.2.2 11-1.2.3 13-1.3 14-1.4.1 15-1.4.2 16-1.4.3.1 17-1.4.3.2 18-1.4.3.3 19-1.4.3.4 20-1.4.4 21-1.4.5 22-1.4.6
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.2 3-1.1.3.1 4-1.1.3.2 5-1.1.3.3 7-1.2.1.1 8-1.2.1.2 9-1.2.2 10-1.2.2 11-1.2.3 13-1.3 14-1.4.6 15-1.4.7 16-1.4.1.1 17-1.4.1.2 18-1.4.1.3 19-1.4.1.4 20-1.4.2 21-1.4.3 22-1.4.4
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -20,13 +20,13 @@
            :D (v11 / label~e.11))
     :L (v4 / label~e.13)
     :H (v5 / label
-           :A (v12 / label~e.14)
-           :D (v13 / label~e.15)
-           :A (v14 / label
+           :A (v12 / label
                    :R (v25 / label~e.16)
                    :E (v26 / label~e.17)
                    :E (v27 / label~e.18)
                    :C (v28 / label~e.19))
-           :D (v15 / label~e.20)
-           :D (v16 / label~e.21)
-           :P (v17 / label~e.22)))
+           :D (v13 / label~e.20)
+           :D (v14 / label~e.21)
+           :P (v15 / label~e.22)
+           :A (v16 / label~e.14)
+           :D (v17 / label~e.15)))

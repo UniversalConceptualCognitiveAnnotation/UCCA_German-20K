@@ -1,6 +1,6 @@
 # ::id 25665010
 # ::tok In diesem Augenblick ist mir noch nichts mit Gewißheit klar , ich sehe in diesem Dunkel nur unbestimmten Licht schimmer , und ich muß mich darauf beschränken zu schreiben , was mir gewissermaßen die Ereignisse diktieren .
-# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.3 4-1.1.3 5-1.1.4 6-1.1.5 7-1.1.6.1 8-1.1.6.2 9-1.1.7 11-1.2.1 12-1.2.2 13-1.2.3.1 14-1.2.3.2 15-1.2.3.3 16-1.2.4.1.1 17-1.2.4.1.2 18-1.2.4.2 19-1.2.4.3 21-1.3 22-1.4.1 23-1.4.2 24-1.4.3 26-1.4.3 28-1.4.5.3 30-1.4.5.4.1 31-1.4.5.4.2 32-1.4.5.4.3 33-1.4.5.4.4.1 34-1.4.5.4.4.2 35-1.4.5.4.5
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.3 4-1.1.3 5-1.1.4 6-1.1.5 7-1.1.6.1 8-1.1.6.2 9-1.1.7 11-1.2.1 12-1.2.2 13-1.2.3.1 14-1.2.3.2 15-1.2.3.3 16-1.2.4.1.1 17-1.2.4.1.2 18-1.2.4.2 19-1.2.4.3 21-1.3 22-1.4.5 23-1.4.1 24-1.4.2 26-1.4.2 28-1.4.4.2 30-1.4.4.3.1 31-1.4.4.3.2 32-1.4.4.3.3 33-1.4.4.3.4.1 34-1.4.4.3.4.2 35-1.4.4.3.5
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -30,11 +30,9 @@
                    :C (v30 / label~e.19)))
     :L (v4 / label~e.21)
     :H (v5 / label
-           :A (v16 / label~e.22)
-           :D (v17 / label~e.23)
-           :P (v18 / label~e.24,26)
-           :A (v19 / label
-                   :A v16
+           :D (v16 / label~e.23)
+           :P (v17 / label~e.24,26)
+           :A (v18 / label
                    :P (v31 / label~e.28)
                    :A (v32 / label
                            :A (v35 / label~e.30)
@@ -43,4 +41,6 @@
                            :A (v38 / label
                                    :E (v40 / label~e.33)
                                    :C (v41 / label~e.34))
-                           :P (v39 / label~e.35)))))
+                           :P (v39 / label~e.35))
+                   :A (v19 / label~e.22))
+           :A v19))

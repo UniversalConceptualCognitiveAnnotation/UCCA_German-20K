@@ -1,6 +1,6 @@
 # ::id 25650022
 # ::tok Der Schädel war mit einem stoßenden Werkzeug zerschmettert , das Gehirn lag offen , und die Gehirn substanz hatte eine tiefe Verletzung erlitten .
-# ::alignments 0-1.1.1.1 1-1.1.1.2 3-1.1.3.1 4-1.1.3.2 5-1.1.3.3 6-1.1.3.4 7-1.1.4 9-1.2.1.1 10-1.2.1.2 11-1.2.2 12-1.2.3 14-1.3 15-1.4.1.1 16-1.4.1.2 17-1.4.1.3 19-1.4.3.1 20-1.4.3.2 21-1.4.3.3 22-1.4.4
+# ::alignments 0-1.1.1.1 1-1.1.1.2 3-1.1.3.1 4-1.1.3.2 5-1.1.3.3 6-1.1.3.4 7-1.1.4 9-1.2.1.1 10-1.2.1.2 11-1.2.2 12-1.2.3 14-1.3 15-1.4.5.1 16-1.4.5.2 17-1.4.5.3 19-1.4.2.1 20-1.4.2.2 21-1.4.2.3 22-1.4.3
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -22,11 +22,11 @@
     :L (v4 / label~e.14)
     :H (v5 / label
            :A (v12 / label
-                   :E (v23 / label~e.15)
-                   :E (v24 / label~e.16)
-                   :C (v25 / label~e.17))
-           :A (v13 / label
-                   :E (v26 / label~e.19)
-                   :E (v27 / label~e.20)
-                   :C (v28 / label~e.21))
-           :P (v14 / label~e.22)))
+                   :E (v23 / label~e.19)
+                   :E (v24 / label~e.20)
+                   :C (v25 / label~e.21))
+           :P (v13 / label~e.22)
+           :A (v14 / label
+                   :E (v26 / label~e.15)
+                   :E (v27 / label~e.16)
+                   :C (v28 / label~e.17))))

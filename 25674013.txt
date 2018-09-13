@@ -1,6 +1,6 @@
 # ::id 25674013
 # ::tok Ich für meinen Teil fuhr mit der Hand über meine Stirn und fühlte da einige Tropfen kalten Schweißes .
-# ::alignments 0-1.1.1 1-1.1.2 2-1.1.2 3-1.1.2 4-1.1.3 5-1.1.4.1 6-1.1.4.2 7-1.1.4.3 8-1.1.5.1 9-1.1.5.2 10-1.1.5.3 11-1.2 12-1.3.1 13-1.3.2 14-1.3.3.1.1 15-1.3.3.1.2 16-1.3.3.2 17-1.3.3.3
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.2 3-1.1.2 4-1.1.3 5-1.1.4.1 6-1.1.4.2 7-1.1.4.3 8-1.1.5.1 9-1.1.5.2 10-1.1.5.3 11-1.2 12-1.3.2 13-1.3.3 14-1.3.4.4.1 15-1.3.4.4.2 16-1.3.4.1 17-1.3.4.2
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -17,12 +17,12 @@
                   :C (v18 / label~e.10)))
     :L (v3 / label~e.11)
     :H (v4 / label
+           :A v5
            :P (v10 / label~e.12)
            :A (v11 / label~e.13)
            :A (v12 / label
-                   :E (v19 / label
+                   :E (v19 / label~e.16)
+                   :C (v20 / label~e.17)
+                   :E (v21 / label
                            :E (v22 / label~e.14)
-                           :C (v23 / label~e.15))
-                   :E (v20 / label~e.16)
-                   :C (v21 / label~e.17))
-           :A v5))
+                           :C (v23 / label~e.15)))))

@@ -1,24 +1,24 @@
 # ::id 25629003
 # ::tok » Ich auch nicht , Ned , wenn ich nicht einen Paradiesvogel erhasche . «
-# ::alignments 1-1.1.3.1.2 2-1.1.3.1.3.1 3-1.1.3.1.3.2 5-1.1.3.1.4 7-1.1.3.2 8-1.1.3.3.1 9-1.1.3.3.2 10-1.1.3.3.3.1 11-1.1.3.3.3.2 12-1.1.3.3.4
+# ::alignments 1-1.1.3.5.2 2-1.1.3.5.3.1 3-1.1.3.5.3.2 5-1.1.3.5.4 7-1.1.3.1 8-1.1.3.2.1 9-1.1.3.2.2 10-1.1.3.2.3.1 11-1.1.3.2.3.2 12-1.1.3.2.4
 # ::format ucca
 (v1 / label
     :H (v2 / label
            :A (v3 / label)
            :P (v4 / label)
            :A (v5 / label
-                  :H (v6 / label
-                         :S (v9 / label)
-                         :A (v10 / label~e.1)
-                         :D (v11 / label
-                                 :E (v17 / label~e.2)
-                                 :C (v18 / label~e.3))
-                         :G (v12 / label~e.5))
-                  :L (v7 / label~e.7)
+                  :L (v6 / label~e.7)
+                  :H (v7 / label
+                         :A (v9 / label~e.8)
+                         :D (v10 / label~e.9)
+                         :A (v11 / label
+                                 :E (v17 / label~e.10)
+                                 :C (v18 / label~e.11))
+                         :P (v12 / label~e.12))
                   :H (v8 / label
-                         :A (v13 / label~e.8)
-                         :D (v14 / label~e.9)
-                         :A (v15 / label
-                                 :E (v19 / label~e.10)
-                                 :C (v20 / label~e.11))
-                         :P (v16 / label~e.12)))))
+                         :S (v13 / label)
+                         :A (v14 / label~e.1)
+                         :D (v15 / label
+                                 :E (v19 / label~e.2)
+                                 :C (v20 / label~e.3))
+                         :G (v16 / label~e.5)))))
