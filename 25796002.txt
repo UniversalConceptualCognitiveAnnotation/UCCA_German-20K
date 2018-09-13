@@ -1,6 +1,6 @@
 # ::id 25796002
 # ::tok Nach einigen Minuten war unser jähes Hinabsinken gehemmt ; bald zeigte das Manometer eine aufsteigende Bewegung , und die Schraube trieb uns mit höchster Geschwindigkeit dem Norden zu .
-# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.3 4-1.1.3.2.1 5-1.1.3.3 6-1.1.3.2.2 7-1.1.4 9-1.2.1 10-1.2.2 11-1.2.3.1 12-1.2.3.2 13-1.2.4.1.1 14-1.2.4.2 15-1.2.4.1.2 17-1.3 18-1.4.1.1 19-1.4.1.2 20-1.4.2 21-1.4.3 22-1.4.4.1 23-1.4.4.2 24-1.4.4.3 25-1.4.5.1 26-1.4.5.2 27-1.4.5.3
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.3 4-1.1.3.2.1 5-1.1.3.3 6-1.1.3.2.2 7-1.1.4 9-1.2.1 10-1.2.2 11-1.2.3.1 12-1.2.3.2 13-1.2.4.1.1 14-1.2.4.2 15-1.2.4.1.2 17-1.3 18-1.4.5.1 19-1.4.5.2 20-1.4.1 21-1.4.2 22-1.4.3.1 23-1.4.3.2 24-1.4.3.3 25-1.4.4.1 26-1.4.4.2 27-1.4.4.3
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -28,16 +28,16 @@
                    :P (v27 / label~e.14)))
     :L (v4 / label~e.17)
     :H (v5 / label
-           :A (v13 / label
-                   :E (v28 / label~e.18)
-                   :C (v29 / label~e.19))
-           :P (v14 / label~e.20)
-           :A (v15 / label~e.21)
+           :P (v13 / label~e.20)
+           :A (v14 / label~e.21)
+           :A (v15 / label
+                   :R (v28 / label~e.22)
+                   :E (v29 / label~e.23)
+                   :C (v30 / label~e.24))
            :A (v16 / label
-                   :R (v30 / label~e.22)
-                   :E (v31 / label~e.23)
-                   :C (v32 / label~e.24))
+                   :E (v31 / label~e.25)
+                   :C (v32 / label~e.26)
+                   :R (v33 / label~e.27))
            :A (v17 / label
-                   :E (v33 / label~e.25)
-                   :C (v34 / label~e.26)
-                   :R (v35 / label~e.27))))
+                   :E (v34 / label~e.18)
+                   :C (v35 / label~e.19))))

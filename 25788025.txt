@@ -1,25 +1,25 @@
 # ::id 25788025
 # ::tok » Wenigstens wollen wir einen Versuch machen , die uns umgebende Wand zu durchbrechen . «
-# ::alignments 1-1.1.3.1 2-1.1.3.2 3-1.1.3.3 4-1.1.3.4.1 5-1.1.3.4.2 8-1.1.3.6.2.1 9-1.1.3.6.2.2.2 10-1.1.3.6.2.2.3 11-1.1.3.6.2.3 13-1.1.3.6.4
+# ::alignments 1-1.1.3.8 2-1.1.3.1 3-1.1.3.2 4-1.1.3.3.1 5-1.1.3.3.2 8-1.1.3.5.2.1 9-1.1.3.5.2.2.2 10-1.1.3.5.2.2.3 11-1.1.3.5.2.3 13-1.1.3.5.4
 # ::format ucca
 (v1 / label
     :H (v2 / label
            :P (v3 / label)
            :A (v4 / label)
            :A (v5 / label
-                  :G (v6 / label~e.1)
-                  :D (v7 / label~e.2)
-                  :A (v8 / label~e.3)
-                  :P (v9 / label
+                  :D (v6 / label~e.2)
+                  :A (v7 / label~e.3)
+                  :P (v8 / label
                          :E (v11 / label~e.4)
                          :C (v12 / label~e.5))
-                  :A (v10 / label
-                          :A v8
-                          :A (v13 / label
-                                  :E (v15 / label~e.8)
-                                  :E (v16 / label
-                                          :A (v17 / label~e.11)
-                                          :A (v18 / label~e.9)
-                                          :S (v19 / label~e.10))
-                                  :C v17)
-                          :P (v14 / label~e.13)))))
+                  :A (v9 / label
+                         :A v7
+                         :A (v13 / label
+                                 :E (v15 / label~e.8)
+                                 :E (v16 / label
+                                         :A (v17 / label~e.11)
+                                         :A (v18 / label~e.9)
+                                         :S (v19 / label~e.10))
+                                 :C v17)
+                         :P (v14 / label~e.13))
+                  :G (v10 / label~e.1))))

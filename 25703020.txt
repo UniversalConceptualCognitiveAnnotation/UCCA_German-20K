@@ -1,6 +1,6 @@
 # ::id 25703020
 # ::tok Er rührte sich nicht und schien zu schlafen .
-# ::alignments 0-1.1.1 1-1.1.2 2-1.1.2 3-1.1.3 4-1.2 5-1.3.2 7-1.3.3.2
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.2 3-1.1.3 4-1.2 5-1.3.2 7-1.3.3.4
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -12,5 +12,5 @@
            :A (v8 / label)
            :S (v9 / label~e.5)
            :A (v10 / label
-                   :P (v11 / label~e.7)
-                   :A v5)))
+                   :A v5
+                   :P (v11 / label~e.7))))

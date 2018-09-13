@@ -1,6 +1,6 @@
 # ::id 25753012
 # ::tok Das Instrument wurde auf die Ansichten des Meeresgrunds gerichtet , und in einigen Sekunden hatten wir ein äußerst reines Negativbild .
-# ::alignments 0-1.1.1.1 1-1.1.1.2 3-1.1.3.1 4-1.1.3.2.1 5-1.1.3.2.2 6-1.1.3.3.1 7-1.1.3.3.2 8-1.1.4 10-1.2 11-1.3.1.1 12-1.3.1.2 13-1.3.1.3 14-1.3.2 15-1.3.3 16-1.3.4.1.1 17-1.3.4.2 18-1.3.4.3 19-1.3.4.1.2
+# ::alignments 0-1.1.1.1 1-1.1.1.2 3-1.1.3.1 4-1.1.3.2.1 5-1.1.3.2.2 6-1.1.3.3.1 7-1.1.3.3.2 8-1.1.4 10-1.2 11-1.3.2.1 12-1.3.2.2 13-1.3.2.3 14-1.3.3 15-1.3.4 16-1.3.1.1.1 17-1.3.1.2 18-1.3.1.3 19-1.3.1.1.2
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -18,15 +18,15 @@
            :S (v7 / label~e.8))
     :L (v3 / label~e.10)
     :H (v4 / label
-           :T (v8 / label
-                  :R (v17 / label~e.11)
-                  :E (v18 / label~e.12)
-                  :C (v19 / label~e.13))
-           :S (v9 / label~e.14)
-           :A (v10 / label~e.15)
-           :A (v11 / label
-                   :A (v20 / label
-                           :E (v27 / label~e.16)
-                           :C (v28 / label~e.19))
-                   :D (v21 / label~e.17)
-                   :S (v22 / label~e.18))))
+           :A (v8 / label
+                  :A (v17 / label
+                          :E (v27 / label~e.16)
+                          :C (v28 / label~e.19))
+                  :D (v18 / label~e.17)
+                  :S (v19 / label~e.18))
+           :T (v9 / label
+                  :R (v20 / label~e.11)
+                  :E (v21 / label~e.12)
+                  :C (v22 / label~e.13))
+           :S (v10 / label~e.14)
+           :A (v11 / label~e.15)))

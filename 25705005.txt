@@ -1,6 +1,6 @@
 # ::id 25705005
 # ::tok Das Boot kam herbei , nahm ihn ins Schlepptau und kehrte zur ›Nautilus‹ zurück .
-# ::alignments 0-1.1.1.1 1-1.2.4 2-1.1.2 3-1.1.2 5-1.2.1 6-1.2.2 7-1.2.3.1 8-1.2.3.2 9-1.3 10-1.4.1 11-1.4.2.1 12-1.4.2.2 13-1.4.1
+# ::alignments 0-1.1.1.1 1-1.2.4 2-1.1.2 3-1.1.2 5-1.2.1 6-1.2.2 7-1.2.3.1 8-1.2.3.2 9-1.3 10-1.4.3 11-1.4.4.1 12-1.4.4.2 13-1.4.3
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -17,8 +17,8 @@
            :A v11)
     :L (v4 / label~e.9)
     :H (v5 / label
+           :A v11
            :P (v12 / label~e.10,13)
            :A (v13 / label
                    :R (v17 / label~e.11)
-                   :C (v18 / label~e.12))
-           :A v11))
+                   :C (v18 / label~e.12))))

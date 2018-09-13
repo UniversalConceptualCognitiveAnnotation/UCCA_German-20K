@@ -1,6 +1,6 @@
 # ::id 25728006
 # ::tok Ein Teil der Mannschaft mit Skaphandern gepanzert , war beschäftigt , halb verfaulte Fässer abzuräumen und Kisten zu leeren inmitten des schwarzen Strandgutes .
-# ::alignments 0-1.1.1.1.1 1-1.1.1.1.2 2-1.1.1.2 3-1.2.3 4-1.2.1.1 5-1.2.1.2 6-1.2.2 9-1.1.3 11-1.1.4.1 12-1.1.4.2 13-1.1.4.3 14-1.1.5 15-1.3 16-1.4.1 18-1.4.3 19-1.4.4.1 20-1.4.4.2 21-1.4.4.3 22-1.4.4.4
+# ::alignments 0-1.1.1.1.1 1-1.1.1.1.2 2-1.1.1.2 3-1.2.3 4-1.2.1.1 5-1.2.1.2 6-1.2.2 9-1.1.3 11-1.1.4.1 12-1.1.4.2 13-1.1.4.3 14-1.1.5 15-1.3 16-1.4.4 18-1.4.1 19-1.4.2.1 20-1.4.2.2 21-1.4.2.3 22-1.4.2.4
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -24,11 +24,11 @@
            :A v12)
     :L (v4 / label~e.15)
     :H (v5 / label
-           :A (v13 / label~e.16)
-           :P (v14 / label~e.18)
-           :A (v15 / label
+           :P (v13 / label~e.18)
+           :A (v14 / label
                    :R (v23 / label~e.19)
                    :R (v24 / label~e.20)
                    :E (v25 / label~e.21)
                    :C (v26 / label~e.22))
-           :A v12))
+           :A v12
+           :A (v15 / label~e.16)))

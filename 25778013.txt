@@ -1,6 +1,6 @@
 # ::id 25778013
 # ::tok Ich war einverstanden und suchte Ned Land auf , um ihn mit zu nehmen .
-# ::alignments 0-1.1.1 2-1.1.3 3-1.2 4-1.3.1 5-1.3.2 6-1.3.2 7-1.3.1 9-1.4 10-1.5.1 11-1.5.2 13-1.5.2
+# ::alignments 0-1.1.1 2-1.1.3 3-1.2 4-1.3.1 5-1.3.2 6-1.3.2 7-1.3.1 9-1.4 10-1.5.5 11-1.5.1 13-1.5.1
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -13,6 +13,6 @@
            :A v7)
     :L (v5 / label~e.9)
     :H (v6 / label
-           :A (v11 / label~e.10)
-           :P (v12 / label~e.11,13)
-           :A v7))
+           :P (v11 / label~e.11,13)
+           :A v7
+           :A (v12 / label~e.10)))

@@ -1,6 +1,6 @@
 # ::id 25768001
 # ::tok » Gut ausgedacht , Herr Arronax « , erwiderte der Kapitän lächelnd .
-# ::alignments 1-1.1.1.1.2 2-1.1.1.1.3 4-1.1.1.1.4.1 5-1.1.1.1.4.2 8-1.1.2 9-1.1.3.1 10-1.2.2 11-1.2.1
+# ::alignments 1-1.1.3.1.2 2-1.1.3.1.3 4-1.1.3.1.4.1 5-1.1.3.1.4.2 8-1.1.4 9-1.1.5.1 10-1.2.1 11-1.2.3
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -15,7 +15,7 @@
            :P (v5 / label~e.8)
            :A (v6 / label
                   :E (v10 / label~e.9)
-                  :C (v8 / label~e.10)))
+                  :C (v7 / label~e.10)))
     :H (v3 / label
-           :S (v7 / label~e.11)
-           :A v8))
+           :A v7
+           :S (v8 / label~e.11)))

@@ -1,15 +1,15 @@
 # ::id 25724016
 # ::tok Zu meinem großen Erstaunen war sie halb geöffnet .
-# ::alignments 0-1.1.2.1 1-1.1.2.2 2-1.1.2.3 3-1.1.2.4 5-1.2.2 6-1.2.3 7-1.2.4
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.3 3-1.1.1.4 5-1.2.3 6-1.2.4 7-1.2.5
 # ::format ucca
 (v1 / label
     :H (v2 / label
-           :A (v4 / label)
-           :S (v5 / label
+           :S (v4 / label
                   :R (v9 / label~e.0)
                   :E (v10 / label~e.1)
                   :E (v11 / label~e.2)
-                  :C (v12 / label~e.3)))
+                  :C (v12 / label~e.3))
+           :A (v5 / label))
     :H (v3 / label
            :A (v6 / label~e.5)
            :D (v7 / label~e.6)

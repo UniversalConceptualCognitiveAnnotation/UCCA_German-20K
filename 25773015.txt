@@ -1,6 +1,6 @@
 # ::id 25773015
 # ::tok Während unserer Abwesenheit hatte man die Garne ausgesteckt , und ich betrachtete mit Interesse die Fische , die man an Bord gezogen hatte .
-# ::alignments 0-1.1 1-1.2.2.1 2-1.2.2.2 4-1.3.2 5-1.3.3.1 6-1.3.3.2 7-1.3.4 9-1.4 10-1.5.1 11-1.5.2 12-1.5.3.1 13-1.5.3.2 14-1.5.4.1 15-1.5.4.2 17-1.5.4.3.2 18-1.5.4.3.3 19-1.5.4.3.4.1 20-1.5.4.3.4.2 21-1.5.4.3.5
+# ::alignments 0-1.1 1-1.2.2.1 2-1.2.2.2 4-1.3.2 5-1.3.3.1 6-1.3.3.2 7-1.3.4 9-1.4 10-1.5.4 11-1.5.1 12-1.5.2.1 13-1.5.2.2 14-1.5.3.1 15-1.5.3.2 17-1.5.3.3.2 18-1.5.3.3.3 19-1.5.3.3.4.1 20-1.5.3.3.4.2 21-1.5.3.3.5
 # ::format ucca
 (v1 / label
     :L (v2 / label~e.0)
@@ -17,12 +17,11 @@
            :P (v11 / label~e.7))
     :L (v5 / label~e.9)
     :H (v6 / label
-           :A (v12 / label~e.10)
-           :S (v13 / label~e.11)
-           :D (v14 / label
+           :S (v12 / label~e.11)
+           :D (v13 / label
                    :R (v20 / label~e.12)
                    :C (v21 / label~e.13))
-           :A (v15 / label
+           :A (v14 / label
                    :E (v22 / label~e.14)
                    :C (v23 / label~e.15)
                    :E (v24 / label
@@ -32,4 +31,5 @@
                            :A (v27 / label
                                    :R (v29 / label~e.19)
                                    :C (v30 / label~e.20))
-                           :P (v28 / label~e.21)))))
+                           :P (v28 / label~e.21)))
+           :A (v15 / label~e.10)))

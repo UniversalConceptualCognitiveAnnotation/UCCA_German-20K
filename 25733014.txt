@@ -1,13 +1,13 @@
 # ::id 25733014
 # ::tok Fortgerissen , fühlte ich keine Müdigkeit .
-# ::alignments 0-1.1.2 2-1.2.1 3-1.1.1 4-1.2.3 5-1.2.4
+# ::alignments 0-1.1.1 2-1.2.2 3-1.1.2 4-1.2.4 5-1.2.5
 # ::format ucca
 (v1 / label
     :H (v2 / label
-           :A (v4 / label~e.3)
-           :P (v5 / label~e.0))
+           :P (v4 / label~e.0)
+           :A (v5 / label~e.3))
     :H (v3 / label
            :D (v6 / label~e.2)
-           :A v4
+           :A v5
            :D (v7 / label~e.4)
            :S (v8 / label~e.5)))

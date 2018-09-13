@@ -1,6 +1,6 @@
 # ::id 25723021
 # ::tok Oft verflossen ganze Wochen , ohne dass ich mit ihm zusammentraf .
-# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.1 3-1.1.3.2 5-1.2.1 6-1.3 7-1.2.2 8-1.2.3.1 9-1.2.3.2 10-1.2.4
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.1 3-1.1.3.2 5-1.2.3 6-1.3 7-1.2.4 8-1.2.5.1 9-1.2.5.2 10-1.2.1
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -10,10 +10,10 @@
                   :E (v12 / label~e.2)
                   :C (v13 / label~e.3)))
     :H (v3 / label
-           :D (v8 / label~e.5)
-           :A (v9 / label~e.7)
-           :A (v10 / label
+           :P (v8 / label~e.10)
+           :D (v9 / label~e.5)
+           :A (v10 / label~e.7)
+           :A (v11 / label
                    :R (v14 / label~e.8)
-                   :C (v15 / label~e.9))
-           :P (v11 / label~e.10))
+                   :C (v15 / label~e.9)))
     :L (v4 / label~e.6))

@@ -1,14 +1,14 @@
 # ::id 25767010
 # ::tok » Nichts , mein Herr . «
-# ::alignments 1-1.1.3.2 3-1.1.3.3.1 4-1.1.3.3.2
+# ::alignments 1-1.1.3.1 3-1.1.3.2.1 4-1.1.3.2.2
 # ::format ucca
 (v1 / label
     :H (v2 / label
            :P (v3 / label)
            :A (v4 / label)
            :A (v5 / label
-                  :S (v6 / label)
-                  :D (v7 / label~e.1)
-                  :G (v8 / label
+                  :D (v6 / label~e.1)
+                  :G (v7 / label
                          :E (v9 / label~e.3)
-                         :C (v10 / label~e.4)))))
+                         :C (v10 / label~e.4))
+                  :S (v8 / label))))

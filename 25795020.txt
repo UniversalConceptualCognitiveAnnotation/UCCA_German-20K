@@ -1,6 +1,6 @@
 # ::id 25795020
 # ::tok Trotz dem Summen in meinem Kopf hörte ich bald ein Dröhnen unter dem Rumpf der ›Nautilus‹ .
-# ::alignments 0-1.1.1.1 1-1.1.1.2.1 2-1.1.1.2.2 3-1.1.1.3.1 4-1.1.1.3.2 5-1.1.1.3.3 6-1.1.2 7-1.1.3 8-1.1.4 9-1.1.5.1.1 10-1.1.5.1.2 11-1.1.5.2.1 12-1.1.5.2.2 13-1.1.5.2.3 14-1.1.5.2.4.1 15-1.1.5.2.4.2
+# ::alignments 0-1.1.1.1 1-1.1.1.2.1 2-1.1.1.2.2 3-1.1.1.3.1 4-1.1.1.3.2 5-1.1.1.3.3 6-1.1.2 7-1.1.3 8-1.1.4 9-1.1.5.2.1 10-1.1.5.2.2 11-1.1.5.1.1 12-1.1.5.1.2 13-1.1.5.1.3 14-1.1.5.1.4.1 15-1.1.5.1.4.2
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -17,13 +17,13 @@
            :A (v5 / label~e.7)
            :T (v6 / label~e.8)
            :A (v7 / label
-                  :P (v11 / label
-                          :E (v18 / label~e.9)
-                          :C (v19 / label~e.10))
-                  :A (v12 / label
-                          :R (v20 / label~e.11)
-                          :E (v21 / label~e.12)
-                          :C (v22 / label~e.13)
-                          :E (v23 / label
+                  :A (v11 / label
+                          :R (v18 / label~e.11)
+                          :E (v19 / label~e.12)
+                          :C (v20 / label~e.13)
+                          :E (v21 / label
                                   :R (v24 / label~e.14)
-                                  :C (v25 / label~e.15))))))
+                                  :C (v25 / label~e.15)))
+                  :P (v12 / label
+                          :E (v22 / label~e.9)
+                          :C (v23 / label~e.10)))))
