@@ -1,18 +1,17 @@
 # ::id 25804004
 # ::tok Es handelte sich in der Tat darum , die Vorrats kammer mit einem vortrefflichen Fleisch , das noch vorzüglicher ist als Ochsen- und Kalb fleisch , zu versorgen .
-# ::alignments 1-1.1.2 2-1.1.2 3-1.1.3 4-1.1.3 5-1.1.3 8-1.1.4.3.1 9-1.1.4.3.2 10-1.1.4.3.3 11-1.1.4.4.1 12-1.1.4.4.2 13-1.1.4.4.3 14-1.1.4.4.4 16-1.1.4.4.5.2 17-1.1.4.4.5.3 18-1.1.4.4.5.4 20-1.1.4.4.5.6.1 21-1.1.4.4.5.6.2 22-1.1.4.4.5.6.3 23-1.1.4.4.5.6.4.1 24-1.1.4.4.5.6.4.2 27-1.1.4.6
+# ::alignments 1-1.1.2 2-1.1.2 3-1.1.3 4-1.1.3 5-1.1.3 8-1.1.4.1.1 9-1.1.4.1.2 10-1.1.4.1.3 11-1.1.4.2.1 12-1.1.4.2.2 13-1.1.4.2.3 14-1.1.4.2.4 16-1.1.4.2.5.2 17-1.1.4.2.5.3 18-1.1.4.2.5.4 20-1.1.4.2.5.6.1 21-1.1.4.2.5.6.2 22-1.1.4.2.5.6.3 23-1.1.4.2.5.6.4.1 24-1.1.4.2.5.6.4.2 27-1.1.4.4
 # ::format ucca
 (v1 / label
     :H (v2 / label
            :S (v3 / label~e.1,2)
            :G (v4 / label~e.3,4,5)
            :A (v5 / label
-                  :A (v6 / label)
-                  :A (v7 / label
+                  :A (v6 / label
                          :E (v10 / label~e.8)
                          :E (v11 / label~e.9)
                          :C (v12 / label~e.10))
-                  :A (v8 / label
+                  :A (v7 / label
                          :R (v13 / label~e.11)
                          :E (v14 / label~e.12)
                          :E (v15 / label~e.13)
@@ -29,4 +28,5 @@
                                          :C (v25 / label
                                                  :E (v26 / label~e.23)
                                                  :C (v27 / label~e.24)))))
-                  :P (v9 / label~e.27))))
+                  :P (v8 / label~e.27)
+                  :A (v9 / label))))

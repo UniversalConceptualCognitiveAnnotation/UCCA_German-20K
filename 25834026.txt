@@ -1,6 +1,6 @@
 # ::id 25834026
 # ::tok Ein unklarer Widerschein , der auf sein Takelwerk fiel , zeigte an , dass man das Feuern auf den höchsten Grad getrieben hatte .
-# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.3 4-1.1.1.4.2 5-1.1.1.4.3.1 6-1.1.1.4.3.2 7-1.1.1.4.3.3 8-1.1.1.4.4 10-1.1.2 11-1.1.2 13-1.1.3.1 14-1.1.3.2 15-1.1.3.3.2.1 16-1.1.3.3.2.2 17-1.1.3.4.1 18-1.1.3.4.2 19-1.1.3.4.3 20-1.1.3.4.4 21-1.1.3.5
+# ::alignments 0-1.1.3.1 1-1.1.3.2 2-1.1.3.3 4-1.1.3.4.2 5-1.1.3.4.3.1 6-1.1.3.4.3.2 7-1.1.3.4.3.3 8-1.1.3.4.4 10-1.1.4 11-1.1.4 13-1.1.5.7 14-1.1.5.1 15-1.1.5.2.2.1 16-1.1.5.2.2.2 17-1.1.5.3.1 18-1.1.5.3.2 19-1.1.5.3.3 20-1.1.5.3.4 21-1.1.5.4
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -18,16 +18,16 @@
                          :S (v17 / label~e.8)))
            :S (v4 / label~e.10,11)
            :A (v5 / label
-                  :R (v10 / label~e.13)
-                  :A (v11 / label~e.14)
-                  :A (v12 / label
+                  :A (v10 / label~e.14)
+                  :A (v11 / label
                           :A (v18 / label)
                           :P (v19 / label
                                   :E (v27 / label~e.15)
                                   :C (v28 / label~e.16)))
-                  :A (v13 / label
+                  :A (v12 / label
                           :R (v20 / label~e.17)
                           :E (v21 / label~e.18)
                           :E (v22 / label~e.19)
                           :C (v23 / label~e.20))
-                  :P (v14 / label~e.21))))
+                  :P (v13 / label~e.21)
+                  :R (v14 / label~e.13))))

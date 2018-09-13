@@ -1,6 +1,6 @@
 # ::id 25837028
 # ::tok Ich begab mich wieder in mein Zimmer , konnte nicht schlafen ; ich war von Alpdrücken geplagt .
-# ::alignments 0-1.1.1 1-1.1.2 2-1.1.2 3-1.1.3 4-1.1.4.1 5-1.1.4.2 6-1.1.4.3 8-1.2.1 9-1.2.2 10-1.2.3 12-1.3.1 14-1.3.3.1 15-1.3.3.2 16-1.3.4
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.2 3-1.1.3 4-1.1.4.1 5-1.1.4.2 6-1.1.4.3 8-1.2.1 9-1.2.2 10-1.2.3 12-1.3.4 14-1.3.1.1 15-1.3.1.2 16-1.3.2
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -17,8 +17,8 @@
            :P (v11 / label~e.10)
            :A v5)
     :H (v4 / label
-           :A (v12 / label~e.12)
-           :A (v13 / label
+           :A (v12 / label
                    :R (v18 / label~e.14)
                    :C (v19 / label~e.15))
-           :P (v14 / label~e.16)))
+           :P (v13 / label~e.16)
+           :A (v14 / label~e.12)))

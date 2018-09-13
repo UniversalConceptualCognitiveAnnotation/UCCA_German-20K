@@ -1,6 +1,6 @@
 # ::id 25827002
 # ::tok Hernach kamen wir zu der Stelle , wo es im Jahr 1863 Schaden gelitten hatte .
-# ::alignments 0-1.1 1-1.2.1 2-1.2.2 3-1.2.3.1 4-1.2.3.2 5-1.2.3.3 7-1.2.3.4.2 8-1.2.3.4.3 9-1.2.3.4.4.1 10-1.2.3.4.4.2 11-1.2.3.4.4.2 12-1.2.3.4.5 13-1.2.3.4.6
+# ::alignments 0-1.1 1-1.2.1 2-1.2.2 3-1.2.3.4 4-1.2.3.5 5-1.2.3.1 7-1.2.3.2.2 8-1.2.3.2.3 9-1.2.3.2.4.1 10-1.2.3.2.4.2 11-1.2.3.2.4.2 12-1.2.3.2.5 13-1.2.3.2.6
 # ::format ucca
 (v1 / label
     :L (v2 / label~e.0)
@@ -8,15 +8,15 @@
            :P (v4 / label~e.1)
            :A (v5 / label~e.2)
            :A (v6 / label
-                  :R (v7 / label~e.3)
-                  :E (v8 / label~e.4)
-                  :C (v9 / label~e.5)
-                  :E (v10 / label
-                          :A v9
-                          :R (v11 / label~e.7)
-                          :A (v12 / label~e.8)
-                          :A (v13 / label
-                                  :R (v16 / label~e.9)
-                                  :C (v17 / label~e.10,11))
-                          :P (v14 / label~e.12)
-                          :D (v15 / label~e.13)))))
+                  :C (v7 / label~e.5)
+                  :E (v8 / label
+                         :A v7
+                         :R (v11 / label~e.7)
+                         :A (v12 / label~e.8)
+                         :A (v13 / label
+                                 :R (v16 / label~e.9)
+                                 :C (v17 / label~e.10,11))
+                         :P (v14 / label~e.12)
+                         :D (v15 / label~e.13))
+                  :R (v9 / label~e.3)
+                  :E (v10 / label~e.4))))

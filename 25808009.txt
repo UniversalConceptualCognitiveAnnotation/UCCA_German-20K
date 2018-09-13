@@ -1,12 +1,12 @@
 # ::id 25808009
 # ::tok » Ja , Ned . «
-# ::alignments 1-1.1.3.2 3-1.1.3.3
+# ::alignments 1-1.1.3.1 3-1.1.3.2
 # ::format ucca
 (v1 / label
     :H (v2 / label
            :A (v3 / label)
            :P (v4 / label)
            :A (v5 / label
-                  :P (v6 / label)
-                  :D (v7 / label~e.1)
-                  :A (v8 / label~e.3))))
+                  :D (v6 / label~e.1)
+                  :A (v7 / label~e.3)
+                  :P (v8 / label))))

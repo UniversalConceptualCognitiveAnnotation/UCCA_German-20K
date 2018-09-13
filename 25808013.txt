@@ -1,6 +1,6 @@
 # ::id 25808013
 # ::tok » Zu St . Malo « , erwiderte Conseil , ohne sich irre machen zu lassen .
-# ::alignments 1-1.1.1.2.1 2-1.1.1.2.2 4-1.1.1.2.2 7-1.1.2 8-1.1.3 10-1.2 11-1.3.2 12-1.3.2 13-1.3.2 15-1.3.4
+# ::alignments 1-1.1.1.2.1 2-1.1.1.2.2 4-1.1.1.2.2 7-1.1.2 8-1.1.3 10-1.2 11-1.3.6 12-1.3.6 13-1.3.6 15-1.3.2
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -13,7 +13,7 @@
            :A (v7 / label~e.8))
     :L (v3 / label~e.10)
     :H (v4 / label
-           :D (v8 / label)
-           :P (v9 / label~e.11,12,13)
-           :D (v10 / label~e.15)
-           :A v7))
+           :D (v8 / label~e.15)
+           :A v7
+           :D (v9 / label)
+           :P (v10 / label~e.11,12,13)))

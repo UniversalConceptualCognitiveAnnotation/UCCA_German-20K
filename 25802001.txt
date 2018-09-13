@@ -1,6 +1,6 @@
 # ::id 25802001
 # ::tok Während dieser beiden Tage , am 11 . und 12 . April , blieb die ›Nautilus‹ auf der Oberfläche , und ihr Sacknetz tat einen wundervollen Fang an Zoophyten , Fischen und Reptilien .
-# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.3 3-1.1.1.4 5-1.1.1.5.1 6-1.1.1.5.2.1 8-1.1.1.5.2.2 9-1.1.1.5.2.3 11-1.1.1.5.2.3 13-1.1.2 14-1.1.3.1 15-1.1.3.2 16-1.1.4.1 17-1.1.4.2 18-1.1.4.3 20-1.2 21-1.3.1.1 22-1.3.1.2 23-1.3.2 24-1.3.3.1 25-1.3.4 26-1.3.3.2 27-1.3.5.1 28-1.3.5.2 30-1.3.5.3 31-1.3.5.4 32-1.3.5.5
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.3 3-1.1.1.4 5-1.1.1.5.1 6-1.1.1.5.2.1 8-1.1.1.5.2.2 9-1.1.1.5.2.3 11-1.1.1.5.2.3 13-1.1.2 14-1.1.3.1 15-1.1.3.2 16-1.1.4.1 17-1.1.4.2 18-1.1.4.3 20-1.2 21-1.3.3.1 22-1.3.3.2 23-1.3.4 24-1.3.5.1 25-1.3.1 26-1.3.5.2 27-1.3.2.1 28-1.3.2.2 30-1.3.2.3 31-1.3.2.4 32-1.3.2.5
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -25,17 +25,17 @@
                   :C (v23 / label~e.18)))
     :L (v3 / label~e.20)
     :H (v4 / label
-           :A (v9 / label
-                  :E (v24 / label~e.21)
-                  :C (v25 / label~e.22))
-           :D (v10 / label~e.23)
-           :P (v11 / label
-                   :E (v26 / label~e.24)
-                   :C (v27 / label~e.26))
-           :D (v12 / label~e.25)
-           :A (v13 / label
-                   :R (v28 / label~e.27)
-                   :C (v29 / label~e.28)
-                   :C (v30 / label~e.30)
-                   :N (v31 / label~e.31)
-                   :C (v32 / label~e.32))))
+           :D (v9 / label~e.25)
+           :A (v10 / label
+                   :R (v24 / label~e.27)
+                   :C (v25 / label~e.28)
+                   :C (v26 / label~e.30)
+                   :N (v27 / label~e.31)
+                   :C (v28 / label~e.32))
+           :A (v11 / label
+                   :E (v29 / label~e.21)
+                   :C (v30 / label~e.22))
+           :D (v12 / label~e.23)
+           :P (v13 / label
+                   :E (v31 / label~e.24)
+                   :C (v32 / label~e.26))))

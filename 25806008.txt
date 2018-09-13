@@ -1,6 +1,6 @@
 # ::id 25806008
 # ::tok Ausgenommen das harte Probe stück der Eisdecke des Südpols , hatten wir uns niemals besser befunden , weder Ned noch Conseil , noch ich .
-# ::alignments 0-1.1.1 1-1.1.2.1.1 2-1.1.2.2 3-1.1.2.3 4-1.1.2.1.2 5-1.1.2.4.1 6-1.1.2.4.2 7-1.1.2.4.3.1 8-1.1.2.4.3.2 11-1.2.2 12-1.2.3 13-1.2.4 14-1.2.5 15-1.2.3 17-1.2.6.1 18-1.2.6.2 19-1.2.6.3 20-1.2.6.4 22-1.2.6.5 23-1.2.6.6
+# ::alignments 0-1.1.1 1-1.1.2.1.1 2-1.1.2.2 3-1.1.2.3 4-1.1.2.1.2 5-1.1.2.4.1 6-1.1.2.4.2 7-1.1.2.4.3.1 8-1.1.2.4.3.2 11-1.2.5 12-1.2.6 13-1.2.7 14-1.2.1 15-1.2.6 17-1.2.2.1 18-1.2.2.2 19-1.2.2.3 20-1.2.2.4 22-1.2.2.5 23-1.2.2.6
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -18,14 +18,14 @@
                                   :R (v26 / label~e.7)
                                   :C (v27 / label~e.8)))))
     :H (v3 / label
-           :A (v6 / label~e.11)
-           :S (v7 / label~e.12,15)
-           :T (v8 / label~e.13)
-           :D (v9 / label~e.14)
-           :A (v10 / label
-                   :N (v15 / label~e.17)
-                   :C (v16 / label~e.18)
-                   :N (v17 / label~e.19)
-                   :C (v18 / label~e.20)
-                   :N (v19 / label~e.22)
-                   :C (v20 / label~e.23))))
+           :D (v6 / label~e.14)
+           :A (v7 / label
+                  :N (v15 / label~e.17)
+                  :C (v16 / label~e.18)
+                  :N (v17 / label~e.19)
+                  :C (v18 / label~e.20)
+                  :N (v19 / label~e.22)
+                  :C (v20 / label~e.23))
+           :A (v8 / label~e.11)
+           :S (v9 / label~e.12,15)
+           :T (v10 / label~e.13)))

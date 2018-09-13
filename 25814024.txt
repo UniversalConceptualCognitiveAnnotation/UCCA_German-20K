@@ -1,6 +1,6 @@
 # ::id 25814024
 # ::tok Die ›Nautilus‹ fuhr nicht mehr in einer bestimmten Richtung , sondern hin und her streifend , dem Spiel der Wellen überlassen wie ein Leichnam .
-# ::alignments 0-1.1.1.1 1-1.3.3 2-1.1.2 3-1.1.3.1 4-1.1.3.2 5-1.1.4.1 6-1.1.4.2 7-1.1.4.3 8-1.1.4.4 10-1.2 11-1.3.1.1 12-1.3.1.2 13-1.3.1.3 14-1.3.2 16-1.4.1.1.1 17-1.4.1.1.2 18-1.4.1.2.1 19-1.4.1.2.2 20-1.4.2 21-1.4.3.1 22-1.4.3.2 23-1.4.3.3
+# ::alignments 0-1.1.1.1 1-1.3.3 2-1.1.2 3-1.1.3.1 4-1.1.3.2 5-1.1.4.1 6-1.1.4.2 7-1.1.4.3 8-1.1.4.4 10-1.2 11-1.3.1.1 12-1.3.1.2 13-1.3.1.3 14-1.3.2 16-1.4.4.1.1 17-1.4.4.1.2 18-1.4.4.2.1 19-1.4.4.2.2 20-1.4.1 21-1.4.2.1 22-1.4.2.2 23-1.4.2.3
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -25,16 +25,16 @@
            :P (v11 / label~e.14)
            :A v12)
     :H (v5 / label
-           :A (v13 / label
-                   :P (v26 / label
+           :S (v13 / label~e.20)
+           :A (v14 / label
+                   :R (v26 / label~e.21)
+                   :E (v27 / label~e.22)
+                   :C (v28 / label~e.23))
+           :A v12
+           :A (v15 / label
+                   :P (v29 / label
                            :E (v31 / label~e.16)
                            :C (v32 / label~e.17))
-                   :A (v27 / label
+                   :A (v30 / label
                            :R (v33 / label~e.18)
-                           :C (v34 / label~e.19)))
-           :S (v14 / label~e.20)
-           :A (v15 / label
-                   :R (v28 / label~e.21)
-                   :E (v29 / label~e.22)
-                   :C (v30 / label~e.23))
-           :A v12))
+                           :C (v34 / label~e.19)))))
