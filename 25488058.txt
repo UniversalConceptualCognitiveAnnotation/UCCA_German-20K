@@ -1,6 +1,6 @@
 # ::id 25488058
 # ::tok Bald hörte ich den armen Burschen keuchen ; er atmete kurz und beklommen .
-# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3 3-1.1.4.1.1 4-1.1.4.1.2 5-1.1.4.1.3 6-1.1.4.2 8-1.2.1 9-1.2.2 10-1.2.3.1 11-1.2.3.2 12-1.2.3.3
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3 3-1.1.4.1.1 4-1.1.4.1.2 5-1.1.4.1.3 6-1.1.4.2 8-1.2.1 9-1.2.2 10-1.2.3.4 11-1.2.3.1 12-1.2.3.2
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -17,6 +17,6 @@
            :A (v8 / label~e.8)
            :P (v9 / label~e.9)
            :D (v10 / label
-                   :C (v13 / label~e.10)
-                   :N (v14 / label~e.11)
-                   :C (v15 / label~e.12))))
+                   :N (v13 / label~e.11)
+                   :C (v14 / label~e.12)
+                   :C (v15 / label~e.10))))

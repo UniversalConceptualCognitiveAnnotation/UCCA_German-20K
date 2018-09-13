@@ -1,6 +1,6 @@
 # ::id 25520007
 # ::tok « Ich heftete einen starren Blick auf den seltsamen Mann , der so zu mir sprach .
-# ::alignments 1-1.1.1 2-1.1.2 3-1.1.3.1 4-1.1.3.2 5-1.1.3.3 6-1.1.4.1 7-1.1.4.2 8-1.1.4.3 9-1.1.4.4 11-1.1.4.5.2 12-1.1.4.5.3 13-1.1.4.5.4.1 14-1.1.4.5.4.2 15-1.1.4.5.5
+# ::alignments 1-1.1.2 2-1.1.3 3-1.1.4.1 4-1.1.4.2 5-1.1.4.3 6-1.1.5.6 7-1.1.5.1 8-1.1.5.2 9-1.1.5.3 11-1.1.5.4.2 12-1.1.5.4.3 13-1.1.5.4.4.1 14-1.1.5.4.4.2 15-1.1.5.4.5
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -11,15 +11,15 @@
                   :E (v8 / label~e.4)
                   :C (v9 / label~e.5))
            :A (v6 / label
-                  :R (v10 / label~e.6)
-                  :E (v11 / label~e.7)
-                  :E (v12 / label~e.8)
-                  :C (v13 / label~e.9)
-                  :E (v14 / label
-                          :A v13
+                  :E (v10 / label~e.7)
+                  :E (v11 / label~e.8)
+                  :C (v12 / label~e.9)
+                  :E (v13 / label
+                          :A v12
                           :R (v15 / label~e.11)
                           :D (v16 / label~e.12)
                           :A (v17 / label
                                   :R (v19 / label~e.13)
                                   :C (v20 / label~e.14))
-                          :P (v18 / label~e.15)))))
+                          :P (v18 / label~e.15))
+                  :R (v14 / label~e.6))))

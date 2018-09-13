@@ -1,28 +1,28 @@
 # ::id 25490038
 # ::tok « » Nur , Herr Arronax , habe ich keinen Begriff davon , wie viel Uhr es ist , außer zur Zeit des Mittagessens ?
-# ::alignments 4-1.1.3.1.2.1 5-1.1.3.1.2.2 8-1.1.3.1.4 9-1.1.3.1.5 10-1.1.3.1.6 13-1.1.3.1.7.2 14-1.1.3.1.7.2 15-1.1.3.1.7.2 17-1.1.3.1.7.4 19-1.1.3.2 20-1.1.3.3.2.1 21-1.1.3.3.2.2 22-1.1.3.3.3.1 23-1.1.3.3.3.2
+# ::alignments 4-1.1.3.6.2.1 5-1.1.3.6.2.2 8-1.1.3.6.4 9-1.1.3.6.5 10-1.1.3.6.6 13-1.1.3.6.7.2 14-1.1.3.6.7.2 15-1.1.3.6.7.2 17-1.1.3.6.7.4 19-1.1.3.1 20-1.1.3.2.2.1 21-1.1.3.2.2.2 22-1.1.3.2.3.1 23-1.1.3.2.3.2
 # ::format ucca
 (v1 / label
     :H (v2 / label
            :P (v3 / label)
            :A (v4 / label)
            :A (v5 / label
-                  :H (v6 / label
-                         :G (v9 / label
-                                :E (v17 / label~e.4)
-                                :C (v18 / label~e.5))
-                         :A (v10 / label~e.8)
-                         :D (v11 / label~e.9)
-                         :P (v12 / label~e.10)
-                         :A (v13 / label
-                                 :A (v19 / label~e.13,14,15)
-                                 :S (v20 / label~e.17)))
-                  :L (v7 / label~e.19)
+                  :L (v6 / label~e.19)
+                  :H (v7 / label
+                         :S (v9 / label)
+                         :A (v10 / label
+                                 :R (v17 / label~e.20)
+                                 :C (v18 / label~e.21))
+                         :A (v11 / label
+                                 :R (v19 / label~e.22)
+                                 :C (v20 / label~e.23)))
                   :H (v8 / label
-                         :S (v14 / label)
-                         :A (v15 / label
-                                 :R (v21 / label~e.20)
-                                 :C (v22 / label~e.21))
+                         :G (v12 / label
+                                 :E (v21 / label~e.4)
+                                 :C (v22 / label~e.5))
+                         :A (v13 / label~e.8)
+                         :D (v14 / label~e.9)
+                         :P (v15 / label~e.10)
                          :A (v16 / label
-                                 :R (v23 / label~e.22)
-                                 :C (v24 / label~e.23))))))
+                                 :A (v23 / label~e.13,14,15)
+                                 :S (v24 / label~e.17))))))

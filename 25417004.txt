@@ -1,6 +1,6 @@
 # ::id 25417004
 # ::tok Auf die Chassepots folgten die Torpedos , auf die Torpedos die unterseeischen Sturmböcke , hernach - die Reaktion .
-# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.3 3-1.1.2 4-1.1.3.1 5-1.1.3.2 7-1.2.1.1 8-1.2.1.2 9-1.2.1.3 10-1.2.2.1 11-1.2.2.2 12-1.2.2.3 14-1.3.1 16-1.3.2.2.1 17-1.3.2.2.2
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.3 3-1.1.2 4-1.1.3.1 5-1.1.3.2 7-1.2.1.1 8-1.2.1.2 9-1.2.1.3 10-1.2.2.1 11-1.2.2.2 12-1.2.2.3 14-1.3.3 16-1.3.4.2.1 17-1.3.4.2.2
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -23,10 +23,10 @@
                   :C (v22 / label~e.12))
            :P v6)
     :H (v4 / label
+           :P v6
            :D (v10 / label~e.14)
            :A (v11 / label
                    :A (v23 / label)
                    :P (v24 / label
                            :E (v25 / label~e.16)
-                           :C (v26 / label~e.17)))
-           :P v6))
+                           :C (v26 / label~e.17)))))

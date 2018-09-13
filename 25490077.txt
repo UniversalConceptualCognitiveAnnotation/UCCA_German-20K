@@ -1,14 +1,14 @@
 # ::id 25490077
 # ::tok « » Nein , mein Freund .
-# ::alignments 2-1.1.3.2 4-1.1.3.3.1 5-1.1.3.3.2
+# ::alignments 2-1.1.3.1 4-1.1.3.2.1 5-1.1.3.2.2
 # ::format ucca
 (v1 / label
     :H (v2 / label
            :A (v3 / label)
            :P (v4 / label)
            :A (v5 / label
-                  :S (v6 / label)
-                  :D (v7 / label~e.2)
-                  :G (v8 / label
+                  :D (v6 / label~e.2)
+                  :G (v7 / label
                          :E (v9 / label~e.4)
-                         :C (v10 / label~e.5)))))
+                         :C (v10 / label~e.5))
+                  :S (v8 / label))))

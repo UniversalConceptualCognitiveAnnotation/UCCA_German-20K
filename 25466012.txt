@@ -1,6 +1,6 @@
 # ::id 25466012
 # ::tok In dem Augenblick befand ich mich vorn beim Steuerbord , aufs Geländer gelehnt .
-# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.3 3-1.1.2 4-1.1.3 5-1.1.2 6-1.1.4.1 7-1.1.4.2.1 8-1.1.4.2.2 10-1.2.1.1 11-1.2.1.2 12-1.2.2
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.3 3-1.1.2 4-1.1.3 5-1.1.2 6-1.1.4.1 7-1.1.4.2.1 8-1.1.4.2.2 10-1.2.3.1 11-1.2.3.2 12-1.2.4
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -16,8 +16,8 @@
                           :R (v17 / label~e.7)
                           :C (v18 / label~e.8))))
     :H (v3 / label
+           :A v6
            :A (v8 / label
                   :R (v15 / label~e.10)
                   :C (v16 / label~e.11))
-           :P (v9 / label~e.12)
-           :A v6))
+           :P (v9 / label~e.12)))

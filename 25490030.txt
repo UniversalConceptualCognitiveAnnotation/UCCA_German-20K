@@ -1,6 +1,6 @@
 # ::id 25490030
 # ::tok Sie rieben sich die Augen , streckten die Arme und waren in einem Augenblick auf den Füßen .
-# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3 3-1.1.4.1 4-1.1.4.2 6-1.2.1 7-1.2.2.1 8-1.2.2.2 9-1.3 10-1.4.1 11-1.4.2.1 12-1.4.2.2 13-1.4.2.3 14-1.4.3.1 15-1.4.3.2 16-1.4.3.3
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3 3-1.1.4.1 4-1.1.4.2 6-1.2.1 7-1.2.2.1 8-1.2.2.2 9-1.3 10-1.4.3 11-1.4.4.1 12-1.4.4.2 13-1.4.4.3 14-1.4.1.1 15-1.4.1.2 16-1.4.1.3
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -18,13 +18,13 @@
            :A v6)
     :L (v4 / label~e.9)
     :H (v5 / label
-           :S (v12 / label~e.10)
-           :T (v13 / label
-                   :R (v19 / label~e.11)
-                   :E (v20 / label~e.12)
-                   :C (v21 / label~e.13))
-           :A (v14 / label
-                   :R (v22 / label~e.14)
-                   :E (v23 / label~e.15)
-                   :C (v24 / label~e.16))
-           :A v6))
+           :A (v12 / label
+                   :R (v19 / label~e.14)
+                   :E (v20 / label~e.15)
+                   :C (v21 / label~e.16))
+           :A v6
+           :S (v13 / label~e.10)
+           :T (v14 / label
+                   :R (v22 / label~e.11)
+                   :E (v23 / label~e.12)
+                   :C (v24 / label~e.13))))

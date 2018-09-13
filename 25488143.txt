@@ -1,6 +1,6 @@
 # ::id 25488143
 # ::tok Während mitunter Meer und Wind ruhig waren , glaubte ich einigemal unbestimmte Töne , eine flüchtige Harmonie ferner Akkorde , zu hören .
-# ::alignments 0-1.1 1-1.2.1 2-1.2.2.1 3-1.2.2.2 4-1.2.2.3 5-1.2.3 8-1.3.1 9-1.3.2 10-1.3.3.2 11-1.3.3.3.1 12-1.3.3.3.2 14-1.3.3.4.1 15-1.3.3.4.2 16-1.3.3.4.3 17-1.3.3.4.4.1 18-1.3.3.4.4.2 21-1.3.3.6
+# ::alignments 0-1.1 1-1.2.1 2-1.2.2.1 3-1.2.2.2 4-1.2.2.3 5-1.2.3 8-1.3.1 9-1.3.2 10-1.3.3.1 11-1.3.3.2.1 12-1.3.3.2.2 14-1.3.3.3.1 15-1.3.3.3.2 16-1.3.3.3.3 17-1.3.3.3.4.1 18-1.3.3.3.4.2 21-1.3.3.5
 # ::format ucca
 (v1 / label
     :L (v2 / label~e.0)
@@ -15,7 +15,6 @@
            :S (v8 / label~e.8)
            :A (v9 / label~e.9)
            :A (v10 / label
-                   :A v9
                    :D (v14 / label~e.10)
                    :A (v15 / label
                            :E (v18 / label~e.11)
@@ -27,4 +26,5 @@
                            :E (v23 / label
                                    :E (v24 / label~e.17)
                                    :C (v25 / label~e.18)))
-                   :P (v17 / label~e.21))))
+                   :P (v17 / label~e.21)
+                   :A v9)))

@@ -1,6 +1,6 @@
 # ::id 25489063
 # ::tok « Ich trug also eine Erzählung unserer Erlebnisse vor , artikulierte dabei klar alle Silben und überging dabei nicht das geringste .
-# ::alignments 1-1.1.1 2-1.1.2 4-1.1.4.1.1 5-1.1.4.1.2 6-1.1.4.2.1 7-1.1.4.2.2 8-1.1.2 10-1.2.1 11-1.2.2 12-1.2.3 13-1.2.4.1 14-1.2.4.2 15-1.3 16-1.4.1 17-1.4.2 18-1.4.3 19-1.4.3 20-1.4.3
+# ::alignments 1-1.1.1 2-1.1.2 4-1.1.4.1.1 5-1.1.4.1.2 6-1.1.4.2.1 7-1.1.4.2.2 8-1.1.2 10-1.2.1 11-1.2.2 12-1.2.3 13-1.2.4.1 14-1.2.4.2 15-1.3 16-1.4.6 17-1.4.1 18-1.4.2 19-1.4.2 20-1.4.2
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -23,7 +23,7 @@
            :A v6)
     :L (v4 / label~e.15)
     :H (v5 / label
-           :P (v13 / label~e.16)
-           :A (v14 / label~e.17)
-           :A (v15 / label~e.18,19,20)
-           :A v6))
+           :A (v13 / label~e.17)
+           :A (v14 / label~e.18,19,20)
+           :A v6
+           :P (v15 / label~e.16)))

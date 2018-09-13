@@ -1,6 +1,6 @@
 # ::id 25581004
 # ::tok Ich ließ den wackeren Jungen nach Belieben schwatzen , ohne ihm viel zu antworten .
-# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.1 3-1.1.3.2 4-1.1.3.3 5-1.1.4.1 6-1.1.4.2 7-1.1.5 9-1.2 10-1.3.2 11-1.3.3 13-1.3.5
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.1 3-1.1.3.2 4-1.1.3.3 5-1.1.4.1 6-1.1.4.2 7-1.1.5 9-1.2 10-1.3.6 11-1.3.7 13-1.3.2
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -16,8 +16,8 @@
            :P (v9 / label~e.7))
     :L (v3 / label~e.9)
     :H (v4 / label
-           :D (v10 / label)
-           :A (v11 / label~e.10)
-           :D (v12 / label~e.11)
-           :P (v13 / label~e.13)
-           :A v5))
+           :P (v10 / label~e.13)
+           :A v5
+           :D (v11 / label)
+           :A (v12 / label~e.10)
+           :D (v13 / label~e.11)))

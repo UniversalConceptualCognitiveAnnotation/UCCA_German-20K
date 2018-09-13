@@ -1,6 +1,6 @@
 # ::id 25414004
 # ::tok Ich hatte alle amerikanischen und europäischen Journale gelesen und abermals gelesen und war dadurch nicht weitergekommen .
-# ::alignments 0-1.1.1 2-1.1.3.1 3-1.1.3.2.1 4-1.1.3.2.2 5-1.1.3.2.3 6-1.1.3.3 7-1.1.4.1 8-1.1.4.2 9-1.1.5 10-1.1.4.3 11-1.2 13-1.3.2 14-1.3.3 15-1.3.4
+# ::alignments 0-1.1.1 2-1.1.3.1 3-1.1.3.2.1 4-1.1.3.2.2 5-1.1.3.2.3 6-1.1.3.3 7-1.1.4.1 8-1.1.4.2 9-1.1.5 10-1.1.4.3 11-1.2 13-1.3.4 14-1.3.5 15-1.3.6
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -19,7 +19,7 @@
            :D (v8 / label~e.9))
     :L (v3 / label~e.11)
     :H (v4 / label
+           :A v5
            :A (v9 / label~e.13)
            :D (v10 / label~e.14)
-           :P (v11 / label~e.15)
-           :A v5))
+           :P (v11 / label~e.15)))

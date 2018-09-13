@@ -1,6 +1,6 @@
 # ::id 25466015
 # ::tok Die Offiziere , mit ihren Nacht lorgnetten bewaffnet , beobachteten die zunehmende Dunkelheit .
-# ::alignments 0-1.1.1.1 1-1.1.1.2 3-1.1.1.3.2.1 4-1.1.1.3.2.2 5-1.1.1.3.2.3 6-1.1.1.3.2.4 7-1.1.1.3.3 9-1.1.2 10-1.1.3.1 11-1.1.3.2.2 12-1.1.3.3
+# ::alignments 0-1.1.2.1 1-1.1.2.2 3-1.1.2.3.2.1 4-1.1.2.3.2.2 5-1.1.2.3.2.3 6-1.1.2.3.2.4 7-1.1.2.3.3 9-1.1.3 10-1.1.4.3 11-1.1.4.4.2 12-1.1.4.1
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -17,8 +17,8 @@
                          :P (v13 / label~e.7)))
            :P (v4 / label~e.9)
            :A (v5 / label
-                  :E (v9 / label~e.10)
-                  :E (v10 / label
-                          :A (v11 / label~e.12)
-                          :S (v14 / label~e.11))
-                  :C v11)))
+                  :C (v9 / label~e.12)
+                  :E (v10 / label~e.10)
+                  :E (v11 / label
+                          :A v9
+                          :S (v14 / label~e.11)))))

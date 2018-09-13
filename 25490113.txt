@@ -1,6 +1,6 @@
 # ::id 25490113
 # ::tok Ich sah diesen rätselhaften Mann wieder so , wie er aus Notwendigkeit sein mußte , unerbittlich , grausam .
-# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.1 3-1.1.3.2 4-1.1.3.3 5-1.1.4 6-1.2 8-1.3.1 9-1.3.2 10-1.3.3.1 11-1.3.3.2 12-1.3.4 13-1.3.5 15-1.4.1.1 17-1.4.1.2
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.1 3-1.1.3.2 4-1.1.3.3 5-1.1.4 6-1.2 8-1.3.1 9-1.3.2 10-1.3.3.1 11-1.3.3.2 12-1.3.4 13-1.3.5 15-1.4.2.1 17-1.4.2.2
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -21,7 +21,7 @@
            :S (v13 / label~e.12)
            :D (v14 / label~e.13))
     :H (v5 / label
+           :A v11
            :S (v15 / label
                    :C (v21 / label~e.15)
-                   :C (v22 / label~e.17))
-           :A v11))
+                   :C (v22 / label~e.17))))

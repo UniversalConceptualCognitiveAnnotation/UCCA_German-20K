@@ -1,6 +1,6 @@
 # ::id 25410006
 # ::tok Die Journalisten , welche wetteifernd mit den Schöngeistern die Wissenschaft vertraten , vergossen , verbrauchten in diesem merkwürdigen Feldzug tonnenweise Tinte ; manche sogar etliche Tropfen Blut , denn von der Seeschlange gingen sie zu beleidigenden Persönlichkeiten über .
-# ::alignments 0-1.1.1.1 1-1.1.1.2 3-1.1.1.3.2 4-1.1.1.3.3 5-1.1.1.3.4.1 6-1.1.1.3.4.2 7-1.1.1.3.4.3 8-1.1.1.3.5.1 9-1.1.1.3.5.2 10-1.1.1.3.6 12-1.2.4 14-1.1.2.2 15-1.1.3.1 16-1.1.3.2 17-1.1.3.3 18-1.1.3.4 19-1.1.4 20-1.1.5 22-1.2.1 23-1.2.2 24-1.2.3.1 25-1.2.3.2 26-1.2.3.3 28-1.3 29-1.4.1.1 30-1.4.1.2 31-1.4.1.3 32-1.4.2 33-1.4.3 34-1.4.4.1 35-1.4.4.2 36-1.4.4.3 37-1.4.2
+# ::alignments 0-1.1.1.1 1-1.1.1.2 3-1.1.1.3.2 4-1.1.1.3.3 5-1.1.1.3.4.1 6-1.1.1.3.4.2 7-1.1.1.3.4.3 8-1.1.1.3.5.1 9-1.1.1.3.5.2 10-1.1.1.3.6 12-1.2.4 14-1.1.2.2 15-1.1.3.1 16-1.1.3.2 17-1.1.3.3 18-1.1.3.4 19-1.1.4 20-1.1.5 22-1.2.1 23-1.2.2 24-1.2.3.1 25-1.2.3.2 26-1.2.3.3 28-1.3 29-1.4.5.1 30-1.4.5.2 31-1.4.5.3 32-1.4.1 33-1.4.2 34-1.4.3.1 35-1.4.3.2 36-1.4.3.3 37-1.4.1
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -39,13 +39,13 @@
            :P v14)
     :L (v4 / label~e.28)
     :H (v5 / label
-           :A (v15 / label
-                   :R (v30 / label~e.29)
-                   :E (v31 / label~e.30)
-                   :C (v32 / label~e.31))
-           :P (v16 / label~e.32,37)
-           :A (v17 / label~e.33)
+           :P (v15 / label~e.32,37)
+           :A (v16 / label~e.33)
+           :A (v17 / label
+                   :R (v30 / label~e.34)
+                   :E (v31 / label~e.35)
+                   :C (v32 / label~e.36))
            :A (v18 / label
-                   :R (v33 / label~e.34)
-                   :E (v34 / label~e.35)
-                   :C (v35 / label~e.36))))
+                   :R (v33 / label~e.29)
+                   :E (v34 / label~e.30)
+                   :C (v35 / label~e.31))))

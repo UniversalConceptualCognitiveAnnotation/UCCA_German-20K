@@ -1,6 +1,6 @@
 # ::id 25429000
 # ::tok Doch wenden wir uns aus dem Reiche der Phantasie zur schrecklichen Wirklichkeit .
-# ::alignments 0-1.1 1-1.2.1 2-1.2.2 3-1.2.1 4-1.2.3.1 5-1.2.3.2.1 6-1.2.3.2.2 7-1.2.3.3 8-1.2.3.4 9-1.2.4.1 10-1.2.4.2 11-1.2.4.3
+# ::alignments 0-1.1 1-1.2.1 2-1.2.2 3-1.2.1 4-1.2.3.1 5-1.2.3.2.1 6-1.2.3.2.2 7-1.2.3.3 8-1.2.3.4 9-1.2.4.4 10-1.2.4.1 11-1.2.4.2
 # ::format ucca
 (v1 / label
     :L (v2 / label~e.0)
@@ -15,6 +15,6 @@
                   :R (v10 / label~e.7)
                   :C (v11 / label~e.8))
            :A (v7 / label
-                  :R (v12 / label~e.9)
-                  :E (v13 / label~e.10)
-                  :C (v14 / label~e.11))))
+                  :E (v12 / label~e.10)
+                  :C (v13 / label~e.11)
+                  :R (v14 / label~e.9))))

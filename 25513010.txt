@@ -1,6 +1,6 @@
 # ::id 25513010
 # ::tok « Hier fand ein Geheimnis statt , aber ich bestand nicht darauf , es kennen zu lernen .
-# ::alignments 1-1.1.1 2-1.1.2 3-1.1.3.1 4-1.1.3.2 5-1.1.2 7-1.2 8-1.3.1 9-1.3.2 10-1.3.3 13-1.3.5.2 14-1.3.5.3 16-1.3.5.3
+# ::alignments 1-1.1.1 2-1.1.2 3-1.1.3.1 4-1.1.3.2 5-1.1.2 7-1.2 8-1.3.5 9-1.3.6 10-1.3.1 13-1.3.3.1 14-1.3.3.2 16-1.3.3.2
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -11,10 +11,10 @@
                   :C (v13 / label~e.4)))
     :L (v3 / label~e.7)
     :H (v4 / label
-           :A (v8 / label~e.8)
-           :S (v9 / label~e.9)
-           :D (v10 / label~e.10)
-           :A (v11 / label
-                   :A v8
-                   :A (v14 / label~e.13)
-                   :S (v15 / label~e.14,16))))
+           :D (v8 / label~e.10)
+           :A (v9 / label
+                  :A (v14 / label~e.13)
+                  :S (v15 / label~e.14,16)
+                  :A (v10 / label~e.8))
+           :A v10
+           :S (v11 / label~e.9)))
