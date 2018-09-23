@@ -1,0 +1,21 @@
+# format = ucca
+# sent_id = 25836002
+# text = In mein Zimmer geflüchtet , sahen wir uns einander an , ohne ein Wort zu reden .
+1	In	_	Word	Word	_	3	R	3:R	_
+2	mein	_	Word	Word	_	3	E	3:E	_
+3	Zimmer	_	Word	Word	_	4	A	4:A	_
+4	geflüchtet	_	Word	Word	_	6	A	6:A	_
+5	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+6	sahen	_	Word	Word	_	0	H	0:H	_
+7	wir	_	Word	Word	_	6	A	6:A|4:A|16:A	_
+8	uns	_	Word	Word	_	6	F	6:F	_
+9	einander	_	Word	Word	_	6	A	6:A	_
+10	an	_	Word	Word	_	6	Terminal	6:Terminal	_
+11	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+12	ohne	_	Word	Word	_	16	D	16:D	_
+13	ein	_	Word	Word	_	14	E	14:E	_
+14	Wort	_	Word	Word	_	16	A	16:A	_
+15	zu	_	Word	Word	_	16	F	16:F	_
+16	reden	_	Word	Word	_	6	A	6:A	_
+17	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+

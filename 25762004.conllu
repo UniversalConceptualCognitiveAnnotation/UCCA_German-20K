@@ -1,0 +1,21 @@
+# format = ucca
+# sent_id = 25762004
+# text = Er versicherte mich , die Milch sei vortrefflich und auch nicht im mindesten von Kuhmilch verschieden .
+1	Er	_	Word	Word	_	2	A	2:A	_
+2	versicherte	_	Word	Word	_	0	H	0:H	_
+3	mich	_	Word	Word	_	2	A	2:A	_
+4	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+5	die	_	Word	Word	_	6	E	6:E	_
+6	Milch	_	Word	Word	_	0	C	0:C|16:A	_
+7	sei	_	Word	Word	_	8	D	8:D	_
+8	vortrefflich	_	Word	Word	_	2	H	2:H	_
+9	und	_	Word	Word	_	2	L	2:L	_
+10	auch	_	Word	Word	_	16	D	16:D	_
+11	nicht	_	Word	Word	_	16	D	16:D	_
+12	im	_	Word	Word	_	11	Terminal	11:Terminal	_
+13	mindesten	_	Word	Word	_	11	Terminal	11:Terminal	_
+14	von	_	Word	Word	_	15	R	15:R	_
+15	Kuhmilch	_	Word	Word	_	16	A	16:A	_
+16	verschieden	_	Word	Word	_	2	H	2:H	_
+17	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+

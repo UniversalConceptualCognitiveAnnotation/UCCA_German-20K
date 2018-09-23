@@ -1,0 +1,17 @@
+# format = ucca
+# sent_id = 25466000
+# text = Während der 2 Tage hielt sich die ›Abraham Lincoln‹ bei schwachem Dampf .
+1	Während	_	Word	Word	_	3	R	3:R	_
+2	der	_	Word	Word	_	3	E	3:E	_
+3	2	_	Word	Word	_	5	T	5:T	_
+4	Tage	_	Word	Word	_	3	Terminal	3:Terminal	_
+5	hielt	_	Word	Word	_	0	H	0:H	_
+6	sich	_	Word	Word	_	5	Terminal	5:Terminal	_
+7	die	_	Word	Word	_	8	E	8:E	_
+8	›Abraham	_	Word	Word	_	5	A	5:A	_
+9	Lincoln‹	_	Word	Word	_	8	Terminal	8:Terminal	_
+10	bei	_	Word	Word	_	12	R	12:R	_
+11	schwachem	_	Word	Word	_	12	E	12:E	_
+12	Dampf	_	Word	Word	_	5	A	5:A	_
+13	.	_	Punctuation	Punctuation	_	12	U	12:U	_
+
