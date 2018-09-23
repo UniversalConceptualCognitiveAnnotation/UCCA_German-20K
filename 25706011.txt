@@ -1,0 +1,28 @@
+# ::id 25706011
+# ::tok » Der schwimmende Pharus von Suez « , wiederholte er . » Wir werden gleich zur Mündung des Tunnels gelangen . «
+# ::alignments 1-1.1.5.1.2.1 2-1.1.5.1.2.2 3-1.1.5.1.2.3 4-1.1.5.1.2.4.1 5-1.1.5.1.2.4.2 8-1.1.6 9-1.1.7 12-1.1.5.2.1 14-1.1.5.2.3 15-1.1.5.2.4.1 16-1.1.5.2.4.2 17-1.1.5.2.4.3.1 18-1.1.5.2.4.3.2 19-1.1.5.2.5
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :H (v6 / label
+                         :S (v8 / label)
+                         :A (v9 / label
+                                :E (v14 / label~e.1)
+                                :E (v15 / label~e.2)
+                                :C (v16 / label~e.3)
+                                :E (v17 / label
+                                        :R (v21 / label~e.4)
+                                        :C (v22 / label~e.5))))
+                  :H (v7 / label
+                         :A (v10 / label~e.12)
+                         :D (v11 / label~e.14)
+                         :A (v12 / label
+                                 :R (v18 / label~e.15)
+                                 :C (v19 / label~e.16)
+                                 :E (v20 / label
+                                         :R (v23 / label~e.17)
+                                         :C (v24 / label~e.18)))
+                         :P (v13 / label~e.19)))
+           :P (v4 / label~e.8)
+           :A (v5 / label~e.9)))

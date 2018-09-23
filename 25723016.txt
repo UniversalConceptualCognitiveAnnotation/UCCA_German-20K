@@ -1,0 +1,24 @@
+# ::id 25723016
+# ::tok Ich vernahm nicht das geringste Geräusch ; das Zimmer war ohne Zweifel leer .
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3 3-1.1.4.1.1 4-1.1.4.1.2 5-1.1.4.2 7-1.2.1.1 8-1.2.1.2 10-1.3.4 11-1.3.1 12-1.2.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label~e.0)
+           :S (v6 / label~e.1)
+           :D (v7 / label~e.2)
+           :A (v8 / label
+                  :E (v15 / label
+                          :E (v19 / label~e.3)
+                          :C (v20 / label~e.4))
+                  :C (v16 / label~e.5)))
+    :H (v3 / label
+           :A (v9 / label
+                  :E (v17 / label~e.7)
+                  :C (v18 / label~e.8))
+           :S (v10 / label~e.12))
+    :H (v4 / label
+           :A (v11 / label~e.11)
+           :S (v12 / label)
+           :A (v13 / label)
+           :D (v14 / label~e.10)))

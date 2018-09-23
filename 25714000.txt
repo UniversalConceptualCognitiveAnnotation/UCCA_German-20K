@@ -1,0 +1,37 @@
+# ::id 25714000
+# ::tok Der Koffer wurde wieder fest verschlossen , und der Kapitän schrieb auf seinen Deckel eine Adresse in einer Schrift , welche die neugriechische sein musste .
+# ::alignments 0-1.1.1.1 1-1.1.1.2 3-1.1.3 4-1.1.4 5-1.1.5 7-1.2 8-1.3.3.1 9-1.3.3.2 10-1.3.4 11-1.3.5.1 12-1.3.5.2 13-1.3.5.3 14-1.3.1.1 15-1.3.1.2 16-1.3.2.1 17-1.3.2.2 18-1.3.2.3 20-1.3.2.4.2 21-1.3.2.4.3.1 22-1.3.2.4.3.2 23-1.3.2.4.4 24-1.3.2.4.5
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label
+                  :E (v14 / label~e.0)
+                  :C (v15 / label~e.1))
+           :D (v6 / label~e.3)
+           :D (v7 / label~e.4)
+           :S (v8 / label~e.5))
+    :L (v3 / label~e.7)
+    :H (v4 / label
+           :A (v9 / label
+                  :E (v16 / label~e.14)
+                  :C (v17 / label~e.15))
+           :A (v10 / label
+                   :R (v18 / label~e.16)
+                   :E (v19 / label~e.17)
+                   :C (v20 / label~e.18)
+                   :E (v21 / label
+                           :A v20
+                           :R (v27 / label~e.20)
+                           :A (v28 / label
+                                   :E (v31 / label~e.21)
+                                   :C (v32 / label~e.22))
+                           :S (v29 / label~e.23)
+                           :D (v30 / label~e.24)))
+           :A (v11 / label
+                   :E (v22 / label~e.8)
+                   :C (v23 / label~e.9))
+           :P (v12 / label~e.10)
+           :A (v13 / label
+                   :R (v24 / label~e.11)
+                   :E (v25 / label~e.12)
+                   :C (v26 / label~e.13))))
