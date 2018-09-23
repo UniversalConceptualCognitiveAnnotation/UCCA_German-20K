@@ -1,0 +1,40 @@
+# ::id 25671011
+# ::tok » Aber « , fragte Conseil , » kann mein Herr mich darüber belehren , welche Ursache eine solche Wirkung hervorbringt , denn das Wasser hat sich nicht in Milch umgewandelt , denk' ich mir . «
+# ::alignments 1-1.1.5.1 4-1.1.6 5-1.1.7 8-1.1.5.2.1 9-1.1.5.2.2.1 10-1.1.5.2.2.2 11-1.1.5.2.3 12-1.1.5.2.4 13-1.1.5.2.5 15-1.1.5.2.6.1.1 16-1.1.5.2.6.1.2 17-1.1.5.2.6.2.1 18-1.1.5.2.6.2.2 19-1.1.5.2.6.2.3 20-1.1.5.2.6.3 22-1.1.5.3 23-1.1.5.4.1.1 24-1.1.5.4.1.2 26-1.1.5.4.3 27-1.1.5.4.4 28-1.1.5.4.5.1 29-1.1.5.4.5.2 30-1.1.5.4.3 32-1.1.5.5.1 33-1.1.5.5.2 34-1.1.5.5.1
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :L (v6 / label~e.1)
+                  :H (v7 / label
+                         :D (v11 / label~e.8)
+                         :A (v12 / label
+                                 :E (v23 / label~e.9)
+                                 :C (v24 / label~e.10))
+                         :A (v13 / label~e.11)
+                         :A (v14 / label~e.12)
+                         :P (v15 / label~e.13)
+                         :A (v16 / label
+                                 :A (v25 / label
+                                         :E (v32 / label~e.15)
+                                         :C (v33 / label~e.16))
+                                 :A (v26 / label
+                                         :E (v34 / label~e.17)
+                                         :E (v35 / label~e.18)
+                                         :C (v36 / label~e.19))
+                                 :P (v27 / label~e.20)))
+                  :L (v8 / label~e.22)
+                  :H (v9 / label
+                         :A (v17 / label
+                                 :E (v28 / label~e.23)
+                                 :C (v29 / label~e.24))
+                         :P (v18 / label~e.26,30)
+                         :D (v19 / label~e.27)
+                         :A (v20 / label
+                                 :R (v30 / label~e.28)
+                                 :C (v31 / label~e.29)))
+                  :H (v10 / label
+                          :P (v21 / label~e.32,34)
+                          :A (v22 / label~e.33)))
+           :P (v4 / label~e.4)
+           :A (v5 / label~e.5)))

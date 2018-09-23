@@ -1,0 +1,23 @@
+# ::id 25688013
+# ::tok Kapitän Nemo war vor allem darauf bedacht , den Unglücklichen wieder in s Leben zu rufen .
+# ::alignments 0-1.1.2.1 1-1.1.2.2 3-1.1.4 4-1.1.4 5-1.1.5.1 6-1.1.6 8-1.1.5.2.1 9-1.1.5.2.2 10-1.1.5.3 11-1.1.5.4.1 12-1.1.5.4.2 13-1.1.5.4.3 15-1.1.5.6
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v7 / label~e.0)
+                  :C (v8 / label~e.1))
+           :D (v4 / label~e.3,4)
+           :A (v5 / label
+                  :R (v9 / label~e.5)
+                  :A (v10 / label
+                          :E (v14 / label~e.8)
+                          :C (v15 / label~e.9))
+                  :D (v11 / label~e.10)
+                  :A (v12 / label
+                          :R (v16 / label~e.11)
+                          :E (v17 / label~e.12)
+                          :C (v18 / label~e.13))
+                  :P (v13 / label~e.15)
+                  :A v8)
+           :P (v6 / label~e.6)))
