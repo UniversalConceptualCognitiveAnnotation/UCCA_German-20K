@@ -1,0 +1,16 @@
+# ::id 25489103
+# ::tok Ein Steward trat ein und brachte uns Meerkleidung .
+# ::alignments 0-1.1.2.1 1-1.3.1 2-1.1.1 3-1.1.1 4-1.2 5-1.3.3 6-1.3.4 7-1.3.5
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :P (v5 / label~e.2,3)
+           :A (v6 / label
+                  :E (v11 / label~e.0)
+                  :C (v7 / label~e.1)))
+    :L (v3 / label~e.4)
+    :H (v4 / label
+           :A v7
+           :P (v8 / label~e.5)
+           :A (v9 / label~e.6)
+           :A (v10 / label~e.7)))

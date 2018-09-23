@@ -1,0 +1,28 @@
+# ::id 25500000
+# ::tok » Ich habe auch , mein Herr « , versetzte Kapitän Nemo , » niemals Fleisch von Land tieren auf dem Tisch .
+# ::alignments 1-1.1.5.1 2-1.1.5.2 3-1.1.5.3 5-1.1.5.4.1 6-1.1.5.4.2 9-1.1.6 10-1.1.7.1 11-1.1.7.2 14-1.1.5.5 15-1.1.5.6.1 16-1.1.5.6.2.1 17-1.1.5.6.2.2 18-1.1.5.6.2.3 19-1.1.5.7.1 20-1.1.5.7.2 21-1.1.5.7.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :A (v6 / label~e.1)
+                  :S (v7 / label~e.2)
+                  :D (v8 / label~e.3)
+                  :G (v9 / label
+                         :E (v15 / label~e.5)
+                         :C (v16 / label~e.6))
+                  :T (v10 / label~e.14)
+                  :A (v11 / label
+                          :C (v17 / label~e.15)
+                          :E (v18 / label
+                                  :R (v22 / label~e.16)
+                                  :E (v23 / label~e.17)
+                                  :C (v24 / label~e.18)))
+                  :A (v12 / label
+                          :R (v19 / label~e.19)
+                          :E (v20 / label~e.20)
+                          :C (v21 / label~e.21)))
+           :P (v4 / label~e.9)
+           :A (v5 / label
+                  :E (v13 / label~e.10)
+                  :C (v14 / label~e.11))))

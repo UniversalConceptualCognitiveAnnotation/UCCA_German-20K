@@ -1,0 +1,20 @@
+# ::id 25478011
+# ::tok » Mein Herr « , sagte der Kommandant , » haben wir den nötigen Dampf ?
+# ::alignments 1-1.1.5.1.1 2-1.1.5.1.2 5-1.1.6 6-1.1.7.1 7-1.1.7.2 10-1.1.5.2 11-1.1.5.3 12-1.1.5.4.1 13-1.1.5.4.2 14-1.1.5.4.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :G (v6 / label
+                         :E (v12 / label~e.1)
+                         :C (v13 / label~e.2))
+                  :S (v7 / label~e.10)
+                  :A (v8 / label~e.11)
+                  :A (v9 / label
+                         :E (v14 / label~e.12)
+                         :E (v15 / label~e.13)
+                         :C (v16 / label~e.14)))
+           :P (v4 / label~e.5)
+           :A (v5 / label
+                  :E (v10 / label~e.6)
+                  :C (v11 / label~e.7))))

@@ -1,0 +1,32 @@
+# ::id 25489092
+# ::tok « » Aber , wissen Sie , Herr Professor « , fuhr unser zornmütiger Kamerad fort , » wir werden in diesem eisernen Käfig ganz und gar Hungers sterben !
+# ::alignments 2-1.1.5.1 4-1.1.5.2.1 5-1.1.5.2.2 7-1.1.5.2.3.1 8-1.1.5.2.3.2 11-1.1.6 12-1.1.7.1 13-1.1.7.2 14-1.1.7.3 15-1.1.6 18-1.1.5.3.1 20-1.1.5.3.3.1 21-1.1.5.3.3.2 22-1.1.5.3.3.3 23-1.1.5.3.3.4 24-1.1.5.3.4.1 25-1.1.5.3.4.2 26-1.1.5.3.4.3 27-1.1.5.3.5 28-1.1.5.3.6
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :L (v6 / label~e.2)
+                  :H (v7 / label
+                         :P (v12 / label~e.4)
+                         :A (v13 / label~e.5)
+                         :G (v14 / label
+                                 :E (v20 / label~e.7)
+                                 :C (v21 / label~e.8)))
+                  :H (v8 / label
+                         :A (v15 / label~e.18)
+                         :A (v16 / label
+                                 :R (v22 / label~e.20)
+                                 :E (v23 / label~e.21)
+                                 :E (v24 / label~e.22)
+                                 :C (v25 / label~e.23))
+                         :D (v17 / label
+                                 :C (v26 / label~e.24)
+                                 :N (v27 / label~e.25)
+                                 :C (v28 / label~e.26))
+                         :A (v18 / label~e.27)
+                         :P (v19 / label~e.28)))
+           :P (v4 / label~e.11,15)
+           :A (v5 / label
+                  :R (v9 / label~e.12)
+                  :E (v10 / label~e.13)
+                  :C (v11 / label~e.14))))
