@@ -18,13 +18,19 @@ jobs:
     - stage: convert
       script: curl $SCRIPTS/validate_sentences.sh | bash -s -- --no-linkage
       env: FORMAT=validate
-    - script: curl $SCRIPTS/visualize.sh | bash -s "25[0-5]"
+    - script: curl $SCRIPTS/visualize.sh | bash -s "254"
       env: FORMAT=visualize
-    - script: curl $SCRIPTS/visualize.sh | bash -s "256"
+    - script: curl $SCRIPTS/visualize.sh | bash -s "255"
       env: FORMAT=visualize
-    - script: curl $SCRIPTS/visualize.sh | bash -s "257"
+    - script: curl $SCRIPTS/visualize.sh | bash -s "256[0-4]"
       env: FORMAT=visualize
-    - script: curl $SCRIPTS/visualize.sh | bash -s "25[8-9]"
+    - script: curl $SCRIPTS/visualize.sh | bash -s "256[5-9]"
+      env: FORMAT=visualize
+    - script: curl $SCRIPTS/visualize.sh | bash -s "257[0-4]"
+      env: FORMAT=visualize
+    - script: curl $SCRIPTS/visualize.sh | bash -s "257[5-9]"
+      env: FORMAT=visualize
+    - script: curl $SCRIPTS/visualize.sh | bash -s "258"
       env: FORMAT=visualize
     - script: curl $SCRIPTS/sentences_to_xml.sh | bash
       env: FORMAT=xml
