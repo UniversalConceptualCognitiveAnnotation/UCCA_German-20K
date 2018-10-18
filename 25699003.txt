@@ -1,0 +1,13 @@
+# ::id 25699003
+# ::tok » Im Mittelmeer ! « rief ich aus .
+# ::alignments 1-1.1.5.2.1 2-1.1.5.2.2 5-1.1.6 6-1.1.7 7-1.1.6
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :S (v6 / label)
+                  :A (v7 / label
+                         :R (v8 / label~e.1)
+                         :C (v9 / label~e.2)))
+           :P (v4 / label~e.5,7)
+           :A (v5 / label~e.6)))

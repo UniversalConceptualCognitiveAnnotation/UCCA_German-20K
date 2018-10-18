@@ -1,0 +1,22 @@
+# ::id 25641013
+# ::tok Wohin wollte Kapitän Nemo uns führen ? Nach den Küsten Asiens ?
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.1 3-1.2.3 4-1.1.4 5-1.1.5 7-1.2.5.3 8-1.2.5.4 9-1.2.5.5 10-1.2.5.1
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label~e.0)
+           :D (v5 / label~e.1)
+           :A (v6 / label
+                  :E (v11 / label~e.2)
+                  :C (v9 / label~e.3))
+           :A (v7 / label~e.4)
+           :P (v8 / label~e.5))
+    :H (v3 / label
+           :A v7
+           :P v8
+           :A v9
+           :A (v10 / label
+                   :E (v12 / label~e.10)
+                   :R (v13 / label~e.7)
+                   :E (v14 / label~e.8)
+                   :C (v15 / label~e.9))))

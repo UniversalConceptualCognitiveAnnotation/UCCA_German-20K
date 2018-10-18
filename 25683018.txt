@@ -1,0 +1,41 @@
+# ::id 25683018
+# ::tok Er klettert am Ufer an den Bäumen hinauf , wirft die Nuß herab , die bei m Fallen zerbricht , worauf er sie mit seinen ungeheuren Scheren öffnet .
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.1 3-1.1.3.2 4-1.1.4.1 5-1.1.4.2 6-1.1.4.3 7-1.1.2 9-1.2.1 10-1.2.2.1 11-1.2.2.2 12-1.2.1 14-1.2.2.3.2 15-1.2.2.3.3.2 16-1.2.2.3.3.3.1 17-1.2.2.3.3.3.2 18-1.2.2.3.4 20-1.3 21-1.4.5 22-1.4.1 23-1.4.2.1 24-1.4.2.2 25-1.4.2.3 26-1.4.2.4 27-1.4.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v6 / label~e.0)
+           :P (v7 / label~e.1,7)
+           :A (v8 / label
+                  :R (v16 / label~e.2)
+                  :C (v17 / label~e.3))
+           :A (v9 / label
+                  :R (v18 / label~e.4)
+                  :E (v19 / label~e.5)
+                  :C (v20 / label~e.6)))
+    :H (v3 / label
+           :P (v10 / label~e.9,12)
+           :A (v11 / label
+                   :E (v21 / label~e.10)
+                   :C (v22 / label~e.11)
+                   :E (v23 / label
+                           :A v22
+                           :R (v28 / label~e.14)
+                           :A (v29 / label
+                                   :A v22
+                                   :R (v31 / label~e.15)
+                                   :P (v32 / label
+                                           :E (v33 / label~e.16)
+                                           :C (v34 / label~e.17)))
+                           :P (v30 / label~e.18)))
+           :A v6)
+    :L (v4 / label~e.20)
+    :H (v5 / label
+           :A (v12 / label~e.22)
+           :A (v13 / label
+                   :R (v24 / label~e.23)
+                   :E (v25 / label~e.24)
+                   :E (v26 / label~e.25)
+                   :C (v27 / label~e.26))
+           :P (v14 / label~e.27)
+           :A (v15 / label~e.21)))
