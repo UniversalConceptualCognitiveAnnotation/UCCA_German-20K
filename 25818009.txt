@@ -1,0 +1,37 @@
+# ::id 25818009
+# ::tok » Herr Arronax , wollen Sie , dass ich ihn selbst aufsuche ? « » Nein . Lassen Sie mich gewähren , morgen ... «
+# ::alignments 1-1.1.3.1.1 2-1.1.3.1.2 4-1.1.3.2 5-1.1.3.3 7-1.1.3.4.1 8-1.1.3.4.2 9-1.1.3.4.3 10-1.1.3.4.4 11-1.1.3.4.5 15-1.2.3.1.1 17-1.2.3.2.1 18-1.2.3.2.2 19-1.2.3.2.3 20-1.2.3.2.4 22-1.2.3.3.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label)
+           :P (v5 / label)
+           :A (v6 / label
+                  :G (v10 / label
+                          :E (v17 / label~e.1)
+                          :C (v18 / label~e.2))
+                  :S (v11 / label~e.4)
+                  :A (v12 / label~e.5)
+                  :A (v13 / label
+                          :R (v19 / label~e.7)
+                          :A (v20 / label~e.8)
+                          :A (v21 / label~e.9)
+                          :D (v22 / label~e.10)
+                          :P (v23 / label~e.11))))
+    :H (v3 / label
+           :A (v7 / label)
+           :P (v8 / label)
+           :A (v9 / label
+                  :H (v14 / label
+                          :D (v24 / label~e.15)
+                          :A v22
+                          :P v23)
+                  :H (v15 / label
+                          :D (v25 / label~e.17)
+                          :A (v26 / label~e.18)
+                          :A (v27 / label~e.19)
+                          :P (v28 / label~e.20))
+                  :H (v16 / label
+                          :A (v29 / label)
+                          :T (v30 / label~e.22)
+                          :P v23))))

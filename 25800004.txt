@@ -1,0 +1,25 @@
+# ::id 25800004
+# ::tok Die Falklands-Inseln , die jetzt den Engländern gehören , hießen früher , als sie französisch waren , Malouinen .
+# ::alignments 0-1.1.4.1 1-1.1.4.2 3-1.1.4.3.2 4-1.1.4.3.3 5-1.1.4.3.4.1 6-1.1.4.3.4.2 7-1.1.4.3.5 9-1.1.5 10-1.1.6.1 12-1.1.6.2 13-1.1.6.3 14-1.1.6.4 17-1.1.7
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v7 / label~e.0)
+                  :C (v8 / label~e.1)
+                  :E (v9 / label
+                         :A v8
+                         :R (v14 / label~e.3)
+                         :T (v15 / label~e.4)
+                         :A (v16 / label
+                                 :E (v18 / label~e.5)
+                                 :C (v19 / label~e.6))
+                         :S (v17 / label~e.7)))
+           :S (v4 / label~e.9)
+           :A (v5 / label
+                  :D (v10 / label~e.10)
+                  :R (v11 / label~e.12)
+                  :A (v12 / label~e.13)
+                  :S (v13 / label~e.14)
+                  :A v8)
+           :A (v6 / label~e.17)))

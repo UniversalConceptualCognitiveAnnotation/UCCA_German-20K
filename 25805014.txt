@@ -1,0 +1,18 @@
+# ::id 25805014
+# ::tok Seit 6 Monaten waren wir Gefangene an Bord der ›Nautilus‹ .
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.3 4-1.1.3 5-1.1.4 6-1.1.5.3 7-1.1.5.1 8-1.1.5.2.1 9-1.1.5.2.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :T (v3 / label
+                  :R (v7 / label~e.0)
+                  :E (v8 / label~e.1)
+                  :C (v9 / label~e.2))
+           :A (v4 / label~e.4)
+           :S (v5 / label~e.5)
+           :A (v6 / label
+                  :C (v10 / label~e.7)
+                  :E (v11 / label
+                          :R (v13 / label~e.8)
+                          :C (v14 / label~e.9))
+                  :R (v12 / label~e.6))))

@@ -1,0 +1,30 @@
+# ::id 25805001
+# ::tok Ihre Schilddecken , die mit großen , feinen , durchsichtigen , braun und weiß oder gelb gesprenkelten Horndecken bedeckt sind , haben einen hohen Preis .
+# ::alignments 0-1.1.2.1 1-1.1.2.2 3-1.1.2.3.2 4-1.1.2.3.3.1 5-1.1.2.3.3.2.1 7-1.1.2.3.3.2.2 9-1.1.2.3.3.2.3 11-1.1.2.3.3.2.4 12-1.1.2.3.3.2.5 13-1.1.2.3.3.2.6 14-1.1.2.3.3.2.7 15-1.1.2.3.3.2.8 16-1.1.2.3.3.3 17-1.1.2.3.3.4 18-1.1.2.3.4 22-1.1.4.3 23-1.1.5 24-1.1.4.1
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v6 / label~e.0)
+                  :C (v7 / label~e.1)
+                  :E (v8 / label
+                         :A v7
+                         :R (v11 / label~e.3)
+                         :A (v12 / label
+                                 :R (v14 / label~e.4)
+                                 :D (v15 / label
+                                         :C (v18 / label~e.5)
+                                         :C (v19 / label~e.7)
+                                         :C (v20 / label~e.9)
+                                         :C (v21 / label~e.11)
+                                         :N (v22 / label~e.12)
+                                         :C (v23 / label~e.13)
+                                         :N (v24 / label~e.14)
+                                         :C (v25 / label~e.15))
+                                 :S (v16 / label~e.16)
+                                 :A (v17 / label~e.17))
+                         :S (v13 / label~e.18)))
+           :A (v4 / label
+                  :C (v9 / label~e.24)
+                  :E (v10 / label~e.22))
+           :S (v5 / label~e.23)))

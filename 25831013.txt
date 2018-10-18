@@ -1,0 +1,14 @@
+# ::id 25831013
+# ::tok Inzwischen fielen häufiger Kugeln in unserer Nähe nieder .
+# ::alignments 0-1.1 1-1.2.2 2-1.2.3 3-1.2.4 4-1.2.5.3 5-1.2.5.1 6-1.2.5.2 7-1.2.2
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :P (v4 / label~e.1,7)
+           :D (v5 / label~e.2)
+           :A (v6 / label~e.3)
+           :A (v7 / label
+                  :E (v8 / label~e.5)
+                  :C (v9 / label~e.6)
+                  :R (v10 / label~e.4))))
