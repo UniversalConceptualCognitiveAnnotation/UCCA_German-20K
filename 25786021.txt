@@ -1,0 +1,19 @@
+# ::id 25786021
+# ::tok Ich dachte mir , dass ihr Schnabel gegen einen Eis block gefahren sei .
+# ::alignments 0-1.1.2 1-1.1.3 2-1.1.3 4-1.1.4.5 5-1.1.4.6.1 6-1.1.4.6.2 7-1.1.4.1.1 8-1.1.4.1.2 9-1.1.4.1.3 10-1.1.4.1.4 11-1.1.4.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label~e.0)
+           :P (v4 / label~e.1,2)
+           :A (v5 / label
+                  :A (v6 / label
+                         :R (v10 / label~e.7)
+                         :E (v11 / label~e.8)
+                         :E (v12 / label~e.9)
+                         :C (v13 / label~e.10))
+                  :P (v7 / label~e.11)
+                  :R (v8 / label~e.4)
+                  :A (v9 / label
+                         :E (v14 / label~e.5)
+                         :C (v15 / label~e.6)))))

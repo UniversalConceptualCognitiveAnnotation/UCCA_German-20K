@@ -1,0 +1,31 @@
+# ::id 25712019
+# ::tok Dann ließ er die beiden Läden öffnen , ging von einem zum andern und beobachtete sorgfältig die Gewässer .
+# ::alignments 0-1.1 1-1.2.1 2-1.2.2 3-1.2.3.1 4-1.2.3.2 5-1.2.3.3 6-1.2.4 8-1.3.1 9-1.3.2.1 10-1.3.2.2 11-1.3.3.1 12-1.3.3.2 13-1.4 14-1.5.4 15-1.5.1 16-1.5.2.1 17-1.5.2.2
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :D (v7 / label~e.1)
+           :A (v8 / label~e.2)
+           :A (v9 / label
+                  :E (v17 / label~e.3)
+                  :E (v18 / label~e.4)
+                  :C (v19 / label~e.5))
+           :P (v10 / label~e.6))
+    :H (v4 / label
+           :P (v11 / label~e.8)
+           :A (v12 / label
+                   :R (v20 / label~e.9)
+                   :C (v21 / label~e.10))
+           :A (v13 / label
+                   :R (v22 / label~e.11)
+                   :C (v23 / label~e.12))
+           :A v8)
+    :L (v5 / label~e.13)
+    :H (v6 / label
+           :D (v14 / label~e.15)
+           :A (v15 / label
+                   :E (v24 / label~e.16)
+                   :C (v25 / label~e.17))
+           :A v8
+           :P (v16 / label~e.14)))

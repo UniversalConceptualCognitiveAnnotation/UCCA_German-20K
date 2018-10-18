@@ -1,0 +1,59 @@
+# ::id 25752003
+# ::tok » Sodann , weil man weiß , dass , wenn Sauerstoff die Basis des Lebens ist , die Quantität im Meerwasser aufgelösten Sauerstoffs mit der Tiefe zunimmt , anstatt abzunehmen , und dass der Druck der unteren Schichten dazu beiträgt , ihn darin zusammenzupressen . «
+# ::alignments 1-1.1.1 3-1.1.4 4-1.1.5.1 5-1.1.5.2 7-1.1.5.3.1 9-1.1.5.3.2 10-1.1.5.3.3.1 11-1.1.5.3.3.2.1 12-1.1.5.3.3.2.2 13-1.1.5.3.3.3.1 14-1.1.5.3.3.3.2 17-1.1.5.3.4.1.1 18-1.1.5.3.6.2 19-1.1.5.3.4.1.3.1.2.1 20-1.1.5.3.4.1.3.1.2.2 21-1.1.5.3.4.1.3.1.3 22-1.1.5.3.4.1.3.2 23-1.1.5.3.4.2.1 24-1.1.5.3.4.2.2 25-1.1.5.3.4.2.3 26-1.1.5.3.4.3 28-1.1.5.3.5 29-1.1.5.3.6.1 31-1.1.5.3.7 32-1.1.5.3.8 33-1.1.5.3.9.1.1.1.1 34-1.1.5.3.9.1.1.1.2 35-1.1.5.3.9.1.2.1 36-1.1.5.3.9.1.2.2 37-1.1.5.3.9.1.2.3 39-1.1.5.3.9.3 41-1.1.5.3.9.4 42-1.1.5.3.9.5 43-1.1.5.3.9.6
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :L (v3 / label~e.1)
+           :L (v4 / label~e.3)
+           :H (v5 / label
+                  :A (v6 / label~e.4)
+                  :P (v7 / label~e.5)
+                  :A (v8 / label
+                         :R (v9 / label~e.7)
+                         :L (v10 / label~e.9)
+                         :H (v11 / label
+                                 :A (v18 / label~e.10)
+                                 :S (v19 / label
+                                         :E (v31 / label~e.11)
+                                         :C (v32 / label~e.12))
+                                 :A (v20 / label
+                                         :R (v33 / label~e.13)
+                                         :C (v34 / label~e.14)))
+                         :H (v12 / label
+                                 :A (v21 / label
+                                         :E (v35 / label~e.17)
+                                         :C (v25 / label~e.18)
+                                         :E (v36 / label
+                                                 :E (v42 / label
+                                                         :A (v43 / label~e.22)
+                                                         :A (v48 / label
+                                                                 :E (v52 / label~e.19)
+                                                                 :C (v53 / label~e.20))
+                                                         :S (v49 / label~e.21))
+                                                 :C v43))
+                                 :A (v22 / label
+                                         :R (v37 / label~e.23)
+                                         :E (v38 / label~e.24)
+                                         :C (v39 / label~e.25))
+                                 :P (v23 / label~e.26))
+                         :L (v13 / label~e.28)
+                         :H (v14 / label
+                                 :P (v24 / label~e.29)
+                                 :A v25)
+                         :L (v15 / label~e.31)
+                         :L (v16 / label~e.32)
+                         :H (v17 / label
+                                 :A (v26 / label
+                                         :C (v40 / label
+                                                 :P (v44 / label
+                                                         :E (v50 / label~e.33)
+                                                         :C (v51 / label~e.34)))
+                                         :E (v41 / label
+                                                 :R (v45 / label~e.35)
+                                                 :E (v46 / label~e.36)
+                                                 :C (v47 / label~e.37)))
+                                 :D (v27 / label~e.39)
+                                 :A (v28 / label~e.41)
+                                 :A (v29 / label~e.42)
+                                 :P (v30 / label~e.43))))))

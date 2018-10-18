@@ -1,0 +1,14 @@
+# ::id 25783009
+# ::tok » Ein Zwischenfall , Kapitän ? «
+# ::alignments 1-1.1.3.1.1 2-1.1.3.1.2 4-1.1.3.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :P (v3 / label)
+           :A (v4 / label)
+           :A (v5 / label
+                  :P (v6 / label
+                         :E (v9 / label~e.1)
+                         :C (v10 / label~e.2))
+                  :G (v7 / label~e.4)
+                  :A (v8 / label))))

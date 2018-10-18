@@ -1,0 +1,10 @@
+# ::id 25786004
+# ::tok » Ich bin geblendet , blind ! «
+# ::alignments 1-1.1.2 3-1.1.4.5 5-1.1.4.1
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label~e.1)
+           :S (v4 / label
+                  :C (v5 / label~e.5)
+                  :C (v6 / label~e.3))))

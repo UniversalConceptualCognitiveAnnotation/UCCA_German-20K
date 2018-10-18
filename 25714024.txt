@@ -1,0 +1,28 @@
+# ::id 25714024
+# ::tok Ich begab mich nach dem Frühstück an die Arbeit und war bis 5 Uhr mit meinem Tagebuch beschäftigt .
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.2 3-1.1.3.1 4-1.1.3.2 5-1.1.3.3 6-1.1.4.1 7-1.1.4.2 8-1.1.4.3 9-1.2 11-1.3.4.1 12-1.3.4.2 13-1.3.4.3 14-1.3.5.1 15-1.3.5.2 16-1.3.5.3 17-1.3.6
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label~e.0)
+           :P (v6 / label~e.1,2)
+           :T (v7 / label
+                  :R (v12 / label~e.3)
+                  :E (v13 / label~e.4)
+                  :C (v14 / label~e.5))
+           :A (v8 / label
+                  :R (v15 / label~e.6)
+                  :E (v16 / label~e.7)
+                  :C (v17 / label~e.8)))
+    :L (v3 / label~e.9)
+    :H (v4 / label
+           :A v5
+           :T (v9 / label
+                  :R (v18 / label~e.11)
+                  :E (v19 / label~e.12)
+                  :C (v20 / label~e.13))
+           :A (v10 / label
+                   :R (v21 / label~e.14)
+                   :E (v22 / label~e.15)
+                   :C (v23 / label~e.16))
+           :S (v11 / label~e.17)))
