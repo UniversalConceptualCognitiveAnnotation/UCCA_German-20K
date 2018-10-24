@@ -1,0 +1,13 @@
+# ::id 25635011
+# ::tok Doch hatte ich keine einheimischen Nachen gesehen .
+# ::alignments 0-1.1 2-1.2.3 3-1.2.4 4-1.2.5.1 5-1.2.5.2 6-1.2.6
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :A (v4 / label~e.2)
+           :D (v5 / label~e.3)
+           :A (v6 / label
+                  :E (v8 / label~e.4)
+                  :C (v9 / label~e.5))
+           :P (v7 / label~e.6)))

@@ -1,0 +1,17 @@
+# ::id 25633010
+# ::tok » Ich meinesteils , mein Herr , habe überall solche angetroffen . «
+# ::alignments 1-1.1.3.12 2-1.1.3.1 4-1.1.3.2.1 5-1.1.3.2.2 8-1.1.3.4 9-1.1.3.5 10-1.1.3.6
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :P (v3 / label)
+           :A (v4 / label)
+           :A (v5 / label
+                  :D (v6 / label~e.2)
+                  :G (v7 / label
+                         :E (v12 / label~e.4)
+                         :C (v13 / label~e.5))
+                  :A (v8 / label~e.8)
+                  :A (v9 / label~e.9)
+                  :P (v10 / label~e.10)
+                  :A (v11 / label~e.1))))
