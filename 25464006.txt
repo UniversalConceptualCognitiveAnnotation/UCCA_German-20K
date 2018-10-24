@@ -1,0 +1,11 @@
+# ::id 25464006
+# ::tok Da trat also ein Rückschlag ein .
+# ::alignments 0-1.1 1-1.2.2 3-1.2.4.1 4-1.2.4.2 5-1.2.2
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :P (v4 / label~e.1,5)
+           :A (v5 / label
+                  :E (v6 / label~e.3)
+                  :C (v7 / label~e.4))))

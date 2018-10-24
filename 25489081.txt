@@ -1,0 +1,18 @@
+# ::id 25489081
+# ::tok « » Es ist mir recht lieb . Fange nur an .
+# ::alignments 2-1.1.3.5.1 4-1.1.3.5.3 5-1.1.3.5.4 6-1.1.3.5.5 8-1.1.3.1.2 9-1.1.3.1.3 10-1.1.3.1.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :P (v3 / label)
+           :A (v4 / label)
+           :A (v5 / label
+                  :H (v6 / label
+                         :A (v8 / label)
+                         :P (v9 / label~e.8,10)
+                         :D (v10 / label~e.9))
+                  :H (v7 / label
+                         :A (v11 / label~e.2)
+                         :A (v12 / label~e.4)
+                         :D (v13 / label~e.5)
+                         :S (v14 / label~e.6)))))

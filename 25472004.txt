@@ -1,0 +1,35 @@
+# ::id 25472004
+# ::tok Darauf entfernte es sich 2 bis 3 Meilen , indem es einen phosphoreszierenden Streifen hinter sich ließ wie die Lokomotive ihre Dampf wirbel .
+# ::alignments 0-1.1 1-1.2.1 2-1.2.2 3-1.2.1 4-1.2.3.1 5-1.2.3.1 6-1.2.3.1 7-1.2.3.2 9-1.3 10-1.4.1 11-1.4.2.1 12-1.4.2.2.2 13-1.4.2.3 14-1.4.3.1 15-1.4.3.2 16-1.4.4 17-1.5.4 18-1.5.1.1 19-1.5.1.2 20-1.5.2.1 21-1.5.2.2 22-1.5.2.3
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :P (v7 / label~e.1,3)
+           :A (v8 / label~e.2)
+           :A (v9 / label
+                  :E (v17 / label~e.4,5,6)
+                  :C (v18 / label~e.7)))
+    :L (v4 / label~e.9)
+    :H (v5 / label
+           :A (v10 / label~e.10)
+           :A (v11 / label
+                   :E (v19 / label~e.11)
+                   :E (v20 / label
+                           :A (v21 / label~e.13)
+                           :S (v29 / label~e.12))
+                   :C v21)
+           :A (v12 / label
+                   :R (v22 / label~e.14)
+                   :C (v23 / label~e.15))
+           :P (v13 / label~e.16))
+    :H (v6 / label
+           :A (v14 / label
+                   :E (v24 / label~e.18)
+                   :C (v25 / label~e.19))
+           :A (v15 / label
+                   :R (v26 / label~e.20)
+                   :E (v27 / label~e.21)
+                   :C (v28 / label~e.22))
+           :P v13
+           :R (v16 / label~e.17)))
