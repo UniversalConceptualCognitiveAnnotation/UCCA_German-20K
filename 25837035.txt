@@ -1,0 +1,27 @@
+# ::id 25837035
+# ::tok Die Uhren an Bord standen still ; Tag und Nacht schienen nicht mehr regelmäßig auf einander zu folgen .
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.3.1 3-1.1.1.3.2 4-1.1.2 5-1.1.2 7-1.2.4.1 8-1.2.4.2 9-1.2.4.3 10-1.2.5 11-1.2.6.1 12-1.2.6.2 13-1.2.7 14-1.2.8.1 15-1.2.8.2 17-1.2.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label
+                  :E (v12 / label~e.0)
+                  :C (v13 / label~e.1)
+                  :E (v14 / label
+                          :R (v22 / label~e.2)
+                          :C (v23 / label~e.3)))
+           :S (v5 / label~e.4,5))
+    :H (v3 / label
+           :P (v6 / label~e.17)
+           :A (v7 / label
+                  :C (v15 / label~e.7)
+                  :N (v16 / label~e.8)
+                  :C (v17 / label~e.9))
+           :D (v8 / label~e.10)
+           :D (v9 / label
+                  :E (v18 / label~e.11)
+                  :C (v19 / label~e.12))
+           :D (v10 / label~e.13)
+           :A (v11 / label
+                   :R (v20 / label~e.14)
+                   :C (v21 / label~e.15))))

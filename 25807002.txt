@@ -1,0 +1,33 @@
+# ::id 25807002
+# ::tok Das nächste Land war damals der Archipel der Lucayschen Inseln , die an der Meeresfläche wie ein Haufen Pflastersteine liegen .
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.3 3-1.1.2 4-1.1.3 5-1.1.4.3 6-1.1.4.4 7-1.1.4.1.1 8-1.1.4.1.2 9-1.1.4.1.3 11-1.1.4.2.1 12-1.1.4.2.2.1 13-1.1.4.2.2.2 14-1.1.4.2.2.3 15-1.1.4.2.3.1 16-1.1.4.2.3.2.1 17-1.1.4.2.3.2.2 18-1.1.4.2.3.3 19-1.1.4.2.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v7 / label~e.0)
+                  :E (v8 / label~e.1)
+                  :C (v9 / label~e.2))
+           :S (v4 / label~e.3)
+           :T (v5 / label~e.4)
+           :A (v6 / label
+                  :E (v10 / label
+                          :R (v14 / label~e.7)
+                          :E (v15 / label~e.8)
+                          :C (v16 / label~e.9))
+                  :E (v11 / label
+                          :R (v17 / label~e.11)
+                          :A (v18 / label
+                                  :R (v21 / label~e.12)
+                                  :E (v22 / label~e.13)
+                                  :C (v23 / label~e.14))
+                          :A (v19 / label
+                                  :R (v24 / label~e.15)
+                                  :E (v25 / label
+                                          :E (v27 / label~e.16)
+                                          :C (v28 / label~e.17))
+                                  :C (v26 / label~e.18))
+                          :S (v20 / label~e.19)
+                          :A v16)
+                  :E (v12 / label~e.5)
+                  :C (v13 / label~e.6))))
