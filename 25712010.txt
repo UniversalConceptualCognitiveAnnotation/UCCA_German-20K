@@ -1,0 +1,21 @@
+# ::id 25712010
+# ::tok Diese Unterredung , die später so schwere Folgen haben sollte , schloß also .
+# ::alignments 0-1.1.3.3 1-1.1.3.4 3-1.1.3.1.1 4-1.1.3.1.2 5-1.1.3.1.3.1.1 6-1.1.3.1.3.1.2 7-1.1.3.1.3.2 8-1.1.3.1.4 9-1.1.3.1.5 11-1.1.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v5 / label
+                         :R (v8 / label~e.3)
+                         :T (v9 / label~e.4)
+                         :A (v10 / label
+                                 :E (v13 / label
+                                         :E (v15 / label~e.5)
+                                         :C (v16 / label~e.6))
+                                 :C (v14 / label~e.7))
+                         :S (v11 / label~e.8)
+                         :D (v12 / label~e.9)
+                         :A (v7 / label~e.1))
+                  :E (v6 / label~e.0)
+                  :C v7)
+           :P (v4 / label~e.11)))

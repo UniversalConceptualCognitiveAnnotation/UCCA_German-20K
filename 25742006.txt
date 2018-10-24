@@ -1,0 +1,79 @@
+# ::id 25742006
+# ::tok Der Boden erhob sich merklich , sowie man sich von dem Wasser entfernte , und wir gelangten bald zu langen , gewundenen Aufwegen , wahren Anbergen , die allmählich hinaufzukommen gestatteten , aber man musste inmitten dieser von keinem Bindemittel zusammengehaltenen Haufen vorsichtig schreiten , und der Fuß glitt auf diesen glasartigen Trachyten , die aus Kristallen von Feldspat und Quarz gebildet waren .
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.2 3-1.1.2 4-1.1.3 6-1.2 7-1.3.1 8-1.3.2 9-1.3.3.1 10-1.3.3.2 11-1.3.3.3 12-1.3.2 14-1.4 15-1.5.1 16-1.5.2 17-1.5.3 18-1.5.4.1 19-1.5.4.2.1 21-1.5.4.2.2 22-1.5.4.3 24-1.5.5.1 25-1.5.5.2 27-1.5.5.3.2 28-1.5.5.3.3 29-1.5.5.3.4 30-1.5.5.3.5 32-1.6 33-1.7.1 34-1.7.2 35-1.7.3.1 36-1.7.3.2 37-1.7.3.3.2.1 38-1.7.3.3.2.2 39-1.7.3.3.2.3 40-1.7.3.3.3 41-1.7.3.4 42-1.7.4 43-1.7.5 45-1.8 46-1.9.1.1 47-1.9.1.2 48-1.9.2 49-1.9.3.1 50-1.9.3.2 51-1.9.3.3 52-1.9.3.4 54-1.9.3.5.2 55-1.9.3.5.3.1 56-1.9.3.5.3.2 57-1.9.3.5.3.3.1 58-1.9.3.5.3.3.2 59-1.9.3.5.3.3.3 60-1.9.3.5.3.3.4 61-1.9.3.5.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v11 / label
+                   :E (v30 / label~e.0)
+                   :C (v31 / label~e.1))
+           :P (v12 / label~e.2,3)
+           :D (v13 / label~e.4))
+    :L (v3 / label~e.6)
+    :H (v4 / label
+           :A (v14 / label~e.7)
+           :P (v15 / label~e.8,12)
+           :A (v16 / label
+                   :R (v32 / label~e.9)
+                   :E (v33 / label~e.10)
+                   :C (v34 / label~e.11)))
+    :L (v5 / label~e.14)
+    :H (v6 / label
+           :A (v17 / label~e.15)
+           :P (v18 / label~e.16)
+           :D (v19 / label~e.17)
+           :A (v20 / label
+                   :R (v35 / label~e.18)
+                   :S (v36 / label
+                           :C (v52 / label~e.19)
+                           :C (v53 / label~e.21))
+                   :A (v37 / label~e.22))
+           :A (v21 / label
+                   :E (v38 / label~e.24)
+                   :C (v39 / label~e.25)
+                   :E (v40 / label
+                           :A v39
+                           :R (v54 / label~e.27)
+                           :D (v55 / label~e.28)
+                           :P (v56 / label~e.29)
+                           :D (v57 / label~e.30))))
+    :L (v7 / label~e.32)
+    :H (v8 / label
+           :A (v22 / label~e.33)
+           :D (v23 / label~e.34)
+           :A (v24 / label
+                   :R (v41 / label~e.35)
+                   :E (v42 / label~e.36)
+                   :E (v43 / label
+                           :A (v44 / label~e.41)
+                           :A (v58 / label
+                                   :R (v63 / label~e.37)
+                                   :E (v64 / label~e.38)
+                                   :C (v65 / label~e.39))
+                           :S (v59 / label~e.40))
+                   :C v44)
+           :D (v25 / label~e.42)
+           :P (v26 / label~e.43))
+    :L (v9 / label~e.45)
+    :H (v10 / label
+            :A (v27 / label
+                    :E (v45 / label~e.46)
+                    :C (v46 / label~e.47))
+            :P (v28 / label~e.48)
+            :A (v29 / label
+                    :R (v47 / label~e.49)
+                    :E (v48 / label~e.50)
+                    :E (v49 / label~e.51)
+                    :C (v50 / label~e.52)
+                    :E (v51 / label
+                            :A v50
+                            :R (v60 / label~e.54)
+                            :A (v61 / label
+                                    :R (v66 / label~e.55)
+                                    :C (v67 / label~e.56)
+                                    :C (v68 / label
+                                            :R (v69 / label~e.57)
+                                            :C (v70 / label~e.58)
+                                            :N (v71 / label~e.59)
+                                            :C (v72 / label~e.60)))
+                            :S (v62 / label~e.61)))))

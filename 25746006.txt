@@ -1,0 +1,23 @@
+# ::id 25746006
+# ::tok In einigen Augenblicken waren wir in Sicherheit auf dem höchsten Punkt ebendieser Grotte .
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.3 4-1.1.3 5-1.1.4.1 6-1.1.4.2 7-1.1.5.4 8-1.1.5.1.1 9-1.1.5.1.2 10-1.1.5.2 11-1.1.5.3.1 12-1.1.5.3.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :T (v3 / label
+                  :R (v7 / label~e.0)
+                  :E (v8 / label~e.1)
+                  :C (v9 / label~e.2))
+           :A (v4 / label~e.4)
+           :S (v5 / label
+                  :R (v10 / label~e.5)
+                  :C (v11 / label~e.6))
+           :A (v6 / label
+                  :E (v12 / label
+                          :E (v16 / label~e.8)
+                          :C (v17 / label~e.9))
+                  :C (v13 / label~e.10)
+                  :E (v14 / label
+                          :E (v18 / label~e.11)
+                          :C (v19 / label~e.12))
+                  :R (v15 / label~e.7))))
