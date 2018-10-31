@@ -1,0 +1,44 @@
+# ::id 25829032
+# ::tok Der Kanadier runzelte die Augenbrauen , senkte seine Wimpern , blinzelte mit den Augen und heftete eine Weile seinen Blick mit aller Schärfe auf das Schiff .
+# ::alignments 0-1.1.1.1 1-1.2.3 2-1.1.2 3-1.1.3.1 4-1.1.3.2 6-1.2.1 7-1.2.2.1 8-1.2.2.2 10-1.3.1 11-1.3.2.1 12-1.3.2.2 13-1.3.2.3 14-1.4 15-1.5.6 16-1.5.1.1 17-1.5.1.2 18-1.5.2.1 19-1.5.2.2 20-1.5.3.1 21-1.5.3.2 22-1.5.3.3 23-1.5.4.1 24-1.5.4.2 25-1.5.4.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v7 / label
+                  :E (v20 / label~e.0)
+                  :C (v12 / label~e.1))
+           :P (v8 / label~e.2)
+           :A (v9 / label
+                  :E (v21 / label~e.3)
+                  :C (v22 / label~e.4)))
+    :H (v3 / label
+           :P (v10 / label~e.6)
+           :A (v11 / label
+                   :E (v23 / label~e.7)
+                   :C (v24 / label~e.8))
+           :A v12)
+    :H (v4 / label
+           :P (v13 / label~e.10)
+           :A (v14 / label
+                   :R (v25 / label~e.11)
+                   :E (v26 / label~e.12)
+                   :C (v27 / label~e.13))
+           :A v12)
+    :L (v5 / label~e.14)
+    :H (v6 / label
+           :T (v15 / label
+                   :E (v28 / label~e.16)
+                   :C (v29 / label~e.17))
+           :A (v16 / label
+                   :E (v30 / label~e.18)
+                   :C (v31 / label~e.19))
+           :A (v17 / label
+                   :R (v32 / label~e.20)
+                   :E (v33 / label~e.21)
+                   :C (v34 / label~e.22))
+           :A (v18 / label
+                   :R (v35 / label~e.23)
+                   :E (v36 / label~e.24)
+                   :C (v37 / label~e.25))
+           :A v12
+           :P (v19 / label~e.15)))
