@@ -1,0 +1,26 @@
+# ::id 25647001
+# ::tok Bildete sich der unbegreifliche Mann ein , ich hätte ein den Gästen der " Nautilus " verborgenes Geheimnis entdeckt ?
+# ::alignments 0-1.1.2 1-1.1.2 2-1.1.3.1 3-1.1.3.2 4-1.1.3.3 5-1.1.2 7-1.1.4.4 9-1.1.4.1.1 10-1.1.4.1.2.2.1 11-1.1.4.1.2.2.2 12-1.1.4.1.2.2.3.1 14-1.1.4.1.2.2.3.2 16-1.1.4.1.2.3 17-1.1.4.1.3 18-1.1.4.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :P (v3 / label~e.0,1,5)
+           :A (v4 / label
+                  :E (v6 / label~e.2)
+                  :E (v7 / label~e.3)
+                  :C (v8 / label~e.4))
+           :A (v5 / label
+                  :A (v9 / label
+                         :E (v12 / label~e.9)
+                         :E (v13 / label
+                                 :A (v14 / label~e.17)
+                                 :A (v15 / label
+                                         :E (v17 / label~e.10)
+                                         :C (v18 / label~e.11)
+                                         :E (v19 / label
+                                                 :R (v20 / label~e.12)
+                                                 :C (v21 / label~e.14)))
+                                 :S (v16 / label~e.16))
+                         :C v14)
+                  :P (v10 / label~e.18)
+                  :A (v11 / label~e.7))))

@@ -1,0 +1,65 @@
+# ::id 25645001
+# ::tok Da sah ich mitten im Feuer , das nicht brannte , zierliche , rasche Delphine und 3 Meter lange Segelträger , die kundigen Vorboten der Stürme ; sodann von kleineren bunte Hornfische , Klippfische und tausend andere , die das erleuchtete Element durchstreiften .
+# ::alignments 0-1.1 1-1.2.1 2-1.2.2 3-1.2.3.1 4-1.2.3.2 5-1.2.3.3 7-1.2.3.4.2 8-1.2.3.4.3 9-1.2.3.4.4 11-1.2.4.1.1 13-1.2.4.1.2 14-1.2.4.1.3 15-1.2.4.2 16-1.2.4.3.1.1.1 17-1.2.4.3.1.1.2 18-1.2.4.3.1.2 19-1.2.4.3.2 21-1.2.4.3.3.1 22-1.2.4.3.3.2 23-1.2.4.3.3.3 24-1.2.4.3.3.4.1 25-1.2.4.3.3.4.2 27-1.3 28-1.4.3.2 29-1.4.3.3 30-1.4.4.1.1 31-1.4.4.1.2 33-1.4.4.2 34-1.4.4.3 35-1.4.4.4.2 36-1.4.4.4.3 38-1.4.4.4.4.2 39-1.4.4.4.4.3.1.1 40-1.4.4.4.4.3.2 41-1.4.4.4.4.3.1.2 42-1.4.4.4.4.4
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :P (v6 / label~e.1)
+           :A (v7 / label~e.2)
+           :A (v8 / label
+                  :R (v12 / label~e.3)
+                  :R (v13 / label~e.4)
+                  :C (v14 / label~e.5)
+                  :E (v15 / label
+                          :A v14
+                          :R (v26 / label~e.7)
+                          :D (v27 / label~e.8)
+                          :P (v28 / label~e.9)))
+           :A (v9 / label
+                  :C (v16 / label
+                          :E (v29 / label~e.11)
+                          :E (v30 / label~e.13)
+                          :C (v31 / label~e.14))
+                  :N (v17 / label~e.15)
+                  :C (v18 / label
+                          :E (v32 / label
+                                  :E (v41 / label
+                                          :E (v50 / label~e.16)
+                                          :C (v51 / label~e.17))
+                                  :C (v42 / label~e.18))
+                          :C (v33 / label~e.19)
+                          :E (v34 / label
+                                  :E (v43 / label~e.21)
+                                  :E (v44 / label~e.22)
+                                  :C (v45 / label~e.23)
+                                  :E (v46 / label
+                                          :R (v52 / label~e.24)
+                                          :C (v53 / label~e.25))))))
+    :L (v4 / label~e.27)
+    :H (v5 / label
+           :P v6
+           :A v7
+           :A (v10 / label
+                   :C (v19 / label)
+                   :R (v20 / label~e.28)
+                   :E (v21 / label~e.29))
+           :A (v11 / label
+                   :C (v22 / label
+                           :E (v35 / label~e.30)
+                           :C (v36 / label~e.31))
+                   :C (v23 / label~e.33)
+                   :N (v24 / label~e.34)
+                   :C (v25 / label
+                           :C (v37 / label)
+                           :E (v38 / label~e.35)
+                           :E (v39 / label~e.36)
+                           :E (v40 / label
+                                   :A v39
+                                   :R (v47 / label~e.38)
+                                   :A (v48 / label
+                                           :A (v54 / label
+                                                   :E (v56 / label~e.39)
+                                                   :C (v57 / label~e.41))
+                                           :S (v55 / label~e.40))
+                                   :P (v49 / label~e.42))))))

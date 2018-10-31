@@ -1,0 +1,30 @@
+# ::id 25613004
+# ::tok » Also « , sagte er , » man weiß noch nicht , wo das dritte , von den Schiff brüchigen erbaute Schiff zugrunde gegangen ist ? «
+# ::alignments 4-1.1.6 5-1.1.7 8-1.1.5.2 9-1.1.5.3 10-1.1.5.4.1 11-1.1.5.4.2 13-1.1.5.5.1 14-1.1.5.5.2.1.1 15-1.1.5.5.2.1.2 17-1.1.5.5.2.2.2 18-1.1.5.5.2.2.3.1 19-1.1.5.5.2.2.3.2 20-1.1.5.5.2.2.3.3 21-1.1.5.5.2.2.4 22-1.1.5.5.2.3 23-1.1.5.5.3 24-1.1.5.5.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :A (v6 / label~e.8)
+                  :S (v7 / label~e.9)
+                  :D (v8 / label
+                         :E (v10 / label~e.10)
+                         :C (v11 / label~e.11))
+                  :A (v9 / label
+                         :A (v12 / label~e.13)
+                         :A (v13 / label
+                                 :E (v15 / label
+                                         :E (v18 / label~e.14)
+                                         :C (v19 / label~e.15))
+                                 :E (v16 / label
+                                         :A (v17 / label~e.22)
+                                         :R (v20 / label~e.17)
+                                         :A (v21 / label
+                                                 :E (v23 / label~e.18)
+                                                 :E (v24 / label~e.19)
+                                                 :C (v25 / label~e.20))
+                                         :P (v22 / label~e.21))
+                                 :C v17)
+                         :P (v14 / label~e.23,24)))
+           :P (v4 / label~e.4)
+           :A (v5 / label~e.5)))

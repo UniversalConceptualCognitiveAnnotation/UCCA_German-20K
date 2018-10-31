@@ -1,0 +1,33 @@
+# ::id 25645005
+# ::tok Doch in dieser Tiefe von einigen Metern spürte die " Nautilus " dessen Wüten nicht und schaukelte sich ruhig mitten in stillen Wassern .
+# ::alignments 0-1.1 1-1.2.1.1 2-1.2.1.2 3-1.2.1.3 4-1.2.1.4.1 5-1.2.1.4.2 6-1.2.1.4.3 7-1.2.2 8-1.2.3.1 10-1.4.1 12-1.2.4.1 13-1.2.4.2 14-1.2.5 15-1.3 16-1.4.2 17-1.4.2 18-1.4.3 19-1.4.4.1 20-1.4.4.2 21-1.4.4.3 22-1.4.4.4
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :A (v6 / label
+                  :R (v15 / label~e.1)
+                  :E (v16 / label~e.2)
+                  :C (v17 / label~e.3)
+                  :E (v18 / label
+                          :R (v26 / label~e.4)
+                          :E (v27 / label~e.5)
+                          :C (v28 / label~e.6)))
+           :P (v7 / label~e.7)
+           :A (v8 / label
+                  :E (v19 / label~e.8)
+                  :C (v11 / label~e.10))
+           :A (v9 / label
+                  :R (v20 / label~e.12)
+                  :C (v21 / label~e.13))
+           :D (v10 / label~e.14))
+    :L (v4 / label~e.15)
+    :H (v5 / label
+           :A v11
+           :P (v12 / label~e.16,17)
+           :D (v13 / label~e.18)
+           :A (v14 / label
+                   :R (v22 / label~e.19)
+                   :R (v23 / label~e.20)
+                   :E (v24 / label~e.21)
+                   :C (v25 / label~e.22))))
