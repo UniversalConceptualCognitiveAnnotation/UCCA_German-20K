@@ -1,0 +1,47 @@
+# ::id 25780006
+# ::tok » Der Südpol « , erwiderte Kapitän Nemo mit ernster Stimme , indem er mich in das Fernrohr sehen ließ , das zeigte , wie das Tages gestirn vom Horizont genau in zwei gleiche Teile geschnitten war .
+# ::alignments 1-1.1.1.2 2-1.1.1.2 5-1.1.2 6-1.1.3.1 7-1.1.3.2 8-1.1.4.1 9-1.1.4.2 10-1.1.4.3 12-1.2 13-1.3.5 14-1.3.6 15-1.3.1.1 16-1.3.1.2 17-1.3.1.3 18-1.3.2 19-1.3.3 21-1.3.1.4.2 22-1.3.1.4.3 24-1.3.1.4.4.1 25-1.3.1.4.4.2.1 26-1.3.1.4.4.2.2 27-1.3.1.4.4.2.3 28-1.3.1.4.4.3.1 29-1.3.1.4.4.3.2 30-1.3.1.4.4.4 31-1.3.1.4.4.5.1 32-1.3.1.4.4.5.2 33-1.3.1.4.4.5.3 34-1.3.1.4.4.5.4 35-1.3.1.4.4.6
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label
+                  :S (v14 / label)
+                  :A (v15 / label~e.1,2))
+           :P (v6 / label~e.5)
+           :A (v7 / label
+                  :E (v16 / label~e.6)
+                  :C (v17 / label~e.7))
+           :A (v8 / label
+                  :R (v18 / label~e.8)
+                  :E (v19 / label~e.9)
+                  :C (v20 / label~e.10)))
+    :L (v3 / label~e.12)
+    :H (v4 / label
+           :A (v9 / label
+                  :R (v21 / label~e.15)
+                  :E (v22 / label~e.16)
+                  :C (v23 / label~e.17)
+                  :E (v24 / label
+                          :A v23
+                          :R (v25 / label~e.21)
+                          :P (v26 / label~e.22)
+                          :A (v27 / label
+                                  :R (v28 / label~e.24)
+                                  :A (v29 / label
+                                          :E (v34 / label~e.25)
+                                          :E (v35 / label~e.26)
+                                          :C (v36 / label~e.27))
+                                  :A (v30 / label
+                                          :R (v37 / label~e.28)
+                                          :C (v38 / label~e.29))
+                                  :D (v31 / label~e.30)
+                                  :A (v32 / label
+                                          :R (v39 / label~e.31)
+                                          :E (v40 / label~e.32)
+                                          :E (v41 / label~e.33)
+                                          :C (v42 / label~e.34))
+                                  :S (v33 / label~e.35))))
+           :P (v10 / label~e.18)
+           :D (v11 / label~e.19)
+           :A (v12 / label~e.13)
+           :A (v13 / label~e.14)))

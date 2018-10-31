@@ -1,0 +1,12 @@
+# ::id 25731000
+# ::tok In einigen Augenblicken waren wir angezogen .
+# ::alignments 0-1.1.2.2 1-1.1.2.3 2-1.1.2.1 4-1.1.4 5-1.1.5
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :T (v3 / label
+                  :C (v6 / label~e.2)
+                  :R (v7 / label~e.0)
+                  :E (v8 / label~e.1))
+           :A (v4 / label~e.4)
+           :P (v5 / label~e.5)))
