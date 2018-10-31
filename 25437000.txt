@@ -1,0 +1,19 @@
+# ::id 25437000
+# ::tok » Mein Herr ruft mich ? « sagte er beim Eintreten .
+# ::alignments 1-1.1.4.1.1 2-1.1.4.1.2 3-1.1.4.2 4-1.1.4.3 7-1.1.5 8-1.1.6 9-1.1.7.1.1 10-1.1.7.1.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :A (v7 / label
+                         :E (v11 / label~e.1)
+                         :C (v12 / label~e.2))
+                  :P (v8 / label~e.3)
+                  :A (v9 / label~e.4))
+           :P (v4 / label~e.7)
+           :A (v5 / label~e.8)
+           :A (v6 / label
+                  :P (v10 / label
+                          :R (v13 / label~e.9)
+                          :C (v14 / label~e.10))
+                  :A v5)))

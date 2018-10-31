@@ -1,0 +1,16 @@
+# ::id 25511010
+# ::tok » Sie endigt beim Boot « , war die Antwort .
+# ::alignments 1-1.1.4.1 2-1.1.4.2 3-1.1.4.3.1 4-1.1.4.3.2 7-1.1.5 8-1.1.6.1 9-1.1.6.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :A (v6 / label~e.1)
+                  :S (v7 / label~e.2)
+                  :A (v8 / label
+                         :R (v11 / label~e.3)
+                         :C (v12 / label~e.4)))
+           :S (v4 / label~e.7)
+           :A (v5 / label
+                  :E (v9 / label~e.8)
+                  :C (v10 / label~e.9))))

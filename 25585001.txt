@@ -1,0 +1,13 @@
+# ::id 25585001
+# ::tok » Ja , Herr Professor . «
+# ::alignments 1-1.1.2.5 3-1.1.2.1.1 4-1.1.2.1.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :S (v3 / label)
+           :A (v4 / label
+                  :G (v5 / label
+                         :E (v8 / label~e.3)
+                         :C (v9 / label~e.4))
+                  :S (v6 / label)
+                  :D (v7 / label~e.1))))

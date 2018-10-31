@@ -1,0 +1,56 @@
+# ::id 25528012
+# ::tok » Viertens « , fuhr Conseil fort , ohne sich irremachen zu lassen , » die Apoden , mit langem Leib , ohne Bauchflossen , und einer dichten , oft klebrigen Haut . Diese Ordnung bildet nur eine Familie , zu welcher der Aal gehört . «
+# ::alignments 1-1.1.1.1.1 4-1.1.2 5-1.1.3 6-1.1.2 8-1.2.1 9-1.2.2 10-1.2.3 11-1.2.2 12-1.2.2 15-1.1.1.1.3.1 16-1.1.1.1.3.2 18-1.1.1.1.3.3.1.1 19-1.1.1.1.3.3.1.2 20-1.1.1.1.3.3.1.3 22-1.1.1.1.3.3.2.1 23-1.1.1.1.3.3.2.2 25-1.1.1.1.3.3.3 26-1.1.1.1.3.3.4.1 27-1.1.1.1.3.3.4.2.1 29-1.1.1.1.3.3.4.2.2.1 30-1.1.1.1.3.3.4.2.2.2 31-1.1.1.1.3.3.4.3 33-1.1.1.2.1.1 34-1.1.1.2.1.2 35-1.1.1.2.2 36-1.1.1.2.3 37-1.1.1.2.4.1 38-1.1.1.2.4.2 40-1.1.1.2.4.3.1.2 41-1.1.1.2.4.3.1.3 42-1.1.1.2.4.3.2.1 43-1.1.1.2.4.3.2.2 44-1.1.1.2.4.3.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label
+                  :H (v10 / label
+                          :A (v12 / label~e.1)
+                          :S (v13 / label)
+                          :A (v14 / label
+                                  :E (v19 / label~e.15)
+                                  :C (v20 / label~e.16)
+                                  :E (v21 / label
+                                          :C (v27 / label
+                                                  :R (v34 / label~e.18)
+                                                  :E (v35 / label~e.19)
+                                                  :C (v36 / label~e.20))
+                                          :C (v28 / label
+                                                  :R (v37 / label~e.22)
+                                                  :C (v38 / label~e.23))
+                                          :N (v29 / label~e.25)
+                                          :C (v30 / label
+                                                  :E (v39 / label~e.26)
+                                                  :E (v40 / label
+                                                          :C (v46 / label~e.27)
+                                                          :C (v47 / label
+                                                                  :E (v48 / label~e.29)
+                                                                  :C (v49 / label~e.30)))
+                                                  :C (v41 / label~e.31)
+                                                  :R v34))))
+                  :H (v11 / label
+                          :A (v15 / label
+                                  :E (v22 / label~e.33)
+                                  :C (v23 / label~e.34))
+                          :S (v16 / label~e.35)
+                          :D (v17 / label~e.36)
+                          :A (v18 / label
+                                  :E (v24 / label~e.37)
+                                  :C (v25 / label~e.38)
+                                  :E (v26 / label
+                                          :A (v31 / label
+                                                  :C v25
+                                                  :R (v42 / label~e.40)
+                                                  :E (v43 / label~e.41))
+                                          :A (v32 / label
+                                                  :E (v44 / label~e.42)
+                                                  :C (v45 / label~e.43))
+                                          :S (v33 / label~e.44)))))
+           :P (v5 / label~e.4,6)
+           :A (v6 / label~e.5))
+    :H (v3 / label
+           :D (v7 / label~e.8)
+           :P (v8 / label~e.9,11,12)
+           :D (v9 / label~e.10)
+           :A v6))
