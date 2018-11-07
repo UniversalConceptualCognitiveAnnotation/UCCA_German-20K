@@ -1,0 +1,30 @@
+# ::id 25479005
+# ::tok Dies Verfolgen dauerte etwa eine Dreiviertelstunde , ohne dass die Fregatte dem Tier nur 2 Klafter abgewann .
+# ::alignments 0-1.1.1.2.1 1-1.1.1.2.2 2-1.1.2 3-1.1.3 4-1.1.4.1 5-1.1.4.2 7-1.2 8-1.2 9-1.3.6.1 10-1.3.6.2 11-1.3.7.1 12-1.3.7.2 13-1.3.1 14-1.3.2.1 15-1.3.2.2 16-1.3.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label
+                  :A (v15 / label)
+                  :P (v16 / label
+                          :E (v25 / label~e.0)
+                          :C (v26 / label~e.1)))
+           :P (v6 / label~e.2)
+           :D (v7 / label~e.3)
+           :T (v8 / label
+                  :E (v17 / label~e.4)
+                  :C (v18 / label~e.5)))
+    :L (v3 / label~e.7,8)
+    :H (v4 / label
+           :D (v9 / label~e.13)
+           :A (v10 / label
+                   :E (v19 / label~e.14)
+                   :C (v20 / label~e.15))
+           :P (v11 / label~e.16)
+           :D (v12 / label)
+           :A (v13 / label
+                   :E (v21 / label~e.9)
+                   :C (v22 / label~e.10))
+           :A (v14 / label
+                   :R (v23 / label~e.11)
+                   :C (v24 / label~e.12))))

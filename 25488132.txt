@@ -1,0 +1,45 @@
+# ::id 25488132
+# ::tok Und in der Tat , wenn sie nicht sich ihre Luft selbst bereiteten , so mußten sie notwendig von Zeit zu Zeit an die Oberfläche des Meeres heraufkommen , um ihren Vorrat an atmungsfähigem Gas zu erneuern .
+# ::alignments 0-1.1 1-1.2.1.1 2-1.2.1.2 3-1.2.1.3 5-1.3 6-1.4.1 7-1.4.2 8-1.4.3 9-1.4.4.1 10-1.4.4.2 11-1.4.5 12-1.4.6 14-1.5 15-1.2.2 16-1.2.3 17-1.2.4 18-1.2.5 19-1.2.5 20-1.2.5 21-1.2.5 22-1.2.6.1 23-1.2.6.2 24-1.2.6.3 25-1.2.6.4.1 26-1.2.6.4.2 27-1.2.7 29-1.6 30-1.7.1.1 31-1.7.1.2 32-1.7.1.3.1 33-1.7.1.3.2 34-1.7.1.3.3 36-1.7.3
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :G (v9 / label
+                  :R (v24 / label~e.1)
+                  :E (v25 / label~e.2)
+                  :C (v26 / label~e.3))
+           :D (v10 / label~e.15)
+           :A (v11 / label~e.16)
+           :D (v12 / label~e.17)
+           :A (v13 / label~e.18,19,20,21)
+           :A (v14 / label
+                   :R (v27 / label~e.22)
+                   :E (v28 / label~e.23)
+                   :C (v29 / label~e.24)
+                   :E (v30 / label
+                           :R (v36 / label~e.25)
+                           :C (v37 / label~e.26)))
+           :P (v15 / label~e.27))
+    :L (v4 / label~e.5)
+    :H (v5 / label
+           :A (v16 / label~e.6)
+           :D (v17 / label~e.7)
+           :A (v18 / label~e.8)
+           :A (v19 / label
+                   :R (v31 / label~e.9)
+                   :C (v32 / label~e.10))
+           :D (v20 / label~e.11)
+           :P (v21 / label~e.12))
+    :L (v6 / label~e.14)
+    :L (v7 / label~e.29)
+    :H (v8 / label
+           :A (v22 / label
+                   :E (v33 / label~e.30)
+                   :C (v34 / label~e.31)
+                   :E (v35 / label
+                           :R (v38 / label~e.32)
+                           :E (v39 / label~e.33)
+                           :C (v40 / label~e.34)))
+           :P (v23 / label~e.36)
+           :A v11))
