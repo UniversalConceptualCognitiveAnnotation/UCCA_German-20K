@@ -1,0 +1,22 @@
+# ::id 25757009
+# ::tok » Sind diese Walfische ebenso groß « , fragte er , » als die im Norden ? «
+# ::alignments 2-1.1.5.1.2.1 3-1.1.5.1.2.2 4-1.1.5.1.3 5-1.1.5.1.4 8-1.1.6 9-1.1.7 12-1.1.5.2.1 13-1.1.5.2.2 14-1.1.5.2.3.1 15-1.1.5.2.3.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :H (v6 / label
+                         :A (v8 / label
+                                :E (v14 / label~e.2)
+                                :C (v15 / label~e.3))
+                         :D (v9 / label~e.4)
+                         :S (v10 / label~e.5))
+                  :H (v7 / label
+                         :R (v11 / label~e.12)
+                         :A (v12 / label~e.13)
+                         :A (v13 / label
+                                 :R (v16 / label~e.14)
+                                 :C (v17 / label~e.15))
+                         :S v10))
+           :P (v4 / label~e.8)
+           :A (v5 / label~e.9)))

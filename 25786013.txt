@@ -1,0 +1,14 @@
+# ::id 25786013
+# ::tok » Meiner Treu , das hätte ich niemals geglaubt « , sagte Conseil .
+# ::alignments 1-1.1.5.1 2-1.1.5.1 4-1.1.5.2 6-1.1.5.4 7-1.1.5.5 8-1.1.5.6 11-1.1.6 12-1.1.7
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :G (v6 / label~e.1,2)
+                  :A (v7 / label~e.4)
+                  :A (v8 / label~e.6)
+                  :D (v9 / label~e.7)
+                  :P (v10 / label~e.8))
+           :P (v4 / label~e.11)
+           :A (v5 / label~e.12)))

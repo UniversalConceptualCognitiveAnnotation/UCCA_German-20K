@@ -1,0 +1,21 @@
+# ::id 25790004
+# ::tok Meine Bewegungen , obwohl unter einem Druck von 30 Atmosphären , waren sehr frei .
+# ::alignments 0-1.1.1.1 1-1.3.1 3-1.2 4-1.3.2.1 5-1.3.2.2 6-1.3.2.3 7-1.3.3.1 8-1.3.3.2 9-1.3.3.2 12-1.1.3 13-1.1.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label
+                  :E (v11 / label~e.0)
+                  :C (v8 / label~e.1))
+           :D (v6 / label~e.12)
+           :S (v7 / label~e.13))
+    :L (v3 / label~e.3)
+    :H (v4 / label
+           :A v8
+           :S (v9 / label
+                  :R (v12 / label~e.4)
+                  :E (v13 / label~e.5)
+                  :C (v14 / label~e.6))
+           :A (v10 / label
+                   :R (v15 / label~e.7)
+                   :C (v16 / label~e.8,9))))
