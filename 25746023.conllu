@@ -1,8 +1,8 @@
 # format = ucca
 # sent_id = 25746023
 # text = Aber bevor dieser Strom in den Golf von Mexiko gedrungen , um den 44 . Grad nördlicher Breite , teilt er sich in zwei Arme , von denen der eine nach den Küsten Irlands und Norwegens hinzieht , während der andere südlich nach den Azoren zu sich wendet ; darauf bricht er sich an der afrikanischen Küste und kehrt in einem länglichen Oval nach den Antillen zurück .
-1	Aber	_	Word	Word	_	10	L	10:L	_
-2	bevor	_	Word	Word	_	10	L	10:L	_
+1	Aber	_	Word	Word	_	20	L	20:L	_
+2	bevor	_	Word	Word	_	20	L	20:L	_
 3	dieser	_	Word	Word	_	4	E	4:E	_
 4	Strom	_	Word	Word	_	10	A	10:A	_
 5	in	_	Word	Word	_	9	R	9:R	_
@@ -50,7 +50,7 @@
 47	sich	_	Word	Word	_	48	A	48:A	_
 48	wendet	_	Word	Word	_	25	E	25:E	_
 49	;	_	Punctuation	Punctuation	_	10	U	10:U	_
-50	darauf	_	Word	Word	_	10	L	10:L	_
+50	darauf	_	Word	Word	_	51	L	51:L	_
 51	bricht	_	Word	Word	_	10	H	10:H	_
 52	er	_	Word	Word	_	51	A	51:A|59:A	_
 53	sich	_	Word	Word	_	51	Terminal	51:Terminal	_
@@ -58,7 +58,7 @@
 55	der	_	Word	Word	_	56	E	56:E	_
 56	afrikanischen	_	Word	Word	_	51	A	51:A	_
 57	Küste	_	Word	Word	_	56	E	56:E	_
-58	und	_	Word	Word	_	10	L	10:L	_
+58	und	_	Word	Word	_	59	L	59:L	_
 59	kehrt	_	Word	Word	_	10	H	10:H	_
 60	in	_	Word	Word	_	63	R	63:R	_
 61	einem	_	Word	Word	_	63	E	63:E	_

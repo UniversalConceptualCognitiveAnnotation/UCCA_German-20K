@@ -16,7 +16,7 @@
 13	Nemo	_	Word	Word	_	11	A	11:A	_
 14	,	_	Punctuation	Punctuation	_	11	U	11:U	_
 15	»	_	Punctuation	Punctuation	_	11	U	11:U	_
-16	und	_	Word	Word	_	8	L	8:L	_
+16	und	_	Word	Word	_	22	L	22:L	_
 17	die	_	Word	Word	_	18	E	18:E	_
 18	Arbeit	_	Word	Word	_	22	A	22:A	_
 19	der	_	Word	Word	_	21	R	21:R	_
@@ -60,12 +60,12 @@
 57	Eilande	_	Word	Word	_	54	A	54:A	_
 58	bildeten	_	Word	Word	_	54	Terminal	54:Terminal	_
 59	.	_	Punctuation	Punctuation	_	8	U	8:U	_
-60	Nachher	_	Word	Word	_	8	L	8:L	_
+60	Nachher	_	Word	Word	_	61	L	61:L	_
 61	versank	_	Word	Word	_	8	H	8:H	_
 62	sie	_	Word	Word	_	61	A	61:A|71:A|77:A	_
 63	wieder	_	Word	Word	_	61	D	61:D	_
 64	,	_	Punctuation	Punctuation	_	8	U	8:U	_
-65	um	_	Word	Word	_	8	L	8:L	_
+65	um	_	Word	Word	_	71	L	71:L	_
 66	im	_	Word	Word	_	67	R	67:R	_
 67	Jahr	_	Word	Word	_	71	T	71:T	_
 68	'69	_	Word	Word	_	67	Terminal	67:Terminal	_
@@ -73,7 +73,7 @@
 70	zu	_	Word	Word	_	71	F	71:F	_
 71	erscheinen	_	Word	Word	_	8	H	8:H	_
 72	,	_	Punctuation	Punctuation	_	8	U	8:U	_
-73	um	_	Word	Word	_	8	L	8:L	_
+73	um	_	Word	Word	_	77	L	77:L	_
 74	dann	_	Word	Word	_	77	T	77:T	_
 75	abermals	_	Word	Word	_	77	D	77:D	_
 76	zu	_	Word	Word	_	77	F	77:F	_
@@ -92,7 +92,7 @@
 89	Arbeit	_	Word	Word	_	90	A	90:A	_
 90	unterbrochen	_	Word	Word	_	8	H	8:H	_
 91	.	_	Punctuation	Punctuation	_	8	U	8:U	_
-92	Aber	_	Word	Word	_	8	L	8:L	_
+92	Aber	_	Word	Word	_	98	L	98:L	_
 93	am	_	Word	Word	_	94	R	94:R	_
 94	3	_	Word	Word	_	98	T	98:T	_
 95	.	_	Punctuation	Punctuation	_	94	U	94:U	_
@@ -117,7 +117,7 @@
 114	auf	_	Word	Word	_	98	Terminal	98:Terminal	_
 115	nächst	_	Word	Word	_	116	R	116:R	_
 116	Nea-Kamenni	_	Word	Word	_	98	A	98:A	_
-117	und	_	Word	Word	_	8	L	8:L	_
+117	und	_	Word	Word	_	118	L	118:L	_
 118	vereinigte	_	Word	Word	_	8	H	8:H	_
 119	sich	_	Word	Word	_	118	Terminal	118:Terminal	_
 120	mit	_	Word	Word	_	121	R	121:R	_
@@ -141,7 +141,7 @@
 138	das	_	Word	Word	_	139	E	139:E	_
 139	Inselchen	_	Word	Word	_	140	E	140:E	_
 140	Aphroessa	_	Word	Word	_	137	A	137:A	_
-141	so	_	Word	Word	_	8	L	8:L	_
+141	so	_	Word	Word	_	154	L	154:L	_
 142	nah	_	Word	Word	_	137	D	137:D	_
 143	bei	_	Word	Word	_	144	R	144:R	_
 144	Nea-Kamenni	_	Word	Word	_	137	A	137:A	_
@@ -160,7 +160,7 @@
 157	befand	_	Word	Word	_	8	H	8:H	_
 158	mich	_	Word	Word	_	157	Terminal	157:Terminal	_
 159	,	_	Punctuation	Punctuation	_	8	U	8:U	_
-160	während	_	Word	Word	_	8	L	8:L	_
+160	während	_	Word	Word	_	164	L	164:L	_
 161	diese	_	Word	Word	_	163	E	163:E	_
 162	Natur	_	Word	Word	_	163	E	163:E	_
 163	erscheinung	_	Word	Word	_	164	A	164:A	_
@@ -171,7 +171,7 @@
 168	diesen	_	Word	Word	_	169	E	169:E	_
 169	Meeren	_	Word	Word	_	157	A	157:A	_
 170	,	_	Punctuation	Punctuation	_	8	U	8:U	_
-171	und	_	Word	Word	_	8	L	8:L	_
+171	und	_	Word	Word	_	177	L	177:L	_
 172	ich	_	Word	Word	_	177	A	177:A	_
 173	konnte	_	Word	Word	_	177	D	177:D	_
 174	alle	_	Word	Word	_	176	E	176:E	_
@@ -186,7 +186,7 @@
 183	von	_	Word	Word	_	185	R	185:R	_
 184	runder	_	Word	Word	_	185	E	185:E	_
 185	Gestalt	_	Word	Word	_	8	H	8:H	_
-186	und	_	Word	Word	_	8	L	8:L	_
+186	und	_	Word	Word	_	187	L	187:L	_
 187	hatte	_	Word	Word	_	8	H	8:H	_
 188	300	_	Word	Word	_	189	E	189:E	_
 189	Fuß	_	Word	Word	_	190	E	190:E	_
@@ -229,8 +229,8 @@
 226	bei	_	Word	Word	_	227	R	227:R	_
 227	Nea-Kamenni	_	Word	Word	_	215	A	215:A	_
 228	,	_	Punctuation	Punctuation	_	8	U	8:U	_
-229	und	_	Word	Word	_	8	L	8:L	_
-230	seitdem	_	Word	Word	_	8	L	8:L	_
+229	und	_	Word	Word	_	231	L	231:L	_
+230	seitdem	_	Word	Word	_	231	L	231:L	_
 231	bilden	_	Word	Word	_	8	H	8:H	_
 232	diese	_	Word	Word	_	235	E	235:E	_
 233	drei	_	Word	Word	_	235	E	235:E	_
