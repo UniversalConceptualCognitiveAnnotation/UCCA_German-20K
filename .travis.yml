@@ -7,7 +7,8 @@ cache:
   pip: true
 install:
   - pip install -U ucca
-  - python -m spacy download en_core_web_md de_core_news_md
+  - python -m spacy download en_core_web_md
+  - python -m spacy download de_core_news_md
 env:
   global:
     - SCRIPTS=https://raw.githubusercontent.com/UniversalConceptualCognitiveAnnotation/docs/master/scripts
