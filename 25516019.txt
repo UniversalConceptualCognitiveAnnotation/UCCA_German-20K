@@ -1,0 +1,24 @@
+# ::id 25516019
+# ::tok Ich werde also das Gewicht so weit erhöhen müssen , daß es 1.513,75 Tonnen beträgt , anstatt 1.507,2 Tonnen .
+# ::alignments 0-1.1.4 2-1.1.6 3-1.1.7.1 4-1.1.7.2 5-1.1.8.1 6-1.1.8.2 7-1.1.9 8-1.1.1 10-1.1.2.1 11-1.1.2.2 12-1.1.2.3.1 13-1.1.2.3.1 14-1.1.2.4 16-1.1.2.3.2 17-1.1.2.3.3 18-1.1.2.3.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :D (v3 / label~e.8)
+           :A (v4 / label
+                  :R (v10 / label~e.10)
+                  :A (v11 / label~e.11)
+                  :A (v12 / label
+                          :C (v18 / label~e.12,13)
+                          :N (v19 / label~e.16)
+                          :C (v20 / label~e.17,18))
+                  :S (v13 / label~e.14))
+           :A (v5 / label~e.0)
+           :D (v6 / label~e.2)
+           :A (v7 / label
+                  :E (v14 / label~e.3)
+                  :C (v15 / label~e.4))
+           :D (v8 / label
+                  :E (v16 / label~e.5)
+                  :C (v17 / label~e.6))
+           :P (v9 / label~e.7)))

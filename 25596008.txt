@@ -1,0 +1,24 @@
+# ::id 25596008
+# ::tok Nun wurde es aber völlig dunkel ; man konnte nicht mehr auf 10 Schritte einen Gegenstand erkennen .
+# ::alignments 0-1.1.1 2-1.1.3 3-1.1.4 4-1.1.5 5-1.1.6 7-1.2.4 8-1.2.5 9-1.2.6.1 10-1.2.6.2 11-1.2.7.1 12-1.2.7.2 13-1.2.7.2 14-1.2.1.1 15-1.2.1.2 16-1.2.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :D (v4 / label~e.0)
+           :A (v5 / label~e.2)
+           :D (v6 / label~e.3)
+           :D (v7 / label~e.4)
+           :S (v8 / label~e.5))
+    :H (v3 / label
+           :A (v9 / label
+                  :E (v15 / label~e.14)
+                  :C (v16 / label~e.15))
+           :S (v10 / label~e.16)
+           :A (v11 / label~e.7)
+           :D (v12 / label~e.8)
+           :D (v13 / label
+                   :E (v17 / label~e.9)
+                   :C (v18 / label~e.10))
+           :A (v14 / label
+                   :R (v19 / label~e.11)
+                   :C (v20 / label~e.12,13))))

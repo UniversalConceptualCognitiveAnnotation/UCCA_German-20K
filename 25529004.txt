@@ -1,0 +1,36 @@
+# ::id 25529004
+# ::tok »Aber fahren Sie nur immer fort , Sie sind sehr interessant.« »Die Knorpelfische« , versetzte Conseil mit unvergleichlicher Ausdauer , »enthalten nur drei Ordnungen.« »Um so besser« , sagte Ned .
+# ::alignments 0-1.1 1-1.2.1 2-1.2.2 3-1.2.3.1 4-1.2.3.2 5-1.2.1 7-1.3.1 9-1.3.3 10-1.3.4 11-1.4.1.1 12-1.4.1.2 14-1.4.2 15-1.4.3 16-1.4.4.1 17-1.4.4.2 18-1.4.4.3 20-1.5.1 21-1.5.2 22-1.5.3.1 23-1.5.3.2 24-1.6.1 25-1.6.1 26-1.6.1 28-1.6.2 29-1.6.3
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :P (v8 / label~e.1,5)
+           :A (v9 / label~e.2)
+           :D (v10 / label
+                   :E (v24 / label~e.3)
+                   :C (v25 / label~e.4)))
+    :H (v4 / label
+           :A (v11 / label~e.7)
+           :D (v12 / label~e.9)
+           :S (v13 / label~e.10))
+    :H (v5 / label
+           :A (v14 / label
+                   :E (v26 / label~e.11)
+                   :C (v27 / label~e.12))
+           :P (v15 / label~e.14)
+           :A (v16 / label~e.15)
+           :A (v17 / label
+                   :R (v28 / label~e.16)
+                   :E (v29 / label~e.17)
+                   :C (v30 / label~e.18)))
+    :H (v6 / label
+           :S (v18 / label~e.20)
+           :D (v19 / label~e.21)
+           :A (v20 / label
+                   :E (v31 / label~e.22)
+                   :C (v32 / label~e.23)))
+    :H (v7 / label
+           :A (v21 / label~e.24,25,26)
+           :P (v22 / label~e.28)
+           :A (v23 / label~e.29)))

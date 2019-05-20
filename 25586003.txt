@@ -1,0 +1,17 @@
+# ::id 25586003
+# ::tok »Allerdings , aber unter diesen Bedingungen ist der Mensch nicht frei .
+# ::alignments 0-1.1.4 2-1.2 3-1.1.5.1 4-1.1.5.2 5-1.1.5.3 7-1.1.7.1 8-1.1.7.2 9-1.1.1 10-1.1.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :D (v4 / label~e.9)
+           :S (v5 / label~e.10)
+           :D (v6 / label~e.0)
+           :A (v7 / label
+                  :R (v9 / label~e.3)
+                  :E (v10 / label~e.4)
+                  :C (v11 / label~e.5))
+           :A (v8 / label
+                  :E (v12 / label~e.7)
+                  :C (v13 / label~e.8)))
+    :L (v3 / label~e.2))

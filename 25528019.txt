@@ -1,0 +1,22 @@
+# ::id 25528019
+# ::tok Diese Ordnung bildet nur eine Familie , zu welcher der Aal gehört.«
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.2 3-1.1.3 4-1.1.4.1 5-1.1.4.2 7-1.1.4.4.1 8-1.1.4.4.2 9-1.1.4.4.3.1 10-1.1.4.4.3.2 11-1.1.4.4.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v7 / label~e.0)
+                  :C (v8 / label~e.1))
+           :S (v4 / label~e.2)
+           :D (v5 / label~e.3)
+           :A (v6 / label
+                  :E (v9 / label~e.4)
+                  :C (v10 / label~e.5)
+                  :E (v11 / label
+                          :R (v12 / label~e.7)
+                          :A (v13 / label~e.8)
+                          :A (v14 / label
+                                  :E (v16 / label~e.9)
+                                  :C (v17 / label~e.10))
+                          :S (v15 / label~e.11)
+                          :A v10))))

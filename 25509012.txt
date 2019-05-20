@@ -1,0 +1,37 @@
+# ::id 25509012
+# ::tok Von 1.000 Gramm sind 96 1 / 2 Prozent Wasser , etwa 2 2 / 3 Chlorsodium ; sodann in geringer Quantität Chlor-Magnesium und salzsaures Kali , Brom-Magnesium , schwefelsaures Magnesium , schwefelsaurer und kohlensaurer Kalk .
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.2 3-1.1.2 4-1.1.3 5-1.1.3 7-1.1.3 8-1.1.3 9-1.1.4 11-1.1.5.1 12-1.1.5.2 13-1.1.5.2 15-1.1.5.2 16-1.1.5.2 18-1.2 19-1.3.2.1 20-1.3.2.2 21-1.3.2.3 22-1.3.3.1 23-1.3.3.2 24-1.3.3.3.1 25-1.3.3.3.2 27-1.3.3.4 29-1.3.3.5.1 30-1.3.3.5.2 32-1.3.3.6 33-1.3.3.7 34-1.3.3.8.1 35-1.3.3.8.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label
+                  :R (v13 / label~e.0)
+                  :C (v14 / label~e.1,2))
+           :S (v6 / label~e.3)
+           :A (v7 / label~e.4,5,7,8)
+           :A (v8 / label~e.9)
+           :A (v9 / label
+                  :E (v15 / label~e.11)
+                  :C (v16 / label~e.12,13,15,16)))
+    :L (v3 / label~e.18)
+    :H (v4 / label
+           :S (v10 / label)
+           :A (v11 / label
+                   :R (v17 / label~e.19)
+                   :E (v18 / label~e.20)
+                   :C (v19 / label~e.21))
+           :A (v12 / label
+                   :C (v20 / label~e.22)
+                   :N (v21 / label~e.23)
+                   :C (v22 / label
+                           :E (v28 / label~e.24)
+                           :C (v29 / label~e.25))
+                   :C (v23 / label~e.27)
+                   :C (v24 / label
+                           :E (v30 / label~e.29)
+                           :C (v31 / label~e.30))
+                   :C (v25 / label~e.32)
+                   :N (v26 / label~e.33)
+                   :C (v27 / label
+                           :E (v32 / label~e.34)
+                           :C (v33 / label~e.35)))))

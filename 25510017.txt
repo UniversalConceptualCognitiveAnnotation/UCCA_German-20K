@@ -1,0 +1,21 @@
+# ::id 25510017
+# ::tok »Ich weiß nicht , ob sie sie entdecken werden« , erwiderte kalt Kapitän Nemo .
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3 4-1.2 5-1.3.1 6-1.3.2 7-1.3.3 8-1.3.4 10-1.4.3 11-1.4.1 12-1.4.2.1 13-1.4.2.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v6 / label~e.0)
+           :P (v7 / label~e.1)
+           :D (v8 / label~e.2))
+    :L (v3 / label~e.4)
+    :H (v4 / label
+           :A (v9 / label~e.5)
+           :A (v10 / label~e.6)
+           :P (v11 / label~e.7)
+           :D (v12 / label~e.8))
+    :H (v5 / label
+           :D (v13 / label~e.11)
+           :A (v14 / label
+                   :E (v16 / label~e.12)
+                   :C (v17 / label~e.13))
+           :P (v15 / label~e.10)))

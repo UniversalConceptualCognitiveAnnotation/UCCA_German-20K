@@ -1,0 +1,28 @@
+# ::id 25587009
+# ::tok Wenn der Apparat in Tätigkeit tritt , wird dieses Glas leuchtend und gibt ein weißliches andauerndes Licht .
+# ::alignments 0-1.1 1-1.2.1.1 2-1.2.1.2 3-1.2.2.1 4-1.2.2.2 5-1.2.3 7-1.3.1 8-1.3.2.1 9-1.3.2.2 10-1.3.3 11-1.4 12-1.5.2 13-1.5.1.1 14-1.5.1.2 15-1.5.1.3 16-1.5.1.4
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :A (v7 / label
+                  :E (v15 / label~e.1)
+                  :C (v16 / label~e.2))
+           :D (v8 / label
+                  :R (v17 / label~e.3)
+                  :C (v18 / label~e.4))
+           :P (v9 / label~e.5))
+    :H (v4 / label
+           :D (v10 / label~e.7)
+           :A (v11 / label
+                   :E (v19 / label~e.8)
+                   :C (v20 / label~e.9))
+           :S (v12 / label~e.10))
+    :L (v5 / label~e.11)
+    :H (v6 / label
+           :A (v13 / label
+                   :E (v21 / label~e.13)
+                   :E (v22 / label~e.14)
+                   :E (v23 / label~e.15)
+                   :C (v24 / label~e.16))
+           :P (v14 / label~e.12)))
