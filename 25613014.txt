@@ -1,0 +1,19 @@
+# ::id 25613014
+# ::tok Die " Astrolabe " kam ihr zum Beistand und scheiterte ebenfalls .
+# ::alignments 0-1.1.4.1 2-1.3.1 4-1.1.1 5-1.1.2 6-1.1.3.1 7-1.1.3.2 8-1.2 9-1.3.3 10-1.3.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :D (v5 / label~e.4)
+           :A (v6 / label~e.5)
+           :P (v7 / label
+                  :R (v12 / label~e.6)
+                  :C (v13 / label~e.7))
+           :A (v8 / label
+                  :E (v14 / label~e.0)
+                  :C (v9 / label~e.2)))
+    :L (v3 / label~e.8)
+    :H (v4 / label
+           :A v9
+           :P (v10 / label~e.9)
+           :D (v11 / label~e.10)))

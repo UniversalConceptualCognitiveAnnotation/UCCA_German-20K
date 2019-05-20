@@ -1,0 +1,15 @@
+# ::id 25697013
+# ::tok »Und diese Stelle ? ...« fragte ich .
+# ::alignments 0-1.1.4.2 1-1.1.4.1.2.1 2-1.1.4.1.2.2 5-1.1.5 6-1.1.6
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :H (v6 / label
+                         :S (v8 / label)
+                         :A (v9 / label
+                                :E (v10 / label~e.1)
+                                :C (v11 / label~e.2)))
+                  :L (v7 / label~e.0))
+           :P (v4 / label~e.5)
+           :A (v5 / label~e.6)))

@@ -1,0 +1,43 @@
+# ::id 25671015
+# ::tok Ich weiß nicht , ob Conseil meiner Mahnung Rechnung trug , aber er schien in tiefes Nachdenken versenkt , indem er ohne Zweifel auszurechnen bemüht war , wieviel Fünftel von Millimetern in 40 Quadratmeilen enthalten sind .
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3 4-1.1.4.1 5-1.1.4.2 6-1.1.4.3.1 7-1.1.4.3.2 8-1.1.4.4 9-1.1.4.4 11-1.2 12-1.3.1 13-1.3.2 14-1.3.3.1 15-1.3.3.2 16-1.3.3.3 17-1.3.4 19-1.4 20-1.5.1 21-1.5.2.1 22-1.5.2.2 23-1.5.3 24-1.5.4 27-1.5.6.1.1 28-1.5.6.1.2 29-1.5.6.1.3 30-1.5.6.1.4 31-1.5.6.2.1 32-1.5.6.2.2 33-1.5.6.2.2 34-1.5.6.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v7 / label~e.0)
+           :P (v8 / label~e.1)
+           :D (v9 / label~e.2)
+           :A (v10 / label
+                   :R (v20 / label~e.4)
+                   :A (v21 / label~e.5)
+                   :A (v22 / label
+                           :E (v32 / label~e.6)
+                           :C (v33 / label~e.7))
+                   :P (v23 / label~e.8,9)))
+    :L (v3 / label~e.11)
+    :H (v4 / label
+           :A (v11 / label~e.12)
+           :D (v12 / label~e.13)
+           :A (v13 / label
+                   :R (v24 / label~e.14)
+                   :E (v25 / label~e.15)
+                   :C (v26 / label~e.16))
+           :P (v14 / label~e.17))
+    :L (v5 / label~e.19)
+    :H (v6 / label
+           :A (v15 / label~e.20)
+           :D (v16 / label
+                   :R (v27 / label~e.21)
+                   :C (v28 / label~e.22))
+           :P (v17 / label~e.23)
+           :D (v18 / label~e.24)
+           :A (v19 / label
+                   :A (v29 / label
+                           :E (v34 / label~e.27)
+                           :E (v35 / label~e.28)
+                           :R (v36 / label~e.29)
+                           :C (v37 / label~e.30))
+                   :A (v30 / label
+                           :R (v38 / label~e.31)
+                           :C (v39 / label~e.32,33))
+                   :S (v31 / label~e.34))))

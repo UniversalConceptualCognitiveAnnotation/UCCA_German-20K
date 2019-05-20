@@ -1,0 +1,37 @@
+# ::id 25613011
+# ::tok Er ankerte zuerst in der Botany Bay , besuchte den Freundschaftsarchipel , Neu-Caledonien , wendete sich dann gegen Santa Cruz und hielt zu Namouka an , einer Insel der Hapaï-Gruppe .
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3 3-1.1.4.1 4-1.1.4.2 5-1.1.4.3 6-1.1.4.3 8-1.2.1 9-1.2.2.2 10-1.2.2.3 12-1.2.2.1 14-1.3.1 15-1.3.1 16-1.3.2 17-1.3.3.1 18-1.3.3.2 19-1.3.3.2 20-1.4 21-1.5.1 22-1.5.2.2 23-1.5.2.3 24-1.5.1 26-1.5.2.1.2 27-1.5.2.1.3 28-1.5.2.1.1.1 29-1.5.2.1.1.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v7 / label~e.0)
+           :P (v8 / label~e.1)
+           :D (v9 / label~e.2)
+           :A (v10 / label
+                   :R (v18 / label~e.3)
+                   :E (v19 / label~e.4)
+                   :C (v20 / label~e.5,6)))
+    :H (v3 / label
+           :P (v11 / label~e.8)
+           :A (v12 / label
+                   :E (v21 / label~e.12)
+                   :E (v22 / label~e.9)
+                   :C (v23 / label~e.10)))
+    :H (v4 / label
+           :P (v13 / label~e.14,15)
+           :D (v14 / label~e.16)
+           :A (v15 / label
+                   :R (v24 / label~e.17)
+                   :C (v25 / label~e.18,19)))
+    :L (v5 / label~e.20)
+    :H (v6 / label
+           :P (v16 / label~e.21,24)
+           :A (v17 / label
+                   :E (v26 / label
+                           :E (v29 / label
+                                   :R (v32 / label~e.28)
+                                   :C (v33 / label~e.29))
+                           :E (v30 / label~e.26)
+                           :C (v31 / label~e.27))
+                   :R (v27 / label~e.22)
+                   :C (v28 / label~e.23))))

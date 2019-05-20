@@ -1,0 +1,16 @@
+# ::id 25678010
+# ::tok »Ach ! diese Essenz« , erwiderte Ned , »muß teuer sein.«
+# ::alignments 0-1.1.3.2 2-1.1.3.1.1.1 3-1.1.3.1.1.2 5-1.1.4 6-1.1.5 8-1.1.3.1.2 9-1.1.3.1.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :H (v6 / label
+                         :A (v8 / label
+                                :E (v11 / label~e.2)
+                                :C (v12 / label~e.3))
+                         :D (v9 / label~e.8)
+                         :S (v10 / label~e.9))
+                  :H (v7 / label~e.0))
+           :P (v4 / label~e.5)
+           :A (v5 / label~e.6)))

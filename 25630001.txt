@@ -1,0 +1,13 @@
+# ::id 25630001
+# ::tok Der »große Smaragdvogel« ist einer der seltensten .
+# ::alignments 0-1.1.2.1 1-1.1.2.2 2-1.1.2.2 4-1.1.4.1 5-1.1.4.2 6-1.1.5
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v6 / label~e.0)
+                  :C (v7 / label~e.1,2))
+           :D (v4 / label
+                  :C (v8 / label~e.4)
+                  :R (v9 / label~e.5))
+           :S (v5 / label~e.6)))

@@ -1,0 +1,51 @@
+# ::id 25668010
+# ::tok Am 24 . früh bekamen wir , unter 12° 5 ? südlicher Breite und 94° 33 ? Länge , die Insel Keeling in Sicht ; sie ist madreporischen Ursprungs , mit prachtvollen Kokos bäumen bepflanzt , aber menschenleer und mit steilen Küsten , an denen die Nautilus nah vorbeifuhr .
+# ::alignments 0-1.1.1.2 1-1.1.1.3 3-1.1.1.4 4-1.1.2 5-1.1.3 7-1.1.4.1 8-1.1.4.2.1 9-1.1.4.2.1 11-1.1.4.2.1 12-1.1.4.2.1 13-1.1.4.2.2 14-1.1.4.2.3 15-1.1.4.2.3 17-1.1.4.2.3 19-1.1.5.1 20-1.1.5.2 21-1.5.2 22-1.1.2 23-1.1.2 25-1.2.1 27-1.2.3 28-1.2.4 30-1.3.1.1 31-1.3.1.2 32-1.3.1.3 33-1.3.1.4 34-1.3.2 36-1.4 37-1.5.1 38-1.6 39-1.7.2 40-1.7.3 41-1.7.4 43-1.7.1.1 44-1.7.1.2 45-1.7.1.3.1 46-1.7.1.3.2 47-1.7.1.4 48-1.7.1.5
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :T (v9 / label
+                  :E (v25 / label~e.0)
+                  :C (v26 / label~e.1)
+                  :E (v27 / label~e.3))
+           :P (v10 / label~e.4,22,23)
+           :A (v11 / label~e.5)
+           :A (v12 / label
+                   :E (v28 / label~e.7)
+                   :C (v29 / label
+                           :C (v41 / label~e.8,9,11,12)
+                           :N (v42 / label~e.13)
+                           :C (v43 / label~e.14,15,17)))
+           :A (v13 / label
+                   :E (v30 / label~e.19)
+                   :E (v31 / label~e.20)
+                   :C (v20 / label~e.21)))
+    :H (v3 / label
+           :A (v14 / label~e.25)
+           :S (v15 / label~e.27)
+           :A (v16 / label~e.28))
+    :H (v4 / label
+           :A (v17 / label
+                   :R (v32 / label~e.30)
+                   :E (v33 / label~e.31)
+                   :E (v34 / label~e.32)
+                   :C (v35 / label~e.33))
+           :S (v18 / label~e.34))
+    :L (v5 / label~e.36)
+    :H (v6 / label
+           :S (v19 / label~e.37)
+           :A v20)
+    :L (v7 / label~e.38)
+    :H (v8 / label
+           :E (v21 / label
+                   :R (v36 / label~e.43)
+                   :A (v37 / label~e.44)
+                   :A (v38 / label
+                           :E (v44 / label~e.45)
+                           :C (v45 / label~e.46))
+                   :D (v39 / label~e.47)
+                   :P (v40 / label~e.48)
+                   :A (v24 / label~e.41))
+           :R (v22 / label~e.39)
+           :E (v23 / label~e.40)
+           :C v24))

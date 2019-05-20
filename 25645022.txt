@@ -1,0 +1,17 @@
+# ::id 25645022
+# ::tok Dieser schien in einer Aufregung die er vergeblich zu bemeistern suchte .
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.6.1 3-1.1.3.6.2 4-1.1.3.6.3 6-1.1.3.8 7-1.1.3.1 9-1.1.3.3 10-1.1.3.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label~e.0)
+           :S (v4 / label~e.1)
+           :A (v5 / label
+                  :D (v6 / label~e.7)
+                  :P (v7 / label~e.9)
+                  :D (v8 / label~e.10)
+                  :A (v9 / label
+                         :R (v11 / label~e.2)
+                         :E (v12 / label~e.3)
+                         :C (v13 / label~e.4))
+                  :A (v10 / label~e.6))))

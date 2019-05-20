@@ -1,0 +1,25 @@
+# ::id 25601002
+# ::tok Der Wärme stoff bringt verschiedene Dichtheit hervor , welche die Ströme und Gegen strömungen verursacht .
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.3 3-1.1.2 4-1.1.3.1 5-1.1.3.2 6-1.1.2 8-1.2.2 9-1.2.3.3.1 10-1.2.3.3.2 11-1.2.3.1 12-1.2.3.2.1 13-1.2.3.2.2 14-1.2.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label
+                  :E (v10 / label~e.0)
+                  :E (v11 / label~e.1)
+                  :C (v12 / label~e.2))
+           :P (v5 / label~e.3,6)
+           :A (v6 / label
+                  :E (v13 / label~e.4)
+                  :C (v14 / label~e.5)))
+    :H (v3 / label
+           :R (v7 / label~e.8)
+           :A (v8 / label
+                  :N (v15 / label~e.11)
+                  :C (v16 / label
+                          :E (v18 / label~e.12)
+                          :C (v19 / label~e.13))
+                  :C (v17 / label
+                          :E (v20 / label~e.9)
+                          :C (v21 / label~e.10)))
+           :P (v9 / label~e.14)))

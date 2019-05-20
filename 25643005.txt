@@ -1,0 +1,54 @@
+# ::id 25643005
+# ::tok »Er ist eine Welt für sich , der Erde so fremd wie die Planeten , welche diese in ihrer Bahn um die Sonne begleiten , und man wird niemals die Arbeiten der Gelehrten des Saturn oder Jupiter kennenlernen .
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.1 3-1.1.3.2 4-1.1.4.1 5-1.1.4.2 7-1.2.1.1 8-1.2.1.2 9-1.2.2 10-1.2.3 11-1.2.4.1 12-1.2.4.3 13-1.2.4.4 15-1.2.4.2.1 16-1.2.4.2.2 17-1.2.4.2.3.1 18-1.2.4.2.3.2.1 19-1.2.4.2.3.2.2 20-1.2.4.2.3.3.1 21-1.2.4.2.3.3.2 22-1.2.4.2.3.3.3 23-1.2.4.2.4 25-1.3 26-1.4.6 28-1.4.2 29-1.4.3.1.1 30-1.4.3.1.2 31-1.4.3.2.2 32-1.4.3.2.3 33-1.4.3.2.1.1 34-1.4.3.2.1.2 35-1.4.3.2.1.3 36-1.4.3.2.1.4 37-1.4.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v6 / label~e.0)
+           :S (v7 / label~e.1)
+           :A (v8 / label
+                  :E (v18 / label~e.2)
+                  :C (v19 / label~e.3))
+           :D (v9 / label
+                  :R (v20 / label~e.4)
+                  :C (v21 / label~e.5)))
+    :H (v3 / label
+           :A (v10 / label
+                   :E (v22 / label~e.7)
+                   :C (v23 / label~e.8))
+           :D (v11 / label~e.9)
+           :S (v12 / label~e.10)
+           :A (v13 / label
+                   :R (v24 / label~e.11)
+                   :E (v25 / label
+                           :R (v30 / label~e.15)
+                           :A (v31 / label~e.16)
+                           :A (v32 / label
+                                   :R (v39 / label~e.17)
+                                   :P (v40 / label
+                                           :E (v46 / label~e.18)
+                                           :C (v47 / label~e.19))
+                                   :A (v41 / label
+                                           :R (v48 / label~e.20)
+                                           :E (v49 / label~e.21)
+                                           :C (v50 / label~e.22)))
+                           :P (v33 / label~e.23))
+                   :E (v26 / label~e.12)
+                   :C (v27 / label~e.13)))
+    :L (v4 / label~e.25)
+    :H (v5 / label
+           :D (v14 / label~e.28)
+           :A (v15 / label
+                   :P (v28 / label
+                           :E (v34 / label~e.29)
+                           :C (v35 / label~e.30))
+                   :A (v29 / label
+                           :E (v36 / label
+                                   :R (v42 / label~e.33)
+                                   :C (v43 / label~e.34)
+                                   :N (v44 / label~e.35)
+                                   :C (v45 / label~e.36))
+                           :R (v37 / label~e.31)
+                           :C (v38 / label~e.32)))
+           :P (v16 / label~e.37)
+           :A (v17 / label~e.26)))

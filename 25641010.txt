@@ -1,0 +1,21 @@
+# ::id 25641010
+# ::tok Timor war nur einen Augenblick sichtbar , während der Leutnant seine Lage aufnahm .
+# ::alignments 0-1.1.1 2-1.1.3 3-1.1.4.1 4-1.1.4.2 5-1.1.5 7-1.2 8-1.3.2.1 9-1.3.2.2 10-1.3.3.1 11-1.3.3.2 12-1.3.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label~e.0)
+           :D (v6 / label~e.2)
+           :A (v7 / label
+                  :E (v12 / label~e.3)
+                  :C (v13 / label~e.4))
+           :S (v8 / label~e.5))
+    :L (v3 / label~e.7)
+    :H (v4 / label
+           :A (v9 / label
+                  :E (v14 / label~e.8)
+                  :C (v15 / label~e.9))
+           :A (v10 / label
+                   :E (v16 / label~e.10)
+                   :C (v17 / label~e.11))
+           :P (v11 / label~e.12)))

@@ -1,0 +1,17 @@
+# ::id 25624014
+# ::tok »Sie werden sehen , mein Herr , wie gut dies Brot ist ! «
+# ::alignments 0-1.1.1 2-1.1.3 4-1.1.5.1 5-1.1.5.2 7-1.2.4 8-1.2.5 9-1.2.6.1 10-1.2.6.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label~e.0)
+           :P (v5 / label~e.2)
+           :A (v6 / label
+                  :E (v10 / label~e.4)
+                  :C (v11 / label~e.5)))
+    :H (v3 / label
+           :D (v7 / label~e.7)
+           :S (v8 / label~e.8)
+           :A (v9 / label
+                  :E (v12 / label~e.9)
+                  :C (v13 / label~e.10))))

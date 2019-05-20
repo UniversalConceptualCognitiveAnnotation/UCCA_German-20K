@@ -1,0 +1,20 @@
+# ::id 25691003
+# ::tok » Und sind wir am Kap der Guten Hoffnung ! « fragte der Kanadier besonders dringlich .
+# ::alignments 1-1.1.5.1 2-1.1.5.2.1 3-1.1.5.2.2 4-1.1.5.2.3.1 5-1.1.5.2.3.2 6-1.1.5.2.3.2 7-1.1.5.2.3.2 8-1.1.5.2.3.2 11-1.1.6 12-1.1.7.2 13-1.1.7.1 14-1.1.8 15-1.1.9
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :L (v8 / label~e.1)
+                  :H (v9 / label
+                         :S (v12 / label~e.2)
+                         :A (v13 / label~e.3)
+                         :A (v14 / label
+                                 :R (v15 / label~e.4)
+                                 :C (v16 / label~e.5,6,7,8))))
+           :P (v4 / label~e.11)
+           :A (v5 / label
+                  :C (v10 / label~e.13)
+                  :E (v11 / label~e.12))
+           :D (v6 / label~e.14)
+           :D (v7 / label~e.15)))

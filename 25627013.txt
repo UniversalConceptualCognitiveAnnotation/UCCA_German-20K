@@ -1,0 +1,16 @@
+# ::id 25627013
+# ::tok »Aber es gibt darunter auch eßbare ! « erwiderte der Harpunier .
+# ::alignments 0-1.1 2-1.2.3.2 3-1.2.3.3 4-1.2.3.4 5-1.2.3.5 8-1.2.4 9-1.2.5.1 10-1.2.5.2
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :A (v4 / label
+                  :S (v7 / label~e.2)
+                  :A (v8 / label~e.3)
+                  :D (v9 / label~e.4)
+                  :D (v10 / label~e.5))
+           :P (v5 / label~e.8)
+           :A (v6 / label
+                  :E (v11 / label~e.9)
+                  :C (v12 / label~e.10))))

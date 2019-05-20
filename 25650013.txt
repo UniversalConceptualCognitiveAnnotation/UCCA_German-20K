@@ -1,0 +1,11 @@
+# ::id 25650013
+# ::tok »Ich bin bereit , Sie zu begleiten.«
+# ::alignments 0-1.1.2 2-1.1.1 4-1.2.1 6-1.2.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :S (v4 / label~e.2)
+           :A (v5 / label~e.0))
+    :H (v3 / label
+           :A (v6 / label~e.4)
+           :P (v7 / label~e.6)))

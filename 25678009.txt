@@ -1,0 +1,30 @@
+# ::id 25678009
+# ::tok »Guter Ned« , erwiderte ich lachend , »das waren unechte Perlen , bloß Glaskugeln , innen mit orientalischer Essenz bestrichen.«
+# ::alignments 0-1.1.2.7.1 1-1.1.2.7.2 3-1.1.3 4-1.1.4 5-1.2.1 7-1.1.2.1 8-1.1.2.2 9-1.1.2.3.1 10-1.1.2.3.2 12-1.1.2.4 13-1.1.2.5.1 15-1.1.2.5.2.1 16-1.1.2.5.2.2.1 17-1.1.2.5.2.2.2 18-1.1.2.5.2.2.3 19-1.1.2.5.2.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label
+                  :A (v8 / label~e.7)
+                  :S (v9 / label~e.8)
+                  :A (v10 / label
+                          :E (v14 / label~e.9)
+                          :C (v15 / label~e.10))
+                  :D (v11 / label~e.12)
+                  :A (v12 / label
+                          :C (v16 / label~e.13)
+                          :E (v17 / label
+                                  :D (v20 / label~e.15)
+                                  :A (v21 / label
+                                          :R (v23 / label~e.16)
+                                          :E (v24 / label~e.17)
+                                          :C (v25 / label~e.18))
+                                  :P (v22 / label~e.19)))
+                  :G (v13 / label
+                          :E (v18 / label~e.0)
+                          :C (v19 / label~e.1)))
+           :P (v5 / label~e.3)
+           :A (v6 / label~e.4))
+    :H (v3 / label
+           :P (v7 / label~e.5)
+           :A v6))

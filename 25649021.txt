@@ -1,0 +1,36 @@
+# ::id 25649021
+# ::tok Von den Leuten an Bord sah ich niemand als den phlegmatischen Steward , der mich so pünktlich und so schweigsam wie gewöhnlich bediente .
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.3 3-1.1.1.4.1 4-1.1.1.4.2 5-1.1.2 6-1.1.3 7-1.1.4 8-1.1.5.6 9-1.1.5.2 10-1.1.5.3 11-1.1.5.4 13-1.1.5.1.1 14-1.1.5.1.2 15-1.1.5.1.3.1.1 16-1.1.5.1.3.1.2 17-1.1.5.1.3.2 18-1.1.5.1.3.3.1 19-1.1.5.1.3.3.2 20-1.1.5.1.4.1 21-1.1.5.1.4.2 22-1.1.5.1.5
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :R (v8 / label~e.0)
+                  :E (v9 / label~e.1)
+                  :C (v10 / label~e.2)
+                  :E (v11 / label
+                          :R (v17 / label~e.3)
+                          :C (v18 / label~e.4)))
+           :P (v4 / label~e.5)
+           :A (v5 / label~e.6)
+           :A (v6 / label~e.7)
+           :A (v7 / label
+                  :E (v12 / label
+                          :R (v19 / label~e.13)
+                          :A (v20 / label~e.14)
+                          :D (v21 / label
+                                  :C (v24 / label
+                                          :E (v29 / label~e.15)
+                                          :C (v30 / label~e.16))
+                                  :N (v25 / label~e.17)
+                                  :C (v26 / label
+                                          :E (v31 / label~e.18)
+                                          :C (v32 / label~e.19)))
+                          :D (v22 / label
+                                  :E (v27 / label~e.20)
+                                  :C (v28 / label~e.21))
+                          :P (v23 / label~e.22))
+                  :E (v13 / label~e.9)
+                  :E (v14 / label~e.10)
+                  :C (v15 / label~e.11)
+                  :R (v16 / label~e.8))))
