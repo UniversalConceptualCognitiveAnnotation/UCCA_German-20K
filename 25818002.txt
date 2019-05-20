@@ -1,0 +1,13 @@
+# ::id 25818002
+# ::tok »Ja , mein Herr.«
+# ::alignments 0-1.1.2.3 2-1.1.2.4.2 3-1.1.2.4.1
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :P (v3 / label)
+           :A (v4 / label
+                  :P (v5 / label)
+                  :D (v6 / label~e.0)
+                  :A (v7 / label
+                         :C (v8 / label~e.3)
+                         :E (v9 / label~e.2)))))

@@ -1,0 +1,16 @@
+# ::id 25823018
+# ::tok Unter 47° 24 ? Breite und 17° 28 ? Länge
+# ::alignments 0-1.1.2.1 1-1.1.2.2.1 2-1.1.2.2.1 4-1.1.2.2.2 5-1.1.2.3 6-1.1.2.4.3 7-1.1.2.4.3 9-1.1.2.4.1
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :S (v3 / label)
+           :A (v4 / label
+                  :R (v5 / label~e.0)
+                  :C (v6 / label
+                         :C (v9 / label~e.1,2)
+                         :E (v10 / label~e.4))
+                  :N (v7 / label~e.5)
+                  :C (v8 / label
+                         :E (v11 / label~e.9)
+                         :C (v12 / label~e.6,7)))))

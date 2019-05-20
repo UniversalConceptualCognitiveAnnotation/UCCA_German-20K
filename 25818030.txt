@@ -1,0 +1,13 @@
+# ::id 25818030
+# ::tok »Mit Ihnen reden , Kapitän.«
+# ::alignments 0-1.1.2.2.2 1-1.1.2.2.3 2-1.1.2.3 4-1.1.2.2.1
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :P (v3 / label)
+           :A (v4 / label
+                  :A (v5 / label
+                         :E (v7 / label~e.4)
+                         :R (v8 / label~e.0)
+                         :C (v9 / label~e.1))
+                  :P (v6 / label~e.2))))

@@ -1,0 +1,14 @@
+# ::id 25814013
+# ::tok Der Schmerz von Kapitän Nemo war unermeßlich .
+# ::alignments 0-1.1.2.1 1-1.1.2.2 2-1.1.2.3.3 3-1.1.2.3.1 4-1.1.2.3.2 6-1.1.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v5 / label~e.0)
+                  :C (v6 / label~e.1)
+                  :E (v7 / label
+                         :E (v8 / label~e.3)
+                         :C (v9 / label~e.4)
+                         :R (v10 / label~e.2)))
+           :S (v4 / label~e.6)))

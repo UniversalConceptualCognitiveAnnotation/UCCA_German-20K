@@ -1,0 +1,16 @@
+# ::id 25818009
+# ::tok »Ich will ihm die Frage stellen , Ned.«
+# ::alignments 0-1.1.2.3 1-1.1.2.4 2-1.1.2.5 3-1.1.2.6.1 4-1.1.2.6.2 5-1.1.2.7 7-1.1.2.1
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :P (v3 / label)
+           :A (v4 / label
+                  :A (v5 / label~e.7)
+                  :A (v6 / label~e.0)
+                  :D (v7 / label~e.1)
+                  :A (v8 / label~e.2)
+                  :A (v9 / label
+                         :E (v11 / label~e.3)
+                         :C (v12 / label~e.4))
+                  :P (v10 / label~e.5))))

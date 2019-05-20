@@ -1,0 +1,27 @@
+# ::id 25843011
+# ::tok Ich muß daher die Vorüberfahrt des Dampfboots abwarten , das alle 2 Monate nach dem Nordkap fährt .
+# ::alignments 0-1.1.2 1-1.1.3 2-1.1.4 3-1.1.5.1.1 4-1.1.5.1.2 5-1.1.5.2.2 6-1.1.5.2.3 7-1.1.6 9-1.1.5.2.1.1 10-1.1.5.2.1.2.1 11-1.1.5.2.1.2.2 12-1.1.5.2.1.2.2 13-1.1.5.2.1.3.1 14-1.1.5.2.1.3.2 15-1.1.5.2.1.3.3 16-1.1.5.2.1.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label~e.0)
+           :D (v4 / label~e.1)
+           :A (v5 / label~e.2)
+           :A (v6 / label
+                  :P (v8 / label
+                         :E (v10 / label~e.3)
+                         :C (v11 / label~e.4))
+                  :A (v9 / label
+                         :E (v12 / label
+                                 :R (v15 / label~e.9)
+                                 :A (v16 / label
+                                         :E (v19 / label~e.10)
+                                         :C (v20 / label~e.11,12))
+                                 :A (v17 / label
+                                         :R (v21 / label~e.13)
+                                         :E (v22 / label~e.14)
+                                         :C (v23 / label~e.15))
+                                 :P (v18 / label~e.16))
+                         :R (v13 / label~e.5)
+                         :C (v14 / label~e.6)))
+           :P (v7 / label~e.7)))

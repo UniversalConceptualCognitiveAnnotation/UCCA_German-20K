@@ -1,0 +1,20 @@
+# ::id 25817011
+# ::tok Fast 7 Monate waren verflossen , ohne daß wir irgend etwas vom Land gehört hatten .
+# ::alignments 0-1.1.2.1 1-1.1.2.2 2-1.1.2.2 4-1.1.4 6-1.1.5.7 7-1.1.5.7 8-1.1.5.1 9-1.1.5.2.1 10-1.1.5.2.2 11-1.1.5.3.1 12-1.1.5.3.2 13-1.1.5.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :T (v3 / label
+                  :E (v6 / label~e.0)
+                  :C (v7 / label~e.1,2))
+           :P (v4 / label~e.4)
+           :A (v5 / label
+                  :A (v8 / label~e.8)
+                  :A (v9 / label
+                         :E (v13 / label~e.9)
+                         :C (v14 / label~e.10))
+                  :A (v10 / label
+                          :R (v15 / label~e.11)
+                          :C (v16 / label~e.12))
+                  :P (v11 / label~e.13)
+                  :R (v12 / label~e.6,7))))

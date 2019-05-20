@@ -1,0 +1,31 @@
+# ::id 25818001
+# ::tok »Nun , Ned , Sie wollen , daß ich Kapitän Nemo um seine Absichten in Hinsicht auf uns befrage ? «
+# ::alignments 0-1.1.2.5 2-1.1.2.6.1 4-1.1.2.6.2 5-1.1.2.1 7-1.1.2.2.1 8-1.1.2.2.2 9-1.1.2.2.3.1 10-1.1.2.2.3.2 11-1.1.2.2.4.1 12-1.1.2.2.4.2.1 13-1.1.2.2.4.2.2 14-1.1.2.2.4.3.1 15-1.1.2.2.4.3.2 16-1.1.2.2.4.4.1 17-1.1.2.2.4.4.2 18-1.1.2.2.5
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :P (v3 / label)
+           :A (v4 / label
+                  :P (v5 / label~e.5)
+                  :A (v6 / label
+                         :R (v9 / label~e.7)
+                         :A (v10 / label~e.8)
+                         :A (v11 / label
+                                 :E (v16 / label~e.9)
+                                 :C (v17 / label~e.10))
+                         :A (v12 / label
+                                 :R (v18 / label~e.11)
+                                 :P (v19 / label
+                                         :E (v22 / label~e.12)
+                                         :C (v23 / label~e.13))
+                                 :D (v20 / label
+                                         :R (v24 / label~e.14)
+                                         :C (v25 / label~e.15))
+                                 :A (v21 / label
+                                         :R (v26 / label~e.16)
+                                         :C (v27 / label~e.17)))
+                         :P (v13 / label~e.18))
+                  :D (v7 / label~e.0)
+                  :A (v8 / label
+                         :C (v14 / label~e.2)
+                         :E (v15 / label~e.4)))))

@@ -1,0 +1,29 @@
+# ::id 25843012
+# ::tok Hier also , umgeben von den braven Leuten , die uns aufgenommen haben , sehe ich die Erzählung dieser Abenteuer durch .
+# ::alignments 0-1.1.5 1-1.2 3-1.1.6.1 4-1.1.6.2.1 5-1.1.6.2.3 6-1.1.6.2.4 7-1.1.6.2.5 9-1.1.6.2.2.1 10-1.1.6.2.2.2 11-1.1.6.2.2.3 14-1.1.7 15-1.1.1 16-1.1.2.1.1 17-1.1.2.1.2 18-1.1.2.2.1 19-1.1.2.2.2 20-1.1.7
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label~e.15)
+           :A (v5 / label
+                  :P (v9 / label
+                         :E (v13 / label~e.16)
+                         :C (v14 / label~e.17))
+                  :A (v10 / label
+                          :R (v15 / label~e.18)
+                          :C (v16 / label~e.19)))
+           :A (v6 / label~e.0)
+           :A (v7 / label
+                  :S (v11 / label~e.3)
+                  :A (v12 / label
+                          :R (v17 / label~e.4)
+                          :E (v18 / label
+                                  :R (v22 / label~e.9)
+                                  :A (v23 / label~e.10)
+                                  :P (v24 / label~e.11)
+                                  :A (v21 / label~e.7))
+                          :E (v19 / label~e.5)
+                          :E (v20 / label~e.6)
+                          :C v21))
+           :P (v8 / label~e.14,20))
+    :L (v3 / label~e.1))

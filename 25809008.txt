@@ -1,0 +1,13 @@
+# ::id 25809008
+# ::tok »Gerade soviel« , erwiderte ich .
+# ::alignments 0-1.1.3.1 1-1.1.3.2 3-1.1.4 4-1.1.5
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :D (v6 / label~e.0)
+                  :D (v7 / label~e.1)
+                  :S (v8 / label)
+                  :A (v9 / label))
+           :P (v4 / label~e.3)
+           :A (v5 / label~e.4)))
