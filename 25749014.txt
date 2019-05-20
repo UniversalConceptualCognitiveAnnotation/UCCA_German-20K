@@ -1,0 +1,16 @@
+# ::id 25749014
+# ::tok Auch große Meerhunde zogen vorüber , die unendlich gefräßig sind .
+# ::alignments 0-1.1 1-1.2.2.1 2-1.2.2.2 3-1.2.3 4-1.2.3 6-1.2.2.3.1 7-1.2.2.3.2 8-1.2.2.3.3
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :A (v4 / label
+                  :E (v6 / label~e.1)
+                  :C (v7 / label~e.2)
+                  :E (v8 / label
+                         :R (v9 / label~e.6)
+                         :D (v10 / label~e.7)
+                         :S (v11 / label~e.8)
+                         :A v7))
+           :P (v5 / label~e.3,4)))

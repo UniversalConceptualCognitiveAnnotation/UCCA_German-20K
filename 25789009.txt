@@ -1,0 +1,19 @@
+# ::id 25789009
+# ::tok Die Ruhmkorffschen Leuchten waren nicht nötig , weil das Wasser genug erhellt war .
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.3 4-1.1.3 5-1.1.4 7-1.2 8-1.3.3.1 9-1.3.3.2 10-1.3.4 11-1.3.5
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label
+                  :E (v11 / label~e.0)
+                  :E (v12 / label~e.1)
+                  :C (v13 / label~e.2))
+           :D (v6 / label~e.4)
+           :S (v7 / label~e.5))
+    :L (v3 / label~e.7)
+    :H (v4 / label
+           :A (v8 / label
+                  :E (v14 / label~e.8)
+                  :C (v15 / label~e.9))
+           :D (v9 / label~e.10)
+           :S (v10 / label~e.11)))

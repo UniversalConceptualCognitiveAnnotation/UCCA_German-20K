@@ -1,0 +1,14 @@
+# ::id 25793024
+# ::tok »So machen wir einen Versuch , Herr Professor.«
+# ::alignments 1-1.1.3 2-1.1.4 3-1.1.5.1 4-1.1.5.2 6-1.1.6.2 7-1.1.6.1
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :D (v3 / label~e.1)
+           :A (v4 / label~e.2)
+           :P (v5 / label
+                  :E (v7 / label~e.3)
+                  :C (v8 / label~e.4))
+           :A (v6 / label
+                  :C (v9 / label~e.7)
+                  :E (v10 / label~e.6))))

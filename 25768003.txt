@@ -1,0 +1,15 @@
+# ::id 25768003
+# ::tok »Haben Sie denn noch weitere zu machen ? «
+# ::alignments 0-1.1.4.8 1-1.1.4.9 3-1.1.4.2 4-1.1.4.3 6-1.1.4.5
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :P (v4 / label)
+           :A (v5 / label)
+           :A (v6 / label
+                  :D (v7 / label~e.3)
+                  :A (v8 / label~e.4)
+                  :P (v9 / label~e.6)
+                  :D (v10 / label~e.0)
+                  :A (v11 / label~e.1))))

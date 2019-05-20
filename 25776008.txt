@@ -1,0 +1,26 @@
+# ::id 25776008
+# ::tok 2 Meilen weiter waren wir durch ein Vorgebirge gehemmt , das die Bucht gegen die Süd winde schützte .
+# ::alignments 0-1.1.2.1 1-1.1.2.1 2-1.1.2.2 4-1.1.4 5-1.1.5.1 6-1.1.5.3 7-1.1.5.4 8-1.1.6 10-1.1.5.2.1 11-1.1.5.2.2.1 12-1.1.5.2.2.2 13-1.1.5.2.3.1 14-1.1.5.2.3.2 15-1.1.5.2.3.3 16-1.1.5.2.3.4 17-1.1.5.2.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :C (v7 / label~e.0,1)
+                  :E (v8 / label~e.2))
+           :A (v4 / label~e.4)
+           :A (v5 / label
+                  :R (v9 / label~e.5)
+                  :E (v10 / label
+                          :R (v13 / label~e.10)
+                          :A (v14 / label
+                                  :E (v17 / label~e.11)
+                                  :C (v18 / label~e.12))
+                          :A (v15 / label
+                                  :R (v19 / label~e.13)
+                                  :E (v20 / label~e.14)
+                                  :E (v21 / label~e.15)
+                                  :C (v22 / label~e.16))
+                          :P (v16 / label~e.17))
+                  :E (v11 / label~e.6)
+                  :C (v12 / label~e.7))
+           :S (v6 / label~e.8)))

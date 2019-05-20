@@ -1,0 +1,26 @@
+# ::id 25793027
+# ::tok Sie wurden mit Wasser gefüllt , und die ganze Hitze der elektrischen Säulen wurde durch die Serpentinen getrieben .
+# ::alignments 0-1.1.1 2-1.1.3.1 3-1.1.3.2 4-1.1.4 6-1.2 7-1.3.3.2 8-1.3.3.3 9-1.3.3.4 10-1.3.3.1.1 11-1.3.3.1.2 12-1.3.3.1.3 14-1.3.5.1 15-1.3.5.2 16-1.3.5.3 17-1.3.1
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label~e.0)
+           :A (v6 / label
+                  :R (v11 / label~e.2)
+                  :C (v12 / label~e.3))
+           :P (v7 / label~e.4))
+    :L (v3 / label~e.6)
+    :H (v4 / label
+           :P (v8 / label~e.17)
+           :A (v9 / label
+                  :E (v13 / label
+                          :R (v20 / label~e.10)
+                          :E (v21 / label~e.11)
+                          :C (v22 / label~e.12))
+                  :E (v14 / label~e.7)
+                  :E (v15 / label~e.8)
+                  :C (v16 / label~e.9))
+           :A (v10 / label
+                   :R (v17 / label~e.14)
+                   :E (v18 / label~e.15)
+                   :C (v19 / label~e.16))))

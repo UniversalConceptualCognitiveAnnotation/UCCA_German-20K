@@ -1,0 +1,31 @@
+# ::id 25770024
+# ::tok Doch litt ich nicht sehr darunter , obwohl Kapitän Nemo seinen Vorrat von Sauerstoff in den Behältern noch nicht angerührt hatte .
+# ::alignments 0-1.1 1-1.2.1 2-1.2.2 3-1.2.3.1 4-1.2.3.2 5-1.2.4 7-1.3 8-1.4.7.1 9-1.4.7.2 10-1.4.8.2 11-1.4.8.3 12-1.4.8.1.1 13-1.4.8.1.2 14-1.4.1.1 15-1.4.1.2 16-1.4.1.3 17-1.4.2 18-1.4.3 19-1.4.4
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :S (v6 / label~e.1)
+           :A (v7 / label~e.2)
+           :D (v8 / label
+                  :E (v16 / label~e.3)
+                  :C (v17 / label~e.4))
+           :R (v9 / label~e.5))
+    :L (v4 / label~e.7)
+    :H (v5 / label
+           :A (v10 / label
+                   :R (v18 / label~e.14)
+                   :E (v19 / label~e.15)
+                   :C (v20 / label~e.16))
+           :D (v11 / label~e.17)
+           :D (v12 / label~e.18)
+           :P (v13 / label~e.19)
+           :A (v14 / label
+                   :E (v21 / label~e.8)
+                   :C (v22 / label~e.9))
+           :A (v15 / label
+                   :E (v23 / label
+                           :R (v26 / label~e.12)
+                           :C (v27 / label~e.13))
+                   :E (v24 / label~e.10)
+                   :C (v25 / label~e.11))))

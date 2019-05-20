@@ -1,0 +1,29 @@
+# ::id 25777000
+# ::tok Als wir an den merkwürdigen Tieren vorbeikamen , konnte ich sie nach Muße betrachten , denn sie ließen sich nicht stören .
+# ::alignments 0-1.1 1-1.2.1 2-1.2.2.1 3-1.2.2.2 4-1.2.2.3 5-1.2.2.4 6-1.2.3 8-1.3.1 9-1.3.2 10-1.3.3 11-1.3.4.1 12-1.3.4.2 13-1.3.5 15-1.4 16-1.5.1 17-1.5.2 18-1.5.3 19-1.5.4 20-1.5.5
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :A (v7 / label~e.1)
+           :A (v8 / label
+                  :R (v20 / label~e.2)
+                  :E (v21 / label~e.3)
+                  :E (v22 / label~e.4)
+                  :C (v23 / label~e.5))
+           :P (v9 / label~e.6))
+    :H (v4 / label
+           :D (v10 / label~e.8)
+           :A (v11 / label~e.9)
+           :A (v12 / label~e.10)
+           :D (v13 / label
+                   :R (v24 / label~e.11)
+                   :C (v25 / label~e.12))
+           :P (v14 / label~e.13))
+    :L (v5 / label~e.15)
+    :H (v6 / label
+           :A (v15 / label~e.16)
+           :D (v16 / label~e.17)
+           :A (v17 / label~e.18)
+           :D (v18 / label~e.19)
+           :P (v19 / label~e.20)))

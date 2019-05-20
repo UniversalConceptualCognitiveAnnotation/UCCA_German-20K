@@ -1,0 +1,55 @@
+# ::id 25793000
+# ::tok »Ich weiß es , mein Herr . Man muß also nicht auf den Beistand der Natur rechnen , sondern nur auf uns selbst . Man muß dem Festgefrieren einen Widerstand entgegensetzen ; man muß es hemmen .
+# ::alignments 0-1.1.3.10.1 1-1.1.3.10.2 2-1.1.3.10.3 4-1.1.3.10.5.1 5-1.1.3.10.5.2 7-1.1.3.11.1 8-1.1.3.11.2 9-1.1.3.1 10-1.1.3.11.3 11-1.1.3.11.4.1.1 12-1.1.3.11.4.1.2 13-1.1.3.11.4.1.3 14-1.1.3.11.4.2.1 15-1.1.3.11.4.2.2 16-1.1.3.3.4 18-1.1.3.2 19-1.1.3.3.1 20-1.1.3.3.2.1 21-1.1.3.3.2.2 22-1.1.3.3.3 24-1.1.3.4.1 25-1.1.3.4.2 26-1.1.3.4.3.2.1 27-1.1.3.4.3.2.2 28-1.1.3.4.4.1 29-1.1.3.4.4.2 30-1.1.3.4.5 32-1.1.3.5.1 33-1.1.3.5.2 34-1.1.3.5.3 35-1.1.3.5.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :P (v4 / label)
+           :A (v5 / label
+                  :L (v6 / label~e.9)
+                  :L (v7 / label~e.18)
+                  :H (v8 / label
+                         :D (v13 / label~e.19)
+                         :A (v14 / label
+                                 :R (v34 / label~e.20)
+                                 :C (v35 / label~e.21))
+                         :D (v15 / label~e.22)
+                         :P (v16 / label~e.16))
+                  :H (v9 / label
+                         :A (v17 / label~e.24)
+                         :D (v18 / label~e.25)
+                         :A (v19 / label
+                                 :A (v36 / label)
+                                 :P (v37 / label
+                                         :E (v44 / label~e.26)
+                                         :C (v45 / label~e.27)))
+                         :A (v20 / label
+                                 :E (v38 / label~e.28)
+                                 :C (v39 / label~e.29))
+                         :P (v21 / label~e.30))
+                  :H (v10 / label
+                          :A (v22 / label~e.32)
+                          :D (v23 / label~e.33)
+                          :A (v24 / label~e.34)
+                          :P (v25 / label~e.35))
+                  :H (v11 / label
+                          :A (v26 / label~e.0)
+                          :S (v27 / label~e.1)
+                          :A (v28 / label~e.2)
+                          :A (v29 / label
+                                  :E (v40 / label~e.4)
+                                  :C (v41 / label~e.5)))
+                  :H (v12 / label
+                          :A (v30 / label~e.7)
+                          :D (v31 / label~e.8)
+                          :D (v32 / label~e.10)
+                          :A (v33 / label
+                                  :P (v42 / label
+                                          :R (v46 / label~e.11)
+                                          :E (v47 / label~e.12)
+                                          :C (v48 / label~e.13))
+                                  :A (v43 / label
+                                          :R (v49 / label~e.14)
+                                          :C (v50 / label~e.15)))
+                          :P v16))))

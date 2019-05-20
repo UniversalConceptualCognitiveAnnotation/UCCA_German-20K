@@ -1,0 +1,59 @@
+# ::id 25796034
+# ::tok Sie brachte sie allmählich zum Bersten , zog sich zurück und schoß mit größter Schnelligkeit wieder dagegen , zersprengte sie und gelangte durch einen letzten , mit äußerstem Ungestüm geführten Stoß auf die Oberfläche des Eises , das sie mit ihrem Gewicht zerdrückte .
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3 3-1.1.4 4-1.1.5.1 5-1.1.5.2 7-1.2.1 8-1.2.1 9-1.2.1 10-1.3 11-1.4.1 12-1.4.2.1 13-1.4.2.2 14-1.4.2.3 15-1.4.3 16-1.4.4 18-1.5.1 19-1.5.2 20-1.6 21-1.7.1 22-1.7.2.1 23-1.7.2.3 24-1.7.2.2.1 26-1.7.2.2.2.1 27-1.7.2.2.2.2 28-1.7.2.2.2.3 29-1.7.2.2.3 30-1.7.2.4 31-1.7.3.2 32-1.7.3.3.1 33-1.7.3.3.2 34-1.7.3.4 35-1.7.3.5 37-1.7.3.1.1 38-1.7.3.1.2 39-1.7.3.1.3.1 40-1.7.3.1.3.2 41-1.7.3.1.3.3 42-1.7.3.1.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v9 / label~e.0)
+           :D (v10 / label~e.1)
+           :A (v11 / label~e.2)
+           :D (v12 / label~e.3)
+           :P (v13 / label
+                   :R (v24 / label~e.4)
+                   :C (v25 / label~e.5)))
+    :H (v3 / label
+           :P (v14 / label~e.7,8,9)
+           :A v9)
+    :L (v4 / label~e.10)
+    :H (v5 / label
+           :P (v15 / label~e.11)
+           :A (v16 / label
+                   :R (v26 / label~e.12)
+                   :E (v27 / label~e.13)
+                   :C (v28 / label~e.14))
+           :D (v17 / label~e.15)
+           :A (v18 / label~e.16))
+    :H (v6 / label
+           :P (v19 / label~e.18)
+           :A (v20 / label~e.19))
+    :L (v7 / label~e.20)
+    :H (v8 / label
+           :P (v21 / label~e.21)
+           :A (v22 / label
+                   :R (v29 / label~e.22)
+                   :E (v30 / label
+                           :D (v38 / label~e.24)
+                           :D (v39 / label
+                                   :R (v47 / label~e.26)
+                                   :E (v48 / label~e.27)
+                                   :C (v49 / label~e.28))
+                           :P (v40 / label~e.29)
+                           :A (v32 / label~e.30))
+                   :E (v31 / label~e.23)
+                   :C v32)
+           :A (v23 / label
+                   :E (v33 / label
+                           :R (v41 / label~e.37)
+                           :A (v42 / label~e.38)
+                           :A (v43 / label
+                                   :R (v50 / label~e.39)
+                                   :E (v51 / label~e.40)
+                                   :C (v52 / label~e.41))
+                           :P (v44 / label~e.42)
+                           :A (v37 / label~e.35))
+                   :R (v34 / label~e.31)
+                   :E (v35 / label
+                           :E (v45 / label~e.32)
+                           :C (v46 / label~e.33))
+                   :R (v36 / label~e.34)
+                   :C v37)))

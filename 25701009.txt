@@ -1,0 +1,28 @@
+# ::id 25701009
+# ::tok »Warten wir nur« , sagte Conseil . »Die Nautilus fährt da hinaus , und wir werden bald wissen , wie es damit steht.«
+# ::alignments 0-1.1.1.4.1 1-1.1.1.4.2 2-1.1.1.4.3 4-1.1.4 5-1.1.5 7-1.1.1.5.1.1 8-1.1.1.5.1.2 9-1.1.1.5.2 10-1.1.1.5.3 11-1.1.1.5.2 13-1.1.1.1 14-1.1.1.2.1 16-1.1.1.2.3 17-1.1.1.2.4 19-1.1.1.2.5.1 21-1.1.1.2.5.3 22-1.1.1.2.5.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :L (v6 / label~e.13)
+                  :H (v7 / label
+                         :A (v10 / label~e.14)
+                         :D (v11 / label~e.16)
+                         :S (v12 / label~e.17)
+                         :A (v13 / label
+                                 :D (v20 / label~e.19)
+                                 :A (v21 / label~e.21)
+                                 :P (v22 / label~e.22)))
+                  :H (v8 / label
+                         :P (v14 / label~e.0)
+                         :A (v15 / label~e.1)
+                         :D (v16 / label~e.2))
+                  :H (v9 / label
+                         :A (v17 / label
+                                 :E (v23 / label~e.7)
+                                 :C (v24 / label~e.8))
+                         :P (v18 / label~e.9,11)
+                         :A (v19 / label~e.10)))
+           :P (v4 / label~e.4)
+           :A (v5 / label~e.5)))

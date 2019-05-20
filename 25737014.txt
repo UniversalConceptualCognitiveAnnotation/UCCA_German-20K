@@ -1,0 +1,18 @@
+# ::id 25737014
+# ::tok Am folgenden Tag , dem 20 . Februar , stand ich sehr spät auf .
+# ::alignments 0-1.1.3.3 1-1.1.3.4 2-1.1.3.5 4-1.1.3.1.1 5-1.1.3.1.2 7-1.1.3.1.2 9-1.1.4 10-1.1.5 11-1.1.6.2 12-1.1.6.1 13-1.1.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :T (v3 / label
+                  :E (v7 / label
+                         :R (v13 / label~e.4)
+                         :C (v14 / label~e.5,7))
+                  :R (v8 / label~e.0)
+                  :E (v9 / label~e.1)
+                  :C (v10 / label~e.2))
+           :P (v4 / label~e.9,13)
+           :A (v5 / label~e.10)
+           :D (v6 / label
+                  :C (v11 / label~e.12)
+                  :E (v12 / label~e.11))))

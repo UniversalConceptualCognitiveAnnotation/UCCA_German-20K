@@ -1,0 +1,41 @@
+# ::id 25793030
+# ::tok Die elektrischen Säulen entwickelten eine solche Hitze , daß das aus dem Meer geschöpfte kalte Wasser nur den Apparat zu durchlaufen hatte , um siedend in die Pumpen zu gelangen .
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.3 3-1.1.2 4-1.1.3.1 5-1.1.3.2 6-1.1.3.3 8-1.1.4.1 9-1.1.4.2.2 10-1.1.4.2.1.1.1 11-1.1.4.2.1.1.2 12-1.1.4.2.1.1.3 13-1.1.4.2.1.2 14-1.1.4.2.1.3 15-1.1.4.2.3 16-1.1.4.3 17-1.1.4.4.1 18-1.1.4.4.2 20-1.1.4.6 23-1.2 24-1.3.3 25-1.3.4.1 26-1.3.4.2 27-1.3.4.3 29-1.3.1
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label
+                  :E (v12 / label~e.0)
+                  :E (v13 / label~e.1)
+                  :C (v14 / label~e.2))
+           :P (v6 / label~e.3)
+           :A (v7 / label
+                  :E (v15 / label~e.4)
+                  :E (v16 / label~e.5)
+                  :C (v17 / label~e.6))
+           :A (v8 / label
+                  :R (v18 / label~e.8)
+                  :A (v19 / label
+                          :E (v26 / label
+                                  :A (v31 / label
+                                          :R (v34 / label~e.10)
+                                          :E (v35 / label~e.11)
+                                          :C (v36 / label~e.12))
+                                  :P (v32 / label~e.13)
+                                  :D (v33 / label~e.14)
+                                  :A (v28 / label~e.15))
+                          :E (v27 / label~e.9)
+                          :C v28)
+                  :D (v20 / label~e.16)
+                  :A (v21 / label
+                          :E (v29 / label~e.17)
+                          :C (v30 / label~e.18))
+                  :P (v22 / label~e.20)))
+    :L (v3 / label~e.23)
+    :H (v4 / label
+           :P (v9 / label~e.29)
+           :D (v10 / label~e.24)
+           :A (v11 / label
+                   :R (v23 / label~e.25)
+                   :E (v24 / label~e.26)
+                   :C (v25 / label~e.27))))

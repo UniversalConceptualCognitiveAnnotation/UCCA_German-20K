@@ -1,0 +1,27 @@
+# ::id 25790016
+# ::tok Aber alle sahen der Gefahr ins Angesicht , entschlossen , bis zum letzten Augenblick ihre Schuldigkeit zu tun .
+# ::alignments 0-1.1 1-1.2.1 2-1.2.2 3-1.2.3.1 4-1.2.3.2 5-1.2.4.1 6-1.2.4.2 8-1.3.3 10-1.3.4.1 11-1.3.4.2 12-1.3.4.3 13-1.3.4.4 14-1.3.1.1.1 15-1.3.1.1.2 17-1.3.1.3
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :A (v5 / label~e.1)
+           :P (v6 / label~e.2)
+           :A (v7 / label
+                  :E (v12 / label~e.3)
+                  :C (v13 / label~e.4))
+           :A (v8 / label
+                  :R (v14 / label~e.5)
+                  :C (v15 / label~e.6)))
+    :H (v4 / label
+           :A (v9 / label
+                  :A (v16 / label
+                          :E (v22 / label~e.14)
+                          :C (v23 / label~e.15))
+                  :P (v17 / label~e.17))
+           :S (v10 / label~e.8)
+           :A (v11 / label
+                   :R (v18 / label~e.10)
+                   :R (v19 / label~e.11)
+                   :E (v20 / label~e.12)
+                   :C (v21 / label~e.13))))

@@ -1,0 +1,46 @@
+# ::id 25704015
+# ::tok Man verfolgte ihn eine Stunde lang unablässig , und ich fing an zu glauben , es werde sehr schwierig sein , seiner Meister zu werden , als dem Tier der unglückselige Gedanke sich zu rächen kam , den es jedoch zu bereuen hatte .
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3 3-1.1.4.1 4-1.1.4.2 5-1.1.5 6-1.1.6 8-1.2 9-1.3.1 10-1.3.2 11-1.3.2 13-1.3.4 17-1.3.5.3 18-1.3.5.4 21-1.3.5.6.1.1 22-1.3.5.6.1.2 24-1.3.5.6.3 26-1.4 27-1.5.1.1 28-1.6.3 29-1.5.2.2 30-1.5.2.3 31-1.5.2.4 32-1.6.1 34-1.6.1 35-1.5.3 37-1.5.2.1.1 38-1.5.2.1.2 39-1.5.2.1.3 41-1.5.2.1.5
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v8 / label~e.0)
+           :P (v9 / label~e.1)
+           :A (v10 / label~e.2)
+           :T (v11 / label
+                   :E (v23 / label~e.3)
+                   :C (v24 / label~e.4))
+           :D (v12 / label~e.5)
+           :D (v13 / label~e.6))
+    :L (v3 / label~e.8)
+    :H (v4 / label
+           :A (v14 / label~e.9)
+           :D (v15 / label~e.10,11)
+           :S (v16 / label~e.13)
+           :A (v17 / label
+                   :D (v25 / label~e.17)
+                   :S (v26 / label~e.18)
+                   :A (v27 / label
+                           :A (v33 / label
+                                   :E (v39 / label~e.21)
+                                   :C (v40 / label~e.22))
+                           :S (v34 / label~e.24))))
+    :L (v5 / label~e.26)
+    :H (v6 / label
+           :A (v18 / label
+                   :E (v28 / label~e.27)
+                   :C (v22 / label~e.28))
+           :A (v19 / label
+                   :E (v29 / label
+                           :R (v35 / label~e.37)
+                           :A (v36 / label~e.38)
+                           :D (v37 / label~e.39)
+                           :P (v38 / label~e.41)
+                           :A (v32 / label~e.31))
+                   :R (v30 / label~e.29)
+                   :E (v31 / label~e.30)
+                   :C v32)
+           :P (v20 / label~e.35))
+    :H (v7 / label
+           :P (v21 / label~e.32,34)
+           :A v22))

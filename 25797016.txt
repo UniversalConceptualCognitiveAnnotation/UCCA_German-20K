@@ -1,0 +1,52 @@
+# ::id 25797016
+# ::tok »Lassen Sie das , Herr Professor« , erwiderte Ned Land , »es ist nicht der Mühe wert , davon zu reden ! Wir hatten kein Verdienst dabei . Es war nur ein Rechen exempel . Ihr Dasein ist mehr wert als das unsrige . Darum mußte es erhalten werden.«
+# ::alignments 0-1.1.1.10.1 1-1.1.1.10.2 2-1.1.1.10.3 4-1.1.1.10.5.1 5-1.1.1.10.5.2 7-1.1.2 8-1.1.3 9-1.1.3 13-1.1.1.11.3 14-1.1.1.11.4.1 15-1.1.1.11.4.2 16-1.1.1.11.5 18-1.1.1.11.6.1 20-1.1.1.11.6.3 22-1.1.1.1.1 24-1.1.1.1.3 25-1.1.1.1.4 26-1.1.1.1.5 29-1.1.1.2.2 30-1.1.1.2.3 31-1.1.1.2.4.1 32-1.1.1.2.4.2 33-1.1.1.2.4.3 35-1.1.1.3.1.1 36-1.1.1.3.1.2 38-1.1.1.3.3 39-1.1.1.3.4 40-1.1.1.3.5.1 41-1.1.1.3.5.2 42-1.1.1.3.5.3 44-1.1.1.4 45-1.1.1.5.1 46-1.1.1.5.2 47-1.1.1.5.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :H (v6 / label
+                         :A (v13 / label~e.22)
+                         :D (v14 / label~e.24)
+                         :S (v15 / label~e.25)
+                         :A (v16 / label~e.26))
+                  :H (v7 / label
+                         :S (v17 / label~e.29)
+                         :D (v18 / label~e.30)
+                         :A (v19 / label
+                                 :E (v35 / label~e.31)
+                                 :E (v36 / label~e.32)
+                                 :C (v37 / label~e.33)))
+                  :H (v8 / label
+                         :A (v20 / label
+                                 :E (v38 / label~e.35)
+                                 :C (v39 / label~e.36))
+                         :D (v21 / label~e.38)
+                         :S (v22 / label~e.39)
+                         :A (v23 / label
+                                 :R (v40 / label~e.40)
+                                 :E (v41 / label~e.41)
+                                 :C (v42 / label~e.42)))
+                  :L (v9 / label~e.44)
+                  :H (v10 / label
+                          :D (v24 / label~e.45)
+                          :A (v25 / label~e.46)
+                          :S (v26 / label~e.47))
+                  :H (v11 / label
+                          :S (v27 / label~e.0)
+                          :A (v28 / label~e.1)
+                          :A (v29 / label~e.2)
+                          :A (v30 / label
+                                  :E (v43 / label~e.4)
+                                  :C (v44 / label~e.5)))
+                  :H (v12 / label
+                          :D (v31 / label~e.13)
+                          :A (v32 / label
+                                  :R (v45 / label~e.14)
+                                  :C (v46 / label~e.15))
+                          :S (v33 / label~e.16)
+                          :A (v34 / label
+                                  :A (v47 / label~e.18)
+                                  :P (v48 / label~e.20))))
+           :P (v4 / label~e.7)
+           :A (v5 / label~e.8,9)))

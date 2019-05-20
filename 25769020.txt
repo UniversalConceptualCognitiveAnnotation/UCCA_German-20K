@@ -1,0 +1,25 @@
+# ::id 25769020
+# ::tok Von 69° 30 ? bis zu 90° waren noch 22° 30 ? an Breite zu durchlaufen , d.h . etwas über 500 Lieue .
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.2 4-1.1.1.3 5-1.1.1.3 6-1.1.1.4 7-1.1.2 8-1.1.3 9-1.1.4.1 10-1.1.4.1 12-1.1.4.2 13-1.1.4.3 15-1.1.6 19-1.2.5 20-1.2.6.1 21-1.2.6.2 22-1.2.6.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label
+                  :R (v11 / label~e.0)
+                  :C (v12 / label~e.1,2)
+                  :R (v13 / label~e.4,5)
+                  :C (v14 / label~e.6))
+           :D (v5 / label~e.7)
+           :D (v6 / label~e.8)
+           :A (v7 / label
+                  :C (v15 / label~e.9,10)
+                  :R (v16 / label~e.12)
+                  :E (v17 / label~e.13))
+           :P (v8 / label~e.15))
+    :H (v3 / label
+           :P v8
+           :D (v9 / label~e.19)
+           :A (v10 / label
+                   :R (v18 / label~e.20)
+                   :E (v19 / label~e.21)
+                   :C (v20 / label~e.22))))
