@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 25844000
-# text = Vor 6.000 Jahren hieß es , wie geschrieben steht : » Wer hat je die Tiefen des Abgrunds zu erforschen vermocht ?
+# text = Vor 6.000 Jahren hieß es , wie geschrieben steht : » Wer hat je die Tiefen des Abgrunds zu erforschen vermocht ? «
 1	Vor	_	Word	Word	_	2	R	2:R	_
 2	6.000	_	Word	Word	_	4	T	4:T	_
 3	Jahren	_	Word	Word	_	2	Terminal	2:Terminal	_
@@ -23,4 +23,5 @@
 20	erforschen	_	Word	Word	_	8	A	8:A	_
 21	vermocht	_	Word	Word	_	20	D	20:D	_
 22	?	_	Punctuation	Punctuation	_	20	U	20:U	_
+23	«	_	Punctuation	Punctuation	_	20	U	20:U	_
 

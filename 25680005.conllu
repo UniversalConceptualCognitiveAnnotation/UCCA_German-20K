@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 25680005
-# text = Ned Land sprach das Wort » schnappen « auf eine Weise aus , dass es einem kalt über den Rücken lief .
+# text = Ned Land sprach das Wort » schnappen « auf eine Weise aus , dass es einem kalt über den Rücken lief . »
 1	Ned	_	Word	Word	_	3	A	3:A	_
 2	Land	_	Word	Word	_	1	Terminal	1:Terminal	_
 3	sprach	_	Word	Word	_	0	H	0:H	_
@@ -23,4 +23,5 @@
 20	Rücken	_	Word	Word	_	17	Terminal	17:Terminal	_
 21	lief	_	Word	Word	_	17	Terminal	17:Terminal	_
 22	.	_	Punctuation	Punctuation	_	17	U	17:U	_
+23	»	_	Punctuation	Punctuation	_	17	U	17:U	_
 

@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 25729000
-# text = » 500 Millionen ! « erwiderte Kapitän Nemo . » Sie waren vorhanden , sind ' s aber nicht mehr . «
+# text = » 500 Millionen ! « erwiderte Kapitän Nemo . » Sie waren vorhanden , sind ' s aber nicht mehr . « »
 1	»	_	Punctuation	Punctuation	_	2	U	2:U	_
 2	500	_	Word	Word	_	6	A	6:A	_
 3	Millionen	_	Word	Word	_	2	Terminal	2:Terminal	_
@@ -23,4 +23,5 @@
 20	mehr	_	Word	Word	_	19	E	19:E	_
 21	.	_	Punctuation	Punctuation	_	19	U	19:U	_
 22	«	_	Punctuation	Punctuation	_	19	U	19:U	_
+23	»	_	Punctuation	Punctuation	_	19	U	19:U	_
 

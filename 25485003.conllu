@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 25485003
-# text = Die Jagd ging von neuem an , und der Kommandant sagte zu mir : » Ich verfolge weiter , und sollte die Maschine platzen !
+# text = Die Jagd ging von neuem an , und der Kommandant sagte zu mir : » Ich verfolge weiter , und sollte die Maschine platzen ! « »
 1	Die	_	Word	Word	_	2	E	2:E	_
 2	Jagd	_	Word	Word	_	3	A	3:A	_
 3	ging	_	Word	Word	_	0	H	0:H	_
@@ -26,4 +26,6 @@
 23	Maschine	_	Word	Word	_	24	A	24:A	_
 24	platzen	_	Word	Word	_	17	H	17:H	_
 25	!	_	Punctuation	Punctuation	_	24	U	24:U	_
+26	«	_	Punctuation	Punctuation	_	24	U	24:U	_
+27	»	_	Punctuation	Punctuation	_	24	U	24:U	_
 

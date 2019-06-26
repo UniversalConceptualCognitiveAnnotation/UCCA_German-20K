@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 25715000
-# text = Ich fuhr fort zu arbeiten , aber die Temperatur stieg dermaßen , dass es nicht zum Aushalten war .
+# text = Ich fuhr fort zu arbeiten , aber die Temperatur stieg dermaßen , dass es nicht zum Aushalten war . »
 1	Ich	_	Word	Word	_	5	A	5:A	_
 2	fuhr	_	Word	Word	_	5	D	5:D	_
 3	fort	_	Word	Word	_	2	Terminal	2:Terminal	_
@@ -20,4 +20,5 @@
 17	Aushalten	_	Word	Word	_	10	A	10:A	_
 18	war	_	Word	Word	_	17	F	17:F	_
 19	.	_	Punctuation	Punctuation	_	17	U	17:U	_
+20	»	_	Punctuation	Punctuation	_	17	U	17:U	_
 

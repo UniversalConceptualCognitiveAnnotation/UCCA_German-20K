@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 25751010
-# text = Ich fragte Kapitän Nemo , ob er in noch größerer Tiefe Fische bemerkt habe .
+# text = Ich fragte Kapitän Nemo , ob er in noch größerer Tiefe Fische bemerkt habe . »
 1	Ich	_	Word	Word	_	2	A	2:A	_
 2	fragte	_	Word	Word	_	0	H	0:H	_
 3	Kapitän	_	Word	Word	_	4	E	4:E	_
@@ -16,4 +16,5 @@
 13	bemerkt	_	Word	Word	_	2	A	2:A	_
 14	habe	_	Word	Word	_	13	F	13:F	_
 15	.	_	Punctuation	Punctuation	_	13	U	13:U	_
+16	»	_	Punctuation	Punctuation	_	13	U	13:U	_
 

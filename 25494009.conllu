@@ -1,12 +1,10 @@
 # format = ucca
 # sent_id = 25494009
-# text = « » Ich blieb die Antwort schuldig .
-1	«	_	Punctuation	Punctuation	_	4	U	4:U	_
-2	»	_	Punctuation	Punctuation	_	4	U	4:U	_
-3	Ich	_	Word	Word	_	4	A	4:A	_
-4	blieb	_	Word	Word	_	0	H	0:H	_
-5	die	_	Word	Word	_	6	E	6:E	_
-6	Antwort	_	Word	Word	_	4	A	4:A	_
-7	schuldig	_	Word	Word	_	4	Terminal	4:Terminal	_
-8	.	_	Punctuation	Punctuation	_	4	U	4:U	_
+# text = Ich blieb die Antwort schuldig .
+1	Ich	_	Word	Word	_	2	A	2:A	_
+2	blieb	_	Word	Word	_	0	H	0:H	_
+3	die	_	Word	Word	_	4	E	4:E	_
+4	Antwort	_	Word	Word	_	2	A	2:A	_
+5	schuldig	_	Word	Word	_	2	Terminal	2:Terminal	_
+6	.	_	Punctuation	Punctuation	_	2	U	2:U	_
 

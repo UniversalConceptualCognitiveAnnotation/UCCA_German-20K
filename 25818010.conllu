@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 25818010
-# text = » Heute noch « , sagte Ned Land .
+# text = » Heute noch « , sagte Ned Land . »
 1	»	_	Punctuation	Punctuation	_	6	U	6:U	_
 2	Heute	_	Word	Word	_	3	T	3:T	_
 3	noch	_	Word	Word	_	6	A	6:A	_
@@ -10,4 +10,5 @@
 7	Ned	_	Word	Word	_	6	A	6:A	_
 8	Land	_	Word	Word	_	7	Terminal	7:Terminal	_
 9	.	_	Punctuation	Punctuation	_	6	U	6:U	_
+10	»	_	Punctuation	Punctuation	_	6	U	6:U	_
 

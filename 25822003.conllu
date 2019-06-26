@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 25822003
-# text = Die ›Nautilus‹ trotzte diesem Sturm und rechtfertigte das Wort eines geschickten Ingenieurs : » Ein Schiff ist nicht richtig gebaut , wenn es dem Meer nicht Trotz bieten kann !
+# text = Die ›Nautilus‹ trotzte diesem Sturm und rechtfertigte das Wort eines geschickten Ingenieurs : » Ein Schiff ist nicht richtig gebaut , wenn es dem Meer nicht Trotz bieten kann ! «
 1	Die	_	Word	Word	_	2	E	2:E	_
 2	›Nautilus‹	_	Word	Word	_	0	C	0:C|7:A	_
 3	trotzte	_	Word	Word	_	0	H	0:H	_
@@ -31,4 +31,5 @@
 28	bieten	_	Word	Word	_	27	Terminal	27:Terminal	_
 29	kann	_	Word	Word	_	27	D	27:D	_
 30	!	_	Punctuation	Punctuation	_	27	U	27:U	_
+31	«	_	Punctuation	Punctuation	_	27	U	27:U	_
 

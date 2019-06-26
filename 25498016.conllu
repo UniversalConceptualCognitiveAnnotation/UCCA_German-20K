@@ -1,12 +1,11 @@
 # format = ucca
 # sent_id = 25498016
-# text = « » Wie Sie befehlen , Kapitän .
-1	«	_	Punctuation	Punctuation	_	5	U	5:U	_
-2	»	_	Punctuation	Punctuation	_	5	U	5:U	_
-3	Wie	_	Word	Word	_	5	A	5:A	_
-4	Sie	_	Word	Word	_	5	A	5:A	_
-5	befehlen	_	Word	Word	_	0	H	0:H	_
-6	,	_	Punctuation	Punctuation	_	5	U	5:U	_
-7	Kapitän	_	Word	Word	_	5	G	5:G	_
-8	.	_	Punctuation	Punctuation	_	5	U	5:U	_
+# text = Wie Sie befehlen , Kapitän . «
+1	Wie	_	Word	Word	_	3	A	3:A	_
+2	Sie	_	Word	Word	_	3	A	3:A	_
+3	befehlen	_	Word	Word	_	0	H	0:H	_
+4	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+5	Kapitän	_	Word	Word	_	3	G	3:G	_
+6	.	_	Punctuation	Punctuation	_	3	U	3:U	_
+7	«	_	Punctuation	Punctuation	_	3	U	3:U	_
 

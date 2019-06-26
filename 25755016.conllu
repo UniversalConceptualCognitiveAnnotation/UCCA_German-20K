@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 25755016
-# text = Der Kanadier schüttelte den Kopf , fuhr mit der Hand über seine Stirne und zog sich ohne zu antworten zurück .
+# text = Der Kanadier schüttelte den Kopf , fuhr mit der Hand über seine Stirne und zog sich ohne zu antworten zurück . »
 1	Der	_	Word	Word	_	2	E	2:E	_
 2	Kanadier	_	Word	Word	_	0	C	0:C|7:A|15:A|19:A	_
 3	schüttelte	_	Word	Word	_	0	H	0:H	_
@@ -22,4 +22,5 @@
 19	antworten	_	Word	Word	_	3	H	3:H	_
 20	zurück	_	Word	Word	_	15	Terminal	15:Terminal	_
 21	.	_	Punctuation	Punctuation	_	15	U	15:U	_
+22	»	_	Punctuation	Punctuation	_	15	U	15:U	_
 

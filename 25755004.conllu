@@ -1,13 +1,13 @@
 # format = ucca
 # sent_id = 25755004
-# text = » Gleichviel « , versetzte Ned Land dringend .
-1	»	_	Punctuation	Punctuation	_	5	U	5:U	_
-2	Gleichviel	_	Word	Word	_	5	A	5:A	_
-3	«	_	Punctuation	Punctuation	_	5	U	5:U	_
-4	,	_	Punctuation	Punctuation	_	5	U	5:U	_
-5	versetzte	_	Word	Word	_	0	H	0:H	_
-6	Ned	_	Word	Word	_	5	A	5:A|8:A	_
-7	Land	_	Word	Word	_	6	Terminal	6:Terminal	_
-8	dringend	_	Word	Word	_	5	H	5:H	_
-9	.	_	Punctuation	Punctuation	_	8	U	8:U	_
+# text = Gleichviel « , versetzte Ned Land dringend . »
+1	Gleichviel	_	Word	Word	_	4	A	4:A	_
+2	«	_	Punctuation	Punctuation	_	4	U	4:U	_
+3	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+4	versetzte	_	Word	Word	_	0	H	0:H	_
+5	Ned	_	Word	Word	_	4	A	4:A|7:A	_
+6	Land	_	Word	Word	_	5	Terminal	5:Terminal	_
+7	dringend	_	Word	Word	_	4	H	4:H	_
+8	.	_	Punctuation	Punctuation	_	7	U	7:U	_
+9	»	_	Punctuation	Punctuation	_	7	U	7:U	_
 

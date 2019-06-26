@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 25507006
-# text = Kapitän Nemo wies auf einen Stuhl und sagte : » Belieben Sie , Platz zu nehmen .
+# text = Kapitän Nemo wies auf einen Stuhl und sagte : » Belieben Sie , Platz zu nehmen . «
 1	Kapitän	_	Word	Word	_	2	E	2:E	_
 2	Nemo	_	Word	Word	_	0	C	0:C|8:A	_
 3	wies	_	Word	Word	_	0	H	0:H	_
@@ -18,4 +18,5 @@
 15	zu	_	Word	Word	_	14	F	14:F	_
 16	nehmen	_	Word	Word	_	14	Terminal	14:Terminal	_
 17	.	_	Punctuation	Punctuation	_	14	U	14:U	_
+18	«	_	Punctuation	Punctuation	_	14	U	14:U	_
 

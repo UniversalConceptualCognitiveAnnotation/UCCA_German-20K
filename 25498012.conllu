@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 25498012
-# text = » Ein Mahl wartet in Ihrer Kabine auf Sie . Folgen Sie gefälligst diesem Mann .
+# text = » Ein Mahl wartet in Ihrer Kabine auf Sie . Folgen Sie gefälligst diesem Mann . « »
 1	»	_	Punctuation	Punctuation	_	4	U	4:U	_
 2	Ein	_	Word	Word	_	3	E	3:E	_
 3	Mahl	_	Word	Word	_	4	A	4:A	_
@@ -17,4 +17,6 @@
 14	diesem	_	Word	Word	_	15	E	15:E	_
 15	Mann	_	Word	Word	_	11	A	11:A	_
 16	.	_	Punctuation	Punctuation	_	15	U	15:U	_
+17	«	_	Punctuation	Punctuation	_	15	U	15:U	_
+18	»	_	Punctuation	Punctuation	_	15	U	15:U	_
 

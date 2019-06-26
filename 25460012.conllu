@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 25460012
-# text = Nun fuhr man in nordwestlicher Richtung , und die Fregatte lief endlich in den Pazifik ein .
+# text = Nun fuhr man in nordwestlicher Richtung , und die Fregatte lief endlich in den Pazifik ein . - »
 1	Nun	_	Word	Word	_	2	T	2:T	_
 2	fuhr	_	Word	Word	_	0	H	0:H	_
 3	man	_	Word	Word	_	2	A	2:A	_
@@ -18,4 +18,6 @@
 15	Pazifik	_	Word	Word	_	11	A	11:A	_
 16	ein	_	Word	Word	_	11	Terminal	11:Terminal	_
 17	.	_	Punctuation	Punctuation	_	11	U	11:U	_
+18	-	_	Punctuation	Punctuation	_	11	U	11:U	_
+19	»	_	Punctuation	Punctuation	_	11	U	11:U	_
 

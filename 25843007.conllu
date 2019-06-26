@@ -1,20 +1,10 @@
 # format = ucca
 # sent_id = 25843007
-# text = Meine beiden Gefährten waren gesund und wohlbehalten an meiner Seite und drückten mir die Hände .
-1	Meine	_	Word	Word	_	3	E	3:E	_
-2	beiden	_	Word	Word	_	3	E	3:E	_
-3	Gefährten	_	Word	Word	_	5	A	5:A|7:A|12:A	_
-4	waren	_	Word	Word	_	5	F	5:F	_
-5	gesund	_	Word	Word	_	0	H	0:H	_
-6	und	_	Word	Word	_	7	L	7:L	_
-7	wohlbehalten	_	Word	Word	_	5	H	5:H	_
-8	an	_	Word	Word	_	10	R	10:R	_
-9	meiner	_	Word	Word	_	10	E	10:E	_
-10	Seite	_	Word	Word	_	7	A	7:A	_
-11	und	_	Word	Word	_	12	L	12:L	_
-12	drückten	_	Word	Word	_	5	H	5:H	_
-13	mir	_	Word	Word	_	12	A	12:A	_
-14	die	_	Word	Word	_	15	E	15:E	_
-15	Hände	_	Word	Word	_	12	A	12:A	_
-16	.	_	Punctuation	Punctuation	_	15	U	15:U	_
+# text = Wir umarmten uns mit Innigkeit .
+1	Wir	_	Word	Word	_	2	A	2:A	_
+2	umarmten	_	Word	Word	_	0	H	0:H	_
+3	uns	_	Word	Word	_	2	Terminal	2:Terminal	_
+4	mit	_	Word	Word	_	5	R	5:R	_
+5	Innigkeit	_	Word	Word	_	2	A	2:A	_
+6	.	_	Punctuation	Punctuation	_	5	U	5:U	_
 

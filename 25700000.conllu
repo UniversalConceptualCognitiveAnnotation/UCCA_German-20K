@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 25700000
-# text = » Diese Durchfahrt existiert ; ich habe sie auch schon einigemal benutzt . Sonst hätte ich mich auch nicht jetzt in diese Enge gewagt . «
+# text = » Diese Durchfahrt existiert ; ich habe sie auch schon einigemal benutzt . Sonst hätte ich mich auch nicht jetzt in diese Enge gewagt . « »
 1	»	_	Punctuation	Punctuation	_	4	U	4:U	_
 2	Diese	_	Word	Word	_	3	E	3:E	_
 3	Durchfahrt	_	Word	Word	_	4	A	4:A	_
@@ -27,4 +27,5 @@
 24	gewagt	_	Word	Word	_	17	Terminal	17:Terminal	_
 25	.	_	Punctuation	Punctuation	_	17	U	17:U	_
 26	«	_	Punctuation	Punctuation	_	17	U	17:U	_
+27	»	_	Punctuation	Punctuation	_	17	U	17:U	_
 

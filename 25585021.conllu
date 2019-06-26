@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 25585021
-# text = » Hören Sie mich gefälligst an , dann werden Sie sehen , ob Sie mir Widerspruch mit mir selbst oder Narrheit vorwerfen dürfen .
+# text = » Hören Sie mich gefälligst an , dann werden Sie sehen , ob Sie mir Widerspruch mit mir selbst oder Narrheit vorwerfen dürfen . « »
 1	»	_	Punctuation	Punctuation	_	2	U	2:U	_
 2	Hören	_	Word	Word	_	0	H	0:H	_
 3	Sie	_	Word	Word	_	2	F	2:F	_
@@ -25,4 +25,6 @@
 22	vorwerfen	_	Word	Word	_	11	A	11:A	_
 23	dürfen	_	Word	Word	_	22	D	22:D	_
 24	.	_	Punctuation	Punctuation	_	22	U	22:U	_
+25	«	_	Punctuation	Punctuation	_	22	U	22:U	_
+26	»	_	Punctuation	Punctuation	_	22	U	22:U	_
 

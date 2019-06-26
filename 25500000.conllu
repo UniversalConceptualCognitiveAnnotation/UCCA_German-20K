@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 25500000
-# text = » Ich habe auch , mein Herr « , versetzte Kapitän Nemo , » niemals Fleisch von Land tieren auf dem Tisch .
+# text = » Ich habe auch , mein Herr « , versetzte Kapitän Nemo , » niemals Fleisch von Land tieren auf dem Tisch . « »
 1	»	_	Punctuation	Punctuation	_	3	U	3:U	_
 2	Ich	_	Word	Word	_	3	A	3:A	_
 3	habe	_	Word	Word	_	10	A	10:A	_
@@ -24,4 +24,6 @@
 21	dem	_	Word	Word	_	22	E	22:E	_
 22	Tisch	_	Word	Word	_	3	A	3:A	_
 23	.	_	Punctuation	Punctuation	_	22	U	22:U	_
+24	«	_	Punctuation	Punctuation	_	22	U	22:U	_
+25	»	_	Punctuation	Punctuation	_	22	U	22:U	_
 

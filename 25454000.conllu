@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 25454000
-# text = » Sie haben , Herr Natur forscher , mich davon überzeugt , daß , wenn auf dem Grund des Meeres solche Tiere existieren , sie notwendig so stark sein müssen , wie Sie sagten .
+# text = » Sie haben , Herr Natur forscher , mich davon überzeugt , daß , wenn auf dem Grund des Meeres solche Tiere existieren , sie notwendig so stark sein müssen , wie Sie sagten . « »
 1	»	_	Punctuation	Punctuation	_	11	U	11:U	_
 2	Sie	_	Word	Word	_	11	A	11:A	_
 3	haben	_	Word	Word	_	11	F	11:F	_
@@ -36,4 +36,6 @@
 33	Sie	_	Word	Word	_	34	A	34:A	_
 34	sagten	_	Word	Word	_	28	H	28:H	_
 35	.	_	Punctuation	Punctuation	_	34	U	34:U	_
+36	«	_	Punctuation	Punctuation	_	34	U	34:U	_
+37	»	_	Punctuation	Punctuation	_	34	U	34:U	_
 

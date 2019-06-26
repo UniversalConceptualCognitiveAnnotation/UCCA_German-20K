@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 25842024
-# text = Die ›Nautilus‹ verteidigte sich , dass ihre eisernen Muskeln krachten .
+# text = Die ›Nautilus‹ verteidigte sich , dass ihre eisernen Muskeln krachten . »
 1	Die	_	Word	Word	_	2	E	2:E	_
 2	›Nautilus‹	_	Word	Word	_	3	A	3:A	_
 3	verteidigte	_	Word	Word	_	0	H	0:H	_
@@ -12,4 +12,5 @@
 9	Muskeln	_	Word	Word	_	10	A	10:A	_
 10	krachten	_	Word	Word	_	3	H	3:H	_
 11	.	_	Punctuation	Punctuation	_	10	U	10:U	_
+12	»	_	Punctuation	Punctuation	_	10	U	10:U	_
 

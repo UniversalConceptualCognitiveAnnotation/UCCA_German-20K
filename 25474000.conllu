@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 25474000
-# text = » Ja , mein Herr , aber noch niemals von solchen Walfischen , wie der ist , der mir 2.000 Dollar verschafft hat .
+# text = » Ja , mein Herr , aber noch niemals von solchen Walfischen , wie der ist , der mir 2.000 Dollar verschafft hat . « »
 1	»	_	Punctuation	Punctuation	_	2	U	2:U	_
 2	Ja	_	Word	Word	_	0	H	0:H	_
 3	,	_	Punctuation	Punctuation	_	2	U	2:U	_
@@ -25,4 +25,6 @@
 22	verschafft	_	Word	Word	_	15	E	15:E	_
 23	hat	_	Word	Word	_	22	F	22:F	_
 24	.	_	Punctuation	Punctuation	_	22	U	22:U	_
+25	«	_	Punctuation	Punctuation	_	22	U	22:U	_
+26	»	_	Punctuation	Punctuation	_	22	U	22:U	_
 
