@@ -1,23 +1,23 @@
 # ::id 25510006
-# ::tok » Aber doch nicht die Luft , die Sie einatmen ?
-# ::alignments 1-1.1.3.2 2-1.1.3.3.2.1 3-1.1.3.3.2.2 4-1.1.3.3.3.1 5-1.1.3.3.3.2 7-1.1.3.3.3.3.2 8-1.1.3.3.3.3.3 9-1.1.3.3.3.3.4
+# ::tok Aber doch nicht die Luft , die Sie einatmen ? « »
+# ::alignments 0-1.1.3.2 1-1.1.3.1.2.1 2-1.1.3.1.2.2 3-1.1.3.1.3.1 4-1.1.3.1.3.2 6-1.1.3.1.3.3.2 7-1.1.3.1.3.3.3 8-1.1.3.1.3.3.4
 # ::format ucca
 (v1 / label
     :H (v2 / label
            :P (v3 / label)
            :A (v4 / label)
            :A (v5 / label
-                  :L (v6 / label~e.1)
-                  :H (v7 / label
+                  :H (v6 / label
                          :P (v8 / label)
                          :D (v9 / label
-                                :E (v11 / label~e.2)
-                                :C (v12 / label~e.3))
+                                :E (v11 / label~e.1)
+                                :C (v12 / label~e.2))
                          :A (v10 / label
-                                 :E (v13 / label~e.4)
-                                 :C (v14 / label~e.5)
+                                 :E (v13 / label~e.3)
+                                 :C (v14 / label~e.4)
                                  :E (v15 / label
                                          :A v14
-                                         :R (v16 / label~e.7)
-                                         :A (v17 / label~e.8)
-                                         :P (v18 / label~e.9)))))))
+                                         :R (v16 / label~e.6)
+                                         :A (v17 / label~e.7)
+                                         :P (v18 / label~e.8))))
+                  :L (v7 / label~e.0))))

@@ -1,12 +1,12 @@
 # ::id 25511000
-# ::tok » Ganz richtig .
-# ::alignments 1-1.1.4.4 2-1.1.4.1
+# ::tok » Ganz richtig . « »
+# ::alignments 1-1.1.1.1 2-1.1.1.2
 # ::format ucca
 (v1 / label
     :H (v2 / label
-           :P (v3 / label)
-           :A (v4 / label)
+           :A (v3 / label
+                  :D (v7 / label~e.1)
+                  :S (v8 / label~e.2))
+           :P (v4 / label)
            :A (v5 / label)
-           :A (v6 / label
-                  :S (v7 / label~e.2)
-                  :D (v8 / label~e.1))))
+           :A (v6 / label)))

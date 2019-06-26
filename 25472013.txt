@@ -1,21 +1,21 @@
 # ::id 25472013
-# ::tok « » Sie haben , Kommandant , über die Natur des Tieres keinen Zweifel mehr ?
-# ::alignments 2-1.1.7.1 3-1.1.8 5-1.1.7.2 7-1.1.9.1 8-1.1.9.2 9-1.1.9.3 10-1.1.9.4.1 11-1.1.9.4.2 12-1.1.10.1 13-1.1.10.2 14-1.1.1
+# ::tok Sie haben , Kommandant , über die Natur des Tieres keinen Zweifel mehr ? « »
+# ::alignments 0-1.1.7.1 1-1.1.8 3-1.1.7.2 5-1.1.9.1 6-1.1.9.2 7-1.1.9.3 8-1.1.9.4.1 9-1.1.9.4.2 10-1.1.10.1 11-1.1.10.2 12-1.1.1
 # ::format ucca
 (v1 / label
     :H (v2 / label
-           :D (v3 / label~e.14)
+           :D (v3 / label~e.12)
            :A (v4 / label
-                  :C (v8 / label~e.2)
-                  :E (v9 / label~e.5))
-           :S (v5 / label~e.3)
+                  :C (v8 / label~e.0)
+                  :E (v9 / label~e.3))
+           :S (v5 / label~e.1)
            :A (v6 / label
-                  :R (v10 / label~e.7)
-                  :E (v11 / label~e.8)
-                  :C (v12 / label~e.9)
+                  :R (v10 / label~e.5)
+                  :E (v11 / label~e.6)
+                  :C (v12 / label~e.7)
                   :E (v13 / label
-                          :R (v16 / label~e.10)
-                          :C (v17 / label~e.11)))
+                          :R (v16 / label~e.8)
+                          :C (v17 / label~e.9)))
            :A (v7 / label
-                  :E (v14 / label~e.12)
-                  :C (v15 / label~e.13))))
+                  :E (v14 / label~e.10)
+                  :C (v15 / label~e.11))))

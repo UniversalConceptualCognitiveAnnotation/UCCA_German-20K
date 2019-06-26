@@ -1,11 +1,11 @@
 # ::id 25509005
-# ::tok » Und welches ?
-# ::alignments 1-1.1.2 2-1.1.3.4
+# ::tok Und welches ? « »
+# ::alignments 0-1.1.1 1-1.1.2.1
 # ::format ucca
 (v1 / label
     :H (v2 / label
-           :L (v3 / label~e.1)
+           :L (v3 / label~e.0)
            :H (v4 / label
-                  :P (v5 / label)
-                  :A (v6 / label)
-                  :A (v7 / label~e.2))))
+                  :A (v5 / label~e.1)
+                  :P (v6 / label)
+                  :A (v7 / label))))
