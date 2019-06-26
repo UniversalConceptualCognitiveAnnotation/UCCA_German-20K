@@ -1,26 +1,26 @@
 # ::id 25811005
-# ::tok » Übrigens « , versetzte Ned , » ist 's nicht derselbe , so ist er doch von derselben Art und Gattung ! «
-# ::alignments 1-1.1.5.1.1 4-1.1.6 5-1.1.7 9-1.1.5.1.3 10-1.1.5.1.4 11-1.1.5.1.5 13-1.1.5.2 14-1.1.5.3.1 15-1.1.5.3.2 16-1.1.5.3.3 17-1.1.5.3.4.1 18-1.1.5.3.4.2 19-1.1.5.3.4.3.1 20-1.1.5.3.4.3.2 21-1.1.5.3.4.3.3
+# ::tok Übrigens « , versetzte Ned , » ist 's nicht derselbe , so ist er doch von derselben Art und Gattung ! «
+# ::alignments 0-1.1.5.1.1 3-1.1.6 4-1.1.7 8-1.1.5.1.3 9-1.1.5.1.4 10-1.1.5.1.5 12-1.1.5.2 13-1.1.5.3.1 14-1.1.5.3.2 15-1.1.5.3.3 16-1.1.5.3.4.1 17-1.1.5.3.4.2 18-1.1.5.3.4.3.1 19-1.1.5.3.4.3.2 20-1.1.5.3.4.3.3
 # ::format ucca
 (v1 / label
     :H (v2 / label
            :A (v3 / label
                   :H (v6 / label
-                         :G (v9 / label~e.1)
-                         :A (v10 / label~e.9)
-                         :D (v11 / label~e.10)
-                         :S (v12 / label~e.11))
-                  :L (v7 / label~e.13)
+                         :G (v9 / label~e.0)
+                         :A (v10 / label~e.8)
+                         :D (v11 / label~e.9)
+                         :S (v12 / label~e.10))
+                  :L (v7 / label~e.12)
                   :H (v8 / label
-                         :S (v13 / label~e.14)
-                         :A (v14 / label~e.15)
-                         :D (v15 / label~e.16)
+                         :S (v13 / label~e.13)
+                         :A (v14 / label~e.14)
+                         :D (v15 / label~e.15)
                          :A (v16 / label
-                                 :R (v17 / label~e.17)
-                                 :E (v18 / label~e.18)
+                                 :R (v17 / label~e.16)
+                                 :E (v18 / label~e.17)
                                  :C (v19 / label
-                                         :C (v20 / label~e.19)
-                                         :N (v21 / label~e.20)
-                                         :C (v22 / label~e.21)))))
-           :P (v4 / label~e.4)
-           :A (v5 / label~e.5)))
+                                         :C (v20 / label~e.18)
+                                         :N (v21 / label~e.19)
+                                         :C (v22 / label~e.20)))))
+           :P (v4 / label~e.3)
+           :A (v5 / label~e.4)))

@@ -1,13 +1,14 @@
 # ::id 25841019
-# ::tok Durch die Öffnung , die bereits meinen beiden Gefährten gedient hatte , stieg ich ein .
-# ::alignments 0-1.1.3.4 1-1.1.3.5 2-1.1.3.1 4-1.1.3.2.2 5-1.1.3.2.3 6-1.1.3.2.4.1 7-1.1.3.2.4.2 8-1.1.3.2.4.3 9-1.1.3.2.5 12-1.1.4 13-1.1.5 14-1.1.4
+# ::tok Durch die Öffnung , die bereits meinen beiden Gefährten gedient hatte , stieg ich ein . »
+# ::alignments 0-1.1.4.5 1-1.1.4.1 2-1.1.4.2 4-1.1.4.3.2 5-1.1.4.3.3 6-1.1.4.3.4.1 7-1.1.4.3.4.2 8-1.1.4.3.4.3 9-1.1.4.3.5 12-1.1.5 13-1.1.6 14-1.1.5
 # ::format ucca
 (v1 / label
     :H (v2 / label
            :A (v3 / label
-                  :C (v6 / label~e.2)
-                  :E (v7 / label
-                         :A v6
+                  :E (v6 / label~e.1)
+                  :C (v7 / label~e.2)
+                  :E (v8 / label
+                         :A v7
                          :R (v10 / label~e.4)
                          :D (v11 / label~e.5)
                          :A (v12 / label
@@ -15,7 +16,6 @@
                                  :E (v15 / label~e.7)
                                  :C (v16 / label~e.8))
                          :P (v13 / label~e.9))
-                  :R (v8 / label~e.0)
-                  :E (v9 / label~e.1))
+                  :R (v9 / label~e.0))
            :P (v4 / label~e.12,14)
            :A (v5 / label~e.13)))

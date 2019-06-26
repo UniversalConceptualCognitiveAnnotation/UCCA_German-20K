@@ -1,18 +1,28 @@
 # ::id 25805014
-# ::tok Seit 6 Monaten waren wir Gefangene an Bord der ›Nautilus‹ .
-# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.3 4-1.1.3 5-1.1.4 6-1.1.5.3 7-1.1.5.1 8-1.1.5.2.1 9-1.1.5.2.2
+# ::tok Wir hatten 17.000 Meilen zurückgelegt , und wie Ned Land sagte , man sah keinen Grund dafür , dass es ein Ende nehmen werde .
+# ::alignments 0-1.1.1 2-1.1.3.1 3-1.1.3.2 4-1.1.4 6-1.2 7-1.3 8-1.4.1 9-1.4.1 10-1.4.2 12-1.5.1 13-1.5.2 14-1.5.3 15-1.5.4 18-1.5.6.1 19-1.5.6.2 20-1.5.6.3.1 21-1.5.6.3.2 22-1.5.6.4
 # ::format ucca
 (v1 / label
     :H (v2 / label
-           :T (v3 / label
-                  :R (v7 / label~e.0)
-                  :E (v8 / label~e.1)
-                  :C (v9 / label~e.2))
-           :A (v4 / label~e.4)
-           :S (v5 / label~e.5)
-           :A (v6 / label
-                  :C (v10 / label~e.7)
-                  :E (v11 / label
-                          :R (v13 / label~e.8)
-                          :C (v14 / label~e.9))
-                  :R (v12 / label~e.6))))
+           :A (v7 / label~e.0)
+           :A (v8 / label
+                  :E (v17 / label~e.2)
+                  :C (v18 / label~e.3))
+           :P (v9 / label~e.4))
+    :L (v3 / label~e.6)
+    :L (v4 / label~e.7)
+    :H (v5 / label
+           :A (v10 / label~e.8,9)
+           :P (v11 / label~e.10))
+    :H (v6 / label
+           :A (v12 / label~e.12)
+           :P (v13 / label~e.13)
+           :D (v14 / label~e.14)
+           :A (v15 / label~e.15)
+           :A (v16 / label
+                   :R (v19 / label~e.18)
+                   :A (v20 / label~e.19)
+                   :S (v21 / label
+                           :E (v23 / label~e.20)
+                           :C (v24 / label~e.21))
+                   :D (v22 / label~e.22))))

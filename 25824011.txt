@@ -1,17 +1,17 @@
 # ::id 25824011
-# ::tok » Ich will einmal tüchtig raten « , sagte Conseil . » 500.000 . «
-# ::alignments 1-1.1.5.1 2-1.1.5.2 3-1.1.5.3 4-1.1.5.4 5-1.1.5.5 8-1.1.6 9-1.1.7 12-1.1.5.6.2
+# ::tok Ich will einmal tüchtig raten « , sagte Conseil . » 500.000 . « »
+# ::alignments 0-1.1.5.1 1-1.1.5.2 2-1.1.5.3 3-1.1.5.4 4-1.1.5.5 7-1.1.6 8-1.1.7 11-1.1.5.6.2
 # ::format ucca
 (v1 / label
     :H (v2 / label
            :A (v3 / label
-                  :A (v6 / label~e.1)
-                  :D (v7 / label~e.2)
-                  :D (v8 / label~e.3)
-                  :D (v9 / label~e.4)
-                  :P (v10 / label~e.5)
+                  :A (v6 / label~e.0)
+                  :D (v7 / label~e.1)
+                  :D (v8 / label~e.2)
+                  :D (v9 / label~e.3)
+                  :P (v10 / label~e.4)
                   :A (v11 / label
                           :C (v12 / label)
-                          :E (v13 / label~e.12)))
-           :P (v4 / label~e.8)
-           :A (v5 / label~e.9)))
+                          :E (v13 / label~e.11)))
+           :P (v4 / label~e.7)
+           :A (v5 / label~e.8)))
