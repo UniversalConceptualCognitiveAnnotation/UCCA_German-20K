@@ -1,34 +1,34 @@
 # ::id 25743001
-# ::tok » Aber , Freund Ned « , erwiderte Conseil , » wäre diese Öffnung nicht unter der See gewesen , so hätte die ›Nautilus‹ nicht dahin gelangen können ! «
-# ::alignments 1-1.1.5.1 3-1.1.5.2.1.1 4-1.1.5.2.1.2 7-1.1.6 8-1.1.7 11-1.1.5.2.2 12-1.1.5.2.3.1 13-1.1.5.2.3.2 14-1.1.5.2.4 15-1.1.5.2.5.1 16-1.1.5.2.5.2 17-1.1.5.2.5.3 18-1.1.5.2.6 20-1.1.5.3 21-1.1.5.4.1 22-1.1.5.4.2.1 23-1.1.5.4.2.2 24-1.1.5.4.3 25-1.1.5.4.4 26-1.1.5.4.5 27-1.1.5.4.6
+# ::tok Aber , Freund Ned « , erwiderte Conseil , » wäre diese Öffnung nicht unter der See gewesen , so hätte die ›Nautilus‹ nicht dahin gelangen können ! « »
+# ::alignments 0-1.1.5.1 2-1.1.5.2.1.1 3-1.1.5.2.1.2 6-1.1.6 7-1.1.7 10-1.1.5.2.2 11-1.1.5.2.3.1 12-1.1.5.2.3.2 13-1.1.5.2.4 14-1.1.5.2.5.1 15-1.1.5.2.5.2 16-1.1.5.2.5.3 17-1.1.5.2.6 19-1.1.5.3 20-1.1.5.4.1 21-1.1.5.4.2.1 22-1.1.5.4.2.2 23-1.1.5.4.3 24-1.1.5.4.4 25-1.1.5.4.5 26-1.1.5.4.6
 # ::format ucca
 (v1 / label
     :H (v2 / label
            :A (v3 / label
-                  :L (v6 / label~e.1)
+                  :L (v6 / label~e.0)
                   :H (v7 / label
                          :G (v10 / label
-                                 :E (v22 / label~e.3)
-                                 :C (v23 / label~e.4))
-                         :D (v11 / label~e.11)
+                                 :E (v22 / label~e.2)
+                                 :C (v23 / label~e.3))
+                         :D (v11 / label~e.10)
                          :A (v12 / label
-                                 :E (v24 / label~e.12)
-                                 :C (v25 / label~e.13))
-                         :D (v13 / label~e.14)
+                                 :E (v24 / label~e.11)
+                                 :C (v25 / label~e.12))
+                         :D (v13 / label~e.13)
                          :A (v14 / label
-                                 :R (v26 / label~e.15)
-                                 :E (v27 / label~e.16)
-                                 :C (v28 / label~e.17))
-                         :S (v15 / label~e.18))
-                  :L (v8 / label~e.20)
+                                 :R (v26 / label~e.14)
+                                 :E (v27 / label~e.15)
+                                 :C (v28 / label~e.16))
+                         :S (v15 / label~e.17))
+                  :L (v8 / label~e.19)
                   :H (v9 / label
-                         :D (v16 / label~e.21)
+                         :D (v16 / label~e.20)
                          :A (v17 / label
-                                 :E (v29 / label~e.22)
-                                 :C (v30 / label~e.23))
-                         :D (v18 / label~e.24)
-                         :A (v19 / label~e.25)
-                         :P (v20 / label~e.26)
-                         :D (v21 / label~e.27)))
-           :P (v4 / label~e.7)
-           :A (v5 / label~e.8)))
+                                 :E (v29 / label~e.21)
+                                 :C (v30 / label~e.22))
+                         :D (v18 / label~e.23)
+                         :A (v19 / label~e.24)
+                         :P (v20 / label~e.25)
+                         :D (v21 / label~e.26)))
+           :P (v4 / label~e.6)
+           :A (v5 / label~e.7)))

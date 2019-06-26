@@ -1,48 +1,48 @@
 # ::id 25767007
-# ::tok » Der ›Nautilus‹ wird leicht , was für gewöhnliche Fahrzeuge unausführbar ist . Ist der Pol von Festland umgeben , so wird sie bei diesem haltmachen ; ist dort dagegen freies Meer , so wird er bis zu ihm selbst dringen ! «
-# ::alignments 1-1.1.11.1.1 2-1.1.11.1.2 4-1.1.11.3 6-1.1.11.4.1 7-1.1.11.4.2.1 8-1.1.11.4.2.2 9-1.1.11.4.2.3 10-1.1.11.4.3 14-1.1.12.2.1 15-1.1.12.2.2 16-1.1.12.3.1 17-1.1.12.3.2 18-1.1.12.4 20-1.1.13 22-1.1.1.2 23-1.1.1.3.1 24-1.1.1.3.2 25-1.1.1.4 27-1.1.2.1 28-1.1.2.2 29-1.1.3 30-1.1.2.3.1 31-1.1.2.3.2 33-1.1.4 35-1.1.5.2 36-1.1.5.3.1 37-1.1.5.3.1 38-1.1.5.3.2 39-1.1.5.4 40-1.1.5.5
+# ::tok Der ›Nautilus‹ wird leicht , was für gewöhnliche Fahrzeuge unausführbar ist . Ist der Pol von Festland umgeben , so wird sie bei diesem haltmachen ; ist dort dagegen freies Meer , so wird er bis zu ihm selbst dringen ! « »
+# ::alignments 0-1.1.10.1.1 1-1.1.10.1.2 3-1.1.10.3 5-1.1.10.4.1 6-1.1.10.4.2.1 7-1.1.10.4.2.2 8-1.1.10.4.2.3 9-1.1.10.4.3 13-1.1.11.2.1 14-1.1.11.2.2 15-1.1.11.3.1 16-1.1.11.3.2 17-1.1.11.4 19-1.1.12 21-1.1.1.2 22-1.1.1.3.1 23-1.1.1.3.2 24-1.1.1.4 26-1.1.2.1 27-1.1.2.2 28-1.1.3 29-1.1.2.3.1 30-1.1.2.3.2 32-1.1.4 34-1.1.5.2 35-1.1.5.3.1 36-1.1.5.3.1 37-1.1.5.3.2 38-1.1.5.4 39-1.1.5.5
 # ::format ucca
 (v1 / label
     :H (v2 / label
            :H (v3 / label
-                  :A (v11 / label~e.22)
+                  :A (v11 / label~e.21)
                   :A (v12 / label
-                          :R (v27 / label~e.23)
-                          :C (v28 / label~e.24))
-                  :P (v13 / label~e.25))
+                          :R (v27 / label~e.22)
+                          :C (v28 / label~e.23))
+                  :P (v13 / label~e.24))
            :H (v4 / label
-                  :S (v14 / label~e.27)
-                  :A (v15 / label~e.28)
+                  :S (v14 / label~e.26)
+                  :A (v15 / label~e.27)
                   :A (v16 / label
-                          :E (v29 / label~e.30)
-                          :C (v30 / label~e.31)))
-           :L (v5 / label~e.29)
-           :L (v6 / label~e.33)
+                          :E (v29 / label~e.29)
+                          :C (v30 / label~e.30)))
+           :L (v5 / label~e.28)
+           :L (v6 / label~e.32)
            :H (v7 / label
-                  :A (v17 / label~e.35)
+                  :A (v17 / label~e.34)
                   :A (v18 / label
-                          :R (v31 / label~e.36,37)
-                          :C (v32 / label~e.38))
-                  :D (v19 / label~e.39)
-                  :P (v20 / label~e.40))
+                          :R (v31 / label~e.35,36)
+                          :C (v32 / label~e.37))
+                  :D (v19 / label~e.38)
+                  :P (v20 / label~e.39))
            :H (v8 / label
                   :A (v21 / label
-                          :E (v33 / label~e.1)
-                          :C (v34 / label~e.2))
-                  :S (v22 / label~e.4)
+                          :E (v33 / label~e.0)
+                          :C (v34 / label~e.1))
+                  :S (v22 / label~e.3)
                   :A (v23 / label
-                          :A (v35 / label~e.6)
+                          :A (v35 / label~e.5)
                           :A (v36 / label
-                                  :R (v42 / label~e.7)
-                                  :E (v43 / label~e.8)
-                                  :C (v44 / label~e.9))
-                          :S (v37 / label~e.10)))
+                                  :R (v42 / label~e.6)
+                                  :E (v43 / label~e.7)
+                                  :C (v44 / label~e.8))
+                          :S (v37 / label~e.9)))
            :H (v9 / label
                   :A (v24 / label
-                          :E (v38 / label~e.14)
-                          :C (v39 / label~e.15))
+                          :E (v38 / label~e.13)
+                          :C (v39 / label~e.14))
                   :A (v25 / label
-                          :R (v40 / label~e.16)
-                          :C (v41 / label~e.17))
-                  :S (v26 / label~e.18))
-           :L (v10 / label~e.20)))
+                          :R (v40 / label~e.15)
+                          :C (v41 / label~e.16))
+                  :S (v26 / label~e.17))
+           :L (v10 / label~e.19)))
