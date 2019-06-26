@@ -1,6 +1,6 @@
 # ::id 25639024
-# ::tok » Durch die geöffneten Luken . «
-# ::alignments 1-1.1.3.2.1 2-1.1.3.2.2 3-1.1.3.2.3.2 4-1.1.3.2.4
+# ::tok Durch die geöffneten Luken . « »
+# ::alignments 0-1.1.3.2.1 1-1.1.3.2.2 2-1.1.3.2.3.2 3-1.1.3.2.4
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -9,10 +9,10 @@
            :A (v5 / label
                   :P (v6 / label)
                   :A (v7 / label
-                         :R (v9 / label~e.1)
-                         :E (v10 / label~e.2)
+                         :R (v9 / label~e.0)
+                         :E (v10 / label~e.1)
                          :E (v11 / label
-                                 :A (v12 / label~e.4)
-                                 :S (v13 / label~e.3))
+                                 :A (v12 / label~e.3)
+                                 :S (v13 / label~e.2))
                          :C v12)
                   :A (v8 / label))))

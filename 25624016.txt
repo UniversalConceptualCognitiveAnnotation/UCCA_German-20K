@@ -1,32 +1,32 @@
 # ::id 25624016
-# ::tok » Es ist kein Brot mehr « , fuhr der Kanadier fort , » es ist eine kostbare Pastete . Sie haben noch nie welche gegessen , mein Herr ? «
-# ::alignments 2-1.1.5.1.2 3-1.1.5.1.3.1 4-1.1.5.1.4 5-1.1.5.1.3.2 8-1.1.6 9-1.1.7.1 10-1.1.7.2 11-1.1.6 15-1.1.5.2.2 16-1.1.5.2.3.1 17-1.1.5.2.3.2 18-1.1.5.2.3.3 22-1.1.5.3.3.1 23-1.1.5.3.3.2 24-1.1.5.3.4 25-1.1.5.3.5 27-1.1.5.3.6.1 28-1.1.5.3.6.2
+# ::tok Es ist kein Brot mehr « , fuhr der Kanadier fort , » es ist eine kostbare Pastete . Sie haben noch nie welche gegessen , mein Herr ? « »
+# ::alignments 1-1.1.5.1.2 2-1.1.5.1.3.1 3-1.1.5.1.4 4-1.1.5.1.3.2 7-1.1.6 8-1.1.7.1 9-1.1.7.2 10-1.1.6 14-1.1.5.2.2 15-1.1.5.2.3.1 16-1.1.5.2.3.2 17-1.1.5.2.3.3 21-1.1.5.3.3.1 22-1.1.5.3.3.2 23-1.1.5.3.4 24-1.1.5.3.5 26-1.1.5.3.6.1 27-1.1.5.3.6.2
 # ::format ucca
 (v1 / label
     :H (v2 / label
            :A (v3 / label
                   :H (v6 / label
-                         :S (v11 / label~e.2)
+                         :S (v11 / label~e.1)
                          :D (v12 / label
-                                 :C (v20 / label~e.3)
-                                 :E (v21 / label~e.5))
-                         :A (v13 / label~e.4))
+                                 :C (v20 / label~e.2)
+                                 :E (v21 / label~e.4))
+                         :A (v13 / label~e.3))
                   :H (v7 / label
-                         :S (v14 / label~e.15)
+                         :S (v14 / label~e.14)
                          :A (v15 / label
-                                 :E (v22 / label~e.16)
-                                 :E (v23 / label~e.17)
-                                 :C (v24 / label~e.18)))
+                                 :E (v22 / label~e.15)
+                                 :E (v23 / label~e.16)
+                                 :C (v24 / label~e.17)))
                   :H (v8 / label
                          :D (v16 / label
-                                 :E (v25 / label~e.22)
-                                 :C (v26 / label~e.23))
-                         :A (v17 / label~e.24)
-                         :P (v18 / label~e.25)
+                                 :E (v25 / label~e.21)
+                                 :C (v26 / label~e.22))
+                         :A (v17 / label~e.23)
+                         :P (v18 / label~e.24)
                          :G (v19 / label
-                                 :E (v27 / label~e.27)
-                                 :C (v28 / label~e.28))))
-           :P (v4 / label~e.8,11)
+                                 :E (v27 / label~e.26)
+                                 :C (v28 / label~e.27))))
+           :P (v4 / label~e.7,10)
            :A (v5 / label
-                  :E (v9 / label~e.9)
-                  :C (v10 / label~e.10))))
+                  :E (v9 / label~e.8)
+                  :C (v10 / label~e.9))))

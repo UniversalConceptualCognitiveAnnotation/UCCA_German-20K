@@ -1,6 +1,6 @@
 # ::id 25605000
-# ::tok Ich las eben ein reizendes Buch von Jean Macé , als Conseil mich mit einem sonderbaren Ton unterbrach .
-# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3 3-1.1.4.1 4-1.1.4.2 5-1.1.4.3 6-1.1.4.4.1 7-1.1.4.4.2 8-1.1.4.4.2 10-1.2 11-1.3.3 12-1.3.4 13-1.3.5.1 14-1.3.5.2 15-1.3.5.3 16-1.3.5.4 17-1.3.1
+# ::tok Ich las eben ein reizendes Buch von Jean Macé , als Conseil mich mit einem sonderbaren Ton unterbrach . »
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3 3-1.1.4.1 4-1.1.4.2 5-1.1.4.3 6-1.1.4.4.1 7-1.1.4.4.2 8-1.1.4.4.2 10-1.2 11-1.3.5 12-1.3.6 13-1.3.1.1 14-1.3.1.2 15-1.3.1.3 16-1.3.1.4 17-1.3.2
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -16,11 +16,11 @@
                           :C (v22 / label~e.7,8))))
     :L (v3 / label~e.10)
     :H (v4 / label
-           :P (v9 / label~e.17)
-           :A (v10 / label~e.11)
-           :A (v11 / label~e.12)
-           :A (v12 / label
-                   :R (v17 / label~e.13)
-                   :E (v18 / label~e.14)
-                   :E (v19 / label~e.15)
-                   :C (v20 / label~e.16))))
+           :A (v9 / label
+                  :R (v17 / label~e.13)
+                  :E (v18 / label~e.14)
+                  :E (v19 / label~e.15)
+                  :C (v20 / label~e.16))
+           :P (v10 / label~e.17)
+           :A (v11 / label~e.11)
+           :A (v12 / label~e.12)))

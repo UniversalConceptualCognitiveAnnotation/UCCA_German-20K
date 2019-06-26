@@ -1,28 +1,28 @@
 # ::id 25678008
-# ::tok » Guter Ned « , erwiderte ich lachend , » das waren unechte Perlen , bloß Glaskugeln , innen mit orientalischer Essenz bestrichen . «
-# ::alignments 1-1.1.1.1.1 2-1.1.1.1.2 5-1.1.2 6-1.1.3 7-1.2.2 10-1.1.1.2 12-1.1.1.4 13-1.1.1.5 15-1.1.1.6 16-1.1.1.7.1 18-1.1.1.7.2.1 19-1.1.1.7.2.2.1 20-1.1.1.7.2.2.2 21-1.1.1.7.2.2.3 22-1.1.1.7.2.3
+# ::tok Guter Ned « , erwiderte ich lachend , » das waren unechte Perlen , bloß Glaskugeln , innen mit orientalischer Essenz bestrichen . « »
+# ::alignments 0-1.1.1.1.1 1-1.1.1.1.2 4-1.1.2 5-1.1.3 6-1.2.2 9-1.1.1.2 11-1.1.1.4 12-1.1.1.5 14-1.1.1.6 15-1.1.1.7.1 17-1.1.1.7.2.1 18-1.1.1.7.2.2.1 19-1.1.1.7.2.2.2 20-1.1.1.7.2.2.3 21-1.1.1.7.2.3
 # ::format ucca
 (v1 / label
     :H (v2 / label
            :A (v4 / label
                   :G (v8 / label
-                         :E (v14 / label~e.1)
-                         :C (v15 / label~e.2))
-                  :A (v9 / label~e.10)
-                  :S (v10 / label~e.12)
-                  :A (v11 / label~e.13)
-                  :D (v12 / label~e.15)
+                         :E (v14 / label~e.0)
+                         :C (v15 / label~e.1))
+                  :A (v9 / label~e.9)
+                  :S (v10 / label~e.11)
+                  :A (v11 / label~e.12)
+                  :D (v12 / label~e.14)
                   :A (v13 / label
-                          :C (v16 / label~e.16)
+                          :C (v16 / label~e.15)
                           :E (v17 / label
-                                  :A (v18 / label~e.18)
+                                  :A (v18 / label~e.17)
                                   :A (v19 / label
-                                          :R (v21 / label~e.19)
-                                          :E (v22 / label~e.20)
-                                          :C (v23 / label~e.21))
-                                  :P (v20 / label~e.22))))
-           :P (v5 / label~e.5)
-           :A (v6 / label~e.6))
+                                          :R (v21 / label~e.18)
+                                          :E (v22 / label~e.19)
+                                          :C (v23 / label~e.20))
+                                  :P (v20 / label~e.21))))
+           :P (v5 / label~e.4)
+           :A (v6 / label~e.5))
     :H (v3 / label
            :A v6
-           :P (v7 / label~e.7)))
+           :P (v7 / label~e.6)))

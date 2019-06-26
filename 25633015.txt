@@ -1,6 +1,6 @@
 # ::id 25633015
-# ::tok » Mindestens hundert . «
-# ::alignments 1-1.1.3.2 2-1.1.3.3
+# ::tok Mindestens hundert . « »
+# ::alignments 0-1.1.3.2 1-1.1.3.3
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -8,6 +8,6 @@
            :P (v4 / label)
            :A (v5 / label
                   :A (v6 / label)
-                  :D (v7 / label~e.1)
-                  :A (v8 / label~e.2)
+                  :D (v7 / label~e.0)
+                  :A (v8 / label~e.1)
                   :P (v9 / label))))
