@@ -3,21 +3,21 @@
   <layer layerID="0">
     <attributes />
     <extra doc="[[], [], [], [], [], [], [], [], [], [], [], [], [], [], [], []]" />
-    <node ID="0.1" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="1" text="&#187;" />
+    <node ID="0.1" type="Word">
+      <attributes paragraph="1" paragraph_position="1" text="Ja" />
       <extra orig_paragraph="10" />
     </node>
-    <node ID="0.2" type="Word">
-      <attributes paragraph="1" paragraph_position="2" text="Ja" />
+    <node ID="0.2" type="Punctuation">
+      <attributes paragraph="1" paragraph_position="2" text="." />
       <extra orig_paragraph="10" />
     </node>
     <node ID="0.3" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="3" text="." />
+      <attributes paragraph="1" paragraph_position="3" text="&#171;" />
       <extra orig_paragraph="10" />
     </node>
     <node ID="0.4" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="4" text="&#171;" />
-      <extra orig_paragraph="10" />
+      <attributes paragraph="1" paragraph_position="4" text="&#187;" />
+      <extra orig_paragraph="11" />
     </node>
   </layer>
   <layer layerID="1">
@@ -43,6 +43,10 @@
         <attributes />
         <category tag="D" />
       </edge>
+      <edge toID="1.9" type="U">
+        <attributes />
+        <category tag="U" />
+      </edge>
       <edge toID="1.10" type="U">
         <attributes />
         <category tag="U" />
@@ -60,18 +64,14 @@
     </node>
     <node ID="1.8" type="FN">
       <attributes />
-      <edge toID="0.2" type="Terminal">
+      <edge toID="0.1" type="Terminal">
         <attributes />
         <category tag="Terminal" />
-      </edge>
-      <edge toID="1.9" type="U">
-        <attributes />
-        <category tag="U" />
       </edge>
     </node>
     <node ID="1.9" type="PNCT">
       <attributes />
-      <edge toID="0.1" type="Terminal">
+      <edge toID="0.2" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

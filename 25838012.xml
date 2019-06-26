@@ -23,6 +23,10 @@
       <attributes paragraph="1" paragraph_position="5" text="." />
       <extra orig_paragraph="6" />
     </node>
+    <node ID="0.6" type="Punctuation">
+      <attributes paragraph="1" paragraph_position="6" text="&#187;" />
+      <extra orig_paragraph="7" />
+    </node>
   </layer>
   <layer layerID="1">
     <attributes />
@@ -35,27 +39,31 @@
     </node>
     <node ID="1.2" type="FN">
       <attributes />
-      <edge toID="1.4" type="A">
+      <edge toID="1.5" type="A">
         <attributes />
         <category tag="A" />
       </edge>
-      <edge toID="1.5" type="P">
+      <edge toID="1.6" type="P">
         <attributes />
         <category tag="P" />
       </edge>
-      <edge toID="1.6" type="U">
+      <edge toID="1.7" type="U">
+        <attributes />
+        <category tag="U" />
+      </edge>
+      <edge toID="1.8" type="U">
         <attributes />
         <category tag="U" />
       </edge>
     </node>
-    <node ID="1.4" type="FN">
+    <node ID="1.5" type="FN">
       <attributes />
       <edge toID="0.1" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>
     </node>
-    <node ID="1.5" type="FN">
+    <node ID="1.6" type="FN">
       <attributes />
       <edge toID="0.2" type="Terminal">
         <attributes />
@@ -70,9 +78,16 @@
         <category tag="Terminal" />
       </edge>
     </node>
-    <node ID="1.6" type="PNCT">
+    <node ID="1.7" type="PNCT">
       <attributes />
       <edge toID="0.5" type="Terminal">
+        <attributes />
+        <category tag="Terminal" />
+      </edge>
+    </node>
+    <node ID="1.8" type="PNCT">
+      <attributes />
+      <edge toID="0.6" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

@@ -4,23 +4,23 @@
     <attributes />
     <extra doc="[[], [], [], [], [], [], [], []]" />
     <node ID="0.1" type="Word">
-      <attributes paragraph="1" paragraph_position="1" text="Wird" />
+      <attributes paragraph="1" paragraph_position="1" text="Ich" />
       <extra orig_paragraph="6" />
     </node>
     <node ID="0.2" type="Word">
-      <attributes paragraph="1" paragraph_position="2" text="man" />
+      <attributes paragraph="1" paragraph_position="2" text="wei&#223;" />
       <extra orig_paragraph="6" />
     </node>
     <node ID="0.3" type="Word">
-      <attributes paragraph="1" paragraph_position="3" text="mir" />
+      <attributes paragraph="1" paragraph_position="3" text="es" />
       <extra orig_paragraph="6" />
     </node>
     <node ID="0.4" type="Word">
-      <attributes paragraph="1" paragraph_position="4" text="glauben" />
+      <attributes paragraph="1" paragraph_position="4" text="nicht" />
       <extra orig_paragraph="6" />
     </node>
     <node ID="0.5" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="5" text="?" />
+      <attributes paragraph="1" paragraph_position="5" text="." />
       <extra orig_paragraph="6" />
     </node>
   </layer>
@@ -35,21 +35,21 @@
     </node>
     <node ID="1.2" type="FN">
       <attributes />
-      <edge toID="1.4" type="F">
+      <edge toID="1.4" type="A">
+        <attributes />
+        <category tag="A" />
+      </edge>
+      <edge toID="1.5" type="S">
+        <attributes />
+        <category tag="S" />
+      </edge>
+      <edge toID="1.6" type="F">
         <attributes />
         <category tag="F" />
       </edge>
-      <edge toID="1.5" type="A">
+      <edge toID="1.7" type="D">
         <attributes />
-        <category tag="A" />
-      </edge>
-      <edge toID="1.6" type="A">
-        <attributes />
-        <category tag="A" />
-      </edge>
-      <edge toID="1.7" type="P">
-        <attributes />
-        <category tag="P" />
+        <category tag="D" />
       </edge>
       <edge toID="1.8" type="U">
         <attributes />
