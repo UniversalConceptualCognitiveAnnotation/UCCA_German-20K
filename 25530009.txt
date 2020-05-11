@@ -1,6 +1,6 @@
 # ::id 25530009
 # ::tok Aber ich war noch lange wie im Traum , bis meine Blicke auf die an den Wänden hängenden Instrumente fielen .
-# ::alignments 0-1.1 1-1.2.1 2-1.2.2 3-1.2.3.1 4-1.2.3.2 5-1.2.4.1 6-1.2.4.2 7-1.2.4.3 9-1.3 10-1.4.3.1 11-1.4.3.2 12-1.4.4.1 13-1.4.4.2 14-1.4.4.3.2.1 15-1.4.4.3.2.2 16-1.4.4.3.2.3 17-1.4.4.3.3 18-1.4.4.4 19-1.4.1
+# ::alignments 0-1.1 1-1.2.1 2-1.2.2 3-1.2.3.1 4-1.2.3.2 5-1.2.4.1 6-1.2.4.2 7-1.2.4.3 9-1.3 10-1.4.3.1 11-1.4.3.2 12-1.4.4.1 14-1.4.4.3.2.1 16-1.4.4.3.2.3 17-1.4.4.3.3 18-1.4.4.4 19-1.4.1
 # ::format ucca
 (v1 / label
     :L (v2 / label~e.0)
@@ -22,12 +22,10 @@
                    :C (v19 / label~e.11))
            :A (v12 / label
                    :R (v20 / label~e.12)
-                   :E (v21 / label~e.13)
-                   :E (v22 / label
-                           :A (v23 / label~e.18)
-                           :A (v24 / label
-                                   :R (v26 / label~e.14)
-                                   :E (v27 / label~e.15)
-                                   :C (v28 / label~e.16))
-                           :S (v25 / label~e.17))
-                   :C v23)))
+                   :E (v21 / label
+                           :A (v22 / label~e.18)
+                           :A (v23 / label
+                                   :R (v25 / label~e.14)
+                                   :C (v26 / label~e.16))
+                           :S (v24 / label~e.17))
+                   :C v22)))

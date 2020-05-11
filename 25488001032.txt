@@ -1,0 +1,32 @@
+# ::id 25488001032
+# ::tok Ein Inselchen ? « » Ja , oder vielmehr , auf unserm Riesen narwal . « »
+# ::alignments 1-1.1.3.2.2 5-1.2.3.1.2 7-1.2.3.2 8-1.2.3.3.3 10-1.2.3.3.4.1 11-1.2.3.3.4.2.2 12-1.2.3.3.4.3 13-1.2.3.3.4.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :P (v4 / label)
+           :A (v5 / label)
+           :A (v6 / label
+                  :S (v10 / label)
+                  :A (v11 / label
+                          :C (v15 / label~e.1))))
+    :H (v3 / label
+           :A (v7 / label)
+           :S (v8 / label)
+           :A (v9 / label
+                  :H (v12 / label
+                          :S (v16 / label)
+                          :G (v17 / label~e.5)
+                          :A v15)
+                  :L (v13 / label~e.7)
+                  :H (v14 / label
+                          :A (v18 / label)
+                          :P (v19 / label)
+                          :G (v20 / label~e.8)
+                          :A (v21 / label
+                                  :R (v22 / label~e.10)
+                                  :E (v23 / label
+                                          :A (v25 / label~e.13)
+                                          :A (v26 / label~e.11))
+                                  :E (v24 / label~e.12)
+                                  :C v25)))))

@@ -1,22 +1,27 @@
 # ::id 25460007
-# ::tok Die Fregatte fuhr längs der Südost küste von Amerika mit erstaunlicher Schnelligkeit .
-# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.2 3-1.1.3.1 4-1.1.3.2 5-1.1.3.3 6-1.1.3.4 7-1.1.3.5.1 8-1.1.3.5.2 9-1.1.4.3 10-1.1.4.4 11-1.1.4.1
+# ::tok Unstreitig , wenn das Ungeheuer jemals mit Ned Lands Harpune zu schaffen bekommt , gehe ich keine Wette zu seinen Gunsten ein .
+# ::alignments 0-1.1.1 2-1.2 4-1.3.3.2 5-1.3.4 6-1.3.1.1 7-1.3.1.2 8-1.3.1.2 9-1.3.1.3 10-1.3.2.1 11-1.3.2.2 14-1.1.2 15-1.1.3 16-1.1.4 17-1.1.5 18-1.1.6.1 19-1.1.6.2 20-1.1.6.3 21-1.1.2
 # ::format ucca
 (v1 / label
     :H (v2 / label
-           :A (v3 / label
-                  :E (v7 / label~e.0)
-                  :C (v8 / label~e.1))
-           :P (v4 / label~e.2)
-           :A (v5 / label
-                  :R (v9 / label~e.3)
-                  :R (v10 / label~e.4)
-                  :E (v11 / label~e.5)
-                  :C (v12 / label~e.6)
-                  :E (v13 / label
-                          :R (v17 / label~e.7)
-                          :C (v18 / label~e.8)))
-           :D (v6 / label
-                  :C (v14 / label~e.11)
-                  :R (v15 / label~e.9)
-                  :E (v16 / label~e.10))))
+           :G (v5 / label~e.0)
+           :P (v6 / label~e.14,21)
+           :A (v7 / label~e.15)
+           :D (v8 / label~e.16)
+           :A (v9 / label~e.17)
+           :A (v10 / label
+                   :R (v15 / label~e.18)
+                   :E (v16 / label~e.19)
+                   :C (v17 / label~e.20)))
+    :L (v3 / label~e.2)
+    :H (v4 / label
+           :A (v11 / label
+                   :R (v18 / label~e.6)
+                   :E (v19 / label~e.7,8)
+                   :C (v20 / label~e.9))
+           :P (v12 / label
+                   :R (v21 / label~e.10)
+                   :C (v22 / label~e.11))
+           :A (v13 / label
+                   :C (v23 / label~e.4))
+           :T (v14 / label~e.5)))

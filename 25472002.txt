@@ -1,16 +1,11 @@
 # ::id 25472002
 # ::tok Das Tier wurde unser spottend Meister .
-# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.2 3-1.1.3.2 4-1.1.3.3.1 5-1.1.3.4
+# ::alignments 1-1.1.2.1 3-1.1.4 4-1.1.5 5-1.1.6
 # ::format ucca
 (v1 / label
     :H (v2 / label
            :A (v3 / label
-                  :E (v6 / label~e.0)
                   :C (v7 / label~e.1))
-           :S (v4 / label~e.2)
-           :A (v5 / label
-                  :E (v8 / label~e.3)
-                  :E (v9 / label
-                         :S (v11 / label~e.4)
-                         :A (v10 / label~e.5))
-                  :C v10)))
+           :A (v4 / label~e.3)
+           :D (v5 / label~e.4)
+           :S (v6 / label~e.5)))

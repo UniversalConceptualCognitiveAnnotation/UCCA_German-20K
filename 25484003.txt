@@ -1,38 +1,37 @@
 # ::id 25484003
 # ::tok Ein anderer , der 's besser versteht ! « rief der Kommandant , » und 500 Dollar , wer die höllische Bestie trifft ! «
-# ::alignments 0-1.1.5.1.2.1 1-1.1.5.1.2.2 3-1.1.5.1.2.3.2 4-1.1.5.1.2.3.3 5-1.1.5.1.2.3.4 6-1.1.5.1.2.3.5 9-1.1.6 10-1.1.7.1 11-1.1.7.2 14-1.1.5.2 15-1.1.5.3.3.1 16-1.1.5.3.3.2 18-1.1.5.3.4.2.1 19-1.1.5.3.4.2.2.1 20-1.1.5.3.4.2.2.2 21-1.1.5.3.4.2.2.3 22-1.1.5.3.4.2.3
+# ::alignments 1-1.1.5.1.2.2 3-1.1.5.1.2.3.2 4-1.1.5.1.2.3.3 5-1.1.5.1.2.3.4 6-1.1.5.1.2.3.5 9-1.1.6 11-1.1.7.1.2 14-1.1.5.2 15-1.1.5.3.2.1 16-1.1.5.3.2.2 18-1.1.5.3.3.2.1 20-1.1.5.3.3.2.2.2.2 21-1.1.5.3.3.2.2.3 22-1.1.5.3.3.2.3
 # ::format ucca
 (v1 / label
     :H (v2 / label
            :A (v3 / label
                   :H (v6 / label
-                         :P (v11 / label)
-                         :A (v12 / label
-                                 :E (v17 / label~e.0)
-                                 :C (v18 / label~e.1)
-                                 :E (v19 / label
-                                         :A v18
-                                         :R (v24 / label~e.3)
-                                         :A (v25 / label~e.4)
-                                         :D (v26 / label~e.5)
-                                         :P (v27 / label~e.6))))
+                         :P (v10 / label)
+                         :A (v11 / label
+                                 :C (v16 / label~e.1)
+                                 :E (v17 / label
+                                         :A v16
+                                         :R (v22 / label~e.3)
+                                         :A (v23 / label~e.4)
+                                         :D (v24 / label~e.5)
+                                         :P (v25 / label~e.6))))
                   :L (v7 / label~e.14)
                   :H (v8 / label
-                         :A (v13 / label)
-                         :P (v14 / label)
-                         :A (v15 / label
-                                 :E (v20 / label~e.15)
-                                 :C (v21 / label~e.16))
-                         :A (v16 / label
-                                 :C (v22 / label)
-                                 :E (v23 / label
-                                         :A (v28 / label~e.18)
-                                         :A (v29 / label
-                                                 :E (v31 / label~e.19)
-                                                 :E (v32 / label~e.20)
-                                                 :C (v33 / label~e.21))
-                                         :P (v30 / label~e.22)))))
+                         :P (v12 / label)
+                         :A (v13 / label
+                                 :Q (v18 / label~e.15)
+                                 :C (v19 / label~e.16))
+                         :A (v14 / label
+                                 :C (v20 / label)
+                                 :E (v21 / label
+                                         :A (v26 / label~e.18)
+                                         :A (v27 / label
+                                                 :E (v29 / label
+                                                         :A (v30 / label~e.21)
+                                                         :S (v31 / label~e.20))
+                                                 :C v30)
+                                         :P (v28 / label~e.22)))))
            :P (v4 / label~e.9)
            :A (v5 / label
-                  :E (v9 / label~e.10)
-                  :C (v10 / label~e.11))))
+                  :A (v9 / label
+                         :C (v15 / label~e.11)))))

@@ -1,15 +1,20 @@
 # ::id 25513012
-# ::tok Woher entsprang diese fast unbegrenzte Kraft ?
-# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.2 3-1.1.3.3.1 4-1.1.3.3.2 5-1.1.3.4
+# ::tok Etwa aus einer übermäßigen Spannung durch eine neue Art von Wellen ?
+# ::alignments 0-1.1.2 1-1.1.3.1 3-1.1.3.3 4-1.1.3.2.2 5-1.1.4.4 7-1.1.4.5.2 8-1.1.4.5.3 9-1.1.4.1 10-1.1.4.2
 # ::format ucca
 (v1 / label
     :H (v2 / label
-           :A (v3 / label~e.0)
-           :P (v4 / label~e.1)
+           :P (v3 / label)
+           :G (v4 / label~e.0)
            :A (v5 / label
-                  :E (v6 / label~e.2)
-                  :E (v7 / label
-                         :D (v9 / label~e.3)
-                         :S (v10 / label~e.4)
-                         :A (v8 / label~e.5))
-                  :C v8)))
+                  :R (v7 / label~e.1)
+                  :S (v8 / label
+                         :C (v14 / label~e.4))
+                  :D (v9 / label~e.3))
+           :A (v6 / label
+                  :R (v10 / label~e.9)
+                  :C (v11 / label~e.10)
+                  :R (v12 / label~e.5)
+                  :E (v13 / label
+                          :E (v15 / label~e.7)
+                          :C (v16 / label~e.8)))))

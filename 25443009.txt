@@ -1,8 +1,12 @@
 # ::id 25443009
 # ::tok Wackerer Ned !
-# ::alignments 0-1.1.1 1-1.1.2
+# ::alignments 0-1.1.2.1.2 1-1.1.2.2
 # ::format ucca
 (v1 / label
     :H (v2 / label
-           :S (v3 / label~e.0)
-           :A (v4 / label~e.1)))
+           :S (v3 / label)
+           :A (v4 / label
+                  :E (v5 / label
+                         :A (v6 / label~e.1)
+                         :S (v7 / label~e.0))
+                  :C v6)))

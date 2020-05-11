@@ -1,6 +1,6 @@
 # ::id 25586003
 # ::tok Und wie kann man sich frei machen ? « fragte ich . - »
-# ::alignments 0-1.1.6.1 1-1.1.6.2.1 2-1.1.6.2.2 3-1.1.6.2.3 4-1.1.6.2.4 5-1.1.6.2.5 6-1.1.6.2.5 9-1.1.7 10-1.1.8
+# ::alignments 0-1.1.6.1 1-1.1.6.2.1 2-1.1.6.2.2 3-1.1.6.2.3 4-1.1.6.2.4 5-1.1.6.2.5.1 9-1.1.7 10-1.1.8
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -11,6 +11,7 @@
                          :D (v9 / label~e.2)
                          :A (v10 / label~e.3)
                          :A (v11 / label~e.4)
-                         :S (v12 / label~e.5,6)))
+                         :S (v12 / label
+                                 :C (v13 / label~e.5))))
            :P (v4 / label~e.9)
            :A (v5 / label~e.10)))

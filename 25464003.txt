@@ -1,21 +1,21 @@
 # ::id 25464003
 # ::tok So ließ sie keinen Punkt von Japan bis zur amerikanischen Küste undurchsucht .
-# ::alignments 0-1.1 1-1.2.2 2-1.2.3 3-1.2.4 4-1.2.5.1 5-1.2.5.2.1 6-1.2.5.2.2 7-1.2.5.2.3 8-1.2.5.2.4.1 9-1.2.5.2.4.2 10-1.2.5.2.4.3 11-1.2.6
+# ::alignments 0-1.1 1-1.2.2 2-1.2.3 3-1.2.4.1 4-1.2.4.2 5-1.2.5.1 6-1.2.5.2 7-1.2.5.3 8-1.2.5.4.1 9-1.2.5.4.2 10-1.2.5.4.3 11-1.2.6
 # ::format ucca
 (v1 / label
     :L (v2 / label~e.0)
     :H (v3 / label
            :D (v4 / label~e.1)
            :A (v5 / label~e.2)
-           :D (v6 / label~e.3)
+           :A (v6 / label
+                  :Q (v9 / label~e.3)
+                  :C (v10 / label~e.4))
            :A (v7 / label
-                  :C (v9 / label~e.4)
-                  :E (v10 / label
-                          :R (v11 / label~e.5)
-                          :C (v12 / label~e.6)
-                          :N (v13 / label~e.7)
-                          :C (v14 / label
-                                  :R (v15 / label~e.8)
-                                  :E (v16 / label~e.9)
-                                  :C (v17 / label~e.10))))
+                  :R (v11 / label~e.5)
+                  :C (v12 / label~e.6)
+                  :N (v13 / label~e.7)
+                  :C (v14 / label
+                          :R (v15 / label~e.8)
+                          :E (v16 / label~e.9)
+                          :C (v17 / label~e.10)))
            :P (v8 / label~e.11)))

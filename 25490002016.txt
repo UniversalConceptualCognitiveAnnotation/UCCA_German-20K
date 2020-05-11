@@ -1,0 +1,12 @@
+# ::id 25490002016
+# ::tok Die blechernen Wände waren taub .
+# ::alignments 1-1.1.2.2.1 2-1.1.2.3 4-1.1.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v5 / label
+                         :S (v7 / label~e.1)
+                         :A (v6 / label~e.2))
+                  :C v6)
+           :S (v4 / label~e.4)))

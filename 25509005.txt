@@ -1,11 +1,9 @@
 # ::id 25509005
-# ::tok Und welches ? « »
-# ::alignments 0-1.1.1 1-1.1.2.1
+# ::tok Sodium ? « »
+# ::alignments 0-1.1.5
 # ::format ucca
 (v1 / label
     :H (v2 / label
-           :L (v3 / label~e.0)
-           :H (v4 / label
-                  :A (v5 / label~e.1)
-                  :P (v6 / label)
-                  :A (v7 / label))))
+           :P (v3 / label)
+           :A (v4 / label)
+           :A (v5 / label~e.0)))

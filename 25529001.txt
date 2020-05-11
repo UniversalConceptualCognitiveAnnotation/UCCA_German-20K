@@ -1,6 +1,6 @@
 # ::id 25529001
 # ::tok Haben Sie begriffen , Freund Ned ? « fragte der gelehrte Conseil . »
-# ::alignments 1-1.1.3.2 2-1.1.3.3 4-1.1.3.4.1 5-1.1.3.4.2 8-1.1.4 9-1.1.5.1 10-1.1.5.2 11-1.1.5.3
+# ::alignments 1-1.1.3.2 2-1.1.3.3 4-1.1.3.4.1.1 5-1.1.3.4.2 8-1.1.4 10-1.1.5.2.2 11-1.1.5.3
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -8,10 +8,12 @@
                   :A (v6 / label~e.1)
                   :P (v7 / label~e.2)
                   :G (v8 / label
-                         :E (v12 / label~e.4)
-                         :C (v13 / label~e.5)))
+                         :E (v11 / label
+                                 :S (v14 / label~e.4))
+                         :C (v12 / label~e.5)))
            :P (v4 / label~e.8)
            :A (v5 / label
-                  :E (v9 / label~e.9)
-                  :E (v10 / label~e.10)
-                  :C (v11 / label~e.11))))
+                  :E (v9 / label
+                         :A (v10 / label~e.11)
+                         :S (v13 / label~e.10))
+                  :C v10)))

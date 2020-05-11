@@ -1,6 +1,6 @@
 # ::id 25436011
 # ::tok Durch seine Berühungen mit den Gelehrten unserer kleinen Welt des Jardin des Plantes hatte Conseil es dazu gebracht , dass er etwas wusste .
-# ::alignments 0-1.1.2.1 1-1.1.2.2.1 2-1.1.2.2.2 3-1.1.2.3.1 4-1.1.2.3.2 5-1.1.2.3.3 6-1.1.2.3.4.1 7-1.1.2.3.4.2 8-1.1.2.3.4.3 9-1.1.2.3.4.4.1 10-1.1.2.3.4.4.2 11-1.1.2.3.4.4.2 12-1.1.2.3.4.4.2 14-1.1.4 16-1.1.6 17-1.1.6 19-1.1.7.1 20-1.1.7.2 21-1.1.7.3 22-1.1.7.4
+# ::alignments 0-1.1.2.1 1-1.1.2.2.1 2-1.1.2.2.2 3-1.1.2.3.1 5-1.1.2.3.3 6-1.1.2.3.4.1 7-1.1.2.3.4.2.2 8-1.1.2.3.4.3 9-1.1.2.3.4.4.1 10-1.1.2.3.4.4.2 11-1.1.2.3.4.4.2 12-1.1.2.3.4.4.2 14-1.1.4 16-1.1.6 17-1.1.6 19-1.1.7.1 20-1.1.7.2 21-1.1.7.3 22-1.1.7.4
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -11,13 +11,14 @@
                          :C (v15 / label~e.2))
                   :A (v9 / label
                          :R (v16 / label~e.3)
-                         :E (v17 / label~e.4)
-                         :C (v18 / label~e.5)
-                         :E (v19 / label
-                                 :R (v20 / label~e.6)
-                                 :E (v21 / label~e.7)
-                                 :C (v22 / label~e.8)
-                                 :E (v23 / label
+                         :C (v17 / label~e.5)
+                         :E (v18 / label
+                                 :R (v19 / label~e.6)
+                                 :E (v20 / label
+                                         :A (v21 / label~e.8)
+                                         :S (v23 / label~e.7))
+                                 :C v21
+                                 :E (v22 / label
                                          :R (v24 / label~e.9)
                                          :C (v25 / label~e.10,11,12)))))
            :A (v4 / label~e.14)

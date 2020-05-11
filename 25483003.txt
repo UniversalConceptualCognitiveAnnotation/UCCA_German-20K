@@ -1,13 +1,9 @@
 # ::id 25483003
 # ::tok Welch ein Verfolgen !
-# ::alignments 0-1.1.2.1 1-1.1.2.2 2-1.1.2.3.1
+# ::alignments 0-1.1.1 2-1.1.2.2
 # ::format ucca
 (v1 / label
     :H (v2 / label
-           :S (v3 / label)
-           :A (v4 / label
-                  :E (v5 / label~e.0)
-                  :E (v6 / label~e.1)
-                  :C (v7 / label
-                         :P (v8 / label~e.2)
-                         :A (v9 / label)))))
+           :D (v3 / label~e.0)
+           :P (v4 / label
+                  :C (v5 / label~e.2))))

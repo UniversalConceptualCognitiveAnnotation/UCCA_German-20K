@@ -1,31 +1,32 @@
 # ::id 25529002
 # ::tok Nicht das mindeste , Freund Conseil « , war die Antwort . » Aber fahren Sie nur immer fort , Sie sind sehr interessant . « »
-# ::alignments 0-1.1.5.1.3 1-1.1.5.1.4.1 2-1.1.5.1.4.2 4-1.1.5.1.5.1 5-1.1.5.1.5.2 8-1.1.6 9-1.1.7.1 10-1.1.7.2 13-1.1.5.2 14-1.1.5.3.1 16-1.1.5.3.3.1 17-1.1.5.3.3.2 18-1.1.5.3.1 20-1.1.5.4.1 22-1.1.5.4.3 23-1.1.5.4.4
+# ::alignments 0-1.1.5.1.3 2-1.1.5.1.4.2 4-1.1.5.1.5.1.2 5-1.1.5.1.5.2 8-1.1.6 10-1.1.7.2 13-1.1.5.2 14-1.1.5.3.1 15-1.1.5.3.2 16-1.1.5.3.3.1 17-1.1.5.3.3.2 18-1.1.5.3.1 20-1.1.5.4.1 22-1.1.5.4.3 23-1.1.5.4.4
 # ::format ucca
 (v1 / label
     :H (v2 / label
            :A (v3 / label
                   :H (v6 / label
-                         :P (v12 / label)
-                         :A (v13 / label)
-                         :D (v14 / label~e.0)
-                         :D (v15 / label
-                                 :E (v22 / label~e.1)
-                                 :C (v23 / label~e.2))
-                         :G (v16 / label
-                                 :E (v24 / label~e.4)
-                                 :C (v25 / label~e.5)))
+                         :P (v11 / label)
+                         :A (v12 / label)
+                         :D (v13 / label~e.0)
+                         :D (v14 / label
+                                 :C (v22 / label~e.2))
+                         :G (v15 / label
+                                 :E (v23 / label
+                                         :A (v24 / label~e.5)
+                                         :S (v27 / label~e.4))
+                                 :C v24))
                   :L (v7 / label~e.13)
                   :H (v8 / label
-                         :P (v17 / label~e.14,18)
+                         :P (v16 / label~e.14,18)
+                         :A (v17 / label~e.15)
                          :D (v18 / label
-                                 :E (v26 / label~e.16)
-                                 :C (v27 / label~e.17)))
+                                 :E (v25 / label~e.16)
+                                 :C (v26 / label~e.17)))
                   :H (v9 / label
                          :A (v19 / label~e.20)
                          :D (v20 / label~e.22)
                          :S (v21 / label~e.23)))
            :S (v4 / label~e.8)
            :A (v5 / label
-                  :E (v10 / label~e.9)
-                  :C (v11 / label~e.10))))
+                  :C (v10 / label~e.10))))

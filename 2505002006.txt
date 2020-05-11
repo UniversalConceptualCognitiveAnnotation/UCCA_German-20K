@@ -1,0 +1,27 @@
+# ::id 2505002006
+# ::tok Wahrhaftig ! « sagte Conseil , » besser noch drinnen als darunter oder darüber ! « »
+# ::alignments 0-1.1.5.1.2 3-1.1.6 4-1.1.7 7-1.1.5.2.1.1 8-1.1.5.2.1.2 9-1.1.5.2.2.1 10-1.1.5.4.2 11-1.1.5.4.3 12-1.1.5.3 13-1.1.5.5.1
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :H (v6 / label
+                         :A (v11 / label)
+                         :S (v12 / label~e.0))
+                  :H (v7 / label
+                         :S (v13 / label
+                                 :C (v19 / label~e.7)
+                                 :E (v20 / label~e.8))
+                         :A (v14 / label
+                                 :S (v21 / label~e.9)))
+                  :L (v8 / label~e.12)
+                  :H (v9 / label
+                         :A (v15 / label)
+                         :R (v16 / label~e.10)
+                         :S (v17 / label~e.11))
+                  :H (v10 / label
+                          :S (v18 / label~e.13)
+                          :A v15
+                          :R v16))
+           :P (v4 / label~e.3)
+           :A (v5 / label~e.4)))

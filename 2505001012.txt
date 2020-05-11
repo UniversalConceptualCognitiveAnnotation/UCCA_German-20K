@@ -1,0 +1,28 @@
+# ::id 2505001012
+# ::tok Im Gegenteil , Herr Professor « , erwiderte der Harpunier , der nicht ablassen wollte , » es muß etwas getan werden . « »
+# ::alignments 0-1.1.5.1.1 1-1.1.5.1.2 3-1.1.5.2.1 4-1.1.5.2.2.1 7-1.1.6 9-1.1.7.2.1 11-1.1.7.3.2 12-1.1.7.3.3 13-1.1.7.3.4 14-1.1.7.3.5 18-1.1.5.4 19-1.1.5.5 20-1.1.5.6 21-1.1.5.7
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :D (v6 / label
+                         :R (v14 / label~e.0)
+                         :C (v15 / label~e.1))
+                  :G (v7 / label
+                         :E (v16 / label~e.3)
+                         :C (v17 / label
+                                 :A (v23 / label~e.4)))
+                  :D (v8 / label~e.18)
+                  :A (v9 / label~e.19)
+                  :P (v10 / label~e.20)
+                  :D (v11 / label~e.21))
+           :P (v4 / label~e.7)
+           :A (v5 / label
+                  :C (v12 / label
+                          :A (v18 / label~e.9))
+                  :E (v13 / label
+                          :A v12
+                          :R (v19 / label~e.11)
+                          :D (v20 / label~e.12)
+                          :P (v21 / label~e.13)
+                          :D (v22 / label~e.14)))))

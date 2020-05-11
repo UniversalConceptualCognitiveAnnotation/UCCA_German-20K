@@ -1,0 +1,39 @@
+# ::id 25488001054
+# ::tok Das Fahrzeug ist nicht gefahren ? « » Nein , Herr Arronax . Es lässt sich von den Wellen schaukeln , ohne selbst sich zu bewegen . « »
+# ::alignments 1-1.1.3.1.2 3-1.1.3.3 4-1.1.3.4 8-1.2.3.1.2 10-1.2.3.1.3.1 11-1.2.3.1.3.2 13-1.2.3.2.1 14-1.2.3.2.2 15-1.2.3.2.3 16-1.2.3.2.4.1 18-1.2.3.2.4.3 19-1.2.3.2.5 21-1.2.3.3 22-1.2.3.4.2 23-1.2.3.4.3 25-1.2.3.4.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :P (v4 / label)
+           :A (v5 / label)
+           :A (v6 / label
+                  :A (v10 / label
+                          :C (v17 / label~e.1))
+                  :D (v11 / label~e.3)
+                  :P (v12 / label~e.4)))
+    :H (v3 / label
+           :P (v7 / label)
+           :A (v8 / label)
+           :A (v9 / label
+                  :H (v13 / label
+                          :D (v18 / label)
+                          :G (v19 / label~e.8)
+                          :G (v20 / label
+                                  :E (v28 / label~e.10)
+                                  :C (v29 / label~e.11))
+                          :P v12
+                          :A v17)
+                  :H (v14 / label
+                          :A (v21 / label~e.13)
+                          :D (v22 / label~e.14)
+                          :A (v23 / label~e.15)
+                          :A (v24 / label
+                                  :R (v30 / label~e.16)
+                                  :C (v31 / label~e.18))
+                          :P (v25 / label~e.19))
+                  :L (v15 / label~e.21)
+                  :H (v16 / label
+                          :D v15
+                          :D (v26 / label~e.22)
+                          :P (v27 / label~e.23,25)
+                          :A v21))))

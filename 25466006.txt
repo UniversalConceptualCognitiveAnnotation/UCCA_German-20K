@@ -1,43 +1,41 @@
 # ::id 25466006
 # ::tok Nach diesem Termin musste Kommandant Farragut , seinem Versprechen gemäß , die Fahrt nach Südosten richten und entschieden die nördlichen Gegenden des Pazifiks verlassen .
-# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.3 3-1.1.2 4-1.1.3.1 5-1.4.4 7-1.2.1.2.1 8-1.2.1.2.2 9-1.2.2 11-1.1.4.2.1 12-1.1.4.2.2 13-1.1.5.1 14-1.1.5.2 15-1.1.6 16-1.3 17-1.4.6 18-1.4.1.1.1 19-1.4.1.1.2 20-1.4.1.1.3 21-1.4.1.2 22-1.4.1.3 23-1.4.2
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.3 3-1.1.2 4-1.1.3.1.1 5-1.4.4 7-1.2.1 8-1.2.2 9-1.2.3 12-1.1.4.2.2 13-1.1.5.1 14-1.1.5.2 15-1.1.6 16-1.3 17-1.4.6 19-1.4.1.1.2.2 20-1.4.1.1.3 21-1.4.1.2 22-1.4.1.3 23-1.4.2
 # ::format ucca
 (v1 / label
     :H (v2 / label
            :A (v6 / label
-                  :R (v18 / label~e.0)
-                  :E (v19 / label~e.1)
-                  :C (v20 / label~e.2))
+                  :R (v19 / label~e.0)
+                  :E (v20 / label~e.1)
+                  :C (v21 / label~e.2))
            :D (v7 / label~e.3)
            :A (v8 / label
-                  :E (v21 / label~e.4)
-                  :C (v16 / label~e.5))
+                  :E (v22 / label
+                          :P (v30 / label~e.4))
+                  :C (v17 / label~e.5))
            :A (v9 / label
-                  :A (v22 / label)
-                  :P (v23 / label
-                          :E (v31 / label~e.11)
-                          :C (v32 / label~e.12)))
+                  :A (v23 / label)
+                  :P (v24 / label
+                          :C (v31 / label~e.12)))
            :A (v10 / label
-                   :R (v24 / label~e.13)
-                   :C (v25 / label~e.14))
+                   :R (v25 / label~e.13)
+                   :C (v26 / label~e.14))
            :P (v11 / label~e.15))
     :H (v3 / label
-           :A (v12 / label
-                   :A (v26 / label)
-                   :P (v27 / label
-                           :E (v33 / label~e.7)
-                           :C (v34 / label~e.8)))
-           :S (v13 / label~e.9))
+           :A (v12 / label~e.7)
+           :P (v13 / label~e.8)
+           :D (v14 / label~e.9))
     :L (v4 / label~e.16)
     :H (v5 / label
-           :A (v14 / label
-                   :E (v28 / label
-                           :E (v35 / label~e.18)
-                           :E (v36 / label~e.19)
-                           :C (v37 / label~e.20))
-                   :R (v29 / label~e.21)
-                   :C (v30 / label~e.22))
-           :P (v15 / label~e.23)
+           :A (v15 / label
+                   :E (v27 / label
+                           :E (v32 / label
+                                   :A (v33 / label~e.20)
+                                   :S (v34 / label~e.19))
+                           :C v33)
+                   :R (v28 / label~e.21)
+                   :C (v29 / label~e.22))
+           :P (v16 / label~e.23)
            :D v7
-           :A v16
-           :D (v17 / label~e.17)))
+           :A v17
+           :D (v18 / label~e.17)))

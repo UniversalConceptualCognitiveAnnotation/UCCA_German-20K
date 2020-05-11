@@ -1,0 +1,39 @@
+# ::id 25488000027
+# ::tok Die Fregatte ! « erwiderte Conseil , indem er sich wieder auf den Rücken legte ; ich glaube , mein Herr wird wohltun , nicht allzuviel auf sie zu rechnen ! « »
+# ::alignments 1-1.1.1.2.2 4-1.1.2 5-1.1.3 7-1.2 8-1.3.1 9-1.3.2 10-1.3.3 11-1.3.4.1 13-1.3.4.3 14-1.3.2 16-1.4.3.1 17-1.4.3.2 19-1.4.3.3.1.1 20-1.4.3.3.1.2 22-1.4.3.3.3 24-1.4.3.3.4.1 25-1.4.3.3.4.2 26-1.4.3.3.4.3.1 27-1.4.3.3.4.3.2 29-1.4.3.3.4.5
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v6 / label
+                  :S (v16 / label)
+                  :A (v17 / label
+                          :C (v23 / label~e.1)))
+           :P (v7 / label~e.4)
+           :A (v8 / label~e.5))
+    :L (v3 / label~e.7)
+    :H (v4 / label
+           :A (v9 / label~e.8)
+           :P (v10 / label~e.9,14)
+           :D (v11 / label~e.10)
+           :A (v12 / label
+                   :R (v18 / label~e.11)
+                   :C (v19 / label~e.13)))
+    :H (v5 / label
+           :A (v13 / label)
+           :P (v14 / label)
+           :A (v15 / label
+                   :A (v20 / label~e.16)
+                   :S (v21 / label~e.17)
+                   :A (v22 / label
+                           :A (v24 / label
+                                   :E (v27 / label~e.19)
+                                   :C (v28 / label~e.20))
+                           :P (v25 / label~e.22)
+                           :A (v26 / label
+                                   :D (v29 / label~e.24)
+                                   :D (v30 / label~e.25)
+                                   :A (v31 / label
+                                           :R (v33 / label~e.26)
+                                           :C (v34 / label~e.27))
+                                   :P (v32 / label~e.29)
+                                   :A v28)))))

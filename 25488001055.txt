@@ -1,0 +1,61 @@
+# ::id 25488001055
+# ::tok Wir wissen jedoch und ohne Zweifel , dass es eine große Geschwindigkeit hat . Da es nun , um eine solche hervorzubringen , eine Maschine haben muß und einen Maschinisten , der sie leitet , so schließe ich daraus , ... dass wir gerettet sind . « »
+# ::alignments 0-1.1.3.4.3 1-1.1.3.18.2 2-1.1.3.1 3-1.1.3.2 4-1.1.3.3 5-1.1.3.4.2 7-1.1.3.18.3.1 8-1.1.3.18.3.2 10-1.1.3.18.3.4 11-1.1.3.8.1.3 14-1.1.3.5 15-1.1.3.6.1 18-1.1.3.7 20-1.1.3.8.1.2 21-1.1.3.8.2 24-1.1.3.6.3.2 25-1.1.3.6.4 26-1.1.3.6.5 27-1.1.3.9 29-1.1.3.10.1.2.1 31-1.1.3.10.1.3.2 32-1.1.3.10.1.3.3 33-1.1.3.10.1.3.4 35-1.1.3.11 36-1.1.3.12.1 37-1.1.3.12.2 38-1.1.3.12.3 41-1.1.3.12.4.1 42-1.1.3.12.4.2 43-1.1.3.12.4.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :P (v3 / label)
+           :A (v4 / label)
+           :A (v5 / label
+                  :L (v6 / label~e.2)
+                  :L (v7 / label~e.3)
+                  :L (v8 / label~e.4)
+                  :H (v9 / label
+                         :D v8
+                         :S (v19 / label~e.5)
+                         :A (v20 / label~e.0))
+                  :L (v10 / label~e.14)
+                  :H (v11 / label
+                          :A (v21 / label~e.15)
+                          :A (v22 / label
+                                  :C (v34 / label~e.24))
+                          :S (v23 / label~e.25)
+                          :D (v24 / label~e.26))
+                  :L (v12 / label~e.18)
+                  :H (v13 / label
+                          :A (v25 / label
+                                  :E (v35 / label~e.20)
+                                  :C (v36 / label~e.11))
+                          :P (v26 / label~e.21)
+                          :A v21)
+                  :L (v14 / label~e.27)
+                  :H (v15 / label
+                          :A (v27 / label
+                                  :C (v37 / label
+                                          :A (v46 / label~e.29))
+                                  :E (v38 / label
+                                          :A v37
+                                          :R (v47 / label~e.31)
+                                          :A (v48 / label~e.32)
+                                          :P (v49 / label~e.33)))
+                          :A v21
+                          :S v23
+                          :D v24)
+                  :L (v16 / label~e.35)
+                  :H (v17 / label
+                          :P (v28 / label~e.36)
+                          :A (v29 / label~e.37)
+                          :A (v30 / label~e.38)
+                          :A (v31 / label
+                                  :R (v39 / label~e.41)
+                                  :A (v40 / label~e.42)
+                                  :P (v41 / label~e.43)))
+                  :H (v18 / label
+                          :A v20
+                          :S (v32 / label~e.1)
+                          :A (v33 / label
+                                  :R (v42 / label~e.7)
+                                  :A (v43 / label~e.8)
+                                  :S (v44 / label
+                                          :C v36)
+                                  :D (v45 / label~e.10))))))
