@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 25474002
-1	Genau	_	Word	Word	_	2	E	_	_
+1	Genau	_	Word	Word	_	2	D	_	_
 2	dasselbe	_	Word	Word	_	49	A	_	_
 3	,	_	Punctuation	Punctuation	_	2	U	_	_
 4	mein	_	Word	Word	_	5	E	_	_
@@ -10,22 +10,23 @@
 8	dieses	_	Word	Word	_	13	A	_	_
 9	ist	_	Word	Word	_	13	F	_	_
 10	ohne	_	Word	Word	_	2	L	_	_
+10	ohne	_	Word	Word	_	12	D*	_	_
 11	alle	_	Word	Word	_	12	E	_	_
 12	Vergleichung	_	Word	Word	_	2	H	_	_
 13	stärker	_	Word	Word	_	2	H	_	_
 14	.	_	Punctuation	Punctuation	_	2	U	_	_
-15	Ein	_	Word	Word	_	16	E	_	_
-16	Irrtum	_	Word	Word	_	20	A	_	_
-17	ist	_	Word	Word	_	20	F	_	_
-18	dabei	_	Word	Word	_	20	D	_	_
-19	nicht	_	Word	Word	_	20	D	_	_
-20	möglich	_	Word	Word	_	2	H	_	_
+15	Ein	_	Word	Word	_	16	F	_	_
+16	Irrtum	_	Word	Word	_	2	H	_	_
+17	ist	_	Word	Word	_	16	F	_	_
+18	dabei	_	Word	Word	_	16	D	_	_
+19	nicht	_	Word	Word	_	16	D	_	_
+20	möglich	_	Word	Word	_	16	D	_	_
 21	.	_	Punctuation	Punctuation	_	2	U	_	_
-22	Es	_	Word	Word	_	23	A	_	_
+22	Es	_	Word	Word	_	23	F	_	_
 23	gehört	_	Word	Word	_	2	H	_	_
 24	also	_	Word	Word	_	23	F	_	_
 25	wohl	_	Word	Word	_	23	G	_	_
-26	das	_	Word	Word	_	27	E	_	_
+26	das	_	Word	Word	_	27	F	_	_
 27	Tier	_	Word	Word	_	23	A	_	_
 28	,	_	Punctuation	Punctuation	_	27	U	_	_
 29	das	_	Word	Word	_	34	R	_	_
@@ -41,7 +42,7 @@
 39	geschlecht	_	Word	Word	_	23	A	_	_
 40	.	_	Punctuation	Punctuation	_	2	U	_	_
 41	Mit	_	Word	Word	_	43	R	_	_
-42	Ihrer	_	Word	Word	_	43	E	_	_
+42	Ihrer	_	Word	Word	_	43	A	_	_
 43	Erlaubnis	_	Word	Word	_	65	A	_	_
 44	,	_	Punctuation	Punctuation	_	65	U	_	_
 45	mein	_	Word	Word	_	46	E	_	_
@@ -49,7 +50,7 @@
 47	«	_	Punctuation	Punctuation	_	49	U	_	_
 48	,	_	Punctuation	Punctuation	_	49	U	_	_
 49	fügte	_	Word	Word	_	0	H	_	_
-50	der	_	Word	Word	_	51	E	_	_
+50	der	_	Word	Word	_	51	F	_	_
 51	Harpunier	_	Word	Word	_	49	A	_	_
 52	bei	_	Word	Word	_	49	Terminal	_	_
 53	,	_	Punctuation	Punctuation	_	49	U	_	_
@@ -57,10 +58,10 @@
 55	werden	_	Word	Word	_	65	F	_	_
 56	wir	_	Word	Word	_	65	A	_	_
 57	morgen	_	Word	Word	_	65	T	_	_
-58	bei	_	Word	Word	_	60	R	_	_
-59	Tages	_	Word	Word	_	60	A	_	_
-60	anbruch	_	Word	Word	_	57	E	_	_
-61	zwei	_	Word	Word	_	62	E	_	_
+58	bei	_	Word	Word	_	59	R	_	_
+59	Tages	_	Word	Word	_	57	E	_	_
+60	anbruch	_	Word	Word	_	59	Terminal	_	_
+61	zwei	_	Word	Word	_	62	Q	_	_
 62	Worte	_	Word	Word	_	65	A	_	_
 63	mit	_	Word	Word	_	64	R	_	_
 64	ihm	_	Word	Word	_	65	A	_	_
