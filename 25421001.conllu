@@ -1,10 +1,10 @@
 # format = ucca
 # sent_id = 25421001
-# text = Und sogar wurde der » ehrenwerte Pierre Arronax , Professor am Museum zu Paris « , vom ›New York Herald‹ öffentlich aufgefordert , irgendeine Ansicht über die Sache zu formulieren .
-1	Und	_	Word	Word	_	22	L	22:L	_
+# text = Und sogar wurde der » ehrenwerte Pierre Arronax , Professor am Museum zu Paris « , vom ›New York Herald‹ öffentlich aufgefordert , irgendeine Ansicht über die Sache zu formulieren . Ich machte mich daran .
+1	Und	_	Word	Word	_	32	L	32:L	_
 2	sogar	_	Word	Word	_	22	G	22:G	_
 3	wurde	_	Word	Word	_	22	F	22:F	_
-4	der	_	Word	Word	_	7	E	7:E	_
+4	der	_	Word	Word	_	7	F	7:F	_
 5	»	_	Punctuation	Punctuation	_	7	U	7:U	_
 6	ehrenwerte	_	Word	Word	_	7	E	7:E	_
 7	Pierre	_	Word	Word	_	22	A	22:A	_
@@ -27,9 +27,14 @@
 24	irgendeine	_	Word	Word	_	25	E	25:E	_
 25	Ansicht	_	Word	Word	_	30	A	30:A	_
 26	über	_	Word	Word	_	28	R	28:R	_
-27	die	_	Word	Word	_	28	E	28:E	_
+27	die	_	Word	Word	_	28	F	28:F	_
 28	Sache	_	Word	Word	_	30	A	30:A	_
 29	zu	_	Word	Word	_	30	F	30:F	_
-30	formulieren	_	Word	Word	_	22	A	22:A	_
-31	.	_	Punctuation	Punctuation	_	30	U	30:U	_
+30	formulieren	_	Word	Word	_	0	P	0:P|32:P	_
+31	.	_	Punctuation	Punctuation	_	32	U	32:U	_
+32	Ich	_	Word	Word	_	22	H	22:H	_
+33	machte	_	Word	Word	_	32	D	32:D	_
+34	mich	_	Word	Word	_	33	Terminal	33:Terminal	_
+35	daran	_	Word	Word	_	33	Terminal	33:Terminal	_
+36	.	_	Punctuation	Punctuation	_	32	U	32:U	_
 

@@ -1,10 +1,10 @@
 # format = ucca
 # sent_id = 25525002
 # text = Ich muß meinem Herrn glauben , weil er 's versichert « , erwiderte Conseil ; » aber offen gesagt , dieser Salon ist gemacht , selbst einen Flamen , wie ich bin , in Staunen zu setzen . « »
-1	Ich	_	Word	Word	_	5	A	5:A	_
+1	Ich	_	Word	Word	_	5	A	5:A|19:A	_
 2	muß	_	Word	Word	_	5	D	5:D	_
-3	meinem	_	Word	Word	_	4	E	4:E	_
-4	Herrn	_	Word	Word	_	5	A	5:A	_
+3	meinem	_	Word	Word	_	5	A	5:A	_
+4	Herrn	_	Word	Word	_	3	A	3:A	_
 5	glauben	_	Word	Word	_	13	A	13:A	_
 6	,	_	Punctuation	Punctuation	_	5	U	5:U	_
 7	weil	_	Word	Word	_	10	L	10:L	_
@@ -27,7 +27,7 @@
 24	gemacht	_	Word	Word	_	5	H	5:H	_
 25	,	_	Punctuation	Punctuation	_	5	U	5:U	_
 26	selbst	_	Word	Word	_	34	D	34:D	_
-27	einen	_	Word	Word	_	28	E	28:E	_
+27	einen	_	Word	Word	_	28	F	28:F	_
 28	Flamen	_	Word	Word	_	34	A	34:A	_
 29	,	_	Punctuation	Punctuation	_	28	U	28:U	_
 30	wie	_	Word	Word	_	32	R	32:R	_

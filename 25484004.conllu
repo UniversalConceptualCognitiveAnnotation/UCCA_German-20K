@@ -1,13 +1,13 @@
 # format = ucca
 # sent_id = 25484004
 # text = Ein alter grau bärtiger Kanonier mit ruhigem Blick , kalten Gesichts zügen , trat hinzu , richtete und visierte lange .
-1	Ein	_	Word	Word	_	5	E	5:E	_
+1	Ein	_	Word	Word	_	5	F	5:F	_
 2	alter	_	Word	Word	_	5	E	5:E	_
 3	grau	_	Word	Word	_	4	E	4:E	_
-4	bärtiger	_	Word	Word	_	5	E	5:E	_
-5	Kanonier	_	Word	Word	_	0	C	0:C|17:A	_
+4	bärtiger	_	Word	Word	_	2	D	2:D	_
+5	Kanonier	_	Word	Word	_	0	C	0:C|2:A|8:A|17:A|19:A	_
 6	mit	_	Word	Word	_	8	R	8:R	_
-7	ruhigem	_	Word	Word	_	8	E	8:E	_
+7	ruhigem	_	Word	Word	_	8	D	8:D	_
 8	Blick	_	Word	Word	_	5	E	5:E	_
 9	,	_	Punctuation	Punctuation	_	5	U	5:U	_
 10	kalten	_	Word	Word	_	12	E	12:E	_
@@ -18,8 +18,8 @@
 15	hinzu	_	Word	Word	_	14	Terminal	14:Terminal	_
 16	,	_	Punctuation	Punctuation	_	14	U	14:U	_
 17	richtete	_	Word	Word	_	14	H	14:H	_
-18	und	_	Word	Word	_	17	N	17:N	_
-19	visierte	_	Word	Word	_	17	C	17:C	_
-20	lange	_	Word	Word	_	17	D	17:D	_
+18	und	_	Word	Word	_	19	L	19:L	_
+19	visierte	_	Word	Word	_	14	H	14:H	_
+20	lange	_	Word	Word	_	17	D	17:D|19:D	_
 21	.	_	Punctuation	Punctuation	_	17	U	17:U	_
 

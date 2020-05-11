@@ -1,24 +1,25 @@
 # format = ucca
 # sent_id = 25529017
-# text = Ich « , erwiderte Conseil , » verstehe mich nicht darauf ! Das ist eine Sache meines Herrn ! «
-1	Ich	_	Word	Word	_	8	A	8:A	_
-2	«	_	Punctuation	Punctuation	_	4	U	4:U	_
-3	,	_	Punctuation	Punctuation	_	4	U	4:U	_
-4	erwiderte	_	Word	Word	_	0	H	0:H	_
-5	Conseil	_	Word	Word	_	4	A	4:A	_
-6	,	_	Punctuation	Punctuation	_	4	U	4:U	_
-7	»	_	Punctuation	Punctuation	_	4	U	4:U	_
-8	verstehe	_	Word	Word	_	4	A	4:A	_
-9	mich	_	Word	Word	_	8	Terminal	8:Terminal	_
-10	nicht	_	Word	Word	_	8	D	8:D	_
-11	darauf	_	Word	Word	_	8	A	8:A	_
-12	!	_	Punctuation	Punctuation	_	8	U	8:U	_
-13	Das	_	Word	Word	_	14	A	14:A	_
-14	ist	_	Word	Word	_	8	H	8:H	_
-15	eine	_	Word	Word	_	16	E	16:E	_
-16	Sache	_	Word	Word	_	14	A	14:A	_
-17	meines	_	Word	Word	_	18	R	18:R	_
-18	Herrn	_	Word	Word	_	14	A	14:A	_
-19	!	_	Punctuation	Punctuation	_	18	U	18:U	_
-20	«	_	Punctuation	Punctuation	_	18	U	18:U	_
+# text = Ihre Haut ist wunderschön , oben grau , unten weiß mit goldenen Flecken , die in den düsteren Wellen glänzten .
+1	Ihre	_	Word	Word	_	2	E	2:E	_
+2	Haut	_	Word	Word	_	0	C	0:C|7:A|10:A	_
+3	ist	_	Word	Word	_	4	F	4:F	_
+4	wunderschön	_	Word	Word	_	0	H	0:H	_
+5	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+6	oben	_	Word	Word	_	7	D	7:D	_
+7	grau	_	Word	Word	_	4	H	4:H	_
+8	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+9	unten	_	Word	Word	_	10	D	10:D	_
+10	weiß	_	Word	Word	_	4	H	4:H	_
+11	mit	_	Word	Word	_	13	R	13:R	_
+12	goldenen	_	Word	Word	_	13	E	13:E	_
+13	Flecken	_	Word	Word	_	10	A	10:A	_
+14	,	_	Punctuation	Punctuation	_	13	U	13:U	_
+15	die	_	Word	Word	_	20	R	20:R	_
+16	in	_	Word	Word	_	19	R	19:R	_
+17	den	_	Word	Word	_	19	F	19:F	_
+18	düsteren	_	Word	Word	_	19	E	19:E	_
+19	Wellen	_	Word	Word	_	20	A	20:A	_
+20	glänzten	_	Word	Word	_	13	E	13:E	_
+21	.	_	Punctuation	Punctuation	_	20	U	20:U	_
 

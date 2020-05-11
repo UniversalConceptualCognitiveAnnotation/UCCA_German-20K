@@ -2,7 +2,7 @@
 # sent_id = 25410008
 # text = Auf die gründlichen Artikel des Geographischen Instituts in Brasilien , der Königl . Akademie der Wissenschaften zu Berlin , der Britischen Gesellschaft , der Smithson ' schen Anstalt zu Washington , auf die Erörterungen des Indian Archipelago , des Cosmos des Abbé Moigno , der Petermann ' schen Mitteilungen , auf die wissenschaftliche Chronik der großen Journale entgegnete die kleine Presse mit unerschöpflicher Laune .
 1	Auf	_	Word	Word	_	4	R	4:R	_
-2	die	_	Word	Word	_	4	E	4:E	_
+2	die	_	Word	Word	_	4	F	4:F	_
 3	gründlichen	_	Word	Word	_	4	E	4:E	_
 4	Artikel	_	Word	Word	_	58	A	58:A	_
 5	des	_	Word	Word	_	6	R	6:R	_
@@ -33,7 +33,7 @@
 30	Washington	_	Word	Word	_	25	E	25:E	_
 31	,	_	Punctuation	Punctuation	_	4	U	4:U	_
 32	auf	_	Word	Word	_	34	R	34:R	_
-33	die	_	Word	Word	_	34	E	34:E	_
+33	die	_	Word	Word	_	34	F	34:F	_
 34	Erörterungen	_	Word	Word	_	4	C	4:C	_
 35	des	_	Word	Word	_	36	R	36:R	_
 36	Indian	_	Word	Word	_	34	A	34:A	_
@@ -52,18 +52,18 @@
 49	Mitteilungen	_	Word	Word	_	46	Terminal	46:Terminal	_
 50	,	_	Punctuation	Punctuation	_	4	U	4:U	_
 51	auf	_	Word	Word	_	54	R	54:R	_
-52	die	_	Word	Word	_	54	E	54:E	_
+52	die	_	Word	Word	_	54	F	54:F	_
 53	wissenschaftliche	_	Word	Word	_	54	E	54:E	_
 54	Chronik	_	Word	Word	_	4	C	4:C	_
 55	der	_	Word	Word	_	57	R	57:R	_
 56	großen	_	Word	Word	_	57	E	57:E	_
 57	Journale	_	Word	Word	_	54	E	54:E	_
 58	entgegnete	_	Word	Word	_	0	H	0:H	_
-59	die	_	Word	Word	_	61	E	61:E	_
+59	die	_	Word	Word	_	61	F	61:F	_
 60	kleine	_	Word	Word	_	61	E	61:E	_
 61	Presse	_	Word	Word	_	58	A	58:A	_
 62	mit	_	Word	Word	_	64	R	64:R	_
-63	unerschöpflicher	_	Word	Word	_	64	E	64:E	_
+63	unerschöpflicher	_	Word	Word	_	64	D	64:D	_
 64	Laune	_	Word	Word	_	58	A	58:A	_
 65	.	_	Punctuation	Punctuation	_	64	U	64:U	_
 

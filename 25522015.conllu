@@ -1,10 +1,11 @@
 # format = ucca
 # sent_id = 25522015
-# text = Keine Klippe , kein Eiland .
-1	Keine	_	Word	Word	_	2	D	2:D	_
-2	Klippe	_	Word	Word	_	0	H	0:H	_
-3	,	_	Punctuation	Punctuation	_	2	U	2:U	_
-4	kein	_	Word	Word	_	2	D	2:D	_
-5	Eiland	_	Word	Word	_	2	A	2:A	_
-6	.	_	Punctuation	Punctuation	_	2	U	2:U	_
+# text = Von der ›Abraham Lincoln‹ keine Spur .
+1	Von	_	Word	Word	_	3	R	3:R	_
+2	der	_	Word	Word	_	3	F	3:F	_
+3	›Abraham	_	Word	Word	_	0	H	0:H	_
+4	Lincoln‹	_	Word	Word	_	3	Terminal	3:Terminal	_
+5	keine	_	Word	Word	_	6	Q	6:Q	_
+6	Spur	_	Word	Word	_	3	A	3:A	_
+7	.	_	Punctuation	Punctuation	_	6	U	6:U	_
 

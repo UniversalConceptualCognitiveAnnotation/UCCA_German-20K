@@ -2,10 +2,10 @@
 # sent_id = 25507001
 # text = Ihr Zimmer stößt an das meinige « , sagte er , indem er eine Tür öffnete , » und meines führt auf den Salon , worin wir uns eben befanden . «
 1	Ihr	_	Word	Word	_	2	E	2:E	_
-2	Zimmer	_	Word	Word	_	3	A	3:A	_
+2	Zimmer	_	Word	Word	_	0	C	0:C|1:A|6:A|20:A	_
 3	stößt	_	Word	Word	_	9	A	9:A	_
 4	an	_	Word	Word	_	6	R	6:R	_
-5	das	_	Word	Word	_	6	E	6:E	_
+5	das	_	Word	Word	_	6	F	6:F	_
 6	meinige	_	Word	Word	_	3	A	3:A	_
 7	«	_	Punctuation	Punctuation	_	9	U	9:U	_
 8	,	_	Punctuation	Punctuation	_	9	U	9:U	_
@@ -14,7 +14,7 @@
 11	,	_	Punctuation	Punctuation	_	9	U	9:U	_
 12	indem	_	Word	Word	_	16	L	16:L	_
 13	er	_	Word	Word	_	16	A	16:A	_
-14	eine	_	Word	Word	_	15	E	15:E	_
+14	eine	_	Word	Word	_	15	F	15:F	_
 15	Tür	_	Word	Word	_	16	A	16:A	_
 16	öffnete	_	Word	Word	_	9	H	9:H	_
 17	,	_	Punctuation	Punctuation	_	9	U	9:U	_
@@ -23,7 +23,7 @@
 20	meines	_	Word	Word	_	21	A	21:A	_
 21	führt	_	Word	Word	_	3	H	3:H	_
 22	auf	_	Word	Word	_	24	R	24:R	_
-23	den	_	Word	Word	_	24	E	24:E	_
+23	den	_	Word	Word	_	24	F	24:F	_
 24	Salon	_	Word	Word	_	21	A	21:A	_
 25	,	_	Punctuation	Punctuation	_	24	U	24:U	_
 26	worin	_	Word	Word	_	28	R	28:R	_

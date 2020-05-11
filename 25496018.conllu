@@ -1,9 +1,30 @@
 # format = ucca
 # sent_id = 25496018
-# text = Sie haben mich angegriffen !
-1	Sie	_	Word	Word	_	4	A	4:A	_
-2	haben	_	Word	Word	_	4	F	4:F	_
-3	mich	_	Word	Word	_	4	A	4:A	_
-4	angegriffen	_	Word	Word	_	0	H	0:H	_
-5	!	_	Punctuation	Punctuation	_	4	U	4:U	_
+# text = Sie sind durch Überraschung in den Besitz eines Geheimnisses gelangt , in das kein Mensch auf der Welt dringen darf , das Geheimnis meines Daseins !
+1	Sie	_	Word	Word	_	10	A	10:A|7:A	_
+2	sind	_	Word	Word	_	10	F	10:F	_
+3	durch	_	Word	Word	_	4	R	4:R	_
+4	Überraschung	_	Word	Word	_	10	A	10:A	_
+5	in	_	Word	Word	_	7	R	7:R	_
+6	den	_	Word	Word	_	7	F	7:F	_
+7	Besitz	_	Word	Word	_	10	A	10:A	_
+8	eines	_	Word	Word	_	9	F	9:F	_
+9	Geheimnisses	_	Word	Word	_	7	A	7:A	_
+10	gelangt	_	Word	Word	_	0	H	0:H	_
+11	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+12	in	_	Word	Word	_	19	A	19:A	_
+13	das	_	Word	Word	_	19	R	19:R	_
+14	kein	_	Word	Word	_	15	Q	15:Q	_
+15	Mensch	_	Word	Word	_	19	A	19:A	_
+16	auf	_	Word	Word	_	18	R	18:R	_
+17	der	_	Word	Word	_	18	F	18:F	_
+18	Welt	_	Word	Word	_	15	E	15:E	_
+19	dringen	_	Word	Word	_	9	E	9:E	_
+20	darf	_	Word	Word	_	19	D	19:D	_
+21	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+22	das	_	Word	Word	_	23	F	23:F	_
+23	Geheimnis	_	Word	Word	_	10	A	10:A	_
+24	meines	_	Word	Word	_	25	A	25:A	_
+25	Daseins	_	Word	Word	_	23	A	23:A	_
+26	!	_	Punctuation	Punctuation	_	25	U	25:U	_
 

@@ -1,13 +1,13 @@
 # format = ucca
 # sent_id = 25483004
 # text = Die Gemüts bewegung , die mein ganzes Wesen ergriff , lässt sich nicht beschreiben .
-1	Die	_	Word	Word	_	3	E	3:E	_
-2	Gemüts	_	Word	Word	_	3	E	3:E	_
-3	bewegung	_	Word	Word	_	12	A	12:A	_
-4	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+1	Die	_	Word	Word	_	3	F	3:F	_
+2	Gemüts	_	Word	Word	_	3	A	3:A	_
+3	bewegung	_	Word	Word	_	0	C	0:C|9:A	_
+4	,	_	Punctuation	Punctuation	_	9	U	9:U	_
 5	die	_	Word	Word	_	9	R	9:R	_
-6	mein	_	Word	Word	_	8	E	8:E	_
-7	ganzes	_	Word	Word	_	8	E	8:E	_
+6	mein	_	Word	Word	_	8	A	8:A	_
+7	ganzes	_	Word	Word	_	8	D	8:D	_
 8	Wesen	_	Word	Word	_	9	A	9:A	_
 9	ergriff	_	Word	Word	_	3	E	3:E	_
 10	,	_	Punctuation	Punctuation	_	12	U	12:U	_

@@ -1,22 +1,22 @@
 # format = ucca
 # sent_id = 25436010
 # text = Ein ergebener Bursche , der mich auf allen meinen Reisen begleitete ; ein braver Flame , den ich liebhatte und der mir 's vergalt ; phlegmatisch von Natur , regelmäßig aus Grundsatz , dienstbeflissen aus Gewohnheit , ließ er sich durch die überraschenden Fälle im Leben wenig irremachen ; mit gewandten Händen zu jedem Dienst geeignet , war er niemals mit seinem Rat zudringlich .
-1	Ein	_	Word	Word	_	3	E	3:E	_
+1	Ein	_	Word	Word	_	3	F	3:F	_
 2	ergebener	_	Word	Word	_	3	E	3:E	_
 3	Bursche	_	Word	Word	_	0	H	0:H	_
 4	,	_	Punctuation	Punctuation	_	3	U	3:U	_
 5	der	_	Word	Word	_	11	R	11:R	_
 6	mich	_	Word	Word	_	11	A	11:A	_
 7	auf	_	Word	Word	_	10	R	10:R	_
-8	allen	_	Word	Word	_	10	E	10:E	_
-9	meinen	_	Word	Word	_	10	E	10:E	_
+8	allen	_	Word	Word	_	10	D	10:D	_
+9	meinen	_	Word	Word	_	10	A	10:A	_
 10	Reisen	_	Word	Word	_	11	A	11:A	_
 11	begleitete	_	Word	Word	_	3	E	3:E	_
 12	;	_	Punctuation	Punctuation	_	3	U	3:U	_
-13	ein	_	Word	Word	_	15	E	15:E	_
-14	braver	_	Word	Word	_	15	E	15:E	_
+13	ein	_	Word	Word	_	15	F	15:F	_
+14	braver	_	Word	Word	_	15	D	15:D	_
 15	Flame	_	Word	Word	_	3	H	3:H	_
-16	,	_	Punctuation	Punctuation	_	15	U	15:U	_
+16	,	_	Punctuation	Punctuation	_	19	U	19:U	_
 17	den	_	Word	Word	_	19	R	19:R	_
 18	ich	_	Word	Word	_	19	A	19:A	_
 19	liebhatte	_	Word	Word	_	15	E	15:E	_
@@ -28,7 +28,7 @@
 25	;	_	Punctuation	Punctuation	_	3	U	3:U	_
 26	phlegmatisch	_	Word	Word	_	3	H	3:H	_
 27	von	_	Word	Word	_	28	R	28:R	_
-28	Natur	_	Word	Word	_	26	A	26:A	_
+28	Natur	_	Word	Word	_	26	D	26:D	_
 29	,	_	Punctuation	Punctuation	_	3	U	3:U	_
 30	regelmäßig	_	Word	Word	_	3	H	3:H	_
 31	aus	_	Word	Word	_	32	R	32:R	_
@@ -42,19 +42,19 @@
 39	er	_	Word	Word	_	40	A	40:A	_
 40	sich	_	Word	Word	_	3	H	3:H	_
 41	durch	_	Word	Word	_	44	R	44:R	_
-42	die	_	Word	Word	_	44	E	44:E	_
-43	überraschenden	_	Word	Word	_	44	E	44:E	_
+42	die	_	Word	Word	_	44	F	44:F	_
+43	überraschenden	_	Word	Word	_	44	D	44:D	_
 44	Fälle	_	Word	Word	_	40	A	40:A	_
 45	im	_	Word	Word	_	46	R	46:R	_
-46	Leben	_	Word	Word	_	44	E	44:E	_
+46	Leben	_	Word	Word	_	44	A	44:A	_
 47	wenig	_	Word	Word	_	40	D	40:D	_
 48	irremachen	_	Word	Word	_	40	Terminal	40:Terminal	_
 49	;	_	Punctuation	Punctuation	_	3	U	3:U	_
 50	mit	_	Word	Word	_	52	R	52:R	_
-51	gewandten	_	Word	Word	_	56	A	56:A	_
-52	Händen	_	Word	Word	_	51	A	51:A	_
+51	gewandten	_	Word	Word	_	52	E	52:E	_
+52	Händen	_	Word	Word	_	56	A	56:A	_
 53	zu	_	Word	Word	_	55	R	55:R	_
-54	jedem	_	Word	Word	_	55	E	55:E	_
+54	jedem	_	Word	Word	_	55	Q	55:Q	_
 55	Dienst	_	Word	Word	_	56	A	56:A	_
 56	geeignet	_	Word	Word	_	3	H	3:H	_
 57	,	_	Punctuation	Punctuation	_	3	U	3:U	_
@@ -62,7 +62,7 @@
 59	er	_	Word	Word	_	64	A	64:A|56:A	_
 60	niemals	_	Word	Word	_	64	D	64:D	_
 61	mit	_	Word	Word	_	63	R	63:R	_
-62	seinem	_	Word	Word	_	63	E	63:E	_
+62	seinem	_	Word	Word	_	63	A	63:A	_
 63	Rat	_	Word	Word	_	64	A	64:A	_
 64	zudringlich	_	Word	Word	_	3	H	3:H	_
 65	.	_	Punctuation	Punctuation	_	64	U	64:U	_

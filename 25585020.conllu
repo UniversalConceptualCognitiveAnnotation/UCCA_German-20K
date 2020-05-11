@@ -1,12 +1,10 @@
 # format = ucca
 # sent_id = 25585020
-# text = Aber , Kapitän , glauben Sie ... «
-1	Aber	_	Word	Word	_	5	L	5:L	_
-2	,	_	Punctuation	Punctuation	_	5	U	5:U	_
-3	Kapitän	_	Word	Word	_	5	G	5:G	_
-4	,	_	Punctuation	Punctuation	_	5	U	5:U	_
-5	glauben	_	Word	Word	_	0	H	0:H	_
-6	Sie	_	Word	Word	_	5	A	5:A	_
-7	...	_	Punctuation	Punctuation	_	5	U	5:U	_
-8	«	_	Punctuation	Punctuation	_	5	U	5:U	_
+# text = Ich höre Sie an . «
+1	Ich	_	Word	Word	_	2	A	2:A	_
+2	höre	_	Word	Word	_	0	H	0:H	_
+3	Sie	_	Word	Word	_	2	A	2:A	_
+4	an	_	Word	Word	_	2	Terminal	2:Terminal	_
+5	.	_	Punctuation	Punctuation	_	2	U	2:U	_
+6	«	_	Punctuation	Punctuation	_	2	U	2:U	_
 

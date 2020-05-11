@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 25474002
 # text = Genau dasselbe , mein Herr , aber dieses ist ohne alle Vergleichung stärker . Ein Irrtum ist dabei nicht möglich . Es gehört also wohl das Tier , das da in unseren Gewässern sich umhertreibt , zum Walfisch geschlecht . Mit Ihrer Erlaubnis , mein Herr « , fügte der Harpunier bei , » werden wir morgen bei Tages anbruch zwei Worte mit ihm reden . « »
-1	Genau	_	Word	Word	_	2	E	2:E	_
+1	Genau	_	Word	Word	_	2	D	2:D	_
 2	dasselbe	_	Word	Word	_	49	A	49:A	_
 3	,	_	Punctuation	Punctuation	_	2	U	2:U	_
 4	mein	_	Word	Word	_	5	E	5:E	_
@@ -10,23 +10,23 @@
 7	aber	_	Word	Word	_	12	L	12:L	_
 8	dieses	_	Word	Word	_	13	A	13:A	_
 9	ist	_	Word	Word	_	13	F	13:F	_
-10	ohne	_	Word	Word	_	12	L	12:L	_
+10	ohne	_	Word	Word	_	12	L	12:L|12:D	_
 11	alle	_	Word	Word	_	12	E	12:E	_
 12	Vergleichung	_	Word	Word	_	2	H	2:H	_
 13	stärker	_	Word	Word	_	2	H	2:H	_
 14	.	_	Punctuation	Punctuation	_	2	U	2:U	_
-15	Ein	_	Word	Word	_	16	E	16:E	_
-16	Irrtum	_	Word	Word	_	20	A	20:A	_
-17	ist	_	Word	Word	_	20	F	20:F	_
-18	dabei	_	Word	Word	_	20	D	20:D	_
-19	nicht	_	Word	Word	_	20	D	20:D	_
-20	möglich	_	Word	Word	_	2	H	2:H	_
+15	Ein	_	Word	Word	_	16	F	16:F	_
+16	Irrtum	_	Word	Word	_	2	H	2:H	_
+17	ist	_	Word	Word	_	16	F	16:F	_
+18	dabei	_	Word	Word	_	16	D	16:D	_
+19	nicht	_	Word	Word	_	16	D	16:D	_
+20	möglich	_	Word	Word	_	16	D	16:D	_
 21	.	_	Punctuation	Punctuation	_	2	U	2:U	_
-22	Es	_	Word	Word	_	23	A	23:A	_
+22	Es	_	Word	Word	_	23	F	23:F	_
 23	gehört	_	Word	Word	_	2	H	2:H	_
 24	also	_	Word	Word	_	23	F	23:F	_
 25	wohl	_	Word	Word	_	23	G	23:G	_
-26	das	_	Word	Word	_	27	E	27:E	_
+26	das	_	Word	Word	_	27	F	27:F	_
 27	Tier	_	Word	Word	_	23	A	23:A	_
 28	,	_	Punctuation	Punctuation	_	27	U	27:U	_
 29	das	_	Word	Word	_	34	R	34:R	_
@@ -42,7 +42,7 @@
 39	geschlecht	_	Word	Word	_	23	A	23:A	_
 40	.	_	Punctuation	Punctuation	_	2	U	2:U	_
 41	Mit	_	Word	Word	_	43	R	43:R	_
-42	Ihrer	_	Word	Word	_	43	E	43:E	_
+42	Ihrer	_	Word	Word	_	43	A	43:A	_
 43	Erlaubnis	_	Word	Word	_	65	A	65:A	_
 44	,	_	Punctuation	Punctuation	_	65	U	65:U	_
 45	mein	_	Word	Word	_	46	E	46:E	_
@@ -50,7 +50,7 @@
 47	«	_	Punctuation	Punctuation	_	49	U	49:U	_
 48	,	_	Punctuation	Punctuation	_	49	U	49:U	_
 49	fügte	_	Word	Word	_	0	H	0:H	_
-50	der	_	Word	Word	_	51	E	51:E	_
+50	der	_	Word	Word	_	51	F	51:F	_
 51	Harpunier	_	Word	Word	_	49	A	49:A	_
 52	bei	_	Word	Word	_	49	Terminal	49:Terminal	_
 53	,	_	Punctuation	Punctuation	_	49	U	49:U	_
@@ -58,10 +58,10 @@
 55	werden	_	Word	Word	_	65	F	65:F	_
 56	wir	_	Word	Word	_	65	A	65:A	_
 57	morgen	_	Word	Word	_	65	T	65:T	_
-58	bei	_	Word	Word	_	60	R	60:R	_
-59	Tages	_	Word	Word	_	60	A	60:A	_
-60	anbruch	_	Word	Word	_	57	E	57:E	_
-61	zwei	_	Word	Word	_	62	E	62:E	_
+58	bei	_	Word	Word	_	59	R	59:R	_
+59	Tages	_	Word	Word	_	57	E	57:E	_
+60	anbruch	_	Word	Word	_	59	Terminal	59:Terminal	_
+61	zwei	_	Word	Word	_	62	Q	62:Q	_
 62	Worte	_	Word	Word	_	65	A	65:A	_
 63	mit	_	Word	Word	_	64	R	64:R	_
 64	ihm	_	Word	Word	_	65	A	65:A	_

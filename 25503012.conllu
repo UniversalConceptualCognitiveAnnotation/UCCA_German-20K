@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 25503012
-# text = Dann muß ich wohl glauben , mein Herr , dass Sie noch in einiger Verbindung mit der Havanna stehen . « »
-1	Dann	_	Word	Word	_	5	L	5:L	_
+# text = Dann muß ich wohl glauben , mein Herr , dass Sie noch in einiger Verbindung mit der Havanna stehen . « » Durchaus nicht « , erwiderte der Kapitän . » Nehmen Sie diese Zigarre , Herr Arronax , und wenn Sie schon nicht aus der Havanna kommt , werden Sie doch , wenn Sie Kenner sind , damit zufrieden sein . «
+1	Dann	_	Word	Word	_	27	L	27:L	_
 2	muß	_	Word	Word	_	5	D	5:D	_
 3	ich	_	Word	Word	_	5	A	5:A	_
 4	wohl	_	Word	Word	_	5	G	5:G	_
@@ -13,14 +13,55 @@
 10	dass	_	Word	Word	_	13	R	13:R	_
 11	Sie	_	Word	Word	_	13	A	13:A	_
 12	noch	_	Word	Word	_	13	D	13:D	_
-13	in	_	Word	Word	_	5	A	5:A	_
+13	in	_	Word	Word	_	0	S	0:S|23:S	_
 14	einiger	_	Word	Word	_	13	D	13:D	_
 15	Verbindung	_	Word	Word	_	13	Terminal	13:Terminal	_
 16	mit	_	Word	Word	_	18	R	18:R	_
-17	der	_	Word	Word	_	18	E	18:E	_
+17	der	_	Word	Word	_	18	F	18:F	_
 18	Havanna	_	Word	Word	_	13	A	13:A	_
 19	stehen	_	Word	Word	_	13	Terminal	13:Terminal	_
-20	.	_	Punctuation	Punctuation	_	13	U	13:U	_
-21	«	_	Punctuation	Punctuation	_	13	U	13:U	_
-22	»	_	Punctuation	Punctuation	_	13	U	13:U	_
+20	.	_	Punctuation	Punctuation	_	23	U	23:U	_
+21	«	_	Punctuation	Punctuation	_	23	U	23:U	_
+22	»	_	Punctuation	Punctuation	_	23	U	23:U	_
+23	Durchaus	_	Word	Word	_	27	A	27:A	_
+24	nicht	_	Word	Word	_	23	D	23:D	_
+25	«	_	Punctuation	Punctuation	_	27	U	27:U	_
+26	,	_	Punctuation	Punctuation	_	27	U	27:U	_
+27	erwiderte	_	Word	Word	_	5	H	5:H	_
+28	der	_	Word	Word	_	29	F	29:F	_
+29	Kapitän	_	Word	Word	_	27	A	27:A	_
+30	.	_	Punctuation	Punctuation	_	27	U	27:U	_
+31	»	_	Punctuation	Punctuation	_	27	U	27:U	_
+32	Nehmen	_	Word	Word	_	23	H	23:H	_
+33	Sie	_	Word	Word	_	32	A	32:A	_
+34	diese	_	Word	Word	_	35	E	35:E	_
+35	Zigarre	_	Word	Word	_	32	A	32:A	_
+36	,	_	Punctuation	Punctuation	_	32	U	32:U	_
+37	Herr	_	Word	Word	_	38	E	38:E	_
+38	Arronax	_	Word	Word	_	32	G	32:G	_
+39	,	_	Punctuation	Punctuation	_	23	U	23:U	_
+40	und	_	Word	Word	_	48	L	48:L	_
+41	wenn	_	Word	Word	_	48	L	48:L	_
+42	Sie	_	Word	Word	_	48	A	48:A	_
+43	schon	_	Word	Word	_	44	E	44:E	_
+44	nicht	_	Word	Word	_	48	D	48:D	_
+45	aus	_	Word	Word	_	47	R	47:R	_
+46	der	_	Word	Word	_	47	F	47:F	_
+47	Havanna	_	Word	Word	_	48	A	48:A	_
+48	kommt	_	Word	Word	_	23	H	23:H	_
+49	,	_	Punctuation	Punctuation	_	23	U	23:U	_
+50	werden	_	Word	Word	_	60	F	60:F	_
+51	Sie	_	Word	Word	_	60	A	60:A	_
+52	doch	_	Word	Word	_	56	L	56:L	_
+53	,	_	Punctuation	Punctuation	_	23	U	23:U	_
+54	wenn	_	Word	Word	_	56	L	56:L	_
+55	Sie	_	Word	Word	_	56	A	56:A	_
+56	Kenner	_	Word	Word	_	23	H	23:H	_
+57	sind	_	Word	Word	_	56	F	56:F	_
+58	,	_	Punctuation	Punctuation	_	23	U	23:U	_
+59	damit	_	Word	Word	_	60	A	60:A	_
+60	zufrieden	_	Word	Word	_	23	H	23:H	_
+61	sein	_	Word	Word	_	60	F	60:F	_
+62	.	_	Punctuation	Punctuation	_	60	U	60:U	_
+63	«	_	Punctuation	Punctuation	_	60	U	60:U	_
 

@@ -1,18 +1,18 @@
 # format = ucca
 # sent_id = 25526000
-# text = » Sehen ! « rief der Harpunier , » man sieht ja nichts , man wird auch von diesem eisernen Gefängnis aus nichts sehen ! Wir fahren , wir schiffen blind hinaus ... «
-1	»	_	Punctuation	Punctuation	_	2	U	2:U	_
+# text = » Sehen ! « rief der Harpunier , » man sieht ja nichts , man wird auch von diesem eisernen Gefängnis aus nichts sehen ! Wir fahren , wir schiffen blind hinaus ... « Diese letzten Worte sagte Ned Land , als es plötzlich stock finster wurde .
+1	»	_	Punctuation	Punctuation	_	5	U	5:U	_
 2	Sehen	_	Word	Word	_	5	A	5:A	_
 3	!	_	Punctuation	Punctuation	_	5	U	5:U	_
 4	«	_	Punctuation	Punctuation	_	5	U	5:U	_
 5	rief	_	Word	Word	_	0	H	0:H	_
-6	der	_	Word	Word	_	7	E	7:E	_
+6	der	_	Word	Word	_	7	F	7:F	_
 7	Harpunier	_	Word	Word	_	5	A	5:A	_
 8	,	_	Punctuation	Punctuation	_	5	U	5:U	_
 9	»	_	Punctuation	Punctuation	_	5	U	5:U	_
 10	man	_	Word	Word	_	11	A	11:A	_
 11	sieht	_	Word	Word	_	2	H	2:H	_
-12	ja	_	Word	Word	_	11	D	11:D	_
+12	ja	_	Word	Word	_	11	G	11:G	_
 13	nichts	_	Word	Word	_	11	A	11:A	_
 14	,	_	Punctuation	Punctuation	_	2	U	2:U	_
 15	man	_	Word	Word	_	24	A	24:A	_
@@ -33,6 +33,20 @@
 30	schiffen	_	Word	Word	_	2	H	2:H	_
 31	blind	_	Word	Word	_	30	D	30:D	_
 32	hinaus	_	Word	Word	_	30	Terminal	30:Terminal	_
-33	...	_	Punctuation	Punctuation	_	30	U	30:U	_
-34	«	_	Punctuation	Punctuation	_	30	U	30:U	_
+33	...	_	Punctuation	Punctuation	_	5	U	5:U	_
+34	«	_	Punctuation	Punctuation	_	5	U	5:U	_
+35	Diese	_	Word	Word	_	37	E	37:E	_
+36	letzten	_	Word	Word	_	37	E	37:E	_
+37	Worte	_	Word	Word	_	38	A	38:A	_
+38	sagte	_	Word	Word	_	5	H	5:H	_
+39	Ned	_	Word	Word	_	38	A	38:A	_
+40	Land	_	Word	Word	_	39	Terminal	39:Terminal	_
+41	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+42	als	_	Word	Word	_	46	L	46:L	_
+43	es	_	Word	Word	_	46	F	46:F	_
+44	plötzlich	_	Word	Word	_	46	D	46:D	_
+45	stock	_	Word	Word	_	46	D	46:D	_
+46	finster	_	Word	Word	_	5	H	5:H	_
+47	wurde	_	Word	Word	_	46	F	46:F	_
+48	.	_	Punctuation	Punctuation	_	46	U	46:U	_
 

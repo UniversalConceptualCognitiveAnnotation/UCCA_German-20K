@@ -1,8 +1,21 @@
 # format = ucca
 # sent_id = 25583013
-# text = 16 . November 1867
-1	16	_	Word	Word	_	0	H	0:H	_
-2	.	_	Punctuation	Punctuation	_	1	U	1:U	_
-3	November	_	Word	Word	_	1	Terminal	1:Terminal	_
-4	1867	_	Word	Word	_	1	Terminal	1:Terminal	_
+# text = Da wird ja der Sonderling doch an Land gehen ? « fuhr Ned Land fort . »
+1	Da	_	Word	Word	_	9	L	9:L	_
+2	wird	_	Word	Word	_	9	F	9:F	_
+3	ja	_	Word	Word	_	9	F	9:F	_
+4	der	_	Word	Word	_	5	F	5:F	_
+5	Sonderling	_	Word	Word	_	9	A	9:A	_
+6	doch	_	Word	Word	_	9	F	9:F	_
+7	an	_	Word	Word	_	8	R	8:R	_
+8	Land	_	Word	Word	_	9	A	9:A	_
+9	gehen	_	Word	Word	_	12	A	12:A	_
+10	?	_	Punctuation	Punctuation	_	12	U	12:U	_
+11	«	_	Punctuation	Punctuation	_	12	U	12:U	_
+12	fuhr	_	Word	Word	_	0	H	0:H	_
+13	Ned	_	Word	Word	_	12	A	12:A	_
+14	Land	_	Word	Word	_	13	Terminal	13:Terminal	_
+15	fort	_	Word	Word	_	12	Terminal	12:Terminal	_
+16	.	_	Punctuation	Punctuation	_	12	U	12:U	_
+17	»	_	Punctuation	Punctuation	_	12	U	12:U	_
 

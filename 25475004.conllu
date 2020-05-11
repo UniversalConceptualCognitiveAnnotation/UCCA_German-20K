@@ -1,15 +1,53 @@
 # format = ucca
 # sent_id = 25475004
-# text = Und auch das meinige ! « erwiderte einfach der Harpunier .
-1	Und	_	Word	Word	_	4	L	4:L	_
-2	auch	_	Word	Word	_	4	D	4:D	_
-3	das	_	Word	Word	_	4	E	4:E	_
-4	meinige	_	Word	Word	_	7	A	7:A	_
-5	!	_	Punctuation	Punctuation	_	7	U	7:U	_
-6	«	_	Punctuation	Punctuation	_	7	U	7:U	_
-7	erwiderte	_	Word	Word	_	0	H	0:H	_
-8	einfach	_	Word	Word	_	7	D	7:D	_
-9	der	_	Word	Word	_	10	E	10:E	_
-10	Harpunier	_	Word	Word	_	7	A	7:A	_
-11	.	_	Punctuation	Punctuation	_	10	U	10:U	_
+# text = Gegen 2 Uhr morgens zeigte sich die leuchtende Stelle wieder , und zwar ebenso stark , 5 Meilen von der ›Abraham Lincoln‹. Trotz der Entfernung , trotz dem Brausen von Meer und Wind hörte man deutlich die fürchterlichen Schwanz schläge des Tieres , und sogar sein keuchendes Atmen .
+1	Gegen	_	Word	Word	_	2	R	2:R	_
+2	2	_	Word	Word	_	5	T	5:T	_
+3	Uhr	_	Word	Word	_	2	C	2:C	_
+4	morgens	_	Word	Word	_	2	E	2:E	_
+5	zeigte	_	Word	Word	_	0	H	0:H	_
+6	sich	_	Word	Word	_	5	Terminal	5:Terminal	_
+7	die	_	Word	Word	_	9	F	9:F	_
+8	leuchtende	_	Word	Word	_	9	E	9:E	_
+9	Stelle	_	Word	Word	_	0	C	0:C|8:A|15:A	_
+10	wieder	_	Word	Word	_	5	D	5:D	_
+11	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+12	und	_	Word	Word	_	15	L	15:L	_
+13	zwar	_	Word	Word	_	12	Terminal	12:Terminal	_
+14	ebenso	_	Word	Word	_	15	E	15:E	_
+15	stark	_	Word	Word	_	5	H	5:H	_
+16	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+17	5	_	Word	Word	_	18	Q	18:Q	_
+18	Meilen	_	Word	Word	_	5	A	5:A	_
+19	von	_	Word	Word	_	21	R	21:R	_
+20	der	_	Word	Word	_	21	F	21:F	_
+21	›Abraham	_	Word	Word	_	18	E	18:E	_
+22	Lincoln‹.	_	Word	Word	_	21	Terminal	21:Terminal	_
+23	Trotz	_	Word	Word	_	25	L	25:L	_
+24	der	_	Word	Word	_	25	F	25:F	_
+25	Entfernung	_	Word	Word	_	5	H	5:H	_
+26	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+27	trotz	_	Word	Word	_	29	L	29:L	_
+28	dem	_	Word	Word	_	29	F	29:F	_
+29	Brausen	_	Word	Word	_	5	H	5:H	_
+30	von	_	Word	Word	_	31	R	31:R	_
+31	Meer	_	Word	Word	_	29	A	29:A	_
+32	und	_	Word	Word	_	31	N	31:N	_
+33	Wind	_	Word	Word	_	31	C	31:C	_
+34	hörte	_	Word	Word	_	5	H	5:H	_
+35	man	_	Word	Word	_	34	A	34:A|48:A	_
+36	deutlich	_	Word	Word	_	34	D	34:D	_
+37	die	_	Word	Word	_	40	F	40:F	_
+38	fürchterlichen	_	Word	Word	_	40	D	40:D	_
+39	Schwanz	_	Word	Word	_	40	A	40:A	_
+40	schläge	_	Word	Word	_	34	A	34:A	_
+41	des	_	Word	Word	_	42	R	42:R	_
+42	Tieres	_	Word	Word	_	40	A	40:A	_
+43	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+44	und	_	Word	Word	_	48	L	48:L	_
+45	sogar	_	Word	Word	_	48	D	48:D	_
+46	sein	_	Word	Word	_	48	A	48:A	_
+47	keuchendes	_	Word	Word	_	48	D	48:D	_
+48	Atmen	_	Word	Word	_	5	H	5:H	_
+49	.	_	Punctuation	Punctuation	_	48	U	48:U	_
 

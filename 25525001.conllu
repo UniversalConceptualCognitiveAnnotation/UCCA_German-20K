@@ -1,8 +1,8 @@
 # format = ucca
 # sent_id = 25525001
 # text = Meine Freunde « , erwiderte ich , indem ich ihnen winkte ein zu treten , » Sie sind weder in Kanada noch in Frankreich , sondern an Bord der ›Nautilus‹ , 50 Meter unter dem Meeres spiegel ! « »
-1	Meine	_	Word	Word	_	2	E	2:E	_
-2	Freunde	_	Word	Word	_	18	G	18:G	_
+1	Meine	_	Word	Word	_	18	G	18:G	_
+2	Freunde	_	Word	Word	_	1	A	1:A	_
 3	«	_	Punctuation	Punctuation	_	5	U	5:U	_
 4	,	_	Punctuation	Punctuation	_	5	U	5:U	_
 5	erwiderte	_	Word	Word	_	0	H	0:H	_
@@ -17,27 +17,27 @@
 14	treten	_	Word	Word	_	12	Terminal	12:Terminal	_
 15	,	_	Punctuation	Punctuation	_	5	U	5:U	_
 16	»	_	Punctuation	Punctuation	_	5	U	5:U	_
-17	Sie	_	Word	Word	_	18	A	18:A	_
+17	Sie	_	Word	Word	_	18	A	18:A|28:A|37:A	_
 18	sind	_	Word	Word	_	5	A	5:A	_
-19	weder	_	Word	Word	_	18	D	18:D	_
+19	weder	_	Word	Word	_	21	Q	21:Q	_
 20	in	_	Word	Word	_	21	R	21:R	_
 21	Kanada	_	Word	Word	_	18	A	18:A	_
-22	noch	_	Word	Word	_	18	D	18:D	_
+22	noch	_	Word	Word	_	21	N	21:N	_
 23	in	_	Word	Word	_	24	R	24:R	_
-24	Frankreich	_	Word	Word	_	18	A	18:A	_
+24	Frankreich	_	Word	Word	_	21	C	21:C	_
 25	,	_	Punctuation	Punctuation	_	18	U	18:U	_
-26	sondern	_	Word	Word	_	18	D	18:D	_
+26	sondern	_	Word	Word	_	28	L	28:L	_
 27	an	_	Word	Word	_	28	R	28:R	_
-28	Bord	_	Word	Word	_	18	A	18:A	_
+28	Bord	_	Word	Word	_	18	H	18:H	_
 29	der	_	Word	Word	_	30	R	30:R	_
 30	›Nautilus‹	_	Word	Word	_	28	E	28:E	_
 31	,	_	Punctuation	Punctuation	_	18	U	18:U	_
-32	50	_	Word	Word	_	33	E	33:E	_
-33	Meter	_	Word	Word	_	37	E	37:E	_
+32	50	_	Word	Word	_	33	Q	33:Q	_
+33	Meter	_	Word	Word	_	37	Q	37:Q	_
 34	unter	_	Word	Word	_	37	R	37:R	_
-35	dem	_	Word	Word	_	37	E	37:E	_
+35	dem	_	Word	Word	_	37	F	37:F	_
 36	Meeres	_	Word	Word	_	37	E	37:E	_
-37	spiegel	_	Word	Word	_	18	A	18:A	_
+37	spiegel	_	Word	Word	_	18	H	18:H	_
 38	!	_	Punctuation	Punctuation	_	37	U	37:U	_
 39	«	_	Punctuation	Punctuation	_	37	U	37:U	_
 40	»	_	Punctuation	Punctuation	_	37	U	37:U	_

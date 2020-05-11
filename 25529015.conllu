@@ -1,33 +1,16 @@
 # format = ucca
 # sent_id = 25529015
-# text = Nein « , erwiderte ich , » denn das Aquarium ist ein Gefängnis , und diese Fische da sind frei wie die Vögel in der Luft . « »
-1	Nein	_	Word	Word	_	4	A	4:A	_
-2	«	_	Punctuation	Punctuation	_	4	U	4:U	_
-3	,	_	Punctuation	Punctuation	_	4	U	4:U	_
-4	erwiderte	_	Word	Word	_	0	H	0:H	_
-5	ich	_	Word	Word	_	4	A	4:A	_
-6	,	_	Punctuation	Punctuation	_	4	U	4:U	_
-7	»	_	Punctuation	Punctuation	_	4	U	4:U	_
-8	denn	_	Word	Word	_	11	L	11:L	_
-9	das	_	Word	Word	_	10	E	10:E	_
-10	Aquarium	_	Word	Word	_	11	A	11:A	_
-11	ist	_	Word	Word	_	1	H	1:H	_
-12	ein	_	Word	Word	_	13	E	13:E	_
-13	Gefängnis	_	Word	Word	_	11	A	11:A	_
-14	,	_	Punctuation	Punctuation	_	1	U	1:U	_
-15	und	_	Word	Word	_	20	L	20:L	_
-16	diese	_	Word	Word	_	17	E	17:E	_
-17	Fische	_	Word	Word	_	20	A	20:A	_
-18	da	_	Word	Word	_	20	A	20:A	_
-19	sind	_	Word	Word	_	20	F	20:F	_
-20	frei	_	Word	Word	_	1	H	1:H	_
-21	wie	_	Word	Word	_	23	R	23:R	_
-22	die	_	Word	Word	_	23	E	23:E	_
-23	Vögel	_	Word	Word	_	20	A	20:A	_
-24	in	_	Word	Word	_	26	R	26:R	_
-25	der	_	Word	Word	_	26	E	26:E	_
-26	Luft	_	Word	Word	_	23	A	23:A	_
-27	.	_	Punctuation	Punctuation	_	26	U	26:U	_
-28	«	_	Punctuation	Punctuation	_	26	U	26:U	_
-29	»	_	Punctuation	Punctuation	_	26	U	26:U	_
+# text = Ein chinesischer Hornfisch ! « rief Ned Land und irrte nicht .
+1	Ein	_	Word	Word	_	3	F	3:F	_
+2	chinesischer	_	Word	Word	_	3	E	3:E	_
+3	Hornfisch	_	Word	Word	_	6	A	6:A	_
+4	!	_	Punctuation	Punctuation	_	6	U	6:U	_
+5	«	_	Punctuation	Punctuation	_	6	U	6:U	_
+6	rief	_	Word	Word	_	0	H	0:H	_
+7	Ned	_	Word	Word	_	6	A	6:A|10:A	_
+8	Land	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	und	_	Word	Word	_	10	L	10:L	_
+10	irrte	_	Word	Word	_	6	H	6:H	_
+11	nicht	_	Word	Word	_	10	D	10:D	_
+12	.	_	Punctuation	Punctuation	_	10	U	10:U	_
 

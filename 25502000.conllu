@@ -1,6 +1,11 @@
 # format = ucca
 # sent_id = 25502000
-# text = Die ›Nautilus‹
-1	Die	_	Word	Word	_	2	E	2:E	_
+# text = Die ›Nautilus‹ Kapitän Nemo stand auf .
+1	Die	_	Word	Word	_	2	F	2:F	_
 2	›Nautilus‹	_	Word	Word	_	0	H	0:H	_
+3	Kapitän	_	Word	Word	_	4	E	4:E	_
+4	Nemo	_	Word	Word	_	5	A	5:A	_
+5	stand	_	Word	Word	_	2	H	2:H	_
+6	auf	_	Word	Word	_	5	Terminal	5:Terminal	_
+7	.	_	Punctuation	Punctuation	_	5	U	5:U	_
 

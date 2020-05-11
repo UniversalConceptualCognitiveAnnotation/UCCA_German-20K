@@ -1,8 +1,9 @@
 # format = ucca
 # sent_id = 25585003
-# text = Jawohl . « »
-1	Jawohl	_	Word	Word	_	0	H	0:H	_
-2	.	_	Punctuation	Punctuation	_	1	U	1:U	_
-3	«	_	Punctuation	Punctuation	_	1	U	1:U	_
-4	»	_	Punctuation	Punctuation	_	1	U	1:U	_
+# text = Zu Fuß ? « »
+1	Zu	_	Word	Word	_	0	H	0:H	_
+2	Fuß	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	?	_	Punctuation	Punctuation	_	1	U	1:U	_
+4	«	_	Punctuation	Punctuation	_	1	U	1:U	_
+5	»	_	Punctuation	Punctuation	_	1	U	1:U	_
 

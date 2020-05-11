@@ -1,15 +1,23 @@
 # format = ucca
 # sent_id = 25585015
-# text = Ich war also beflissen , dem Mahl Ehre zu machen .
-1	Ich	_	Word	Word	_	8	A	8:A	_
-2	war	_	Word	Word	_	8	F	8:F	_
-3	also	_	Word	Word	_	8	F	8:F	_
-4	beflissen	_	Word	Word	_	8	D	8:D	_
-5	,	_	Punctuation	Punctuation	_	8	U	8:U	_
-6	dem	_	Word	Word	_	7	E	7:E	_
-7	Mahl	_	Word	Word	_	8	A	8:A	_
-8	Ehre	_	Word	Word	_	0	H	0:H	_
-9	zu	_	Word	Word	_	8	F	8:F	_
-10	machen	_	Word	Word	_	8	Terminal	8:Terminal	_
-11	.	_	Punctuation	Punctuation	_	8	U	8:U	_
+# text = Es bestand aus verschiedenen Fischen und Stücken Holothurien , trefflichen Tier pflanzen , Bei essen von eröffnenden Algen .
+1	Es	_	Word	Word	_	2	A	2:A	_
+2	bestand	_	Word	Word	_	0	H	0:H	_
+3	aus	_	Word	Word	_	5	R	5:R	_
+4	verschiedenen	_	Word	Word	_	5	E	5:E	_
+5	Fischen	_	Word	Word	_	2	A	2:A	_
+6	und	_	Word	Word	_	5	N	5:N	_
+7	Stücken	_	Word	Word	_	8	Q	8:Q	_
+8	Holothurien	_	Word	Word	_	5	C	5:C	_
+9	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+10	trefflichen	_	Word	Word	_	12	E	12:E	_
+11	Tier	_	Word	Word	_	12	E	12:E	_
+12	pflanzen	_	Word	Word	_	5	C	5:C	_
+13	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+14	Bei	_	Word	Word	_	5	C	5:C	_
+15	essen	_	Word	Word	_	14	Terminal	14:Terminal	_
+16	von	_	Word	Word	_	18	R	18:R	_
+17	eröffnenden	_	Word	Word	_	18	E	18:E	_
+18	Algen	_	Word	Word	_	14	E	14:E	_
+19	.	_	Punctuation	Punctuation	_	18	U	18:U	_
 

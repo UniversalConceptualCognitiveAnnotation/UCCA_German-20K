@@ -1,10 +1,11 @@
 # format = ucca
 # sent_id = 25493006
-# text = Nahm er Anstand zu reden ?
-1	Nahm	_	Word	Word	_	0	H	0:H	_
-2	er	_	Word	Word	_	1	A	1:A|5:A	_
-3	Anstand	_	Word	Word	_	5	A	5:A	_
-4	zu	_	Word	Word	_	5	F	5:F	_
-5	reden	_	Word	Word	_	1	A	1:A	_
-6	?	_	Punctuation	Punctuation	_	5	U	5:U	_
+# text = Bereute er die soeben gesprochenen Worte ?
+1	Bereute	_	Word	Word	_	0	H	0:H	_
+2	er	_	Word	Word	_	1	A	1:A	_
+3	die	_	Word	Word	_	6	F	6:F	_
+4	soeben	_	Word	Word	_	5	T	5:T	_
+5	gesprochenen	_	Word	Word	_	6	E	6:E	_
+6	Worte	_	Word	Word	_	1	A	1:A	_
+7	?	_	Punctuation	Punctuation	_	6	U	6:U	_
 

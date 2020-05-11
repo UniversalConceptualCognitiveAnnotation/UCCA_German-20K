@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 25614003
-# text = Er öffnete sie , und ich sah einen Pack vergilbter , doch noch lesbarer Papiere .
+# text = Er öffnete sie , und ich sah einen Pack vergilbter , doch noch lesbarer Papiere . Es waren die Original instruktionen des Marine ministers für Kommandant La Pérouse , mit Rand bemerkungen von der Hand Ludwigs XVI . »
 1	Er	_	Word	Word	_	2	A	2:A	_
 2	öffnete	_	Word	Word	_	0	H	0:H	_
 3	sie	_	Word	Word	_	2	A	2:A	_
@@ -8,13 +8,36 @@
 5	und	_	Word	Word	_	7	L	7:L	_
 6	ich	_	Word	Word	_	7	A	7:A	_
 7	sah	_	Word	Word	_	2	H	2:H	_
-8	einen	_	Word	Word	_	9	E	9:E	_
-9	Pack	_	Word	Word	_	15	E	15:E	_
+8	einen	_	Word	Word	_	9	Q	9:Q	_
+9	Pack	_	Word	Word	_	15	Q	15:Q	_
 10	vergilbter	_	Word	Word	_	15	E	15:E	_
 11	,	_	Punctuation	Punctuation	_	10	U	10:U	_
-12	doch	_	Word	Word	_	10	N	10:N	_
-13	noch	_	Word	Word	_	14	E	14:E	_
-14	lesbarer	_	Word	Word	_	10	C	10:C	_
-15	Papiere	_	Word	Word	_	7	A	7:A	_
-16	.	_	Punctuation	Punctuation	_	15	U	15:U	_
+12	doch	_	Word	Word	_	14	L	14:L	_
+13	noch	_	Word	Word	_	14	D	14:D	_
+14	lesbarer	_	Word	Word	_	10	H	10:H	_
+15	Papiere	_	Word	Word	_	0	C	0:C|10:A|14:A|18:A	_
+16	.	_	Punctuation	Punctuation	_	18	U	18:U	_
+17	Es	_	Word	Word	_	18	F	18:F	_
+18	waren	_	Word	Word	_	2	H	2:H	_
+19	die	_	Word	Word	_	21	F	21:F	_
+20	Original	_	Word	Word	_	21	D	21:D	_
+21	instruktionen	_	Word	Word	_	18	A	18:A	_
+22	des	_	Word	Word	_	24	R	24:R	_
+23	Marine	_	Word	Word	_	24	E	24:E	_
+24	ministers	_	Word	Word	_	21	A	21:A	_
+25	für	_	Word	Word	_	27	R	27:R	_
+26	Kommandant	_	Word	Word	_	27	E	27:E	_
+27	La	_	Word	Word	_	21	A	21:A	_
+28	Pérouse	_	Word	Word	_	27	Terminal	27:Terminal	_
+29	,	_	Punctuation	Punctuation	_	21	U	21:U	_
+30	mit	_	Word	Word	_	32	R	32:R	_
+31	Rand	_	Word	Word	_	32	A	32:A	_
+32	bemerkungen	_	Word	Word	_	21	E	21:E	_
+33	von	_	Word	Word	_	36	R	36:R	_
+34	der	_	Word	Word	_	35	F	35:F	_
+35	Hand	_	Word	Word	_	36	E	36:E	_
+36	Ludwigs	_	Word	Word	_	32	A	32:A	_
+37	XVI	_	Word	Word	_	36	Terminal	36:Terminal	_
+38	.	_	Punctuation	Punctuation	_	36	U	36:U	_
+39	»	_	Punctuation	Punctuation	_	36	U	36:U	_
 

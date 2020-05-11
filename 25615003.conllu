@@ -1,21 +1,21 @@
 # format = ucca
 # sent_id = 25615003
-# text = Ich denke also , wenn 's meinem Herrn beliebt , ein gutes Jahr wäre ein Jahr , das uns alles zu sehen vergönnte ... «
+# text = Ich denke also , wenn 's meinem Herrn beliebt , ein gutes Jahr wäre ein Jahr , das uns alles zu sehen vergönnte ... « » Alles zu sehen , Conseil ? Das würde vielleicht zu lange dauern . Aber was hält Meister Ned Land davon ? « »
 1	Ich	_	Word	Word	_	2	A	2:A	_
 2	denke	_	Word	Word	_	0	H	0:H	_
-3	also	_	Word	Word	_	2	F	2:F	_
+3	also	_	Word	Word	_	9	L	9:L	_
 4	,	_	Punctuation	Punctuation	_	2	U	2:U	_
 5	wenn	_	Word	Word	_	9	L	9:L	_
 6	's	_	Word	Word	_	9	A	9:A	_
-7	meinem	_	Word	Word	_	8	E	8:E	_
-8	Herrn	_	Word	Word	_	9	A	9:A	_
+7	meinem	_	Word	Word	_	9	A	9:A	_
+8	Herrn	_	Word	Word	_	7	A	7:A	_
 9	beliebt	_	Word	Word	_	2	H	2:H	_
 10	,	_	Punctuation	Punctuation	_	2	U	2:U	_
-11	ein	_	Word	Word	_	13	E	13:E	_
+11	ein	_	Word	Word	_	13	F	13:F	_
 12	gutes	_	Word	Word	_	13	E	13:E	_
 13	Jahr	_	Word	Word	_	14	A	14:A	_
 14	wäre	_	Word	Word	_	2	A	2:A	_
-15	ein	_	Word	Word	_	16	E	16:E	_
+15	ein	_	Word	Word	_	16	F	16:F	_
 16	Jahr	_	Word	Word	_	14	A	14:A	_
 17	,	_	Punctuation	Punctuation	_	16	U	16:U	_
 18	das	_	Word	Word	_	22	R	22:R	_
@@ -24,6 +24,30 @@
 21	zu	_	Word	Word	_	22	F	22:F	_
 22	sehen	_	Word	Word	_	16	E	16:E	_
 23	vergönnte	_	Word	Word	_	22	D	22:D	_
-24	...	_	Punctuation	Punctuation	_	22	U	22:U	_
-25	«	_	Punctuation	Punctuation	_	22	U	22:U	_
+24	...	_	Punctuation	Punctuation	_	2	U	2:U	_
+25	«	_	Punctuation	Punctuation	_	2	U	2:U	_
+26	»	_	Punctuation	Punctuation	_	2	U	2:U	_
+27	Alles	_	Word	Word	_	29	A	29:A	_
+28	zu	_	Word	Word	_	29	F	29:F	_
+29	sehen	_	Word	Word	_	2	H	2:H	_
+30	,	_	Punctuation	Punctuation	_	29	U	29:U	_
+31	Conseil	_	Word	Word	_	29	G	29:G	_
+32	?	_	Punctuation	Punctuation	_	29	U	29:U	_
+33	Das	_	Word	Word	_	38	A	38:A	_
+34	würde	_	Word	Word	_	38	D	38:D	_
+35	vielleicht	_	Word	Word	_	38	G	38:G	_
+36	zu	_	Word	Word	_	37	E	37:E	_
+37	lange	_	Word	Word	_	38	D	38:D	_
+38	dauern	_	Word	Word	_	29	H	29:H	_
+39	.	_	Punctuation	Punctuation	_	29	U	29:U	_
+40	Aber	_	Word	Word	_	42	L	42:L	_
+41	was	_	Word	Word	_	42	A	42:A	_
+42	hält	_	Word	Word	_	29	H	29:H	_
+43	Meister	_	Word	Word	_	44	E	44:E	_
+44	Ned	_	Word	Word	_	42	A	42:A	_
+45	Land	_	Word	Word	_	44	Terminal	44:Terminal	_
+46	davon	_	Word	Word	_	42	A	42:A	_
+47	?	_	Punctuation	Punctuation	_	42	U	42:U	_
+48	«	_	Punctuation	Punctuation	_	42	U	42:U	_
+49	»	_	Punctuation	Punctuation	_	42	U	42:U	_
 
