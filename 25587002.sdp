@@ -1,32 +1,60 @@
 # format = ucca
-1	Nun	_	Word	-	-	_	F	_	_	_	_	_	_
-2	habe	_	Word	-	+	_	_	_	_	_	_	_	_
-3	ich	_	Word	-	-	_	A	_	_	_	_	_	_
-4	keinen	_	Word	-	+	_	D	_	_	_	_	_	_
-5	Einwand	_	Word	-	-	_	A	_	_	_	_	_	_
-6	mehr	_	Word	-	-	_	_	Terminal	_	_	_	_	_
-7	.	_	Punctuation	-	-	_	U	_	_	_	_	_	_
-8	Nur	_	Word	-	-	_	_	_	F	_	_	_	_
-9	frage	_	Word	-	+	_	H	_	_	_	_	_	_
-10	ich	_	Word	-	-	_	_	_	A	_	_	_	_
-11	noch	_	Word	-	-	_	_	_	D	_	_	_	_
-12	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_
-13	Kapitän	_	Word	-	-	_	_	_	G	_	_	_	_
-14	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_
-15	wie	_	Word	-	-	_	_	_	_	_	_	_	D
-16	können	_	Word	-	-	_	_	_	_	_	_	_	D
-17	Sie	_	Word	-	-	_	_	_	_	_	_	_	A
-18	Beleuchtung	_	Word	-	-	_	_	_	_	_	_	_	A
-19	für	_	Word	-	-	_	_	_	_	R	_	_	_
-20	Ihren	_	Word	-	-	_	_	_	_	E	_	_	_
-21	Weg	_	Word	-	+	_	_	_	_	_	_	_	A
-22	so	_	Word	-	-	_	_	_	_	_	E	_	_
-23	tief	_	Word	-	+	_	_	_	_	_	_	_	D
-24	im	_	Word	-	-	_	_	_	_	_	_	R	_
-25	Meeres	_	Word	-	-	_	_	_	_	_	_	E	_
-26	grund	_	Word	-	+	_	_	_	_	_	_	_	A
-27	schaffen	_	Word	-	+	_	_	_	A	_	_	_	_
-28	?	_	Punctuation	-	-	_	_	_	_	_	_	_	U
-29	«	_	Punctuation	-	-	_	_	_	_	_	_	_	U
-30	»	_	Punctuation	-	-	_	_	_	_	_	_	_	U
+1	Kapitän	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_
+2	Nemo	_	Word	-	+	_	_	_	_	G	_	_	_	_	_	_	_	_
+3	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_
+4	auf	_	Word	-	-	_	_	R	_	_	_	_	_	_	_	_	_	_
+5	alle	_	Word	-	-	_	_	D	_	_	_	_	_	_	_	_	_	_
+6	meine	_	Word	-	-	_	_	A	_	_	_	_	_	_	_	_	_	_
+7	Einwendungen	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_	_	_
+8	haben	_	Word	-	-	_	_	_	_	F	_	_	_	_	_	_	_	_
+9	Sie	_	Word	-	-	_	_	_	_	A	_	_	_	_	_	_	_	_
+10	so	_	Word	-	+	_	_	_	_	L	_	_	_	_	_	_	_	_
+11	überwältigende	_	Word	-	-	_	_	_	_	D	_	_	_	_	_	_	_	_
+12	Antworten	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
+13	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_
+14	dass	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_	_	_
+15	ich	_	Word	-	-	_	_	_	_	_	_	A	_	_	_	_	_	_
+16	nicht	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_
+17	mehr	_	Word	-	+	_	_	_	_	_	_	D	_	_	_	_	_	_
+18	zu	_	Word	-	-	_	_	_	_	_	_	F	_	_	_	_	_	_
+19	zweifeln	_	Word	-	+	_	_	_	_	H	_	_	_	_	_	_	_	_
+20	wage	_	Word	-	-	_	_	_	_	_	_	D	_	_	_	_	_	_
+21	.	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_
+22	Jedoch	_	Word	-	-	_	_	_	_	L	_	_	_	_	_	_	_	_
+23	bin	_	Word	-	-	_	_	_	_	_	_	_	_	_	F	_	_	_
+24	ich	_	Word	-	-	_	_	_	_	_	_	_	_	_	A	_	_	_
+25	auch	_	Word	-	-	_	_	_	_	_	_	_	_	_	D	_	_	_
+26	genötigt	_	Word	-	-	_	_	_	_	_	_	_	_	_	D	_	_	_
+27	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_	_	_
+28	den	_	Word	-	-	_	_	_	_	_	_	_	F	_	_	_	_	_
+29	Apparaten	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_	_
+30	von	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_	_
+31	Rouquayrol	_	Word	-	+	_	_	_	_	_	_	_	E	_	_	_	_	_
+32	und	_	Word	-	-	_	_	_	_	_	_	_	_	N	_	_	_	_
+33	Ruhmkorff	_	Word	-	-	_	_	_	_	_	_	_	_	C	_	_	_	_
+34	ihre	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_
+35	Geltung	_	Word	-	+	_	_	_	_	H	_	_	_	_	_	_	_	_
+36	zu	_	Word	-	-	_	_	_	_	_	_	_	_	_	F	_	_	_
+37	lassen	_	Word	-	-	_	_	_	_	_	_	_	_	_	D	_	_	_
+38	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_
+39	so	_	Word	-	-	_	_	_	_	L	_	_	_	_	_	_	_	_
+40	darf	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	D
+41	ich	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	A
+42	doch	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	F
+43	bezüglich	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	_	_
+44	der	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	F	_	_
+45	Büchse	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	A
+46	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U	_	_
+47	womit	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R	_
+48	Sie	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	A	_
+49	mich	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	A	_
+50	bewaffnen	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	E	_	_
+51	wollen	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	D	_
+52	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U
+53	einen	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	F
+54	Vorbehalt	_	Word	-	+	_	_	_	_	H	_	_	_	_	_	_	_	_
+55	machen	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	F
+56	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U
+57	«	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U
+58	»	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U
 

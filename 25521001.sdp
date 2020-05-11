@@ -1,26 +1,29 @@
 # format = ucca
-1	Der	_	Word	-	-	_	_	_	E	_	_	_	_	_	_
-2	vom	_	Word	-	-	_	R	_	_	_	_	_	_	_	_
-3	Wasser	_	Word	-	+	_	_	A	_	_	_	_	_	_	_
-4	bedeckte	_	Word	-	+	_	_	_	E	_	_	_	_	_	_
-5	Teil	_	Word	-	+	_	_	_	_	_	_	_	_	_	A
-6	der	_	Word	-	-	_	_	_	_	R	_	_	_	_	_
-7	Erd	_	Word	-	-	_	_	_	_	E	_	_	_	_	_
-8	oberfläche	_	Word	-	+	_	_	_	E	_	_	_	_	_	_
-9	wird	_	Word	-	-	_	_	_	_	_	_	_	_	_	F
-10	auf	_	Word	-	-	_	_	_	_	_	_	R	_	_	_
-11	3	_	Word	-	+	_	_	_	_	_	_	E	_	_	_
-12	Millionen	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_
-13	132.558	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_
-14	Quadratmyriameter	_	Word	-	+	_	_	_	_	_	_	_	_	_	A
-15	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
-16	d.h	_	Word	-	-	_	_	_	_	_	_	_	_	_	F
-17	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
-18	über	_	Word	-	-	_	_	_	_	_	_	_	_	R	_
-19	38	_	Word	-	+	_	_	_	_	_	_	_	_	E	_
-20	Millionen	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_
-21	Hektar	_	Word	-	+	_	_	_	_	_	_	_	_	_	A
-22	*	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
-23	angeschlagen	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
-24	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
+1	Diese	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_
+2	flüssige	_	Word	-	+	_	_	E	_	_	_	_	_	_	_	_	_
+3	Masse	_	Word	-	+	_	A*	_	_	_	_	_	_	_	A*	A*	_
+4	enthält	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
+5	2	_	Word	-	-	_	_	_	_	Q	_	_	_	_	_	_	_
+6	Milliarden	_	Word	-	+	_	_	_	_	_	Q	_	_	_	_	_	_
+7	250	_	Word	-	-	_	_	_	_	Q	_	_	_	_	_	_	_
+8	Millionen	_	Word	-	-	_	_	_	_	C	_	_	_	_	_	_	_
+9	Kubikmeilen	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_
+10	und	_	Word	-	-	_	_	_	L	_	_	_	_	_	_	_	_
+11	würde	_	Word	-	-	_	_	_	_	_	_	_	_	_	D	D*	_
+12	eine	_	Word	-	-	_	_	_	_	_	_	F	_	_	_	_	_
+13	Kugel	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	C*	_
+14	mit	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_
+15	einem	_	Word	-	-	_	_	_	_	_	_	_	F	_	_	_	_
+16	Durchmesser	_	Word	-	+	_	_	_	_	_	_	_	_	E	_	_	_
+17	von	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_
+18	60	_	Word	-	-	_	_	_	_	_	_	_	_	Q	_	_	_
+19	Lieue	_	Word	-	+	_	_	_	_	_	_	E	_	_	_	_	_
+20	bilden	_	Word	-	+	_	_	_	H	_	_	_	_	_	_	_	_
+21	und	_	Word	-	-	_	_	_	L	_	_	_	_	_	_	_	_
+22	einem	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	F	_
+23	Tonnengewicht	_	Word	-	+	_	_	_	H	_	_	_	_	_	_	_	_
+24	von	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R
+25	3	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	Q
+26	Quintillionen	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	Q	_
+27	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U
 

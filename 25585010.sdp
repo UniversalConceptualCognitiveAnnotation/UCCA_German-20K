@@ -1,23 +1,48 @@
 # format = ucca
-1	Ich	_	Word	-	-	_	A	_	_	_	_	_
-2	sah	_	Word	-	+	_	_	_	_	_	_	_
-3	den	_	Word	-	-	_	_	E	_	_	_	_
-4	Kommandanten	_	Word	-	+	_	A	_	_	_	_	_
-5	der	_	Word	-	-	_	_	_	R	_	_	_
-6	"	_	Punctuation	-	-	_	_	_	U	_	_	_
-7	Nautilus	_	Word	-	+	_	_	E	_	_	_	_
-8	"	_	Punctuation	-	-	_	U	_	_	_	_	_
-9	mit	_	Word	-	-	_	_	_	_	R	_	_
-10	einer	_	Word	-	-	_	_	_	_	E	_	_
-11	Miene	_	Word	-	+	_	A	_	_	_	_	_
-12	an	_	Word	-	-	_	Terminal	_	_	_	_	_
-13	,	_	Punctuation	-	-	_	U	_	_	_	_	_
-14	die	_	Word	-	-	_	_	_	_	_	_	R
-15	nichts	_	Word	-	-	_	_	_	_	_	_	D
-16	Schmeichelhaftes	_	Word	-	-	_	_	_	_	_	_	A
-17	für	_	Word	-	-	_	_	_	_	_	R	_
-18	ihn	_	Word	-	+	_	_	_	_	_	_	A
-19	hatte	_	Word	-	+	_	_	_	_	E	_	_
-20	.	_	Punctuation	-	-	_	_	_	_	_	_	U
-21	»	_	Punctuation	-	-	_	_	_	_	_	_	U
+1	Ganz	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	gewiß	_	Word	-	+	_	_	_	G	_	_	_	_	_	_	_	_	_	_	_
+3	ist	_	Word	-	-	_	_	_	F	_	_	_	_	_	_	_	_	_	_	_
+4	der	_	Word	-	-	_	_	F	_	_	_	_	_	_	_	_	_	_	_	_
+5	Mann	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_
+6	gehirn	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_
+7	krank	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_
+8	«	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_
+9	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_
+10	dachte	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	ich	_	Word	-	-	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_
+12	.	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_
+13	»	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_
+14	Seit	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_
+15	8	_	Word	-	-	_	_	_	_	_	Q	_	_	_	_	_	_	_	_	_
+16	Tagen	_	Word	-	+	_	_	_	_	_	_	T	_	_	_	_	_	_	_	_
+17	hing	_	Word	-	+	_	_	_	H	_	_	_	_	_	_	_	_	_	_	_
+18	er	_	Word	-	-	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_
+19	einer	_	Word	-	-	_	_	_	_	_	_	_	F	_	_	_	_	_	_	_
+20	verrückten	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_
+21	Idee	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_
+22	nach	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_
+23	und	_	Word	-	-	_	_	_	L	_	_	_	_	_	_	_	_	_	_	_
+24	dieser	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_
+25	Zustand	_	Word	-	+	_	_	_	H	_	_	_	_	_	_	_	_	_	_	_
+26	dauert	_	Word	-	+	_	_	_	_	_	_	_	_	D	_	_	_	_	_	_
+27	noch	_	Word	-	-	_	_	_	_	_	_	_	_	D	_	_	_	_	_	_
+28	fort	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_
+29	.	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_
+30	Es	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_
+31	ist	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	F	_	_	_	_
+32	schade	_	Word	-	+	_	_	_	H	_	_	_	_	_	_	_	_	_	_	_
+33	!	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_
+34	Ich	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_
+35	wünschte	_	Word	-	+	_	_	_	H	_	_	_	_	_	_	_	_	_	_	_
+36	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_
+37	er	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	A	_	A*
+38	wäre	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_
+39	lieber	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	D	_	_
+40	ein	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	F	_
+41	Sonderling	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_
+42	als	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	L	_	_
+43	ein	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	F
+44	Narr	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	H	_	_
+45	!	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+46	«	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
 

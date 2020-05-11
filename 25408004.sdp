@@ -1,37 +1,48 @@
 # format = ucca
-1	Die	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_
-2	Tatsache	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_
-3	ist	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
-4	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_
-5	dass	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_
-6	seit	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_	_
-7	einiger	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_
-8	Zeit	_	Word	-	+	_	_	_	_	_	_	_	_	T	_	_	_
-9	manche	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_
-10	Schiffe	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_
-11	auf	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_	_
-12	hoher	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_
-13	See	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_
-14	einem	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_
-15	»	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_	_
-16	enormen	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_
-17	Gegenstand	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A*	_
-18	«	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_	_	_
-19	begegneten	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_
-20	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_	_	_
-21	lang	_	Word	-	+	_	_	_	_	_	_	H	_	_	_	_	_
-22	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_	_
-23	spindelförmig	_	Word	-	-	_	_	_	_	_	_	_	_	_	C	_	_
-24	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_	_
-25	mitunter	_	Word	-	-	_	_	_	_	_	_	_	_	_	D	_	_
-26	phosphoreszierend	_	Word	-	-	_	_	_	_	_	_	_	_	_	C	_	_
-27	,	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_	_
-28	unendlich	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	D	_
-29	größer	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	S*
-30	und	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	N	_
-31	rascher	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	C	_
-32	als	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R
-33	ein	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E
-34	Wallfisch	_	Word	-	+	_	_	_	_	_	_	H	_	_	_	_	_
-35	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U
+1	Die	_	Word	-	-	_	F	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	Angaben	_	Word	-	+	_	_	_	C*	_	_	_	_	_	_	_	_	_	_	_
+3	über	_	Word	-	-	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_
+4	diese	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_
+5	Erscheinung	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	,	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_
+7	wie	_	Word	-	-	_	_	_	_	_	_	L	_	_	_	_	_	_	_	_
+8	sie	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_
+9	in	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_
+10	den	_	Word	-	-	_	_	_	_	F	_	_	_	_	_	_	_	_	_	_
+11	Schiffs	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
+12	büchern	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_
+13	verzeichnet	_	Word	-	+	_	_	_	_	_	_	H	_	_	_	_	_	_	_	_
+14	wurden	_	Word	-	-	_	_	_	_	_	F	_	_	_	_	_	_	_	_	_
+15	,	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_
+16	betrafen	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+17	mit	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_
+18	ziemlicher	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_
+19	Genauigkeit	_	Word	-	+	_	_	_	_	_	_	D	_	_	_	_	_	_	_	_
+20	die	_	Word	-	-	_	_	_	_	_	_	_	_	F	_	_	_	_	_	_
+21	Struktur	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_
+22	des	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_
+23	fraglichen	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_
+24	Gegenstandes	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_
+25	oder	_	Word	-	-	_	_	_	_	_	_	_	_	_	N	_	_	_	_	_
+26	Geschöpfes	_	Word	-	-	_	_	_	_	_	_	_	_	_	C	_	_	_	_	_
+27	,	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_
+28	die	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	F	_	_	_	_
+29	unerhörte	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	D	_	_	_	_
+30	Schnelligkeit	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_
+31	und	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	L	_	_	_	_
+32	erstaunliche	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	D	_	_	_
+33	Kraft	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	H	_	_	_	_
+34	seiner	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_
+35	Bewegungen	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A	A*	_	_	_
+36	,	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_
+37	die	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	F	_
+38	besonderen	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	D	_
+39	Lebens	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	D	_
+40	äußerungen	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A*
+41	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	U	_
+42	welche	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	L	_
+43	ihm	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A
+44	eigentümlich	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	H	_
+45	schienen	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	D
+46	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
 

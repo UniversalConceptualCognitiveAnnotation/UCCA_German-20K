@@ -1,21 +1,63 @@
 # format = ucca
-1	Daher	_	Word	-	-	_	A	_	_	_	_
-2	darf	_	Word	-	-	_	D	_	_	_	_
-3	ich	_	Word	-	-	_	A	_	_	_	_
-4	annehmen	_	Word	-	+	_	_	_	_	_	_
-5	,	_	Punctuation	-	-	_	U	_	_	_	_
-6	dass	_	Word	-	-	_	_	_	_	_	R
-7	die	_	Word	-	-	_	_	E	_	_	_
-8	Herstellungs	_	Word	-	-	_	_	E	_	_	_
-9	kosten	_	Word	-	+	_	_	_	_	_	A
-10	des	_	Word	-	-	_	_	_	R	_	_
-11	Fahrzeugs	_	Word	-	+	_	_	E	_	_	_
-12	über	_	Word	-	-	_	_	_	_	R	_
-13	die	_	Word	-	-	_	_	_	_	E	_
-14	Maßen	_	Word	-	+	_	_	_	_	_	D
-15	hoch	_	Word	-	+	_	A	_	_	_	_
-16	sind	_	Word	-	-	_	_	_	_	_	F
-17	?	_	Punctuation	-	-	_	_	_	_	_	U
-18	«	_	Punctuation	-	-	_	_	_	_	_	U
-19	»	_	Punctuation	-	-	_	_	_	_	_	U
+1	Herr	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	Professor	_	Word	-	+	_	_	_	_	_	G	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	,	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	ich	_	Word	-	-	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	hatte	_	Word	-	-	_	_	_	_	_	F	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	meine	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	Werkstätten	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	auf	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	einem	_	Word	-	-	_	_	_	F	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	einsamen	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	Inselchen	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	im	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+13	weiten	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+14	Ozean	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_
+15	errichtet	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+16	.	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
+17	Dort	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_
+18	habe	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	F	_	_	_	_	_	_	_
+19	ich	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_
+20	mit	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_
+21	meinen	_	Word	-	-	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_
+22	Arbeitern	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_
+23	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_
+24	d.h.	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	D	_	_	_	_	_	_	_
+25	meinen	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_
+26	braven	_	Word	-	-	_	_	_	_	_	_	_	D	_	_	_	_	_	_	_	_	_	_	_
+27	Gefährten	_	Word	-	-	_	_	_	_	_	_	_	A	A*	A*	_	_	_	_	_	_	_	_	_
+28	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_
+29	die	_	Word	-	-	_	_	_	_	_	_	_	_	R	R*	_	_	_	_	_	_	_	_	_
+30	ich	_	Word	-	-	_	_	_	_	_	_	_	_	A	A*	_	_	_	_	_	_	_	_	_
+31	unterwiesen	_	Word	-	+	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_
+32	und	_	Word	-	-	_	_	_	_	_	_	_	_	L	_	_	_	_	_	_	_	_	_	_
+33	abgerichtet	_	Word	-	+	_	_	_	_	_	_	_	_	H	_	_	_	_	_	_	_	_	_	_
+34	habe	_	Word	-	-	_	_	_	_	_	_	_	_	F	_	_	_	_	_	_	_	_	_	_
+35	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_
+36	unsere	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_
+37	›Nautilus‹	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_
+38	fertig	_	Word	-	+	_	_	_	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_
+39	gemacht	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_
+40	.	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
+41	Und	_	Word	-	-	_	_	_	_	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_
+42	als	_	Word	-	-	_	_	_	_	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_
+43	die	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	F	_	_	_	_	_	_
+44	Arbeit	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_
+45	vollendet	_	Word	-	+	_	_	_	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_
+46	war	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	F	_	_	_	_	_
+47	,	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
+48	hat	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	F
+49	das	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	F	_	_	_	_
+50	Feuer	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A
+51	jede	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_
+52	Spur	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A
+53	unseres	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_
+54	Aufenthalts	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_
+55	auf	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_
+56	diesem	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_
+57	Eiland	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_
+58	zerstört	_	Word	-	+	_	_	_	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_
+59	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+60	«	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+61	»	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
 
