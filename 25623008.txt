@@ -1,6 +1,6 @@
 # ::id 25623008
 # ::tok Darauf verlass' ich mich nicht « , erwiderte Conseil . » Auf die Jagd ! Wir müssen durchaus ein Wildbret zur Befriedigung dieses Kannibalen auftreiben , oder eines schönen Morgens wird mein Herr nur noch einige Stücke seines Dieners finden . «
-# ::alignments 0-1.1.1.1.1 1-1.1.1.1.2 2-1.1.1.1.3 3-1.1.1.1.2 4-1.1.1.1.4 7-1.1.5 8-1.1.7 11-1.1.1.2.2.1 12-1.1.1.2.2.2 13-1.1.1.2.2.3 15-1.1.1.3.1 16-1.1.1.3.2 17-1.1.1.3.3 18-1.1.1.3.4.1 19-1.1.1.3.4.2 20-1.1.1.3.5.1.1 21-1.1.1.3.5.1.2 22-1.1.1.3.5.2.1 23-1.1.1.3.5.2.2 24-1.1.1.3.6 26-1.1.1.4 27-1.1.1.5.1 28-1.1.1.5.1 29-1.1.1.5.1 31-1.1.1.5.3.1 32-1.1.1.5.3.2 33-1.1.1.5.4.1 34-1.1.1.5.4.2 35-1.1.1.5.5.1 36-1.1.1.5.5.2 37-1.1.1.5.5.3.1 38-1.1.1.5.5.3.2 39-1.1.1.5.6
+# ::alignments 0-1.1.1.1.1 1-1.1.1.1.2 2-1.1.1.1.3 3-1.1.1.1.2 4-1.1.1.1.4 7-1.1.2 8-1.1.7 11-1.1.1.2.2.1 13-1.1.1.2.2.3 15-1.1.1.3.1 16-1.1.1.3.2 17-1.1.1.3.3 19-1.1.1.3.4.2 20-1.1.1.3.5.1.1 21-1.1.1.3.5.1.2 22-1.1.1.3.5.2.1 23-1.1.1.3.5.2.2 24-1.1.1.3.6 26-1.1.1.4 28-1.1.1.5.1.2 29-1.1.1.5.1.3 31-1.1.1.5.3.1 32-1.1.1.5.3.2 33-1.1.1.5.4.1 34-1.1.1.5.4.2 35-1.1.1.5.5.1 36-1.1.1.5.5.2 37-1.1.1.5.5.3.1 38-1.1.1.5.5.3.2 39-1.1.1.5.6
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -11,41 +11,41 @@
                          :A (v13 / label~e.2)
                          :D (v14 / label~e.4))
                   :H (v7 / label
-                         :P (v15 / label)
-                         :A (v16 / label
+                         :A (v15 / label)
+                         :P (v16 / label
                                  :R (v28 / label~e.11)
-                                 :E (v29 / label~e.12)
-                                 :C (v30 / label~e.13)))
+                                 :C (v29 / label~e.13)))
                   :H (v8 / label
                          :A (v17 / label~e.15)
                          :D (v18 / label~e.16)
                          :D (v19 / label~e.17)
                          :A (v20 / label
-                                 :E (v31 / label~e.18)
-                                 :C (v32 / label~e.19))
+                                 :C (v30 / label~e.19))
                          :A (v21 / label
-                                 :P (v33 / label
+                                 :P (v31 / label
                                          :R (v42 / label~e.20)
                                          :C (v43 / label~e.21))
-                                 :A (v34 / label
-                                         :R (v44 / label~e.22)
+                                 :A (v32 / label
+                                         :E (v44 / label~e.22)
                                          :C (v45 / label~e.23)))
                          :P (v22 / label~e.24))
                   :L (v9 / label~e.26)
                   :H (v10 / label
-                          :T (v23 / label~e.27,28,29)
+                          :T (v23 / label
+                                  :E (v33 / label~e.28)
+                                  :C (v34 / label~e.29))
                           :A (v24 / label
-                                  :E (v35 / label~e.31)
-                                  :C (v36 / label~e.32))
+                                  :A (v35 / label~e.31)
+                                  :A (v36 / label~e.32))
                           :D (v25 / label
                                   :E (v37 / label~e.33)
                                   :C (v38 / label~e.34))
                           :A (v26 / label
-                                  :E (v39 / label~e.35)
+                                  :Q (v39 / label~e.35)
                                   :C (v40 / label~e.36)
                                   :E (v41 / label
-                                          :R (v46 / label~e.37)
-                                          :C (v47 / label~e.38)))
+                                          :A (v46 / label~e.37)
+                                          :A (v47 / label~e.38)))
                           :P (v27 / label~e.39)))
            :P (v4 / label~e.7)
            :A (v5 / label~e.8)))

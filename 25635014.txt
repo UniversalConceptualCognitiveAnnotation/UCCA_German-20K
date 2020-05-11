@@ -1,6 +1,6 @@
 # ::id 25635014
 # ::tok Und diese Wilden ? « fragte mich Conseil . » Mit Erlaubnis , sie scheinen nicht sehr schlimm ! « »
-# ::alignments 0-1.1.5.1 1-1.1.5.2.2.1 2-1.1.5.2.2.2 5-1.1.6 6-1.1.7 7-1.1.8 10-1.1.5.3.1.1 11-1.1.5.3.1.2 13-1.1.5.3.2 14-1.1.5.3.3 15-1.1.5.3.4.1 16-1.1.5.3.4.2 17-1.1.5.3.5
+# ::alignments 0-1.1.5.1 1-1.1.5.2.2.1.1 2-1.1.5.2.2.1.2 5-1.1.6 6-1.1.7 7-1.1.8 10-1.1.5.3.1.1 11-1.1.5.3.1.2 13-1.1.5.3.2 14-1.1.5.3.3 15-1.1.5.3.4.1 16-1.1.5.3.4.2 17-1.1.5.3.5
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -9,17 +9,18 @@
                   :H (v8 / label
                          :S (v10 / label)
                          :A (v11 / label
-                                 :E (v17 / label~e.1)
-                                 :C (v18 / label~e.2)))
+                                 :A (v17 / label
+                                         :E (v22 / label~e.1)
+                                         :C (v23 / label~e.2))))
                   :H (v9 / label
                          :G (v12 / label
-                                 :E (v19 / label~e.10)
-                                 :C (v20 / label~e.11))
+                                 :R (v18 / label~e.10)
+                                 :P (v19 / label~e.11))
                          :A (v13 / label~e.13)
                          :G (v14 / label~e.14)
                          :D (v15 / label
-                                 :E (v21 / label~e.15)
-                                 :C (v22 / label~e.16))
+                                 :E (v20 / label~e.15)
+                                 :C (v21 / label~e.16))
                          :S (v16 / label~e.17)))
            :P (v4 / label~e.5)
            :A (v5 / label~e.6)

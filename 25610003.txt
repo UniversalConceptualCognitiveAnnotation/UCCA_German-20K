@@ -1,24 +1,25 @@
 # ::id 25610003
 # ::tok In dem Augenblick fragte mich Kapitän Nemo , was ich von La Pérouses Schiff bruch wisse . »
-# ::alignments 0-1.1.2.1 1-1.1.2.2 2-1.1.2.3 3-1.1.3 4-1.1.4 5-1.1.5.1 6-1.1.5.2 8-1.1.6.1 9-1.1.6.2 10-1.1.6.3.1 11-1.1.6.3.2 12-1.1.6.3.2 13-1.1.6.3.3 14-1.1.6.3.4 15-1.1.6.4
+# ::alignments 0-1.1.2.1 2-1.1.2.3 3-1.1.3 4-1.1.4 5-1.1.5.1.1 6-1.1.5.2 8-1.1.6.1 9-1.1.6.2 10-1.1.6.3.1 11-1.1.6.3.2 12-1.1.6.3.2 13-1.1.6.3.3.1 14-1.1.6.3.3.2 15-1.1.6.4
 # ::format ucca
 (v1 / label
     :H (v2 / label
            :T (v3 / label
                   :R (v8 / label~e.0)
-                  :E (v9 / label~e.1)
-                  :C (v10 / label~e.2))
+                  :C (v9 / label~e.2))
            :P (v4 / label~e.3)
            :A (v5 / label~e.4)
            :A (v6 / label
-                  :E (v11 / label~e.5)
-                  :C (v12 / label~e.6))
+                  :E (v10 / label
+                          :A (v16 / label~e.5))
+                  :C (v11 / label~e.6))
            :A (v7 / label
-                  :A (v13 / label~e.8)
-                  :A (v14 / label~e.9)
-                  :A (v15 / label
+                  :A (v12 / label~e.8)
+                  :A (v13 / label~e.9)
+                  :A (v14 / label
                           :R (v17 / label~e.10)
-                          :E (v18 / label~e.11,12)
-                          :E (v19 / label~e.13)
-                          :C (v20 / label~e.14))
-                  :S (v16 / label~e.15))))
+                          :A (v18 / label~e.11,12)
+                          :P (v19 / label
+                                  :E (v20 / label~e.13)
+                                  :C (v21 / label~e.14)))
+                  :S (v15 / label~e.15))))

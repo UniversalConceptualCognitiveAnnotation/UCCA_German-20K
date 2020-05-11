@@ -1,24 +1,22 @@
 # ::id 25616012
 # ::tok Dennoch war die " Nautilus " , die allen Gefahren gewachsen war , im Begriff sich mit den Korallen riffen bekannt zu machen .
-# ::alignments 0-1.1 2-1.2.5.1 4-1.2.5.2 7-1.2.5.3.2 8-1.2.5.3.3.1 9-1.2.5.3.3.2 10-1.2.5.3.4 13-1.2.6 14-1.2.6 15-1.2.7 16-1.2.8.1 17-1.2.8.2 18-1.2.8.3 19-1.2.8.4 20-1.2.7 22-1.2.7
+# ::alignments 0-1.1 4-1.2.5.2 7-1.2.5.3.2 8-1.2.5.3.3.1 9-1.2.5.3.3.2 10-1.2.5.3.4 13-1.2.6 14-1.2.6 15-1.2.7 16-1.2.8.1 18-1.2.8.3 19-1.2.8.4 20-1.2.7 22-1.2.7
 # ::format ucca
 (v1 / label
     :L (v2 / label~e.0)
     :H (v3 / label
            :A (v4 / label
-                  :E (v8 / label~e.2)
-                  :C (v9 / label~e.4)
-                  :E (v10 / label
-                          :A v9
-                          :R (v15 / label~e.7)
-                          :A (v16 / label
-                                  :E (v18 / label~e.8)
-                                  :C (v19 / label~e.9))
-                          :S (v17 / label~e.10)))
+                  :C (v8 / label~e.4)
+                  :E (v9 / label
+                         :A v8
+                         :R (v13 / label~e.7)
+                         :A (v14 / label
+                                 :Q (v16 / label~e.8)
+                                 :C (v17 / label~e.9))
+                         :S (v15 / label~e.10)))
            :D (v5 / label~e.13,14)
            :P (v6 / label~e.15,20,22)
            :A (v7 / label
-                  :R (v11 / label~e.16)
-                  :E (v12 / label~e.17)
-                  :E (v13 / label~e.18)
-                  :C (v14 / label~e.19))))
+                  :R (v10 / label~e.16)
+                  :E (v11 / label~e.18)
+                  :C (v12 / label~e.19))))

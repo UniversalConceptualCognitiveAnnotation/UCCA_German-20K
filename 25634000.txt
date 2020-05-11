@@ -1,58 +1,60 @@
 # ::id 25634000
 # ::tok Ich blieb so einige Stunden allein , dachte bald an die Eingeborenen - aber ohne sie weiter zu fürchten , da die unverwüstliche Zuversicht des Kapitäns auf mich überging - bald vergaß ich sie in Bewunderung des Glanzes dieser tropischen Nacht .
-# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.1 3-1.1.3.2 4-1.1.3.3 5-1.1.2 7-1.2.1 8-1.3 9-1.2.2.1 10-1.2.2.2 11-1.2.2.3 13-1.4 14-1.5 15-1.6.1 16-1.6.2 18-1.6.4 20-1.7 21-1.8.1.1.1 22-1.8.1.2 23-1.8.1.1.2 24-1.8.1.3.1 25-1.8.1.3.2 26-1.8.2.1 27-1.8.2.2 28-1.8.3 30-1.9 31-1.10.1 32-1.10.2 33-1.10.3 34-1.11.1.1 35-1.11.1.2 36-1.11.2.1 37-1.11.2.2 38-1.11.2.3.1 39-1.11.2.3.2 40-1.11.2.3.3
+# ::alignments 0-1.1.1 1-1.1.2 2-1.2 3-1.1.3.1 4-1.1.3.2 5-1.1.4 7-1.3.1 8-1.4 9-1.3.2.1 11-1.3.2.2.2 13-1.5 14-1.6 15-1.7.1 16-1.7.2 18-1.7.4 20-1.8 22-1.9.1.2 23-1.9.1.1.2 24-1.9.1.3.1 25-1.9.1.3.2 26-1.9.2.1 27-1.9.2.2 28-1.9.3 30-1.10 31-1.11.1 32-1.11.2 33-1.11.3 34-1.12.1.1 35-1.12.1.2 36-1.12.2.1 37-1.12.2.2 38-1.12.2.3.1 39-1.12.2.3.2.2 40-1.12.2.3.3
 # ::format ucca
 (v1 / label
     :H (v2 / label
-           :A (v13 / label~e.0)
-           :S (v14 / label~e.1,5)
-           :T (v15 / label
-                   :E (v29 / label~e.2)
-                   :E (v30 / label~e.3)
-                   :C (v31 / label~e.4)))
-    :H (v3 / label
-           :P (v16 / label~e.7)
-           :A (v17 / label
-                   :R (v32 / label~e.9)
-                   :E (v33 / label~e.10)
-                   :C (v34 / label~e.11))
-           :A v13)
-    :L (v4 / label~e.8)
-    :L (v5 / label~e.13)
-    :L (v6 / label~e.14)
-    :H (v7 / label
-           :A (v18 / label~e.15)
-           :D (v19 / label~e.16)
-           :P (v20 / label~e.18)
-           :A v13)
-    :L (v8 / label~e.20)
-    :H (v9 / label
-           :A (v21 / label
-                   :S (v35 / label
-                           :E (v45 / label~e.21)
-                           :C (v46 / label~e.23))
-                   :D (v36 / label~e.22)
-                   :A (v37 / label
-                           :R (v47 / label~e.24)
-                           :C (v48 / label~e.25)))
-           :A (v22 / label
-                   :R (v38 / label~e.26)
-                   :C (v39 / label~e.27))
-           :P (v23 / label~e.28))
-    :L (v10 / label~e.30)
-    :H (v11 / label
-            :P (v24 / label~e.31)
-            :A (v25 / label~e.32)
-            :A (v26 / label~e.33))
+           :A (v14 / label~e.0)
+           :D (v15 / label~e.1)
+           :T (v16 / label
+                   :Q (v31 / label~e.3)
+                   :C (v32 / label~e.4))
+           :S (v17 / label~e.5))
+    :L (v3 / label~e.2)
+    :H (v4 / label
+           :P (v18 / label~e.7)
+           :A (v19 / label
+                   :R (v33 / label~e.9)
+                   :A (v34 / label
+                           :C (v45 / label~e.11)))
+           :A v14)
+    :L (v5 / label~e.8)
+    :L (v6 / label~e.13)
+    :L (v7 / label~e.14)
+    :H (v8 / label
+           :A (v20 / label~e.15)
+           :D (v21 / label~e.16)
+           :P (v22 / label~e.18)
+           :A v14)
+    :L (v9 / label~e.20)
+    :H (v10 / label
+            :A (v23 / label
+                    :S (v35 / label
+                            :C (v46 / label~e.23))
+                    :D (v36 / label~e.22)
+                    :A (v37 / label
+                            :R (v47 / label~e.24)
+                            :A (v48 / label~e.25)))
+            :A (v24 / label
+                    :R (v38 / label~e.26)
+                    :C (v39 / label~e.27))
+            :P (v25 / label~e.28))
+    :L (v11 / label~e.30)
     :H (v12 / label
-            :P (v27 / label
+            :P (v26 / label~e.31)
+            :A (v27 / label~e.32)
+            :A (v28 / label~e.33))
+    :H (v13 / label
+            :P (v29 / label
                     :R (v40 / label~e.34)
                     :C (v41 / label~e.35))
-            :A (v28 / label
+            :A (v30 / label
                     :R (v42 / label~e.36)
                     :C (v43 / label~e.37)
                     :E (v44 / label
                             :R (v49 / label~e.38)
-                            :E (v50 / label~e.39)
-                            :C (v51 / label~e.40)))
-            :A v25))
+                            :E (v50 / label
+                                    :A (v51 / label~e.40)
+                                    :S (v52 / label~e.39))
+                            :C v51))
+            :A v27))

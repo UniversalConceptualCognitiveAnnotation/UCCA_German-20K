@@ -1,14 +1,14 @@
 # ::id 25624003
 # ::tok Mein Herr « , sagte er zu mir , » ich bin des Todes , wenn ich nicht ein wenig Pastete von dieser Brotfrucht koste ! « »
-# ::alignments 0-1.1.5.1.1.1 1-1.1.5.1.1.2 4-1.1.6 5-1.1.7 6-1.1.8.1 7-1.1.8.2 10-1.1.5.1.2 12-1.1.5.1.4.1 13-1.1.5.1.4.2 15-1.1.5.2 16-1.1.5.3.1 17-1.1.5.3.2 18-1.1.5.3.3.1 19-1.1.5.3.3.2 20-1.1.5.3.3.3 21-1.1.5.3.3.4.1 22-1.1.5.3.3.4.2 23-1.1.5.3.3.4.3 24-1.1.5.3.4
+# ::alignments 0-1.1.5.1.1.1 1-1.1.5.1.1.2 4-1.1.6 5-1.1.7 6-1.1.8.1 7-1.1.8.2 10-1.1.5.1.2 12-1.1.5.1.4.1 13-1.1.5.1.4.2 15-1.1.5.2 16-1.1.5.3.1 17-1.1.5.3.2 19-1.1.5.3.3.2 20-1.1.5.3.3.3 21-1.1.5.3.3.4.1 22-1.1.5.3.3.4.2 23-1.1.5.3.3.4.3 24-1.1.5.3.4
 # ::format ucca
 (v1 / label
     :H (v2 / label
            :A (v3 / label
                   :H (v7 / label
                          :G (v12 / label
-                                 :E (v19 / label~e.0)
-                                 :C (v20 / label~e.1))
+                                 :A (v19 / label~e.0)
+                                 :A (v20 / label~e.1))
                          :A (v13 / label~e.10)
                          :S (v14 / label
                                  :R (v21 / label~e.12)
@@ -18,13 +18,12 @@
                          :A (v15 / label~e.16)
                          :D (v16 / label~e.17)
                          :A (v17 / label
-                                 :E (v23 / label~e.18)
-                                 :E (v24 / label~e.19)
-                                 :C (v25 / label~e.20)
-                                 :E (v26 / label
-                                         :R (v27 / label~e.21)
-                                         :E (v28 / label~e.22)
-                                         :C (v29 / label~e.23)))
+                                 :Q (v23 / label~e.19)
+                                 :C (v24 / label~e.20)
+                                 :E (v25 / label
+                                         :R (v26 / label~e.21)
+                                         :E (v27 / label~e.22)
+                                         :C (v28 / label~e.23)))
                          :P (v18 / label~e.24)))
            :P (v4 / label~e.4)
            :A (v5 / label~e.5)
