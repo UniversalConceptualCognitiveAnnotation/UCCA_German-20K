@@ -22,6 +22,16 @@ Format and Source Code:
 Information about the format of the xml files and source code for reading and manipulating them are
 available at http://www.cs.huji.ac.il/~oabend/ucca.html.
 
+Known Issues:
+-------------
+Sentence 25515002 is [dropped](.travis.yml) when splitting to sentences. It is
+the third sentence in passage [25515](xml/25515.xml) ("Darauf begann er seine
+Erklärung folgendermaßen: ..."), and it has 386 tokens. It comprises several
+sentences, but since they are all inside a quote which is a Participant in a
+top scene, they are not split by the [sentence-splitting
+script](https://github.com/danielhers/ucca/blob/master/scripts/standard_to_sentences.py)
+(since it only splits on top scenes).
+
 
 Licensing:
 ----------
