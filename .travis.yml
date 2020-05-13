@@ -19,7 +19,7 @@ jobs:
     - stage: split
       script:
         - curl $SCRIPTS/split_to_sentences.sh | bash
-        - git rm 25515002.pickle  # Too long - 386 tokens
+        - git rm -f 25515002.pickle  # Too long - 386 tokens
     - stage: convert
       script: curl $SCRIPTS/validate_sentences.sh | bash -s -- --no-linkage
       env: FORMAT=validate
