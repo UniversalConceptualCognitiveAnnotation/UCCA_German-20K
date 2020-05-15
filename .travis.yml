@@ -27,6 +27,8 @@ jobs:
       env: FORMAT=xml
     - script: curl $SCRIPTS/tupa.sh | bash
       env: FORMAT=tupa
+    - script: curl $SCRIPTS/visualize.sh | bash -s "250"
+      env: FORMAT=visualize
     - script: curl $SCRIPTS/visualize.sh | bash -s "254"
       env: FORMAT=visualize
     - script: curl $SCRIPTS/visualize.sh | bash -s "255"
@@ -39,21 +41,21 @@ jobs:
       env: FORMAT=visualize
     - script: curl $SCRIPTS/visualize.sh | bash -s "257[5-9]"
       env: FORMAT=visualize
-    - script: curl $SCRIPTS/visualize.sh | bash -s "258"
-      env: FORMAT=visualize
     - script: curl $SCRIPTS/convert.sh | bash -s $FORMAT
       env: FORMAT=sdp
     - script: curl $SCRIPTS/convert.sh | bash -s $FORMAT
       env: FORMAT=conll
     - script: curl $SCRIPTS/convert.sh | bash -s $FORMAT
       env: FORMAT=conllu
-    - script: curl $SCRIPTS/convert.sh | bash -s $FORMAT "25[0-5]"
+    - script: curl $SCRIPTS/convert.sh | bash -s $FORMAT "250"
+      env: FORMAT=amr
+    - script: curl $SCRIPTS/convert.sh | bash -s $FORMAT "254"
+      env: FORMAT=amr
+    - script: curl $SCRIPTS/convert.sh | bash -s $FORMAT "255"
       env: FORMAT=amr
     - script: curl $SCRIPTS/convert.sh | bash -s $FORMAT "256"
       env: FORMAT=amr
     - script: curl $SCRIPTS/convert.sh | bash -s $FORMAT "257"
-      env: FORMAT=amr
-    - script: curl $SCRIPTS/convert.sh | bash -s $FORMAT "25[8-9]"
       env: FORMAT=amr
     - script: curl $SCRIPTS/convert.sh | bash -s $FORMAT
       env: FORMAT=export
@@ -66,13 +68,15 @@ jobs:
       env: FORMAT=conll
     - script: curl $SCRIPTS/evaluate.sh | bash -s $FORMAT
       env: FORMAT=conllu
-    - script: curl $SCRIPTS/evaluate.sh | bash -s $FORMAT "25[0-5]"
+    - script: curl $SCRIPTS/evaluate.sh | bash -s $FORMAT "250"
+      env: FORMAT=amr
+    - script: curl $SCRIPTS/evaluate.sh | bash -s $FORMAT "254"
+      env: FORMAT=amr
+    - script: curl $SCRIPTS/evaluate.sh | bash -s $FORMAT "255"
       env: FORMAT=amr
     - script: curl $SCRIPTS/evaluate.sh | bash -s $FORMAT "256"
       env: FORMAT=amr
     - script: curl $SCRIPTS/evaluate.sh | bash -s $FORMAT "257"
-      env: FORMAT=amr
-    - script: curl $SCRIPTS/evaluate.sh | bash -s $FORMAT "25[8-9]"
       env: FORMAT=amr
     - script: curl $SCRIPTS/evaluate.sh | bash -s $FORMAT
       env: FORMAT=export
