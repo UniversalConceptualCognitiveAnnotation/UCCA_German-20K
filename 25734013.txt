@@ -1,16 +1,17 @@
 # ::id 25734013
 # ::tok Tausende leuchtender Punkte glänzten inmitten des Dunkels .
-# ::alignments 0-1.1.1.1.1 1-1.1.1.2 2-1.1.1.1.2 3-1.1.2 4-1.1.3.2 5-1.1.3.3 6-1.1.3.4
+# ::alignments 0-1.1.1.1 1-1.1.1.2.2 2-1.1.1.3 3-1.1.2 4-1.1.3.2 5-1.1.3.3 6-1.1.3.4
 # ::format ucca
 (v1 / label
     :H (v2 / label
            :A (v3 / label
-                  :A (v6 / label
-                         :E (v11 / label~e.0)
-                         :C (v12 / label~e.2))
-                  :S (v7 / label~e.1))
+                  :Q (v6 / label~e.0)
+                  :E (v7 / label
+                         :A (v8 / label~e.2)
+                         :S (v12 / label~e.1))
+                  :C v8)
            :S (v4 / label~e.3)
            :A (v5 / label
-                  :R (v8 / label~e.4)
-                  :R (v9 / label~e.5)
-                  :C (v10 / label~e.6))))
+                  :R (v9 / label~e.4)
+                  :R (v10 / label~e.5)
+                  :C (v11 / label~e.6))))

@@ -1,7 +1,16 @@
 # ::id 25746012
-# ::tok Vielleicht .
-# ::alignments 0-1.1.1
+# ::tok Das Tangmeer Die Richtung der ›Nautilus‹ hatte sich nicht geändert .
+# ::alignments 1-1.1.2 3-1.2.2.2.2 4-1.2.2.1.1 5-1.2.2.1.2 7-1.2.4 8-1.2.5 9-1.2.4
 # ::format ucca
 (v1 / label
     :H (v2 / label
-           :S (v3 / label~e.0)))
+           :C (v4 / label~e.1))
+    :H (v3 / label
+           :A (v5 / label
+                  :A (v8 / label
+                         :R (v10 / label~e.4)
+                         :C (v11 / label~e.5))
+                  :P (v9 / label
+                         :C (v12 / label~e.3)))
+           :P (v6 / label~e.7,9)
+           :D (v7 / label~e.8)))

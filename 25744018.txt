@@ -1,26 +1,13 @@
 # ::id 25744018
-# ::tok Raubvögel schweiften und streiften hier und da im Dunkel oder flohen aus ihren Nestern auf Felsenspitzen .
-# ::alignments 0-1.1.1 1-1.1.2.1 2-1.1.2.2 3-1.1.2.3 4-1.1.3 5-1.1.3 6-1.1.3 7-1.1.4.1 8-1.1.4.2 9-1.2 10-1.3.2 11-1.3.3.1 12-1.3.3.2 13-1.3.3.3 14-1.3.4.3 15-1.3.4.1
+# ::tok Es waren Sperber und schreiende Weihe .
+# ::alignments 1-1.1.2 2-1.1.3.1 3-1.1.3.2 4-1.1.3.3.1 5-1.1.3.3.2
 # ::format ucca
 (v1 / label
     :H (v2 / label
-           :A (v5 / label~e.0)
-           :P (v6 / label
-                  :C (v12 / label~e.1)
-                  :N (v13 / label~e.2)
-                  :C (v14 / label~e.3))
-           :A (v7 / label~e.4,5,6)
-           :A (v8 / label
-                  :R (v15 / label~e.7)
-                  :C (v16 / label~e.8)))
-    :L (v3 / label~e.9)
-    :H (v4 / label
-           :A v5
-           :P (v9 / label~e.10)
-           :A (v10 / label
-                   :R (v17 / label~e.11)
-                   :E (v18 / label~e.12)
-                   :C (v19 / label~e.13))
-           :A (v11 / label
-                   :C (v20 / label~e.15)
-                   :R (v21 / label~e.14))))
+           :S (v3 / label~e.1)
+           :A (v4 / label
+                  :C (v5 / label~e.2)
+                  :N (v6 / label~e.3)
+                  :C (v7 / label
+                         :S (v8 / label~e.4)
+                         :A (v9 / label~e.5)))))

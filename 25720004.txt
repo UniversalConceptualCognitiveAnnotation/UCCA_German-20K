@@ -1,45 +1,41 @@
 # ::id 25720004
 # ::tok Nun ist aber dem nicht so , und hieraus hat man geschlossen , dass in tieferen Schichten eine Gegenströmung den Überschuß der Mittelmeer gewässer durch die Enge von Gibraltar wieder in das Atlan-tische Becken führe .
-# ::alignments 2-1.2 3-1.1.3 4-1.1.4 5-1.1.5 7-1.3 8-1.4.5 10-1.4.1 11-1.4.2 13-1.4.3.1 14-1.4.3.2.1 15-1.4.3.2.2 16-1.4.3.2.3 17-1.4.3.3.1 18-1.4.3.3.2 19-1.4.3.4.1 20-1.4.3.4.2 21-1.4.3.4.3.1 22-1.4.3.4.3.2 23-1.4.3.4.3.3 24-1.4.3.5.1 25-1.4.3.5.2.1 26-1.4.3.5.2.2 27-1.4.3.5.3 28-1.4.3.5.4 29-1.4.3.6 30-1.4.3.7.1 31-1.4.3.7.2 32-1.4.3.7.3 33-1.4.3.7.4 34-1.4.3.8
+# ::alignments 2-1.2 3-1.1.3 4-1.1.4 5-1.1.5 7-1.3 8-1.4 10-1.5.1 11-1.5.2 13-1.5.3.1 14-1.5.3.2.1 15-1.5.3.2.2 16-1.5.3.2.3 18-1.5.3.3.2 20-1.5.3.4.2 21-1.5.3.4.3.1 22-1.5.3.4.3.2 23-1.5.3.4.3.3 24-1.5.3.5.1 26-1.5.3.5.2.2 27-1.5.3.5.3 28-1.5.3.5.4 29-1.5.3.6 30-1.5.3.7.1 32-1.5.3.7.3 33-1.5.3.7.4 34-1.5.3.8
 # ::format ucca
 (v1 / label
     :H (v2 / label
-           :A (v6 / label~e.3)
-           :D (v7 / label~e.4)
-           :S (v8 / label~e.5))
+           :A (v7 / label~e.3)
+           :D (v8 / label~e.4)
+           :S (v9 / label~e.5))
     :L (v3 / label~e.2)
     :L (v4 / label~e.7)
-    :H (v5 / label
-           :A (v9 / label~e.10)
-           :S (v10 / label~e.11)
-           :A (v11 / label
+    :L (v5 / label~e.8)
+    :H (v6 / label
+           :A (v10 / label~e.10)
+           :S (v11 / label~e.11)
+           :A (v12 / label
                    :R (v13 / label~e.13)
                    :A (v14 / label
                            :R (v21 / label~e.14)
                            :E (v22 / label~e.15)
                            :C (v23 / label~e.16))
                    :A (v15 / label
-                           :E (v24 / label~e.17)
-                           :C (v25 / label~e.18))
+                           :C (v24 / label~e.18))
                    :A (v16 / label
-                           :E (v26 / label~e.19)
-                           :C (v27 / label~e.20)
-                           :E (v28 / label
-                                   :R (v37 / label~e.21)
-                                   :E (v38 / label~e.22)
-                                   :C (v39 / label~e.23)))
+                           :C (v25 / label~e.20)
+                           :E (v26 / label
+                                   :R (v34 / label~e.21)
+                                   :E (v35 / label~e.22)
+                                   :C (v36 / label~e.23)))
                    :A (v17 / label
-                           :R (v29 / label~e.24)
-                           :E (v30 / label
-                                   :E (v40 / label~e.25)
-                                   :C (v41 / label~e.26))
-                           :R (v31 / label~e.27)
-                           :C (v32 / label~e.28))
+                           :R (v27 / label~e.24)
+                           :E (v28 / label
+                                   :C (v37 / label~e.26))
+                           :R (v29 / label~e.27)
+                           :C (v30 / label~e.28))
                    :D (v18 / label~e.29)
                    :A (v19 / label
-                           :R (v33 / label~e.30)
-                           :E (v34 / label~e.31)
-                           :C (v35 / label~e.32)
-                           :E (v36 / label~e.33))
-                   :P (v20 / label~e.34))
-           :A (v12 / label~e.8)))
+                           :R (v31 / label~e.30)
+                           :C (v32 / label~e.32)
+                           :E (v33 / label~e.33))
+                   :P (v20 / label~e.34))))

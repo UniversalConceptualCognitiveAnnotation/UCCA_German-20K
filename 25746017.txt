@@ -1,13 +1,22 @@
 # ::id 25746017
-# ::tok Kapitän Nemo steuerte gerade südwärts .
-# ::alignments 0-1.1.1.2 1-1.1.1.1 2-1.1.2 3-1.1.3.2 4-1.1.3.3
+# ::tok An diesem Tag fuhr die ›Nautilus‹ durch einen ansehnlichen Teil des Atlantiks .
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.3 3-1.1.2 5-1.1.3.2 6-1.1.4.4 8-1.1.4.1.2 9-1.1.4.2 10-1.1.4.3.1 11-1.1.4.3.2
 # ::format ucca
 (v1 / label
     :H (v2 / label
-           :A (v3 / label
-                  :C (v6 / label~e.1)
-                  :E (v7 / label~e.0))
-           :P (v4 / label~e.2)
-           :D (v5 / label
-                  :E (v8 / label~e.3)
-                  :C (v9 / label~e.4))))
+           :T (v3 / label
+                  :R (v7 / label~e.0)
+                  :E (v8 / label~e.1)
+                  :C (v9 / label~e.2))
+           :P (v4 / label~e.3)
+           :A (v5 / label
+                  :C (v10 / label~e.5))
+           :A (v6 / label
+                  :E (v11 / label
+                          :A (v12 / label~e.9)
+                          :S (v15 / label~e.8))
+                  :C v12
+                  :E (v13 / label
+                          :R (v16 / label~e.10)
+                          :C (v17 / label~e.11))
+                  :R (v14 / label~e.6))))

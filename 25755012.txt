@@ -1,15 +1,57 @@
 # ::id 25755012
-# ::tok Gegen drei Mann ist dies zu viel ! « brummte Conseil . »
-# ::alignments 0-1.1.5.1.1 1-1.1.5.1.2 2-1.1.5.1.3 4-1.1.5.3 5-1.1.5.4 6-1.1.5.4 9-1.1.6 10-1.1.7
+# ::tok Trotzdem « , fuhr er fort , » kann der Kapitän nicht immerfort südwärts fahren ! Er muß wohl einmal einhalten , sei es auch nur vor den Eisbergen , und muß in mehr kultivierte Meere zurückkehren ! Dann wird es Zeit sein , Ned Lands Projekte wieder vorzunehmen ! «
+# ::alignments 0-1.1.1.1 3-1.1.2 4-1.1.6 5-1.1.2 8-1.1.1.2.1 10-1.1.1.2.2.2.1 11-1.1.1.2.3 12-1.1.1.2.4 13-1.1.1.2.5 14-1.1.1.2.6 16-1.1.1.3.1 17-1.1.1.3.2 18-1.1.1.3.3 19-1.1.1.3.4 20-1.1.1.3.5 22-1.1.1.4.1 23-1.1.1.4.2 24-1.1.1.4.3 25-1.1.1.4.4 26-1.1.1.4.5.1 28-1.1.1.4.5.3 30-1.1.1.5 31-1.1.1.6.1 32-1.1.1.6.2.1 33-1.1.1.6.2.2.2 34-1.1.1.6.2.2.3 35-1.1.1.6.2.3 36-1.1.1.6.3 38-1.1.1.7 41-1.1.1.8.3.1 42-1.1.1.8.4 44-1.1.1.8.3.2.2.1 45-1.1.1.8.3.2.2.1 46-1.1.1.8.3.2.2.2 47-1.1.1.8.3.2.3 48-1.1.1.8.3.2.4
 # ::format ucca
 (v1 / label
     :H (v2 / label
            :A (v3 / label
-                  :A (v6 / label
-                         :R (v9 / label~e.0)
-                         :E (v10 / label~e.1)
-                         :C (v11 / label~e.2))
-                  :A (v7 / label~e.4)
-                  :S (v8 / label~e.5,6))
-           :P (v4 / label~e.9)
-           :A (v5 / label~e.10)))
+                  :L (v6 / label~e.0)
+                  :H (v7 / label
+                         :D (v14 / label~e.8)
+                         :A (v15 / label
+                                 :C (v35 / label
+                                         :S (v43 / label~e.10)))
+                         :D (v16 / label~e.11)
+                         :D (v17 / label~e.12)
+                         :D (v18 / label~e.13)
+                         :P (v19 / label~e.14))
+                  :H (v8 / label
+                         :A (v20 / label~e.16)
+                         :D (v21 / label~e.17)
+                         :G (v22 / label~e.18)
+                         :T (v23 / label~e.19)
+                         :P (v24 / label~e.20))
+                  :H (v9 / label
+                         :S (v25 / label~e.22)
+                         :A (v26 / label~e.23)
+                         :D (v27 / label~e.24)
+                         :D (v28 / label~e.25)
+                         :A (v29 / label
+                                 :R (v36 / label~e.26)
+                                 :C (v37 / label~e.28)))
+                  :L (v10 / label~e.30)
+                  :H (v11 / label
+                          :D (v30 / label~e.31)
+                          :A (v31 / label
+                                  :R (v38 / label~e.32)
+                                  :E (v39 / label
+                                          :A (v40 / label~e.35)
+                                          :D (v44 / label~e.33)
+                                          :S (v45 / label~e.34))
+                                  :C v40)
+                          :P (v32 / label~e.36)
+                          :A v20)
+                  :L (v12 / label~e.38)
+                  :H (v13 / label
+                          :A (v33 / label
+                                  :C (v41 / label~e.41)
+                                  :E (v42 / label
+                                          :A (v46 / label)
+                                          :A (v47 / label
+                                                  :E (v50 / label~e.44,45)
+                                                  :C (v51 / label~e.46))
+                                          :D (v48 / label~e.47)
+                                          :P (v49 / label~e.48)))
+                          :S (v34 / label~e.42)))
+           :P (v4 / label~e.3,5)
+           :A (v5 / label~e.4)))

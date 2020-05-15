@@ -1,6 +1,6 @@
 # ::id 25725032
 # ::tok Kein Signal vom Kanadier war zu vernehmen .
-# ::alignments 0-1.1.3 1-1.1.4.1 2-1.1.4.2.1 3-1.1.4.2.2 6-1.1.7
+# ::alignments 0-1.1.3 1-1.1.4.1 2-1.1.4.2.1 3-1.1.4.2.2.1 6-1.1.7
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -10,5 +10,6 @@
                   :P (v7 / label~e.1)
                   :A (v8 / label
                          :R (v9 / label~e.2)
-                         :C (v10 / label~e.3)))
+                         :C (v10 / label
+                                 :A (v11 / label~e.3))))
            :P (v6 / label~e.6)))
