@@ -1,15 +1,42 @@
 # ::id 25437018
-# ::tok Wie es meinem Herrn gefällt . «
-# ::alignments 0-1.1.3.5 1-1.1.3.6 2-1.1.3.1.1 3-1.1.3.1.2 4-1.1.3.2
+# ::tok Conseil hatte es in einem Griff gemacht , und ich war sicher , dass nichts mangelte , denn der Junge verstand die Hemden und Kleider ebenso gut zu ordnen wie die Vögel und Säugetiere .
+# ::alignments 0-1.1.1 2-1.1.3 3-1.1.4 4-1.1.4 5-1.1.4 6-1.1.5 8-1.2 9-1.3.1 11-1.3.3 13-1.3.4.1 14-1.3.4.2 15-1.3.4.3 17-1.4 19-1.5.1.2 20-1.5.2 22-1.5.3.2.1 23-1.5.3.2.2 24-1.5.3.2.3 25-1.5.4.1 26-1.5.4.2 28-1.5.6 29-1.6 31-1.7.1.2.1 32-1.7.1.2.2 33-1.7.1.2.3
 # ::format ucca
 (v1 / label
     :H (v2 / label
-           :P (v3 / label)
-           :A (v4 / label)
-           :A (v5 / label
-                  :A (v6 / label
-                         :E (v10 / label~e.2)
-                         :C (v11 / label~e.3))
-                  :P (v7 / label~e.4)
-                  :D (v8 / label~e.0)
-                  :A (v9 / label~e.1))))
+           :A (v9 / label~e.0)
+           :A (v10 / label~e.2)
+           :D (v11 / label~e.3,4,5)
+           :P (v12 / label~e.6))
+    :L (v3 / label~e.8)
+    :H (v4 / label
+           :A (v13 / label~e.9)
+           :S (v14 / label~e.11)
+           :A (v15 / label
+                   :R (v22 / label~e.13)
+                   :A (v23 / label~e.14)
+                   :P (v24 / label~e.15)))
+    :L (v5 / label~e.17)
+    :H (v6 / label
+           :A (v16 / label
+                   :C (v25 / label~e.19))
+           :D (v17 / label~e.20)
+           :A (v18 / label
+                   :C (v26 / label
+                           :C (v30 / label~e.22)
+                           :N (v31 / label~e.23)
+                           :C (v32 / label~e.24)))
+           :D (v19 / label
+                   :E (v27 / label~e.25)
+                   :C (v28 / label~e.26))
+           :P (v20 / label~e.28))
+    :L (v7 / label~e.29)
+    :H (v8 / label
+           :A (v21 / label
+                   :C (v29 / label
+                           :C (v33 / label~e.31)
+                           :N (v34 / label~e.32)
+                           :C (v35 / label~e.33)))
+           :A v16
+           :D v17
+           :P v20))

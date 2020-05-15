@@ -1,33 +1,38 @@
 # ::id 25584006
 # ::tok Nach einem Abend essen , das mir der Steward stumm und mit gleichgültiger Miene auftrug , schlief ich ein , nicht ohne einige Befangenheit .
-# ::alignments 0-1.1.3.1 1-1.1.3.2 2-1.1.3.3 3-1.1.3.4 5-1.1.3.5.2 6-1.1.3.5.3 7-1.1.3.5.4.1 8-1.1.3.5.4.2 9-1.1.3.5.5.1 10-1.1.3.5.5.2 11-1.1.3.5.5.3.1 12-1.1.3.5.5.3.2 13-1.1.3.5.5.3.3 14-1.1.3.5.6 16-1.1.4 17-1.1.5 18-1.1.4 20-1.1.6 21-1.1.7 22-1.1.8.1 23-1.1.8.2
+# ::alignments 0-1.1 2-1.2.2.2 3-1.2.2.3 5-1.2.2.4.2 6-1.2.2.4.3 8-1.2.2.4.4.1.2 9-1.2.2.4.5.1 10-1.2.2.4.5.2 11-1.2.2.4.5.3.1 12-1.2.2.4.5.3.2.2 13-1.2.2.4.5.3.3 14-1.2.2.4.6 16-1.3.1 17-1.3.2 18-1.3.1 20-1.4.1 21-1.4.2 22-1.5.1 23-1.5.2
 # ::format ucca
 (v1 / label
-    :H (v2 / label
-           :A (v3 / label
-                  :R (v9 / label~e.0)
-                  :E (v10 / label~e.1)
-                  :E (v11 / label~e.2)
-                  :C (v12 / label~e.3)
-                  :E (v13 / label
-                          :A v12
-                          :R (v16 / label~e.5)
-                          :A (v17 / label~e.6)
-                          :A (v18 / label
-                                  :E (v21 / label~e.7)
-                                  :C (v22 / label~e.8))
-                          :D (v19 / label
-                                  :C (v23 / label~e.9)
-                                  :N (v24 / label~e.10)
-                                  :C (v25 / label
-                                          :R (v26 / label~e.11)
-                                          :E (v27 / label~e.12)
-                                          :C (v28 / label~e.13)))
-                          :P (v20 / label~e.14)))
-           :P (v4 / label~e.16,18)
-           :A (v5 / label~e.17)
-           :D (v6 / label~e.20)
-           :D (v7 / label~e.21)
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :P (v7 / label)
            :A (v8 / label
-                  :E (v14 / label~e.22)
-                  :C (v15 / label~e.23))))
+                  :E (v15 / label~e.2)
+                  :C (v16 / label~e.3)
+                  :E (v17 / label
+                          :A v16
+                          :R (v18 / label~e.5)
+                          :A (v19 / label~e.6)
+                          :A (v20 / label
+                                  :A (v23 / label
+                                          :C (v27 / label~e.8)))
+                          :D (v21 / label
+                                  :C (v24 / label~e.9)
+                                  :N (v25 / label~e.10)
+                                  :C (v26 / label
+                                          :R (v28 / label~e.11)
+                                          :E (v29 / label
+                                                  :A (v30 / label~e.13)
+                                                  :S (v31 / label~e.12))
+                                          :C v30))
+                          :P (v22 / label~e.14))))
+    :H (v4 / label
+           :P (v9 / label~e.16,18)
+           :A (v10 / label~e.17))
+    :L (v5 / label
+           :C (v11 / label~e.20)
+           :C (v12 / label~e.21))
+    :H (v6 / label
+           :D (v13 / label~e.22)
+           :S (v14 / label~e.23)
+           :A v10))

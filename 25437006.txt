@@ -1,17 +1,28 @@
 # ::id 25437006
-# ::tok Und des Herrn Sammlungen ? « bemerkte Conseil . »
-# ::alignments 0-1.1.5.1 1-1.1.5.2.3.1 2-1.1.5.2.3.2 3-1.1.5.2.3.3 6-1.1.6 7-1.1.7
+# ::tok Wie ? Die Archiotherium , Hyracotherium , Oreodon , die Cheropotamus und andere Gerippe meines Herrn ? « »
+# ::alignments 0-1.1.2.2.2 3-1.1.2.3.2.1.2 5-1.1.2.3.2.2 7-1.1.2.3.2.3 10-1.1.2.3.2.4.2 11-1.1.2.3.2.5 12-1.1.2.3.2.6.1 13-1.1.2.3.2.6.2 14-1.1.2.3.2.6.3.2 15-1.1.2.3.2.6.3.3
 # ::format ucca
 (v1 / label
     :H (v2 / label
-           :A (v3 / label
-                  :L (v6 / label~e.0)
-                  :H (v7 / label
-                         :A (v8 / label)
+           :S (v3 / label)
+           :A (v4 / label
+                  :H (v5 / label
+                         :P (v7 / label)
+                         :D (v8 / label~e.0))
+                  :H (v6 / label
                          :P (v9 / label)
                          :A (v10 / label
-                                 :R (v11 / label~e.1)
-                                 :E (v12 / label~e.2)
-                                 :C (v13 / label~e.3))))
-           :P (v4 / label~e.6)
-           :A (v5 / label~e.7)))
+                                 :C (v11 / label
+                                         :C (v17 / label~e.3))
+                                 :C (v12 / label~e.5)
+                                 :C (v13 / label~e.7)
+                                 :C (v14 / label
+                                         :C (v18 / label~e.10))
+                                 :N (v15 / label~e.11)
+                                 :C (v16 / label
+                                         :E (v19 / label~e.12)
+                                         :C (v20 / label~e.13)
+                                         :E (v21 / label
+                                                 :A v20
+                                                 :S (v22 / label~e.14)
+                                                 :A (v23 / label~e.15))))))))

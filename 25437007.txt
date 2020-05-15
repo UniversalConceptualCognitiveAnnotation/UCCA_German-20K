@@ -1,13 +1,15 @@
 # ::id 25437007
-# ::tok Man wird sich später damit befassen . « »
-# ::alignments 0-1.1.3.8 2-1.1.3.2 3-1.1.3.3 4-1.1.3.4 5-1.1.3.2
+# ::tok Man wird sie im Hotel aufheben . « »
+# ::alignments 0-1.1.3.8 2-1.1.3.2 3-1.1.3.3.1 4-1.1.3.3.2 5-1.1.3.4
 # ::format ucca
 (v1 / label
     :H (v2 / label
-           :P (v3 / label)
-           :A (v4 / label)
+           :A (v3 / label)
+           :P (v4 / label)
            :A (v5 / label
-                  :P (v6 / label~e.2,5)
-                  :T (v7 / label~e.3)
-                  :A (v8 / label~e.4)
+                  :A (v6 / label~e.2)
+                  :A (v7 / label
+                         :R (v10 / label~e.3)
+                         :C (v11 / label~e.4))
+                  :P (v8 / label~e.5)
                   :A (v9 / label~e.0))))
