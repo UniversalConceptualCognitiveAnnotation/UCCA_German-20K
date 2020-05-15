@@ -1,18 +1,59 @@
 # format = ucca
-1	Da	_	Word	-	-	_	_	_	_	F
-2	finden	_	Word	-	+	_	_	_	_	D
-3	sich	_	Word	-	-	_	Terminal	_	_	_
-4	wenigstens	_	Word	-	-	_	_	_	_	D
-5	«	_	Punctuation	-	-	_	_	U	_	_
-6	,	_	Punctuation	-	-	_	_	U	_	_
-7	fragte	_	Word	-	+	_	_	_	_	_
-8	ich	_	Word	-	-	_	_	A	_	_
-9	,	_	Punctuation	-	-	_	_	U	_	_
-10	»	_	Punctuation	-	-	_	_	U	_	_
-11	diese	_	Word	-	-	_	_	_	E	_
-12	Fischer	_	Word	-	+	_	_	_	_	A
-13	hinreichend	_	Word	-	-	_	_	_	_	D
-14	belohnt	_	Word	-	+	_	_	A	_	_
-15	.	_	Punctuation	-	-	_	_	_	_	U
-16	«	_	Punctuation	-	-	_	_	_	_	U
+1	Da	_	Word	-	-	_	_	_	_	F	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	finden	_	Word	-	+	_	_	_	_	D	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	sich	_	Word	-	-	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	wenigstens	_	Word	-	-	_	_	_	_	D	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	«	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	fragte	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	ich	_	Word	-	-	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	»	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	diese	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	Fischer	_	Word	-	+	_	_	_	_	_	A*	_	_	_	_	_	_	_	_	_	_	_	_	_
+13	hinreichend	_	Word	-	-	_	_	_	_	D	D*	_	_	_	_	_	_	_	_	_	_	_	_	_
+14	belohnt	_	Word	-	+	_	_	_	_	_	P*	_	_	_	_	_	_	_	_	_	_	_	_	_
+15	.	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
+16	«	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
+17	»	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
+18	Schwerlich	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+19	,	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
+20	Herr	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_
+21	Professor	_	Word	-	+	_	_	_	_	_	G	_	_	_	_	_	_	_	_	_	_	_	_	_
+22	.	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
+23	Zu	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_
+24	Panama	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_
+25	verdienen	_	Word	-	+	_	_	_	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_
+26	sie	_	Word	-	-	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_
+27	nur	_	Word	-	-	_	_	_	_	_	_	_	_	D	_	_	_	_	_	_	_	_	_	_
+28	einen	_	Word	-	-	_	_	_	_	_	_	_	_	_	Q	_	_	_	_	_	_	_	_	_
+29	Dollar	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_
+30	die	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	F	_	_	_	_	_	_	_	_
+31	Woche	_	Word	-	+	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_
+32	.	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
+33	Meistens	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	T	_	_	_	_	_	_	_
+34	bekommen	_	Word	-	+	_	_	_	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_
+35	sie	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_
+36	nur	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	D	_	_	_	_	_	_	_
+37	einen	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	Q	_	_	_	_	_	_
+38	Sou	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_
+39	für	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_
+40	die	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	F	_	_	_	_	_
+41	Muschel	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	C*	_	_	A*
+42	mit	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_
+43	einer	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	F	_	_	_	_
+44	Perle	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	C*	_
+45	,	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
+46	und	_	Word	-	-	_	_	_	_	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_
+47	wie	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_
+48	viele	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	C	_	_	_
+49	bringen	_	Word	-	+	_	_	_	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_
+50	Sie	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_
+51	herauf	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_
+52	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_
+53	die	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R
+54	keine	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	D
+55	enthalten	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_
+56	!	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+57	«	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
 

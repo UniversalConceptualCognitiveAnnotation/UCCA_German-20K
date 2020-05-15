@@ -1,19 +1,41 @@
 # format = ucca
-1	»	_	Punctuation	-	-	_	U	_	_	_
-2	Also	_	Word	-	-	_	L	_	_	_
-3	,	_	Punctuation	-	-	_	U	_	_	_
-4	wie	_	Word	-	-	_	L	_	_	_
-5	ich	_	Word	-	-	_	A	_	_	_
-6	es	_	Word	-	-	_	F	_	_	_
-7	voraussah	_	Word	-	+	_	_	_	_	_
-8	,	_	Punctuation	-	-	_	U	_	_	_
-9	ist	_	Word	-	-	_	_	_	_	F
-10	der	_	Word	-	-	_	_	E	_	_
-11	Mann	_	Word	-	+	_	_	_	_	A
-12	in	_	Word	-	-	_	_	_	R	_
-13	der	_	Word	-	-	_	_	_	E	_
-14	Nacht	_	Word	-	+	_	_	_	_	A
-15	gestorben	_	Word	-	+	_	A	_	_	_
-16	?	_	Punctuation	-	-	_	_	_	_	U
-17	«	_	Punctuation	-	-	_	_	_	_	U
+1	Und	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_	_
+2	nun	_	Word	-	-	_	T	_	_	_	_	_	_	_	_	_	_	_	_
+3	ruht	_	Word	-	+	_	_	_	_	S*	_	_	_	_	_	_	_	_	_
+4	er	_	Word	-	-	_	A	_	_	A*	A*	_	A*	_	_	_	_	_	_
+5	bei	_	Word	-	-	_	_	R	_	_	_	_	_	_	_	_	_	_	_
+6	seinen	_	Word	-	+	_	A	_	_	A*	_	_	_	_	_	_	_	_	_
+7	Genossen	_	Word	-	-	_	_	A	_	_	_	_	_	_	_	_	_	_	_
+8	auf	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_	_	_	_
+9	dem	_	Word	-	-	_	_	_	F	_	_	_	_	_	_	_	_	_	_
+10	Korallen	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_	_	_
+11	friedhof	_	Word	-	+	_	_	E	_	_	_	_	_	_	_	_	_	_	_
+12	?	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_	_
+13	«	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_	_
+14	»	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_	_
+15	Ja	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_
+16	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_	_
+17	vergessen	_	Word	-	+	_	_	_	_	H	_	_	_	_	_	_	_	_	_
+18	von	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_	_	_	_
+19	der	_	Word	-	-	_	_	_	_	_	_	F	_	_	_	_	_	_	_
+20	Welt	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_	_	_
+21	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_	_
+22	außer	_	Word	-	-	_	_	_	_	L	_	_	D*	_	_	_	_	_	_
+23	uns	_	Word	-	+	_	_	_	_	H	_	_	_	_	_	_	_	_	_
+24	!	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_	_
+25	Wir	_	Word	-	-	_	_	_	_	_	_	_	_	A	_	_	_	_	_
+26	graben	_	Word	-	+	_	_	_	_	H	_	_	_	_	_	_	_	_	_
+27	das	_	Word	-	-	_	_	_	_	_	_	_	_	_	F	_	_	_	_
+28	Grab	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_	_	_
+29	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_	_
+30	und	_	Word	-	-	_	_	_	_	L	_	_	_	_	_	_	_	_	_
+31	die	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	F	_	_	_
+32	Polypen	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A	_	_
+33	bestatten	_	Word	-	+	_	_	_	_	H	_	_	_	_	_	_	_	_	_
+34	unsere	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E	_
+35	Toten	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A	_	_
+36	für	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	R
+37	ewig	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	T	_	_
+38	!	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+39	«	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	U
 

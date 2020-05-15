@@ -1,11 +1,49 @@
 # format = ucca
-1	»	_	Punctuation	-	-	_	U
-2	Meilenweit	_	Word	-	-	_	A
-3	«	_	Punctuation	-	-	_	U
-4	,	_	Punctuation	-	-	_	U
-5	rief	_	Word	-	+	_	_
-6	Conseil	_	Word	-	-	_	A
-7	aus	_	Word	-	-	_	Terminal
-8	.	_	Punctuation	-	-	_	U
-9	»	_	Punctuation	-	-	_	U
+1	Ja	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_
+3	mein	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_	_	_
+4	Junge	_	Word	-	+	_	G	_	_	_	_	_	_	_	_	_	_	_	_
+5	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_
+6	und	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_	_
+7	gib	_	Word	-	-	_	_	_	F	_	_	_	_	_	_	_	_	_	_
+8	dir	_	Word	-	-	_	_	_	A	_	_	_	_	_	_	_	_	_	_
+9	nicht	_	Word	-	-	_	_	_	D	_	_	_	_	_	_	_	_	_	_
+10	die	_	Word	-	-	_	_	_	F	_	_	_	_	_	_	_	_	_	_
+11	Mühe	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_
+12	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_
+13	die	_	Word	-	-	_	_	_	_	F	_	_	_	_	_	_	_	_	_
+14	Zahl	_	Word	-	+	_	_	_	_	_	E	_	_	_	_	_	_	_	_
+15	dieser	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_	_	_	_
+16	Tierchen	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_	_	_
+17	auszurechnen	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_	_	_
+18	!	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_
+19	Du	_	Word	-	-	_	_	_	_	_	_	_	A	_	_	_	_	_	_
+20	würdest	_	Word	-	-	_	_	_	_	_	_	_	D	_	_	_	_	_	_
+21	es	_	Word	-	-	_	_	_	_	_	_	_	A	_	_	_	_	_	_
+22	nicht	_	Word	-	-	_	_	_	_	_	_	_	D	_	_	_	_	_	_
+23	fertigbringen	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_
+24	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_
+25	denn	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_	_
+26	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_
+27	irre	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_
+28	ich	_	Word	-	-	_	_	_	_	_	_	_	_	A	_	_	_	_	_
+29	nicht	_	Word	-	-	_	_	_	_	_	_	_	_	D	_	_	_	_	_
+30	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_
+31	so	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_	_
+32	sind	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	F
+33	manche	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_	_
+34	See	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_	_
+35	fahrer	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	A
+36	mehr	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	D	_	_
+37	als	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	F	_	_
+38	40	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	Q	_	_	_
+39	Meilen	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A	_	_
+40	weit	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	A
+41	über	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	R	_
+42	solche	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E	_
+43	Milch	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E	_
+44	meere	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	A
+45	gefahren	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_
+46	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+47	«	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	U
 

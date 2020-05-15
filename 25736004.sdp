@@ -1,13 +1,57 @@
 # format = ucca
-1	Wie	_	Word	-	-	_	R	_	_	_
-2	ein	_	Word	-	-	_	E	_	_	_
-3	Blitzstrahl	_	Word	-	+	_	_	A	_	_
-4	fuhr	_	Word	-	+	_	_	_	_	_
-5	mir	_	Word	-	-	_	_	A	_	_
-6	ein	_	Word	-	-	_	_	_	E	_
-7	Gedanke	_	Word	-	+	_	_	A	_	_
-8	durch	_	Word	-	-	_	_	_	_	R
-9	den	_	Word	-	-	_	_	_	_	E
-10	Kopf	_	Word	-	+	_	_	A	_	_
-11	!	_	Punctuation	-	-	_	_	_	_	U
+1	Die	_	Word	-	-	_	F	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	alte	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	Atlantis	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_
+4	Platons	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_
+6	das	_	Word	-	-	_	_	_	F	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	einst	_	Word	-	-	_	_	T	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	versunkene	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_
+9	Festland	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	dessen	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	Dasein	_	Word	-	-	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_
+13	eine	_	Word	-	-	_	_	_	_	F	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+14	Menge	_	Word	-	+	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+15	Gelehrter	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	A*	_	_	_	_	_	_	_	_	_	_
+16	von	_	Word	-	+	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+17	Origenes	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_
+18	an	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+19	bis	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+20	Humboldt	_	Word	-	+	_	_	_	_	_	_	_	C	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+21	geleugnet	_	Word	-	+	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+22	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+23	sein	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_
+24	Verschwinden	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_
+25	unter	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_
+26	die	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	F	_	_	_	_	_	_	_	_	_	_	_
+27	Märchen	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_
+28	gerechnet	_	Word	-	+	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+29	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+30	von	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_
+31	anderen	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_
+32	nicht	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	D	_	_	_	_
+33	minder	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_
+34	großen	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_
+35	Gelehrten	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_
+36	von	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_
+37	Plinius	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_
+38	bis	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_
+39	Buffon	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	C	_	_	_	_	_	_
+40	anerkannt	_	Word	-	+	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+41	wurde	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	F	_	_	_	_
+42	-	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_
+43	hier	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	D	_	_	_
+44	lag	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+45	es	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_
+46	vor	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_
+47	meinen	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_
+48	Augen	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_
+49	mit	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_
+50	den	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	F	_
+51	unverwerflichen	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_
+52	Zeugnissen	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_
+53	seines	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R
+54	Hinabsinkens	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_
+55	!	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
 

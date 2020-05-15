@@ -1,39 +1,31 @@
 # format = ucca
-1	Die	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_
-2	kleinen	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_
-3	Tierchen	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_	_
-4	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_
-5	die	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_	_	_
-6	diese	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_	_
-7	Polypengehäuse	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_	_	_
-8	durch	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_	_	_
-9	Absonderung	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_	_	_
-10	bilden	_	Word	-	+	_	E	_	_	_	_	_	_	_	_	_	_	_
-11	,	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_	_
-12	leben	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
-13	zu	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_	_	_
-14	Milliarden	_	Word	-	+	_	_	_	_	_	D	_	_	_	_	_	_	_
-15	im	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_
-16	Innern	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_	_
-17	ihrer	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_	_
-18	Zellen	_	Word	-	+	_	_	_	_	_	_	_	E	_	_	_	_	_
-19	,	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_	_
-20	und	_	Word	-	-	_	_	_	_	_	L	_	_	_	_	_	_	_
-21	was	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	A	_	_
-22	sie	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	A	_	_
-23	an	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_	_	_
-24	Kalk	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_
-25	gebilden	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A	_	_
-26	absetzen	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A	_
-27	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U	_
-28	wird	_	Word	-	+	_	_	_	_	_	H	_	_	_	_	_	_	_
-29	zu	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	R
-30	Felsen	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A	_
-31	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U
-32	Riffen	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	C
-33	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U
-34	Eilanden	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	C
-35	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U
-36	Inseln	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	C
-37	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U
+1	An	_	Word	-	-	_	R	_	_	_	_	_	_	_	_
+2	anderen	_	Word	-	-	_	E	_	_	_	_	_	_	_	_
+3	Stellen	_	Word	-	+	_	_	_	_	A	_	_	_	_	_
+4	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_
+5	wie	_	Word	-	-	_	_	D	_	_	_	_	_	_	_
+6	bei	_	Word	-	-	_	_	R	_	_	_	_	_	_	_
+7	Réunion	_	Word	-	+	_	E	_	_	_	_	_	_	_	_
+8	und	_	Word	-	-	_	_	N	_	_	_	_	_	_	_
+9	St	_	Word	-	+	_	_	C	_	_	_	_	_	_	_
+10	.	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_
+11	Moritz	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_
+12	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_
+13	errichten	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
+14	sie	_	Word	-	-	_	_	_	_	A	_	_	_	_	_
+15	ausgezackte	_	Word	-	-	_	_	_	_	_	E	_	_	_	_
+16	Riffe	_	Word	-	+	_	_	_	_	A	_	_	_	_	_
+17	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_
+18	hohe	_	Word	-	-	_	_	_	_	_	_	_	E	_	_
+19	,	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_
+20	gerad	_	Word	-	-	_	_	_	_	_	_	D	_	_	_
+21	aufgebaute	_	Word	-	+	_	_	_	_	_	_	_	E	_	_
+22	Fels	_	Word	-	-	_	_	_	_	_	_	_	E	_	_
+23	wände	_	Word	-	+	_	_	_	_	A	_	_	_	_	_
+24	neben	_	Word	-	-	_	_	_	_	_	_	_	_	R	_
+25	unergründlichen	_	Word	-	-	_	_	_	_	_	_	_	_	D	_
+26	Tiefen	_	Word	-	+	_	_	_	_	A	_	_	_	_	_
+27	des	_	Word	-	-	_	_	_	_	_	_	_	_	_	R
+28	Ozeans	_	Word	-	+	_	_	_	_	_	_	_	_	E	_
+29	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
 
