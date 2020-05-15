@@ -1,1 +1,1 @@
-perl -pe 's/\r?\n/ /' Verne__20000_Meilen.txt | perl -pe 's/\s*\d+. KAPITEL//g;s/(?!<Corpus)-\s*.—\s*\d+\s*—\s*//g;s/\s*.—\s*\d+\s*—//g' | perl -p replacements.pl > 20K_full_version_German_oneline.txt
+perl -pe 's/\r?\n/ /' Verne__20000_Meilen.txt | perl -pe 's/\s*\d+. KAPITEL//g;s/(?!<Corpus)-\s*.—\s*\d+\s*—\s*//g;s/\s*.—\s*\d+\s*—//g' | perl -p scripts/replacements.pl > 20K_full_version_German_oneline.txt
