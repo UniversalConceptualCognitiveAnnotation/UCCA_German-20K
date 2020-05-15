@@ -1,16 +1,14 @@
 # ::id 25640013
 # ::tok Tausend Teufel ! « schrie er auf . » Ich bin vom Blitz getroffen ! «
-# ::alignments 0-1.1.5.1 1-1.1.5.1 4-1.1.6 5-1.1.7 6-1.1.6 9-1.1.5.2.1 11-1.1.5.2.3.1 12-1.1.5.2.3.2 13-1.1.5.2.4
+# ::alignments 4-1.1.6 5-1.1.7 6-1.1.6 9-1.1.5.2 11-1.1.5.4.1 12-1.1.5.4.2 13-1.1.5.5
 # ::format ucca
 (v1 / label
     :H (v2 / label
            :A (v3 / label
-                  :H (v6 / label~e.0,1)
-                  :H (v7 / label
-                         :A (v8 / label~e.9)
-                         :A (v9 / label
-                                :R (v11 / label~e.11)
-                                :C (v12 / label~e.12))
-                         :P (v10 / label~e.13)))
+                  :A (v6 / label~e.9)
+                  :A (v7 / label
+                         :R (v9 / label~e.11)
+                         :C (v10 / label~e.12))
+                  :P (v8 / label~e.13))
            :P (v4 / label~e.4,6)
            :A (v5 / label~e.5)))

@@ -1,21 +1,24 @@
 # ::id 25604012
 # ::tok Während des 11 . Dezember war ich im großen Saal mit Lesen beschäftigt .
-# ::alignments 0-1.1.2.1 1-1.1.2.2 2-1.1.2.3 4-1.1.2.3 6-1.1.4 7-1.1.5.1 8-1.1.5.2 9-1.1.5.3 10-1.1.6.1.1 11-1.1.6.1.2 12-1.1.7
+# ::alignments 0-1.1.1 1-1.1.2.1 2-1.1.2.2 4-1.1.2.3 6-1.2.3 7-1.2.4.1 8-1.2.4.2.2 9-1.2.4.3 10-1.2.5.1 11-1.2.5.2 12-1.2.6
 # ::format ucca
 (v1 / label
-    :H (v2 / label
-           :T (v3 / label
-                  :R (v8 / label~e.0)
-                  :E (v9 / label~e.1)
-                  :C (v10 / label~e.2,4))
-           :A (v4 / label~e.6)
-           :A (v5 / label
-                  :R (v11 / label~e.7)
-                  :E (v12 / label~e.8)
-                  :C (v13 / label~e.9))
-           :A (v6 / label
-                  :P (v14 / label
-                          :R (v15 / label~e.10)
-                          :C (v16 / label~e.11))
-                  :A v4)
-           :P (v7 / label~e.12)))
+    :L (v2 / label
+           :E (v4 / label~e.0)
+           :C (v5 / label
+                  :R (v10 / label~e.1)
+                  :C (v11 / label~e.2)
+                  :C (v12 / label~e.4)))
+    :H (v3 / label
+           :A (v6 / label~e.6)
+           :A (v7 / label
+                  :R (v13 / label~e.7)
+                  :E (v14 / label
+                          :A (v15 / label~e.9)
+                          :S (v18 / label~e.8))
+                  :C v15)
+           :A (v8 / label
+                  :R (v16 / label~e.10)
+                  :P (v17 / label~e.11)
+                  :A v6)
+           :P (v9 / label~e.12)))

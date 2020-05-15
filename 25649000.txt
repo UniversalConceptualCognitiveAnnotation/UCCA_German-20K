@@ -1,6 +1,6 @@
 # ::id 25649000
 # ::tok Ich dachte nun mein Zimmer zu verlassen .
-# ::alignments 0-1.1.2 1-1.1.3 2-1.1.4 3-1.1.5.1 4-1.1.5.2 6-1.1.7
+# ::alignments 0-1.1.2 1-1.1.3 2-1.1.4 3-1.1.5.1.2 4-1.1.5.2 6-1.1.7
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -8,6 +8,8 @@
            :D (v4 / label~e.1)
            :T (v5 / label~e.2)
            :A (v6 / label
-                  :E (v8 / label~e.3)
-                  :C (v9 / label~e.4))
+                  :E (v8 / label
+                         :A (v9 / label~e.4)
+                         :A (v10 / label~e.3))
+                  :C v9)
            :P (v7 / label~e.6)))

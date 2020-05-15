@@ -1,6 +1,6 @@
 # ::id 25673000
 # ::tok » Also « , sagte ich , » ist immer noch das ursprüngliche Verfahren in Brauch . « »
-# ::alignments 1-1.1.5.1 4-1.1.6 5-1.1.7 9-1.1.5.2.2 10-1.1.5.2.2 11-1.1.5.2.3.1 12-1.1.5.2.3.2 13-1.1.5.2.3.3 14-1.1.5.2.4 15-1.1.5.2.4
+# ::alignments 1-1.1.5.1 4-1.1.6 5-1.1.7 9-1.1.5.2.2 10-1.1.5.2.2 12-1.1.5.2.4 13-1.1.5.2.3.2 14-1.1.5.2.5 15-1.1.5.2.5
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -8,10 +8,9 @@
                   :L (v6 / label~e.1)
                   :H (v7 / label
                          :D (v8 / label~e.9,10)
-                         :A (v9 / label
-                                :E (v11 / label~e.11)
-                                :E (v12 / label~e.12)
-                                :C (v13 / label~e.13))
-                         :S (v10 / label~e.14,15)))
+                         :P (v9 / label
+                                :C (v12 / label~e.13))
+                         :D (v10 / label~e.12)
+                         :D (v11 / label~e.14,15)))
            :P (v4 / label~e.4)
            :A (v5 / label~e.5)))

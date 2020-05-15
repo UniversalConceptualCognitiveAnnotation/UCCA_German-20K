@@ -1,13 +1,15 @@
 # ::id 25644001
 # ::tok Sein elektrischer Apparat war nicht mehr in Tätigkeit und seine Schraube unbeweglich ; er war dem Belieben der Strömung hingegeben .
-# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.3 4-1.1.3.1 5-1.1.3.2 6-1.1.4.1 7-1.1.4.2 8-1.2 9-1.3.1.1 10-1.3.1.2 11-1.3.2 13-1.4.4 15-1.4.1.1.1 16-1.4.1.1.2 17-1.4.1.2.1 18-1.4.1.2.2 19-1.4.2
+# ::alignments 0-1.1.1.1 1-1.1.1.2.2 2-1.1.1.3 4-1.1.3.1 5-1.1.3.2 6-1.1.4.1 7-1.1.4.2 8-1.2 9-1.3.1.1 10-1.3.1.2 11-1.3.2 13-1.4.4 16-1.4.1.1.2 17-1.4.1.2.1 18-1.4.1.2.2 19-1.4.2
 # ::format ucca
 (v1 / label
     :H (v2 / label
            :A (v6 / label
                   :E (v14 / label~e.0)
-                  :E (v15 / label~e.1)
-                  :C (v16 / label~e.2))
+                  :E (v15 / label
+                          :A (v16 / label~e.2)
+                          :S (v25 / label~e.1))
+                  :C v16)
            :D (v7 / label
                   :C (v17 / label~e.4)
                   :E (v18 / label~e.5))
@@ -23,7 +25,6 @@
     :H (v5 / label
            :A (v11 / label
                    :S (v23 / label
-                           :E (v25 / label~e.15)
                            :C (v26 / label~e.16))
                    :A (v24 / label
                            :R (v27 / label~e.17)
