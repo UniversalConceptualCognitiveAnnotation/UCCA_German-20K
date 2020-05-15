@@ -1,10 +1,18 @@
 # format = ucca
 # sent_id = 25650017
-# text = Ich bog mich über ihn .
-1	Ich	_	Word	Word	_	2	A	2:A	_
-2	bog	_	Word	Word	_	0	H	0:H	_
-3	mich	_	Word	Word	_	2	Terminal	2:Terminal	_
-4	über	_	Word	Word	_	5	R	5:R	_
-5	ihn	_	Word	Word	_	2	A	2:A	_
-6	.	_	Punctuation	Punctuation	_	5	U	5:U	_
+# text = Sein Kopf , in blutige Leinwand gewickelt , ruhte auf einem doppelten Kissen .
+1	Sein	_	Word	Word	_	2	E	2:E	_
+2	Kopf	_	Word	Word	_	9	A	9:A	_
+3	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+4	in	_	Word	Word	_	6	R	6:R	_
+5	blutige	_	Word	Word	_	6	E	6:E	_
+6	Leinwand	_	Word	Word	_	7	A	7:A	_
+7	gewickelt	_	Word	Word	_	2	E	2:E	_
+8	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+9	ruhte	_	Word	Word	_	0	H	0:H	_
+10	auf	_	Word	Word	_	13	R	13:R	_
+11	einem	_	Word	Word	_	13	F	13:F	_
+12	doppelten	_	Word	Word	_	13	E	13:E	_
+13	Kissen	_	Word	Word	_	9	A	9:A	_
+14	.	_	Punctuation	Punctuation	_	13	U	13:U	_
 

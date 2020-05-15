@@ -1,12 +1,15 @@
 # format = ucca
 # sent_id = 25729033
-# text = Es war kein Land mehr in Sicht .
-1	Es	_	Word	Word	_	7	F	7:F	_
-2	war	_	Word	Word	_	7	F	7:F	_
-3	kein	_	Word	Word	_	7	D	7:D	_
-4	Land	_	Word	Word	_	7	A	7:A	_
-5	mehr	_	Word	Word	_	3	E	3:E	_
-6	in	_	Word	Word	_	7	R	7:R	_
-7	Sicht	_	Word	Word	_	0	H	0:H	_
-8	.	_	Punctuation	Punctuation	_	7	U	7:U	_
+# text = Es war bedeckter Himmel ; ein Windstoß bereitete sich vor .
+1	Es	_	Word	Word	_	2	F	2:F	_
+2	war	_	Word	Word	_	0	H	0:H	_
+3	bedeckter	_	Word	Word	_	4	E	4:E	_
+4	Himmel	_	Word	Word	_	2	A	2:A	_
+5	;	_	Punctuation	Punctuation	_	2	U	2:U	_
+6	ein	_	Word	Word	_	7	E	7:E	_
+7	Windstoß	_	Word	Word	_	8	A	8:A	_
+8	bereitete	_	Word	Word	_	2	H	2:H	_
+9	sich	_	Word	Word	_	8	Terminal	8:Terminal	_
+10	vor	_	Word	Word	_	8	Terminal	8:Terminal	_
+11	.	_	Punctuation	Punctuation	_	8	U	8:U	_
 

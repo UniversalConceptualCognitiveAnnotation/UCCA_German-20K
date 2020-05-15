@@ -1,13 +1,11 @@
 # format = ucca
 # sent_id = 25729022
-# text = Ich weiß nicht « , erwiderte Ned . »
-1	Ich	_	Word	Word	_	2	A	2:A	_
-2	weiß	_	Word	Word	_	6	A	6:A	_
-3	nicht	_	Word	Word	_	2	D	2:D	_
-4	«	_	Punctuation	Punctuation	_	6	U	6:U	_
-5	,	_	Punctuation	Punctuation	_	6	U	6:U	_
-6	erwiderte	_	Word	Word	_	0	H	0:H	_
-7	Ned	_	Word	Word	_	6	A	6:A	_
-8	.	_	Punctuation	Punctuation	_	6	U	6:U	_
-9	»	_	Punctuation	Punctuation	_	6	U	6:U	_
+# text = Der Kanadier kehrte zu Conseil zurück .
+1	Der	_	Word	Word	_	2	E	2:E	_
+2	Kanadier	_	Word	Word	_	3	A	3:A	_
+3	kehrte	_	Word	Word	_	0	H	0:H	_
+4	zu	_	Word	Word	_	5	R	5:R	_
+5	Conseil	_	Word	Word	_	3	A	3:A	_
+6	zurück	_	Word	Word	_	3	Terminal	3:Terminal	_
+7	.	_	Punctuation	Punctuation	_	3	U	3:U	_
 

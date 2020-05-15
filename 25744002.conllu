@@ -1,15 +1,22 @@
 # format = ucca
 # sent_id = 25744002
-# text = Ein Bienenstock ! « versetzte ich mit ungläubiger Miene . »
-1	Ein	_	Word	Word	_	2	E	2:E	_
-2	Bienenstock	_	Word	Word	_	5	A	5:A	_
-3	!	_	Punctuation	Punctuation	_	5	U	5:U	_
-4	«	_	Punctuation	Punctuation	_	5	U	5:U	_
-5	versetzte	_	Word	Word	_	0	H	0:H	_
-6	ich	_	Word	Word	_	5	A	5:A|8:A	_
-7	mit	_	Word	Word	_	9	E	9:E	_
-8	ungläubiger	_	Word	Word	_	5	H	5:H	_
-9	Miene	_	Word	Word	_	8	A	8:A	_
-10	.	_	Punctuation	Punctuation	_	9	U	9:U	_
-11	»	_	Punctuation	Punctuation	_	9	U	9:U	_
+# text = Ja ! ein Bienenstock « , wiederholte der Kanadier , » und da summen Bienen herum . «
+1	Ja	_	Word	Word	_	4	G	4:G	_
+2	!	_	Punctuation	Punctuation	_	4	U	4:U	_
+3	ein	_	Word	Word	_	4	F	4:F	_
+4	Bienenstock	_	Word	Word	_	7	A	7:A	_
+5	«	_	Punctuation	Punctuation	_	7	U	7:U	_
+6	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+7	wiederholte	_	Word	Word	_	0	H	0:H	_
+8	der	_	Word	Word	_	9	F	9:F	_
+9	Kanadier	_	Word	Word	_	7	A	7:A	_
+10	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+11	»	_	Punctuation	Punctuation	_	7	U	7:U	_
+12	und	_	Word	Word	_	14	L	14:L	_
+13	da	_	Word	Word	_	14	A	14:A	_
+14	summen	_	Word	Word	_	4	H	4:H	_
+15	Bienen	_	Word	Word	_	14	A	14:A	_
+16	herum	_	Word	Word	_	14	Terminal	14:Terminal	_
+17	.	_	Punctuation	Punctuation	_	14	U	14:U	_
+18	«	_	Punctuation	Punctuation	_	14	U	14:U	_
 

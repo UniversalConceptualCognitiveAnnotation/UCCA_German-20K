@@ -2,7 +2,7 @@
 # sent_id = 25642003
 # text = Unter gewöhnlichen Verhältnissen macht man diese Aufnahmen vermittels sehr komplizierter Instrumente , deren Angaben wenigstens zweifelhaft sind , z.B . thermometrische Sonden , deren Gläser oft unterm Druck der Gewässer zerbrechen ; oder Apparate , die sich auf den verschiedenen Widerstand stützen , den die Metalle den elektrischen Strömungen entgegensetzen .
 1	Unter	_	Word	Word	_	3	R	3:R	_
-2	gewöhnlichen	_	Word	Word	_	3	E	3:E	_
+2	gewöhnlichen	_	Word	Word	_	3	D	3:D	_
 3	Verhältnissen	_	Word	Word	_	7	A	7:A	_
 4	macht	_	Word	Word	_	7	D	7:D	_
 5	man	_	Word	Word	_	7	A	7:A	_
@@ -19,7 +19,7 @@
 16	zweifelhaft	_	Word	Word	_	11	E	11:E	_
 17	sind	_	Word	Word	_	16	F	16:F	_
 18	,	_	Punctuation	Punctuation	_	7	U	7:U	_
-19	z.B	_	Word	Word	_	7	F	7:F	_
+19	z.B	_	Word	Word	_	7	D	7:D	_
 20	.	_	Punctuation	Punctuation	_	7	U	7:U	_
 21	thermometrische	_	Word	Word	_	22	E	22:E	_
 22	Sonden	_	Word	Word	_	7	A	7:A	_
@@ -39,16 +39,16 @@
 36	die	_	Word	Word	_	37	R	37:R	_
 37	sich	_	Word	Word	_	34	E	34:E	_
 38	auf	_	Word	Word	_	41	R	41:R	_
-39	den	_	Word	Word	_	41	E	41:E	_
-40	verschiedenen	_	Word	Word	_	41	E	41:E	_
-41	Widerstand	_	Word	Word	_	37	A	37:A	_
+39	den	_	Word	Word	_	41	F	41:F	_
+40	verschiedenen	_	Word	Word	_	41	D	41:D	_
+41	Widerstand	_	Word	Word	_	0	C	0:C|50:A	_
 42	stützen	_	Word	Word	_	37	Terminal	37:Terminal	_
 43	,	_	Punctuation	Punctuation	_	37	U	37:U	_
 44	den	_	Word	Word	_	50	R	50:R	_
-45	die	_	Word	Word	_	46	E	46:E	_
+45	die	_	Word	Word	_	46	F	46:F	_
 46	Metalle	_	Word	Word	_	50	A	50:A	_
-47	den	_	Word	Word	_	49	E	49:E	_
-48	elektrischen	_	Word	Word	_	49	E	49:E	_
+47	den	_	Word	Word	_	49	F	49:F	_
+48	elektrischen	_	Word	Word	_	49	D	49:D	_
 49	Strömungen	_	Word	Word	_	50	A	50:A	_
 50	entgegensetzen	_	Word	Word	_	41	E	41:E	_
 51	.	_	Punctuation	Punctuation	_	50	U	50:U	_

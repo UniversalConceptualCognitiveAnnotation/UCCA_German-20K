@@ -1,12 +1,17 @@
 # format = ucca
 # sent_id = 25746010
-# text = Doch Kapitän Nemo gab keinen Befehl dazu .
-1	Doch	_	Word	Word	_	6	L	6:L	_
-2	Kapitän	_	Word	Word	_	3	E	3:E	_
-3	Nemo	_	Word	Word	_	6	A	6:A	_
-4	gab	_	Word	Word	_	6	F	6:F	_
-5	keinen	_	Word	Word	_	6	D	6:D	_
-6	Befehl	_	Word	Word	_	0	H	0:H	_
-7	dazu	_	Word	Word	_	6	A	6:A	_
-8	.	_	Punctuation	Punctuation	_	6	U	6:U	_
+# text = Wollte er die Nacht abwarten und im stillen die unterseeische Einfahrt passieren ?
+1	Wollte	_	Word	Word	_	5	D	5:D|12:D	_
+2	er	_	Word	Word	_	5	A	5:A|12:A	_
+3	die	_	Word	Word	_	4	F	4:F	_
+4	Nacht	_	Word	Word	_	5	A	5:A	_
+5	abwarten	_	Word	Word	_	0	H	0:H	_
+6	und	_	Word	Word	_	12	L	12:L	_
+7	im	_	Word	Word	_	12	D	12:D	_
+8	stillen	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	die	_	Word	Word	_	11	F	11:F	_
+10	unterseeische	_	Word	Word	_	11	E	11:E	_
+11	Einfahrt	_	Word	Word	_	12	A	12:A	_
+12	passieren	_	Word	Word	_	5	H	5:H	_
+13	?	_	Punctuation	Punctuation	_	12	U	12:U	_
 

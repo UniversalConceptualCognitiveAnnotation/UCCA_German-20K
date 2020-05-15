@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 25518004
-# text = Zugegeben , Kapitän ; aber endlich , um zu sehen , muß Licht die Finsternis vertreiben , und ich frage mich , wie inmitten des Dunkels der Gewässer ... «
+# text = Zugegeben , Kapitän ; aber endlich , um zu sehen , muß Licht die Finsternis vertreiben , und ich frage mich , wie inmitten des Dunkels der Gewässer ... « » Hinten am Gehäuse des Steuerers ist ein starker elektrischer Reflektor angebracht , dessen Strahlen das Meer eine halbe Meile weit erleuchten . « »
 1	Zugegeben	_	Word	Word	_	0	H	0:H	_
 2	,	_	Punctuation	Punctuation	_	1	U	1:U	_
 3	Kapitän	_	Word	Word	_	1	G	1:G	_
@@ -14,7 +14,7 @@
 11	,	_	Punctuation	Punctuation	_	1	U	1:U	_
 12	muß	_	Word	Word	_	16	D	16:D	_
 13	Licht	_	Word	Word	_	16	A	16:A	_
-14	die	_	Word	Word	_	15	E	15:E	_
+14	die	_	Word	Word	_	15	F	15:F	_
 15	Finsternis	_	Word	Word	_	16	A	16:A	_
 16	vertreiben	_	Word	Word	_	1	H	1:H	_
 17	,	_	Punctuation	Punctuation	_	1	U	1:U	_
@@ -25,10 +25,35 @@
 22	,	_	Punctuation	Punctuation	_	20	U	20:U	_
 23	wie	_	Word	Word	_	26	D	26:D	_
 24	inmitten	_	Word	Word	_	26	R	26:R	_
-25	des	_	Word	Word	_	26	E	26:E	_
+25	des	_	Word	Word	_	26	F	26:F	_
 26	Dunkels	_	Word	Word	_	20	A	20:A	_
 27	der	_	Word	Word	_	28	R	28:R	_
 28	Gewässer	_	Word	Word	_	26	E	26:E	_
-29	...	_	Punctuation	Punctuation	_	28	U	28:U	_
-30	«	_	Punctuation	Punctuation	_	28	U	28:U	_
+29	...	_	Punctuation	Punctuation	_	1	U	1:U	_
+30	«	_	Punctuation	Punctuation	_	1	U	1:U	_
+31	»	_	Punctuation	Punctuation	_	1	U	1:U	_
+32	Hinten	_	Word	Word	_	34	E	34:E	_
+33	am	_	Word	Word	_	34	R	34:R	_
+34	Gehäuse	_	Word	Word	_	42	A	42:A	_
+35	des	_	Word	Word	_	36	R	36:R	_
+36	Steuerers	_	Word	Word	_	34	E	34:E	_
+37	ist	_	Word	Word	_	42	F	42:F	_
+38	ein	_	Word	Word	_	41	F	41:F	_
+39	starker	_	Word	Word	_	41	E	41:E	_
+40	elektrischer	_	Word	Word	_	41	E	41:E	_
+41	Reflektor	_	Word	Word	_	42	A	42:A	_
+42	angebracht	_	Word	Word	_	1	H	1:H	_
+43	,	_	Punctuation	Punctuation	_	42	U	42:U	_
+44	dessen	_	Word	Word	_	52	R	52:R	_
+45	Strahlen	_	Word	Word	_	52	A	52:A	_
+46	das	_	Word	Word	_	47	F	47:F	_
+47	Meer	_	Word	Word	_	52	A	52:A	_
+48	eine	_	Word	Word	_	50	F	50:F	_
+49	halbe	_	Word	Word	_	50	Q	50:Q	_
+50	Meile	_	Word	Word	_	52	A	52:A	_
+51	weit	_	Word	Word	_	52	D	52:D	_
+52	erleuchten	_	Word	Word	_	41	E	41:E	_
+53	.	_	Punctuation	Punctuation	_	52	U	52:U	_
+54	«	_	Punctuation	Punctuation	_	52	U	52:U	_
+55	»	_	Punctuation	Punctuation	_	52	U	52:U	_
 

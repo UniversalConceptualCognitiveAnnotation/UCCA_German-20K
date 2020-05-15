@@ -1,20 +1,26 @@
 # format = ucca
 # sent_id = 25755013
-# text = Folglich , armer Ned , kann ich Ihnen nichts raten , als Geduld . « »
-1	Folglich	_	Word	Word	_	10	D	10:D	_
-2	,	_	Punctuation	Punctuation	_	10	U	10:U	_
-3	armer	_	Word	Word	_	4	E	4:E	_
-4	Ned	_	Word	Word	_	10	G	10:G	_
-5	,	_	Punctuation	Punctuation	_	10	U	10:U	_
-6	kann	_	Word	Word	_	10	D	10:D|13:D	_
-7	ich	_	Word	Word	_	10	A	10:A|13:A	_
-8	Ihnen	_	Word	Word	_	10	A	10:A	_
-9	nichts	_	Word	Word	_	10	D	10:D	_
-10	raten	_	Word	Word	_	0	H	0:H	_
-11	,	_	Punctuation	Punctuation	_	13	U	13:U	_
-12	als	_	Word	Word	_	13	R	13:R	_
-13	Geduld	_	Word	Word	_	10	H	10:H	_
-14	.	_	Punctuation	Punctuation	_	13	U	13:U	_
-15	«	_	Punctuation	Punctuation	_	13	U	13:U	_
-16	»	_	Punctuation	Punctuation	_	13	U	13:U	_
+# text = Der Kanadier schüttelte den Kopf , fuhr mit der Hand über seine Stirne und zog sich ohne zu antworten zurück . »
+1	Der	_	Word	Word	_	2	F	2:F	_
+2	Kanadier	_	Word	Word	_	0	C	0:C|7:A|15:A|19:A	_
+3	schüttelte	_	Word	Word	_	0	H	0:H	_
+4	den	_	Word	Word	_	5	F	5:F	_
+5	Kopf	_	Word	Word	_	3	A	3:A	_
+6	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+7	fuhr	_	Word	Word	_	3	H	3:H	_
+8	mit	_	Word	Word	_	10	R	10:R	_
+9	der	_	Word	Word	_	10	F	10:F	_
+10	Hand	_	Word	Word	_	7	A	7:A	_
+11	über	_	Word	Word	_	13	R	13:R	_
+12	seine	_	Word	Word	_	13	E	13:E	_
+13	Stirne	_	Word	Word	_	7	A	7:A	_
+14	und	_	Word	Word	_	15	L	15:L	_
+15	zog	_	Word	Word	_	3	H	3:H	_
+16	sich	_	Word	Word	_	15	Terminal	15:Terminal	_
+17	ohne	_	Word	Word	_	19	D	19:D	_
+18	zu	_	Word	Word	_	19	F	19:F	_
+19	antworten	_	Word	Word	_	3	H	3:H	_
+20	zurück	_	Word	Word	_	15	Terminal	15:Terminal	_
+21	.	_	Punctuation	Punctuation	_	15	U	15:U	_
+22	»	_	Punctuation	Punctuation	_	15	U	15:U	_
 

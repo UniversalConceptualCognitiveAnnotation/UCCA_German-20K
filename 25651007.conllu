@@ -1,9 +1,9 @@
 # format = ucca
 # sent_id = 25651007
-# text = Ich sah den Verwundeten nochmals an , dann sagte ich :
+# text = Ich sah den Verwundeten nochmals an , dann sagte ich : » Binnen 2 Stunden wird der Mann sterben . « »
 1	Ich	_	Word	Word	_	2	A	2:A	_
 2	sah	_	Word	Word	_	0	H	0:H	_
-3	den	_	Word	Word	_	4	E	4:E	_
+3	den	_	Word	Word	_	4	F	4:F	_
 4	Verwundeten	_	Word	Word	_	2	A	2:A	_
 5	nochmals	_	Word	Word	_	2	D	2:D	_
 6	an	_	Word	Word	_	2	Terminal	2:Terminal	_
@@ -11,5 +11,16 @@
 8	dann	_	Word	Word	_	9	L	9:L	_
 9	sagte	_	Word	Word	_	2	H	2:H	_
 10	ich	_	Word	Word	_	9	A	9:A	_
-11	:	_	Punctuation	Punctuation	_	9	U	9:U	_
+11	:	_	Punctuation	Punctuation	_	2	U	2:U	_
+12	»	_	Punctuation	Punctuation	_	2	U	2:U	_
+13	Binnen	_	Word	Word	_	15	R	15:R	_
+14	2	_	Word	Word	_	15	Q	15:Q	_
+15	Stunden	_	Word	Word	_	19	T	19:T	_
+16	wird	_	Word	Word	_	19	F	19:F	_
+17	der	_	Word	Word	_	18	F	18:F	_
+18	Mann	_	Word	Word	_	19	A	19:A	_
+19	sterben	_	Word	Word	_	2	H	2:H	_
+20	.	_	Punctuation	Punctuation	_	19	U	19:U	_
+21	«	_	Punctuation	Punctuation	_	19	U	19:U	_
+22	»	_	Punctuation	Punctuation	_	19	U	19:U	_
 

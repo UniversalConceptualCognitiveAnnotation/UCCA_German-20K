@@ -1,11 +1,11 @@
 # format = ucca
 # sent_id = 25755001
-# text = Durch Berechnung . Da der Umfang des Schiffsraums meinem Herrn bekannt ist , folglich auch , wieviel Luft er fassen kann ; da er ferner weiß , wieviel Luft jeder Mensch durch Einatmen verbraucht ; und vergleicht er diese Resultate damit , dass die ›Nautilus‹ alle 24 Stunden auftauchen muß ... «
+# text = Durch Berechnung . Da der Umfang des Schiffsraums meinem Herrn bekannt ist , folglich auch , wieviel Luft er fassen kann ; da er ferner weiß , wieviel Luft jeder Mensch durch Einatmen verbraucht ; und vergleicht er diese Resultate damit , dass die ›Nautilus‹ alle 24 Stunden auftauchen muß ... « Ich ließ Conseil nicht seinen Satz ausreden , denn ich sah wohl , wo hinaus er damit wollte . »
 1	Durch	_	Word	Word	_	2	R	2:R	_
 2	Berechnung	_	Word	Word	_	0	H	0:H	_
 3	.	_	Punctuation	Punctuation	_	2	U	2:U	_
 4	Da	_	Word	Word	_	11	L	11:L	_
-5	der	_	Word	Word	_	6	E	6:E	_
+5	der	_	Word	Word	_	6	F	6:F	_
 6	Umfang	_	Word	Word	_	11	A	11:A	_
 7	des	_	Word	Word	_	8	R	8:R	_
 8	Schiffsraums	_	Word	Word	_	6	A	6:A	_
@@ -44,13 +44,33 @@
 41	damit	_	Word	Word	_	49	R	49:R	_
 42	,	_	Punctuation	Punctuation	_	49	U	49:U	_
 43	dass	_	Word	Word	_	49	L	49:L	_
-44	die	_	Word	Word	_	45	E	45:E	_
+44	die	_	Word	Word	_	45	F	45:F	_
 45	›Nautilus‹	_	Word	Word	_	49	A	49:A	_
 46	alle	_	Word	Word	_	48	E	48:E	_
-47	24	_	Word	Word	_	48	E	48:E	_
+47	24	_	Word	Word	_	48	Q	48:Q	_
 48	Stunden	_	Word	Word	_	49	T	49:T	_
 49	auftauchen	_	Word	Word	_	37	A	37:A	_
 50	muß	_	Word	Word	_	49	D	49:D	_
-51	...	_	Punctuation	Punctuation	_	49	U	49:U	_
-52	«	_	Punctuation	Punctuation	_	49	U	49:U	_
+51	...	_	Punctuation	Punctuation	_	2	U	2:U	_
+52	«	_	Punctuation	Punctuation	_	2	U	2:U	_
+53	Ich	_	Word	Word	_	54	A	54:A	_
+54	ließ	_	Word	Word	_	2	H	2:H	_
+55	Conseil	_	Word	Word	_	54	A	54:A|59:A	_
+56	nicht	_	Word	Word	_	54	D	54:D	_
+57	seinen	_	Word	Word	_	58	E	58:E	_
+58	Satz	_	Word	Word	_	59	A	59:A	_
+59	ausreden	_	Word	Word	_	54	A	54:A	_
+60	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+61	denn	_	Word	Word	_	63	L	63:L	_
+62	ich	_	Word	Word	_	63	A	63:A	_
+63	sah	_	Word	Word	_	2	H	2:H	_
+64	wohl	_	Word	Word	_	63	D	63:D	_
+65	,	_	Punctuation	Punctuation	_	63	U	63:U	_
+66	wo	_	Word	Word	_	67	A	67:A	_
+67	hinaus	_	Word	Word	_	63	A	63:A	_
+68	er	_	Word	Word	_	67	A	67:A	_
+69	damit	_	Word	Word	_	67	A	67:A	_
+70	wollte	_	Word	Word	_	67	D	67:D	_
+71	.	_	Punctuation	Punctuation	_	67	U	67:U	_
+72	»	_	Punctuation	Punctuation	_	67	U	67:U	_
 

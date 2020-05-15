@@ -1,13 +1,23 @@
 # format = ucca
 # sent_id = 25759008
-# text = Ja , Kapitän « , erwiderte ich . »
-1	Ja	_	Word	Word	_	6	A	6:A	_
-2	,	_	Punctuation	Punctuation	_	1	U	1:U	_
-3	Kapitän	_	Word	Word	_	1	G	1:G	_
-4	«	_	Punctuation	Punctuation	_	6	U	6:U	_
-5	,	_	Punctuation	Punctuation	_	6	U	6:U	_
-6	erwiderte	_	Word	Word	_	0	H	0:H	_
-7	ich	_	Word	Word	_	6	A	6:A	_
-8	.	_	Punctuation	Punctuation	_	6	U	6:U	_
-9	»	_	Punctuation	Punctuation	_	6	U	6:U	_
+# text = Das sind Pottfische , fürchterliche Tiere , die ich mitunter in Scharen von 2- bis 300 getroffen habe !
+1	Das	_	Word	Word	_	2	A	2:A	_
+2	sind	_	Word	Word	_	0	H	0:H	_
+3	Pottfische	_	Word	Word	_	2	A	2:A	_
+4	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+5	fürchterliche	_	Word	Word	_	6	E	6:E	_
+6	Tiere	_	Word	Word	_	2	A	2:A	_
+7	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+8	die	_	Word	Word	_	17	R	17:R	_
+9	ich	_	Word	Word	_	17	A	17:A	_
+10	mitunter	_	Word	Word	_	17	T	17:T	_
+11	in	_	Word	Word	_	12	R	12:R	_
+12	Scharen	_	Word	Word	_	17	A	17:A	_
+13	von	_	Word	Word	_	14	R	14:R	_
+14	2-	_	Word	Word	_	12	E	12:E	_
+15	bis	_	Word	Word	_	14	N	14:N	_
+16	300	_	Word	Word	_	14	C	14:C	_
+17	getroffen	_	Word	Word	_	6	E	6:E	_
+18	habe	_	Word	Word	_	17	F	17:F	_
+19	!	_	Punctuation	Punctuation	_	17	U	17:U	_
 

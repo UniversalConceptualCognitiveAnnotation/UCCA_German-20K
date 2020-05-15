@@ -1,10 +1,39 @@
 # format = ucca
 # sent_id = 25655005
-# text = Ich stand auf und sagte :
+# text = Ich stand auf und sagte : » Also , wie ich es voraussah , ist der Mann in der Nacht gestorben ? « » Ja , Herr Arronax « , erwiderte der Kapitän . »
 1	Ich	_	Word	Word	_	2	A	2:A|5:A	_
 2	stand	_	Word	Word	_	0	H	0:H	_
 3	auf	_	Word	Word	_	2	Terminal	2:Terminal	_
 4	und	_	Word	Word	_	5	L	5:L	_
 5	sagte	_	Word	Word	_	2	H	2:H	_
-6	:	_	Punctuation	Punctuation	_	5	U	5:U	_
+6	:	_	Punctuation	Punctuation	_	2	U	2:U	_
+7	»	_	Punctuation	Punctuation	_	2	U	2:U	_
+8	Also	_	Word	Word	_	13	L	13:L	_
+9	,	_	Punctuation	Punctuation	_	13	U	13:U	_
+10	wie	_	Word	Word	_	13	L	13:L	_
+11	ich	_	Word	Word	_	13	A	13:A	_
+12	es	_	Word	Word	_	13	F	13:F	_
+13	voraussah	_	Word	Word	_	2	H	2:H	_
+14	,	_	Punctuation	Punctuation	_	13	U	13:U	_
+15	ist	_	Word	Word	_	21	F	21:F	_
+16	der	_	Word	Word	_	17	F	17:F	_
+17	Mann	_	Word	Word	_	0	C	0:C|25:A	_
+18	in	_	Word	Word	_	20	R	20:R	_
+19	der	_	Word	Word	_	20	F	20:F	_
+20	Nacht	_	Word	Word	_	21	A	21:A	_
+21	gestorben	_	Word	Word	_	0	P	0:P|25:P	_
+22	?	_	Punctuation	Punctuation	_	25	U	25:U	_
+23	«	_	Punctuation	Punctuation	_	25	U	25:U	_
+24	»	_	Punctuation	Punctuation	_	25	U	25:U	_
+25	Ja	_	Word	Word	_	31	A	31:A	_
+26	,	_	Punctuation	Punctuation	_	25	U	25:U	_
+27	Herr	_	Word	Word	_	28	E	28:E	_
+28	Arronax	_	Word	Word	_	25	G	25:G	_
+29	«	_	Punctuation	Punctuation	_	31	U	31:U	_
+30	,	_	Punctuation	Punctuation	_	31	U	31:U	_
+31	erwiderte	_	Word	Word	_	2	H	2:H	_
+32	der	_	Word	Word	_	33	F	33:F	_
+33	Kapitän	_	Word	Word	_	31	A	31:A	_
+34	.	_	Punctuation	Punctuation	_	33	U	33:U	_
+35	»	_	Punctuation	Punctuation	_	33	U	33:U	_
 

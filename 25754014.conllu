@@ -1,13 +1,15 @@
 # format = ucca
 # sent_id = 25754014
-# text = Er war weniger mitteilsam , fast schweigsam geworden .
-1	Er	_	Word	Word	_	4	A	4:A|7:A	_
-2	war	_	Word	Word	_	4	F	4:F	_
-3	weniger	_	Word	Word	_	4	D	4:D	_
-4	mitteilsam	_	Word	Word	_	0	H	0:H	_
-5	,	_	Punctuation	Punctuation	_	4	U	4:U	_
-6	fast	_	Word	Word	_	7	D	7:D	_
-7	schweigsam	_	Word	Word	_	4	H	4:H	_
-8	geworden	_	Word	Word	_	7	F	7:F	_
-9	.	_	Punctuation	Punctuation	_	7	U	7:U	_
+# text = Ich fühlte , wie sich der Zorn in ihm steigerte .
+1	Ich	_	Word	Word	_	2	A	2:A	_
+2	fühlte	_	Word	Word	_	0	H	0:H	_
+3	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+4	wie	_	Word	Word	_	5	R	5:R	_
+5	sich	_	Word	Word	_	2	A	2:A	_
+6	der	_	Word	Word	_	7	F	7:F	_
+7	Zorn	_	Word	Word	_	5	A	5:A	_
+8	in	_	Word	Word	_	9	R	9:R	_
+9	ihm	_	Word	Word	_	5	A	5:A	_
+10	steigerte	_	Word	Word	_	5	Terminal	5:Terminal	_
+11	.	_	Punctuation	Punctuation	_	5	U	5:U	_
 

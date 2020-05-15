@@ -1,6 +1,33 @@
 # format = ucca
 # sent_id = 25759020
-# text = Jawohl .
-1	Jawohl	_	Word	Word	_	0	H	0:H	_
-2	.	_	Punctuation	Punctuation	_	1	U	1:U	_
+# text = Der Pottfisch ist ein häßliches Tier von üblem Körperbau , sozusagen auf der ganzen linken Seite mangelhaft , so dass er auch nur mit dem rechten Auge sieht .
+1	Der	_	Word	Word	_	2	F	2:F	_
+2	Pottfisch	_	Word	Word	_	0	C	0:C|17:A	_
+3	ist	_	Word	Word	_	0	H	0:H	_
+4	ein	_	Word	Word	_	6	F	6:F	_
+5	häßliches	_	Word	Word	_	6	E	6:E	_
+6	Tier	_	Word	Word	_	3	A	3:A	_
+7	von	_	Word	Word	_	9	R	9:R	_
+8	üblem	_	Word	Word	_	9	D	9:D	_
+9	Körperbau	_	Word	Word	_	6	E	6:E	_
+10	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+11	sozusagen	_	Word	Word	_	17	D	17:D	_
+12	auf	_	Word	Word	_	16	R	16:R	_
+13	der	_	Word	Word	_	14	F	14:F	_
+14	ganzen	_	Word	Word	_	16	E	16:E	_
+15	linken	_	Word	Word	_	16	E	16:E	_
+16	Seite	_	Word	Word	_	17	A	17:A	_
+17	mangelhaft	_	Word	Word	_	3	H	3:H	_
+18	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+19	so	_	Word	Word	_	28	L	28:L	_
+20	dass	_	Word	Word	_	19	Terminal	19:Terminal	_
+21	er	_	Word	Word	_	28	A	28:A	_
+22	auch	_	Word	Word	_	28	L	28:L	_
+23	nur	_	Word	Word	_	28	D	28:D	_
+24	mit	_	Word	Word	_	27	R	27:R	_
+25	dem	_	Word	Word	_	27	F	27:F	_
+26	rechten	_	Word	Word	_	27	E	27:E	_
+27	Auge	_	Word	Word	_	28	A	28:A	_
+28	sieht	_	Word	Word	_	3	H	3:H	_
+29	.	_	Punctuation	Punctuation	_	28	U	28:U	_
 

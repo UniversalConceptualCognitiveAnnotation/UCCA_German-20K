@@ -1,7 +1,12 @@
 # format = ucca
 # sent_id = 25651010
-# text = Nein . «
-1	Nein	_	Word	Word	_	0	H	0:H	_
-2	.	_	Punctuation	Punctuation	_	1	U	1:U	_
-3	«	_	Punctuation	Punctuation	_	1	U	1:U	_
+# text = Einige Augenblicke beobachtete ich noch den Sterbenden .
+1	Einige	_	Word	Word	_	2	Q	2:Q	_
+2	Augenblicke	_	Word	Word	_	3	T	3:T	_
+3	beobachtete	_	Word	Word	_	0	H	0:H	_
+4	ich	_	Word	Word	_	3	A	3:A	_
+5	noch	_	Word	Word	_	3	D	3:D	_
+6	den	_	Word	Word	_	7	F	7:F	_
+7	Sterbenden	_	Word	Word	_	3	A	3:A	_
+8	.	_	Punctuation	Punctuation	_	7	U	7:U	_
 

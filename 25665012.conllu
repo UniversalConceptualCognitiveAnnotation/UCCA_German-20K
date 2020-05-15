@@ -1,13 +1,17 @@
 # format = ucca
 # sent_id = 25665012
-# text = Er weiß , dass ein Entrinnen unmöglich ist .
-1	Er	_	Word	Word	_	2	A	2:A	_
-2	weiß	_	Word	Word	_	0	H	0:H	_
-3	,	_	Punctuation	Punctuation	_	2	U	2:U	_
-4	dass	_	Word	Word	_	7	R	7:R	_
-5	ein	_	Word	Word	_	6	E	6:E	_
-6	Entrinnen	_	Word	Word	_	7	A	7:A	_
-7	unmöglich	_	Word	Word	_	2	A	2:A	_
-8	ist	_	Word	Word	_	7	F	7:F	_
-9	.	_	Punctuation	Punctuation	_	7	U	7:U	_
+# text = Wir sind nicht einmal auf Ehrenwort eingehalten ; keine Ehrenverbindlichkeit fesselt uns .
+1	Wir	_	Word	Word	_	7	A	7:A	_
+2	sind	_	Word	Word	_	7	F	7:F	_
+3	nicht	_	Word	Word	_	7	D	7:D	_
+4	einmal	_	Word	Word	_	3	Terminal	3:Terminal	_
+5	auf	_	Word	Word	_	6	R	6:R	_
+6	Ehrenwort	_	Word	Word	_	7	A	7:A	_
+7	eingehalten	_	Word	Word	_	0	H	0:H	_
+8	;	_	Punctuation	Punctuation	_	7	U	7:U	_
+9	keine	_	Word	Word	_	10	Q	10:Q	_
+10	Ehrenverbindlichkeit	_	Word	Word	_	11	A	11:A	_
+11	fesselt	_	Word	Word	_	7	H	7:H	_
+12	uns	_	Word	Word	_	11	A	11:A	_
+13	.	_	Punctuation	Punctuation	_	11	U	11:U	_
 

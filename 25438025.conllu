@@ -1,15 +1,16 @@
 # format = ucca
 # sent_id = 25438025
-# text = Der Dampf zischte , indem er in die Behälter drang .
-1	Der	_	Word	Word	_	2	E	2:E	_
-2	Dampf	_	Word	Word	_	3	A	3:A	_
-3	zischte	_	Word	Word	_	0	H	0:H	_
-4	,	_	Punctuation	Punctuation	_	3	U	3:U	_
-5	indem	_	Word	Word	_	10	L	10:L	_
-6	er	_	Word	Word	_	10	A	10:A	_
-7	in	_	Word	Word	_	9	R	9:R	_
-8	die	_	Word	Word	_	9	E	9:E	_
-9	Behälter	_	Word	Word	_	10	A	10:A	_
-10	drang	_	Word	Word	_	3	H	3:H	_
-11	.	_	Punctuation	Punctuation	_	10	U	10:U	_
+# text = Die langen horizontalen Stempel dröhnten und trieben die Stangen der Welle .
+1	Die	_	Word	Word	_	4	F	4:F	_
+2	langen	_	Word	Word	_	3	D	3:D	_
+3	horizontalen	_	Word	Word	_	4	E	4:E	_
+4	Stempel	_	Word	Word	_	0	C	0:C|3:A|7:A	_
+5	dröhnten	_	Word	Word	_	0	H	0:H	_
+6	und	_	Word	Word	_	7	L	7:L	_
+7	trieben	_	Word	Word	_	5	H	5:H	_
+8	die	_	Word	Word	_	9	F	9:F	_
+9	Stangen	_	Word	Word	_	7	A	7:A	_
+10	der	_	Word	Word	_	11	R	11:R	_
+11	Welle	_	Word	Word	_	7	A	7:A	_
+12	.	_	Punctuation	Punctuation	_	11	U	11:U	_
 

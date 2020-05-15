@@ -1,15 +1,12 @@
 # format = ucca
 # sent_id = 25438022
-# text = Ja , mein Herr « , erwiderte der Ingenieur . »
-1	Ja	_	Word	Word	_	7	A	7:A	_
-2	,	_	Punctuation	Punctuation	_	1	U	1:U	_
-3	mein	_	Word	Word	_	4	E	4:E	_
-4	Herr	_	Word	Word	_	1	G	1:G	_
-5	«	_	Punctuation	Punctuation	_	7	U	7:U	_
-6	,	_	Punctuation	Punctuation	_	7	U	7:U	_
-7	erwiderte	_	Word	Word	_	0	H	0:H	_
-8	der	_	Word	Word	_	9	E	9:E	_
-9	Ingenieur	_	Word	Word	_	7	A	7:A	_
-10	.	_	Punctuation	Punctuation	_	9	U	9:U	_
-11	»	_	Punctuation	Punctuation	_	9	U	9:U	_
+# text = Go head « , rief Kommandant Farragut .
+1	Go	_	Word	Word	_	5	A	5:A	_
+2	head	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	«	_	Punctuation	Punctuation	_	5	U	5:U	_
+4	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+5	rief	_	Word	Word	_	0	H	0:H	_
+6	Kommandant	_	Word	Word	_	7	E	7:E	_
+7	Farragut	_	Word	Word	_	5	A	5:A	_
+8	.	_	Punctuation	Punctuation	_	7	U	7:U	_
 

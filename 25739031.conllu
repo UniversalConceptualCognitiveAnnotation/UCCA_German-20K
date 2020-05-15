@@ -1,23 +1,27 @@
 # format = ucca
 # sent_id = 25739031
-# text = Die hohen Wände wölbten sich oben und bildeten einen ungeheuren umgekehrten Trichter von 5 bis 6 Meter Höhe .
-1	Die	_	Word	Word	_	3	E	3:E	_
-2	hohen	_	Word	Word	_	3	E	3:E	_
-3	Wände	_	Word	Word	_	0	C	0:C|8:A	_
-4	wölbten	_	Word	Word	_	0	H	0:H	_
+# text = An der Spitze befand sich eine kreisrunde Öffnung , durch die ich den matten Schein , offenbar vom Tageslicht , bemerkt hatte .
+1	An	_	Word	Word	_	3	R	3:R	_
+2	der	_	Word	Word	_	3	F	3:F	_
+3	Spitze	_	Word	Word	_	4	A	4:A	_
+4	befand	_	Word	Word	_	0	H	0:H	_
 5	sich	_	Word	Word	_	4	Terminal	4:Terminal	_
-6	oben	_	Word	Word	_	4	D	4:D	_
-7	und	_	Word	Word	_	8	L	8:L	_
-8	bildeten	_	Word	Word	_	4	H	4:H	_
-9	einen	_	Word	Word	_	12	E	12:E	_
-10	ungeheuren	_	Word	Word	_	12	E	12:E	_
-11	umgekehrten	_	Word	Word	_	10	C	10:C	_
-12	Trichter	_	Word	Word	_	18	A	18:A	_
-13	von	_	Word	Word	_	17	R	17:R	_
-14	5	_	Word	Word	_	17	E	17:E	_
-15	bis	_	Word	Word	_	14	N	14:N	_
-16	6	_	Word	Word	_	14	C	14:C	_
-17	Meter	_	Word	Word	_	18	A	18:A	_
-18	Höhe	_	Word	Word	_	8	A	8:A	_
-19	.	_	Punctuation	Punctuation	_	18	U	18:U	_
+6	eine	_	Word	Word	_	8	F	8:F	_
+7	kreisrunde	_	Word	Word	_	8	E	8:E	_
+8	Öffnung	_	Word	Word	_	4	A	4:A	_
+9	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+10	durch	_	Word	Word	_	21	A	21:A	_
+11	die	_	Word	Word	_	21	R	21:R	_
+12	ich	_	Word	Word	_	21	A	21:A	_
+13	den	_	Word	Word	_	15	F	15:F	_
+14	matten	_	Word	Word	_	15	E	15:E	_
+15	Schein	_	Word	Word	_	21	A	21:A	_
+16	,	_	Punctuation	Punctuation	_	15	U	15:U	_
+17	offenbar	_	Word	Word	_	19	G	19:G	_
+18	vom	_	Word	Word	_	19	R	19:R	_
+19	Tageslicht	_	Word	Word	_	15	E	15:E	_
+20	,	_	Punctuation	Punctuation	_	21	U	21:U	_
+21	bemerkt	_	Word	Word	_	8	E	8:E	_
+22	hatte	_	Word	Word	_	21	F	21:F	_
+23	.	_	Punctuation	Punctuation	_	21	U	21:U	_
 
