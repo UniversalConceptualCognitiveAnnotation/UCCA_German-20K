@@ -1,0 +1,36 @@
+# ::id 2505000008
+# ::tok Des Mittagessens , wackerer Harpunier ? Sagen Sie wenigstens des Frühstückens , denn wir sind offenbar am folgenden Tag von gestern . « »
+# ::alignments 0-1.1.3.6.2.1 1-1.1.3.6.2.2 3-1.1.3.6.3.1 4-1.1.3.6.3.2 6-1.1.3.1.1 7-1.1.3.1.2 8-1.1.3.1.3 9-1.1.3.1.4.1 10-1.1.3.1.4.2 12-1.1.3.2 13-1.1.3.3.1 14-1.1.3.3.2 15-1.1.3.3.3 16-1.1.3.3.4.1 17-1.1.3.3.4.2 18-1.1.3.3.4.3 19-1.1.3.3.5.1 20-1.1.3.3.5.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :P (v3 / label)
+           :A (v4 / label)
+           :A (v5 / label
+                  :H (v6 / label
+                         :P (v10 / label~e.6)
+                         :A (v11 / label~e.7)
+                         :D (v12 / label~e.8)
+                         :A (v13 / label
+                                 :R (v22 / label~e.9)
+                                 :C (v23 / label~e.10)))
+                  :L (v7 / label~e.12)
+                  :H (v8 / label
+                         :A (v14 / label~e.13)
+                         :S (v15 / label~e.14)
+                         :G (v16 / label~e.15)
+                         :A (v17 / label
+                                 :R (v24 / label~e.16)
+                                 :E (v25 / label~e.17)
+                                 :C (v26 / label~e.18))
+                         :A (v18 / label
+                                 :R (v27 / label~e.19)
+                                 :C (v28 / label~e.20)))
+                  :H (v9 / label
+                         :S (v19 / label)
+                         :A (v20 / label
+                                 :R (v29 / label~e.0)
+                                 :C (v30 / label~e.1))
+                         :G (v21 / label
+                                 :D (v31 / label~e.3)
+                                 :A (v32 / label~e.4))))))

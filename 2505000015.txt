@@ -1,0 +1,46 @@
+# ::id 2505000015
+# ::tok Nun denn ! Ned , warten wir 's nur ab « , versetzte ich . » Es ist offenbar , dass die Unbekannten nicht die Absicht haben , uns Hungers sterben zu lassen , denn sonst hätte das gestrige Abendessen keinen Sinn . « »
+# ::alignments 0-1.1.1.1 1-1.1.1.2 3-1.1.1.3.1 5-1.1.1.3.2 6-1.1.1.3.3 7-1.1.1.3.4 8-1.1.1.3.5 9-1.1.1.3.2 12-1.1.6 13-1.1.7 16-1.1.1.4.1 18-1.1.1.4.3 20-1.1.1.4.4.1 22-1.1.1.4.4.6.6 23-1.1.1.4.4.3 25-1.1.1.4.4.4.2 28-1.1.1.4.4.6.1 29-1.1.1.4.4.6.2.1 30-1.1.1.4.4.6.3 32-1.1.1.4.4.6.5 34-1.1.1.5 35-1.1.1.6 38-1.1.1.7.2.3.3 39-1.1.1.7.2.2 40-1.1.1.7.3 41-1.1.1.7.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :H (v6 / label~e.0)
+                  :H (v7 / label~e.1)
+                  :H (v8 / label
+                         :G (v13 / label~e.3)
+                         :P (v14 / label~e.5,9)
+                         :A (v15 / label~e.6)
+                         :A (v16 / label~e.7)
+                         :D (v17 / label~e.8))
+                  :H (v9 / label
+                         :A (v18 / label~e.16)
+                         :S (v19 / label~e.18)
+                         :A (v20 / label
+                                 :R (v24 / label~e.20)
+                                 :A (v25 / label
+                                         :A (v31 / label
+                                                 :C (v37 / label~e.22)))
+                                 :D (v26 / label~e.23)
+                                 :P (v27 / label
+                                         :C (v32 / label~e.25))
+                                 :A (v28 / label
+                                         :A (v33 / label~e.28)
+                                         :A (v34 / label
+                                                 :S (v40 / label~e.29))
+                                         :P (v35 / label~e.30)
+                                         :D (v36 / label~e.32)
+                                         :A v37)))
+                  :L (v10 / label~e.34)
+                  :L (v11 / label~e.35)
+                  :H (v12 / label
+                          :A (v21 / label
+                                  :C (v29 / label~e.39)
+                                  :E (v30 / label
+                                          :A v29
+                                          :S (v38 / label)
+                                          :T (v39 / label~e.38)))
+                          :D (v22 / label~e.40)
+                          :S (v23 / label~e.41)))
+           :P (v4 / label~e.12)
+           :A (v5 / label~e.13)))

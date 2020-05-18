@@ -1,0 +1,17 @@
+# ::id 2505000013
+# ::tok Das eine und das andere « , sagte Conseil . »
+# ::alignments 1-1.1.5.3.1.2 2-1.1.5.3.2 4-1.1.5.3.3.2 7-1.1.6 8-1.1.7
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :P (v6 / label)
+                  :A (v7 / label)
+                  :A (v8 / label
+                         :C (v9 / label
+                                :C (v12 / label~e.1))
+                         :N (v10 / label~e.2)
+                         :C (v11 / label
+                                 :C (v13 / label~e.4))))
+           :P (v4 / label~e.7)
+           :A (v5 / label~e.8)))

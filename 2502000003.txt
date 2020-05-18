@@ -1,0 +1,20 @@
+# ::id 2502000003
+# ::tok Er sprach in meiner Gegenwart stets einen sonderbaren , durchaus unverständlichen Dialekt .
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.1 3-1.1.3.2 4-1.1.3.3 5-1.1.4 7-1.1.5.1.2 9-1.1.5.1.3 10-1.1.5.1.4 11-1.1.5.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label~e.0)
+           :P (v4 / label~e.1)
+           :A (v5 / label
+                  :R (v8 / label~e.2)
+                  :A (v9 / label~e.3)
+                  :S (v10 / label~e.4))
+           :T (v6 / label~e.5)
+           :A (v7 / label
+                  :E (v11 / label
+                          :A (v12 / label~e.11)
+                          :D (v13 / label~e.7)
+                          :D (v14 / label~e.9)
+                          :S (v15 / label~e.10))
+                  :C v12)))

@@ -1,0 +1,15 @@
+# ::id 2505002004
+# ::tok Nein , mein Freund . « »
+# ::alignments 0-1.1.3.2 2-1.1.3.3.1 3-1.1.3.3.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :P (v4 / label)
+           :A (v5 / label
+                  :A (v6 / label)
+                  :D (v7 / label~e.0)
+                  :G (v8 / label
+                         :A (v10 / label~e.2)
+                         :S (v11 / label~e.3))
+                  :P (v9 / label))))
