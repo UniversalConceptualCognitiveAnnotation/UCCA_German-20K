@@ -1,0 +1,25 @@
+# ::id 25759000
+# ::tok Man kann sich vorstellen , was der Kanadier bei dieser Moral lektion für ein Gesicht machte .
+# ::alignments 0-1.1.2 1-1.1.3 2-1.1.4 3-1.1.5 5-1.1.6.1.1 7-1.1.6.2.2.1 8-1.1.6.3.2 9-1.1.6.3.3.1 10-1.1.6.3.3.2 11-1.1.6.3.3.3 12-1.1.6.1.1 14-1.1.6.1.3 15-1.1.6.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label~e.0)
+           :D (v4 / label~e.1)
+           :A (v5 / label~e.2)
+           :P (v6 / label~e.3)
+           :A (v7 / label
+                  :A (v8 / label
+                         :E (v12 / label~e.5,12)
+                         :C (v13 / label~e.14))
+                  :A (v9 / label
+                         :C (v14 / label
+                                 :A (v18 / label~e.7)))
+                  :A (v10 / label
+                          :S (v15 / label)
+                          :R (v16 / label~e.8)
+                          :A (v17 / label
+                                  :E (v19 / label~e.9)
+                                  :E (v20 / label~e.10)
+                                  :C (v21 / label~e.11)))
+                  :P (v11 / label~e.15))))

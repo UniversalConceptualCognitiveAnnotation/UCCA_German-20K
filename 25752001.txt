@@ -1,0 +1,66 @@
+# ::id 25752001
+# ::tok Ich erkläre es aus zwei Gründen « , erwiderte ich . » Erstlich , weil die senkrechten Strömungen , die durch den verschiedenen Salzgehalt und Dichte der Wasser bestimmt werden , eine Bewegung hervorrufen , die genügt , um den niederen Grad vom Leben der Meerpalmen u.a . zu unterhalten ? « »
+# ::alignments 0-1.1.1.1.1 1-1.1.1.1.2 2-1.1.1.1.3 3-1.1.1.1.4.1 4-1.1.1.1.4.2 5-1.1.1.1.4.3 8-1.1.2 9-1.1.7 12-1.1.1.2.1 14-1.1.1.3 16-1.1.1.4.1.2 17-1.1.1.4.1.3 19-1.1.1.4.1.4.2 20-1.1.1.4.1.4.3.1 22-1.1.1.4.1.4.3.2.1.2.2 23-1.1.1.4.1.4.3.2.1.3 24-1.1.1.4.1.4.3.2.2 25-1.1.1.4.1.4.3.2.3.1 26-1.1.1.4.1.4.3.2.3.2.1 27-1.1.1.4.1.4.3.2.3.2.2 28-1.1.1.4.1.4.4 32-1.1.1.4.2.2.1 33-1.1.1.4.3 35-1.1.1.4.2.3.1 36-1.1.1.4.2.3.2 38-1.1.1.4.2.4.1 40-1.1.1.4.2.4.2.2 41-1.1.1.4.2.4.2.3 42-1.1.1.4.2.4.2.4.1 43-1.1.1.4.2.4.2.4.2 44-1.1.1.4.2.4.2.4.3.1 45-1.1.1.4.2.4.2.4.3.2 46-1.1.1.4.2.4.2.4.4 49-1.1.1.4.2.4.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :H (v6 / label
+                         :A (v10 / label~e.0)
+                         :P (v11 / label~e.1)
+                         :A (v12 / label~e.2)
+                         :D (v13 / label
+                                 :R (v18 / label~e.3)
+                                 :Q (v19 / label~e.4)
+                                 :C (v20 / label~e.5)))
+                  :H (v7 / label
+                         :D (v14 / label~e.12)
+                         :A v10
+                         :P v11)
+                  :L (v8 / label~e.14)
+                  :H (v9 / label
+                         :A (v15 / label
+                                 :E (v21 / label~e.16)
+                                 :C (v22 / label~e.17)
+                                 :E (v23 / label
+                                         :A v22
+                                         :R (v27 / label~e.19)
+                                         :A (v28 / label
+                                                 :R (v36 / label~e.20)
+                                                 :C (v37 / label
+                                                         :C (v41 / label
+                                                                 :E (v48 / label
+                                                                         :A (v49 / label~e.23)
+                                                                         :S (v54 / label~e.22))
+                                                                 :C v49)
+                                                         :N (v42 / label~e.24)
+                                                         :C (v43 / label
+                                                                 :S (v50 / label~e.25)
+                                                                 :A (v51 / label
+                                                                         :R (v55 / label~e.26)
+                                                                         :C (v56 / label~e.27)))))
+                                         :S (v29 / label~e.28)))
+                         :A (v16 / label
+                                 :C (v24 / label
+                                         :P (v30 / label~e.32))
+                                 :E (v25 / label
+                                         :R (v31 / label~e.35)
+                                         :S (v32 / label~e.36)
+                                         :A v30)
+                                 :E (v26 / label
+                                         :R (v33 / label~e.38)
+                                         :A (v34 / label
+                                                 :E (v38 / label~e.40)
+                                                 :C (v39 / label~e.41)
+                                                 :E (v40 / label
+                                                         :R (v44 / label~e.42)
+                                                         :C (v45 / label~e.43)
+                                                         :E (v46 / label
+                                                                 :R (v52 / label~e.44)
+                                                                 :C (v53 / label~e.45))
+                                                         :E (v47 / label~e.46)))
+                                         :P (v35 / label~e.49)
+                                         :A v30))
+                         :P (v17 / label~e.33)))
+           :P (v4 / label~e.8)
+           :A (v5 / label~e.9)))

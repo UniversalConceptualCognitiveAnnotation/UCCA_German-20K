@@ -1,0 +1,27 @@
+# ::id 25728013
+# ::tok Er war direkter Universal erbe der den Inkas und den von Ferdinand Cortez überwundenen Eingeborenen entrissenen Schätze . »
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.3 3-1.1.3.4 4-1.1.3.1 7-1.1.3.2.2.1.2 8-1.1.3.2.2.2 10-1.1.3.2.2.3.2.2 11-1.1.3.2.2.3.2.3 12-1.1.3.2.2.3.2.3 13-1.1.3.2.2.3.2.4 14-1.1.3.2.2.3.3 15-1.1.3.2.3 16-1.1.3.2.1.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label~e.0)
+           :S (v4 / label~e.1)
+           :A (v5 / label
+                  :C (v6 / label~e.4)
+                  :E (v7 / label
+                         :A (v10 / label
+                                 :C (v13 / label~e.16))
+                         :A (v11 / label
+                                 :C (v14 / label
+                                         :C (v17 / label~e.7))
+                                 :N (v15 / label~e.8)
+                                 :C (v16 / label
+                                         :E (v18 / label
+                                                 :A (v19 / label~e.14)
+                                                 :R (v20 / label~e.10)
+                                                 :A (v21 / label~e.11,12)
+                                                 :S (v22 / label~e.13))
+                                         :C v19))
+                         :S (v12 / label~e.15))
+                  :E (v8 / label~e.2)
+                  :E (v9 / label~e.3))))

@@ -1,0 +1,38 @@
+# ::id 25730019
+# ::tok Als wir im Ankleide zimmer waren , sah ich , dass weder meine Gefährten noch irgend jemand von der Bemannung uns bei diesem Ausflug begleiten sollte .
+# ::alignments 0-1.1 1-1.2.1 2-1.2.2.1 3-1.2.2.2 4-1.2.2.3 5-1.2.3 7-1.3.2 8-1.3.3 10-1.3.4.1 11-1.3.4.2.1 12-1.3.4.2.2.1 13-1.3.4.2.2.2 14-1.3.4.2.1 15-1.3.4.2.3.1.1 16-1.3.4.2.3.1.2 17-1.3.4.2.3.2 19-1.3.4.2.3.4 20-1.3.4.3 21-1.3.4.4.2 22-1.3.4.4.3.1 23-1.3.4.4.3.2 24-1.3.4.5 25-1.3.4.6
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :A (v5 / label~e.1)
+           :A (v6 / label
+                  :R (v11 / label~e.2)
+                  :E (v12 / label~e.3)
+                  :C (v13 / label~e.4))
+           :S (v7 / label~e.5))
+    :H (v4 / label
+           :P (v8 / label~e.7)
+           :A (v9 / label~e.8)
+           :A (v10 / label
+                   :R (v14 / label~e.10)
+                   :A (v15 / label
+                           :N (v20 / label~e.11,14)
+                           :C (v21 / label
+                                   :E (v26 / label~e.12)
+                                   :C (v27 / label~e.13))
+                           :C (v22 / label
+                                   :E (v28 / label
+                                           :Q (v33 / label~e.15)
+                                           :C (v34 / label~e.16))
+                                   :R (v29 / label~e.17)
+                                   :C (v30 / label~e.19)))
+                   :A (v16 / label~e.20)
+                   :A (v17 / label
+                           :A (v23 / label)
+                           :R (v24 / label~e.21)
+                           :P (v25 / label
+                                   :E (v31 / label~e.22)
+                                   :C (v32 / label~e.23)))
+                   :P (v18 / label~e.24)
+                   :D (v19 / label~e.25))))

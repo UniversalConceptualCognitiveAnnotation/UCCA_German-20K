@@ -1,0 +1,95 @@
+# ::id 25727006
+# ::tok Ich fahre fort . Hören Sie , was vorging . Die Kaufmannschaft zu Cadiz hatte ein Privileg , wonach alle Waren aus Westindien dort mußten ausgeladen werden . Diesem Vorrecht also widersprach es , dass man die Goldbarren zu Vigo auslud . Auf ihre Beschwerde gewährte ihnen der schwache Philipp V . , dass die Sendung , ohne ausgeladen zu werden , auf der Reede zu Vigo in Sequester bleiben sollte , bis die feindlichen Flotten sich wieder entfernt haben würden .
+# ::alignments 0-1.1.3.9.1 1-1.1.3.9.2 2-1.1.3.9.2 4-1.1.3.10.1 5-1.1.3.10.2 7-1.1.3.10.3.1 8-1.1.3.10.3.2.2 11-1.1.3.11.1.2 12-1.1.3.11.1.3.1 13-1.1.3.11.1.3.2 14-1.1.3.11.2 16-1.1.3.11.3.3 18-1.1.3.11.3.4.2 19-1.1.3.11.3.4.3.1 20-1.1.3.11.3.4.3.2 21-1.1.3.11.3.4.3.3.2 22-1.1.3.11.3.4.3.3.1 23-1.1.3.11.3.4.4 24-1.1.3.11.3.4.5 25-1.1.3.11.3.4.6 28-1.1.3.1.2.1 29-1.1.3.1.2.2 31-1.1.3.1.4 34-1.1.3.1.6.1 35-1.1.3.1.6.2 37-1.1.3.1.6.3.2 38-1.1.3.1.6.4.1 39-1.1.3.1.6.4.2 40-1.1.3.1.6.5 42-1.1.3.3 43-1.1.3.6.1 44-1.1.3.6.2 45-1.1.3.8.3 46-1.1.3.8.4 48-1.1.3.8.5.2 49-1.1.3.8.5.3 50-1.1.3.8.5.3 53-1.1.3.8.6.3 55-1.1.3.8.6.6.6 57-1.1.3.8.6.5 58-1.1.3.8.6.6.3 62-1.1.3.8.6.4.2.1.1 64-1.1.3.8.6.4.2.1.3 65-1.1.3.8.6.4.2.2 66-1.1.3.8.6.4.2.3 67-1.1.3.8.6.4.3.1 68-1.1.3.8.6.4.3.2 69-1.1.3.8.6.4.4 70-1.1.3.8.6.4.5 72-1.1.3.8.6.7 74-1.1.3.8.6.8.2.2 75-1.1.3.8.6.8.2.3 77-1.1.3.8.6.8.4 78-1.1.3.8.6.8.3.2 80-1.1.3.8.6.8.6
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :P (v3 / label)
+           :A (v4 / label)
+           :A (v5 / label
+                  :H (v6 / label
+                         :A (v13 / label
+                                 :E (v30 / label~e.28)
+                                 :C (v31 / label~e.29))
+                         :P (v14 / label~e.31)
+                         :A (v15 / label
+                                 :R (v32 / label~e.34)
+                                 :A (v33 / label~e.35)
+                                 :A (v34 / label
+                                         :C (v51 / label~e.37))
+                                 :A (v35 / label
+                                         :R (v52 / label~e.38)
+                                         :C (v53 / label~e.39))
+                                 :P (v36 / label~e.40)))
+                  :L (v7 / label~e.42)
+                  :H (v8 / label
+                         :A (v16 / label~e.43)
+                         :P (v17 / label~e.44))
+                  :H (v9 / label
+                         :P (v18 / label~e.45)
+                         :A (v19 / label~e.46)
+                         :A (v20 / label
+                                 :E (v37 / label~e.48)
+                                 :C (v38 / label~e.49,50))
+                         :A (v21 / label
+                                 :R (v39 / label~e.53)
+                                 :H (v40 / label
+                                         :A (v54 / label
+                                                 :C (v60 / label~e.55))
+                                         :A (v55 / label
+                                                 :E (v73 / label
+                                                         :R (v84 / label~e.62)
+                                                         :C (v85 / label~e.64))
+                                                 :R (v74 / label~e.65)
+                                                 :C (v75 / label~e.66))
+                                         :A (v56 / label
+                                                 :R (v76 / label~e.67)
+                                                 :C (v77 / label~e.68))
+                                         :S (v57 / label~e.69)
+                                         :D (v58 / label~e.70))
+                                 :L (v41 / label~e.57)
+                                 :H (v42 / label
+                                         :D v41
+                                         :P (v59 / label~e.58)
+                                         :A v60)
+                                 :L (v43 / label~e.72)
+                                 :H (v44 / label
+                                         :A (v61 / label
+                                                 :E (v78 / label~e.74)
+                                                 :C (v79 / label~e.75))
+                                         :S (v62 / label
+                                                 :C (v80 / label~e.78))
+                                         :D (v63 / label~e.77)
+                                         :D (v64 / label~e.80))))
+                  :H (v10 / label
+                          :A (v22 / label~e.0)
+                          :P (v23 / label~e.1,2))
+                  :H (v11 / label
+                          :P (v24 / label~e.4)
+                          :A (v25 / label~e.5)
+                          :A (v26 / label
+                                  :C (v45 / label~e.7)
+                                  :E (v46 / label
+                                          :A v45
+                                          :P (v65 / label~e.8))))
+                  :H (v12 / label
+                          :A (v27 / label
+                                  :C (v47 / label~e.11)
+                                  :E (v48 / label
+                                          :R (v66 / label~e.12)
+                                          :C (v67 / label~e.13)))
+                          :S (v28 / label~e.14)
+                          :A (v29 / label
+                                  :C (v49 / label~e.16)
+                                  :E (v50 / label
+                                          :A v49
+                                          :R (v68 / label~e.18)
+                                          :A (v69 / label
+                                                  :Q (v81 / label~e.19)
+                                                  :C (v82 / label~e.20)
+                                                  :E (v83 / label
+                                                          :C (v86 / label~e.22)
+                                                          :R (v87 / label~e.21)))
+                                          :A (v70 / label~e.23)
+                                          :D (v71 / label~e.24)
+                                          :S (v72 / label~e.25)))))))

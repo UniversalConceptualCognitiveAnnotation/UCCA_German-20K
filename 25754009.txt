@@ -1,0 +1,15 @@
+# ::id 25754009
+# ::tok Wollte sie zu dem Pol dringen , das wäre unsinnig gewesen .
+# ::alignments 0-1.1.3.1 1-1.1.3.2 2-1.1.3.3.1 4-1.1.3.3.3 5-1.1.3.4 8-1.1.5 9-1.1.6
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :D (v6 / label~e.0)
+                  :A (v7 / label~e.1)
+                  :A (v8 / label
+                         :R (v10 / label~e.2)
+                         :C (v11 / label~e.4))
+                  :P (v9 / label~e.5))
+           :D (v4 / label~e.8)
+           :S (v5 / label~e.9)))

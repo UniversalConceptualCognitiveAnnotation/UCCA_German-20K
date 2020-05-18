@@ -1,0 +1,20 @@
+# ::id 25734019
+# ::tok Wir waren auf einer ersten Hochfläche angelangt , wo andere Überraschungen meiner harrten .
+# ::alignments 0-1.1.2 2-1.1.4.5 4-1.1.4.2 5-1.1.4.3 6-1.1.5 8-1.1.4.4.2 9-1.1.4.4.3.1 10-1.1.4.4.3.2 11-1.1.4.4.4 12-1.1.4.4.5
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label~e.0)
+           :A (v4 / label
+                  :E (v6 / label~e.4)
+                  :C (v7 / label~e.5)
+                  :E (v8 / label
+                         :A v7
+                         :R (v10 / label~e.8)
+                         :A (v11 / label
+                                 :E (v14 / label~e.9)
+                                 :C (v15 / label~e.10))
+                         :A (v12 / label~e.11)
+                         :P (v13 / label~e.12))
+                  :R (v9 / label~e.2))
+           :S (v5 / label~e.6)))

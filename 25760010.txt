@@ -1,0 +1,14 @@
+# ::id 25760010
+# ::tok Aber bald mußten sie seinen Stößen ausweichen .
+# ::alignments 0-1.1 1-1.2.2 2-1.2.3 3-1.2.4 4-1.2.5.1 5-1.2.5.2 6-1.2.6
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :T (v4 / label~e.1)
+           :D (v5 / label~e.2)
+           :A (v6 / label~e.3)
+           :A (v7 / label
+                  :A (v9 / label~e.4)
+                  :P (v10 / label~e.5))
+           :P (v8 / label~e.6)))

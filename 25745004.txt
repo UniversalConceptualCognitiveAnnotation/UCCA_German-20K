@@ -1,0 +1,29 @@
+# ::id 25745004
+# ::tok Hier war die Flora durch ein dichtes Beet Meerfenchel repräsentiert , die kleinen Schirmpflänzchen , die man gern zum Einmachen verwendet .
+# ::alignments 0-1.1.2 3-1.1.4.2 4-1.1.5.1 6-1.1.5.3 7-1.1.5.4 8-1.1.5.5 9-1.1.6 12-1.1.5.6.2 13-1.1.5.6.3 15-1.1.5.6.4.2 16-1.1.5.6.4.3 17-1.1.5.6.4.4 18-1.1.5.6.4.5.2.1 19-1.1.5.6.4.5.2.2 20-1.1.5.6.4.6
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label~e.0)
+           :A (v4 / label
+                  :C (v7 / label~e.3))
+           :A (v5 / label
+                  :R (v8 / label~e.4)
+                  :E (v9 / label~e.6)
+                  :C (v10 / label~e.7)
+                  :E (v11 / label~e.8)
+                  :E (v12 / label
+                          :E (v13 / label~e.12)
+                          :C (v14 / label~e.13)
+                          :E (v15 / label
+                                  :A v14
+                                  :R (v16 / label~e.15)
+                                  :A (v17 / label~e.16)
+                                  :D (v18 / label~e.17)
+                                  :A (v19 / label
+                                          :A (v21 / label)
+                                          :P (v22 / label
+                                                  :R (v23 / label~e.18)
+                                                  :C (v24 / label~e.19)))
+                                  :P (v20 / label~e.20))))
+           :P (v6 / label~e.9)))

@@ -1,0 +1,34 @@
+# ::id 25734002
+# ::tok Ein Fehltritt wäre verderblich gewesen auf diesen engen Pfaden neben Abgründen ; aber ich schritt weiter mit festem Tritt und ohne Schwindel .
+# ::alignments 1-1.1.1.1.2 2-1.1.2 3-1.1.3 5-1.1.5.1 6-1.1.5.2 7-1.1.5.3 8-1.1.5.4 9-1.1.6.1 10-1.1.6.2 12-1.2 13-1.3.1 14-1.3.2 15-1.3.2 16-1.4.1.1 17-1.4.2 18-1.4.1.2 19-1.5 20-1.6.1 21-1.6.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v8 / label
+                  :P (v19 / label
+                          :C (v28 / label~e.1)))
+           :D (v9 / label~e.2)
+           :S (v10 / label~e.3)
+           :A (v11 / label
+                   :R (v20 / label~e.5)
+                   :E (v21 / label~e.6)
+                   :E (v22 / label~e.7)
+                   :C (v23 / label~e.8))
+           :A (v12 / label
+                   :R (v24 / label~e.9)
+                   :C (v25 / label~e.10)))
+    :L (v3 / label~e.12)
+    :H (v4 / label
+           :A (v13 / label~e.13)
+           :P (v14 / label~e.14,15))
+    :H (v5 / label
+           :A (v15 / label
+                   :R (v26 / label~e.16)
+                   :C (v27 / label~e.18))
+           :S (v16 / label~e.17)
+           :A v13)
+    :L (v6 / label~e.19)
+    :H (v7 / label
+           :D (v17 / label~e.20)
+           :S (v18 / label~e.21)
+           :A v13))

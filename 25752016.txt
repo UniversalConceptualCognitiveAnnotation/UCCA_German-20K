@@ -1,0 +1,32 @@
+# ::id 25752016
+# ::tok Und dieses solide Fahrzeug hätte ohne Zweifel nachgegeben , wäre es nicht , wie sein Kapitän gesagt hatte , widerstandsfähig gewesen wie ein fester Block .
+# ::alignments 0-1.1 1-1.2.1.1 2-1.2.1.2 3-1.2.1.3 4-1.2.2 5-1.2.3 6-1.2.3 7-1.2.4 9-1.3.1 10-1.3.2 11-1.3.3 13-1.4 14-1.5.1.1 15-1.5.1.2 16-1.5.2 19-1.3.4 21-1.6 22-1.7.1.1 23-1.7.1.2 24-1.7.1.3
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :A (v9 / label
+                  :E (v20 / label~e.1)
+                  :E (v21 / label~e.2)
+                  :C (v22 / label~e.3))
+           :D (v10 / label~e.4)
+           :G (v11 / label~e.5,6)
+           :P (v12 / label~e.7))
+    :H (v4 / label
+           :D (v13 / label~e.9)
+           :A (v14 / label~e.10)
+           :D (v15 / label~e.11)
+           :S (v16 / label~e.19))
+    :L (v5 / label~e.13)
+    :H (v6 / label
+           :A (v17 / label
+                   :A (v23 / label~e.14)
+                   :S (v24 / label~e.15))
+           :P (v18 / label~e.16))
+    :L (v7 / label~e.21)
+    :H (v8 / label
+           :A (v19 / label
+                   :E (v25 / label~e.22)
+                   :E (v26 / label~e.23)
+                   :C (v27 / label~e.24))
+           :S v16))

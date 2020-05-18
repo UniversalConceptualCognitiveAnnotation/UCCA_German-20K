@@ -1,0 +1,14 @@
+# ::id 25752008
+# ::tok Unser Hinabfahren dauerte schon eine Stunde lang .
+# ::alignments 0-1.1.2.1 1-1.1.2.2 3-1.1.4 4-1.1.5.2 5-1.1.5.1 6-1.1.6
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :A (v7 / label~e.0)
+                  :P (v8 / label~e.1))
+           :D (v4 / label~e.3)
+           :T (v5 / label
+                  :C (v9 / label~e.5)
+                  :E (v10 / label~e.4))
+           :S (v6 / label~e.6)))
