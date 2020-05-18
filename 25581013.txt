@@ -1,0 +1,23 @@
+# ::id 25581013
+# ::tok Diesen ganzen Tag über wurde ich nicht mit einem Besuch von Kapitän Nemo beehrt .
+# ::alignments 0-1.1.2.1 1-1.1.2.2 2-1.1.2.3 3-1.1.2.4 5-1.1.4 6-1.1.5 7-1.1.6.1 9-1.1.6.2.2 10-1.1.6.3.1 11-1.1.6.3.2.1 12-1.1.6.3.3 13-1.1.7
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :T (v3 / label
+                  :E (v8 / label~e.0)
+                  :E (v9 / label~e.1)
+                  :C (v10 / label~e.2)
+                  :R (v11 / label~e.3))
+           :A (v4 / label~e.5)
+           :D (v5 / label~e.6)
+           :A (v6 / label
+                  :R (v12 / label~e.7)
+                  :P (v13 / label
+                          :C (v15 / label~e.9))
+                  :A (v14 / label
+                          :R (v16 / label~e.10)
+                          :E (v17 / label
+                                  :P (v19 / label~e.11))
+                          :C (v18 / label~e.12)))
+           :S (v7 / label~e.13)))

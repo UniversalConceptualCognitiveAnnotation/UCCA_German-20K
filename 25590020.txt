@@ -1,0 +1,23 @@
+# ::id 25590020
+# ::tok Weder Pinsel noch Feder reichen aus , die diesem Element eigentümlichen Erscheinungen darzustellen .
+# ::alignments 0-1.1.1.1 1-1.1.1.2.1 2-1.1.1.2.2 3-1.1.1.2.3 4-1.1.2 5-1.1.2 8-1.2.3.1.1 9-1.2.3.1.2 10-1.2.3.2 11-1.2.3.3.2 12-1.2.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label
+                  :Q (v9 / label~e.0)
+                  :C (v10 / label
+                          :C (v14 / label~e.1)
+                          :N (v15 / label~e.2)
+                          :C (v16 / label~e.3)))
+           :S (v5 / label~e.4,5))
+    :H (v3 / label
+           :A (v6 / label)
+           :A (v7 / label
+                  :A (v11 / label
+                          :E (v17 / label~e.8)
+                          :C (v18 / label~e.9))
+                  :D (v12 / label~e.10)
+                  :P (v13 / label
+                          :C (v19 / label~e.11)))
+           :P (v8 / label~e.12)))

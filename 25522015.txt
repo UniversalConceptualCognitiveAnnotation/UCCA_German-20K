@@ -1,0 +1,13 @@
+# ::id 25522015
+# ::tok Von der ›Abraham Lincoln‹ keine Spur .
+# ::alignments 0-1.1.2.3 2-1.1.2.2 3-1.1.2.2 4-1.1.3.2 5-1.1.3.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :S (v3 / label)
+           :A (v4 / label
+                  :C (v6 / label~e.2,3)
+                  :R (v7 / label~e.0))
+           :A (v5 / label
+                  :Q (v8 / label~e.4)
+                  :C (v9 / label~e.5))))

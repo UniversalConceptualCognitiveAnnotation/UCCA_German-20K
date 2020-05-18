@@ -1,0 +1,41 @@
+# ::id 25511002
+# ::tok Es ist wunderbar « , erwiderte ich , » und ich sehe wohl , Kapitän , dass Sie Grund hatten , dieses Agens zu gebrauchen , dem es bestimmt ist , Wind , Wasser und Dampf zu ersetzen . « »
+# ::alignments 0-1.1.5.1.1 2-1.1.5.1.3 5-1.1.6 6-1.1.7 9-1.1.5.2 10-1.1.5.3.1 11-1.1.5.3.2 12-1.1.5.3.3 14-1.1.5.3.4 16-1.1.5.3.5.1 17-1.1.5.3.5.2 18-1.1.5.3.5.3.1 21-1.1.5.3.5.4.2.1 22-1.1.5.3.5.4.2.2 24-1.1.5.3.5.4.4 26-1.1.5.3.5.4.2.3.2 28-1.1.5.3.5.4.2.3.4 31-1.1.5.3.5.4.2.3.6.2.1 33-1.1.5.3.5.4.2.3.6.2.2 34-1.1.5.3.5.4.2.3.6.2.3 35-1.1.5.3.5.4.2.3.6.2.4 37-1.1.5.3.5.4.2.3.6.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :H (v6 / label
+                         :A (v9 / label~e.0)
+                         :S (v10 / label~e.2))
+                  :L (v7 / label~e.9)
+                  :H (v8 / label
+                         :A (v11 / label~e.10)
+                         :P (v12 / label~e.11)
+                         :G (v13 / label~e.12)
+                         :G (v14 / label~e.14)
+                         :A (v15 / label
+                                 :R (v16 / label~e.16)
+                                 :A (v17 / label~e.17)
+                                 :S (v18 / label
+                                         :C (v20 / label~e.18))
+                                 :A (v19 / label
+                                         :A v17
+                                         :A (v21 / label
+                                                 :E (v23 / label~e.21)
+                                                 :C (v24 / label~e.22)
+                                                 :E (v25 / label
+                                                         :A v24
+                                                         :R (v26 / label~e.26)
+                                                         :S (v27 / label~e.28)
+                                                         :A (v28 / label
+                                                                 :A v24
+                                                                 :A (v29 / label
+                                                                         :C (v31 / label~e.31)
+                                                                         :C (v32 / label~e.33)
+                                                                         :N (v33 / label~e.34)
+                                                                         :C (v34 / label~e.35))
+                                                                 :P (v30 / label~e.37))))
+                                         :P (v22 / label~e.24)))))
+           :P (v4 / label~e.5)
+           :A (v5 / label~e.6)))

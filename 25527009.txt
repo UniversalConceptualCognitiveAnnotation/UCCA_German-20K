@@ -1,0 +1,22 @@
+# ::id 25527009
+# ::tok Aber die Fische ? « bemerkte der Kanadier . » Ich sehe keine Fische ! « »
+# ::alignments 0-1.1.5.1 2-1.1.5.2.2.2 5-1.1.6 7-1.1.7.1.2 10-1.1.5.3.1 11-1.1.5.3.2 12-1.1.5.3.3.1 13-1.1.5.3.3.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :L (v6 / label~e.0)
+                  :H (v7 / label
+                         :S (v10 / label)
+                         :A (v11 / label
+                                 :C (v16 / label~e.2)))
+                  :H (v8 / label
+                         :A (v12 / label~e.10)
+                         :P (v13 / label~e.11)
+                         :A (v14 / label
+                                 :Q (v17 / label~e.12)
+                                 :C (v18 / label~e.13))))
+           :P (v4 / label~e.5)
+           :A (v5 / label
+                  :A (v9 / label
+                         :C (v15 / label~e.7)))))

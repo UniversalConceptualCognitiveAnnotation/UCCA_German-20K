@@ -1,0 +1,92 @@
+# ::id 25509004
+# ::tok Sie kennen die Bestandteile des Meer wassers . Von 1.000 Gramm sind 96 1 / 2 Prozent Wasser , etwa 2 2 / 3 Chlorsodium ; sodann in geringer Quantität Chlor-Magnesium und salzsaures Kali , Brom-Magnesium , schwefelsaures Magnesium , schwefelsaurer und kohlensaurer Kalk . Sie sehen also , dass Chlorsodium in ansehnlichem Verhältnis sich dabei befindet . Dieses Sodium nun ziehe ich aus dem Wasser und bereite daraus meine Elemente . « »
+# ::alignments 0-1.1.3.16.1 1-1.1.3.16.2 3-1.1.3.16.3.2 4-1.1.3.16.3.3.1 5-1.1.3.16.3.3.2 6-1.1.3.16.3.3.3 8-1.1.3.1.1.1 9-1.1.3.1.1.2 10-1.1.3.1.1.3 11-1.1.3.1.2 12-1.1.3.1.3.1 13-1.1.3.1.3.1 15-1.1.3.1.3.1 16-1.1.3.1.3.2 17-1.1.3.1.4 19-1.1.3.7.1 20-1.1.3.7.2.1 21-1.1.3.7.2.1 23-1.1.3.7.2.1 24-1.1.3.7.3 26-1.1.3.8 27-1.1.3.9.2.1 28-1.1.3.9.2.2 29-1.1.3.9.2.3 30-1.1.3.9.3.4 31-1.1.3.9.3.5 32-1.1.3.9.3.6.1 33-1.1.3.9.3.6.2 35-1.1.3.9.3.7 37-1.1.3.9.3.8.1 38-1.1.3.9.3.8.2 40-1.1.3.9.3.9 41-1.1.3.9.3.10 42-1.1.3.9.3.11.1 43-1.1.3.9.3.11.2 45-1.1.3.10.1 46-1.1.3.10.2 47-1.1.3.11 49-1.1.3.10.3.1 50-1.1.3.10.3.2 51-1.1.3.10.3.3.1 52-1.1.3.10.3.3.2.2 53-1.1.3.10.3.3.3 54-1.1.3.10.3.4 55-1.1.3.10.3.5 56-1.1.3.10.3.4 58-1.1.3.12.1.1 59-1.1.3.12.1.2 60-1.1.3.12.2 61-1.1.3.12.3 62-1.1.3.12.4 63-1.1.3.12.5.1 65-1.1.3.12.5.3 66-1.1.3.13 67-1.1.3.14.1 68-1.1.3.14.2 69-1.1.3.14.3.4.2 70-1.1.3.14.3.5
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :P (v4 / label)
+           :A (v5 / label
+                  :H (v6 / label
+                         :A (v16 / label
+                                 :R (v40 / label~e.8)
+                                 :Q (v41 / label~e.9)
+                                 :C (v42 / label~e.10))
+                         :S (v17 / label~e.11)
+                         :A (v18 / label
+                                 :Q (v43 / label~e.12,13,15)
+                                 :C (v44 / label~e.16))
+                         :A (v19 / label~e.17))
+                  :H (v7 / label
+                         :D (v20 / label~e.19)
+                         :A (v21 / label
+                                 :Q (v45 / label~e.20,21,23)
+                                 :C v44)
+                         :A (v22 / label~e.24)
+                         :S v17)
+                  :L (v8 / label~e.26)
+                  :H (v9 / label
+                         :S (v23 / label)
+                         :A (v24 / label
+                                 :R (v46 / label~e.27)
+                                 :E (v47 / label~e.28)
+                                 :C (v48 / label~e.29))
+                         :A (v25 / label
+                                 :C (v49 / label~e.30)
+                                 :N (v50 / label~e.31)
+                                 :C (v51 / label
+                                         :E (v70 / label~e.32)
+                                         :C (v71 / label~e.33))
+                                 :C (v52 / label~e.35)
+                                 :C (v53 / label
+                                         :E (v72 / label~e.37)
+                                         :C (v73 / label~e.38))
+                                 :C (v54 / label~e.40)
+                                 :N (v55 / label~e.41)
+                                 :C (v56 / label
+                                         :E (v74 / label~e.42)
+                                         :C (v75 / label~e.43))))
+                  :H (v10 / label
+                          :A (v26 / label~e.45)
+                          :P (v27 / label~e.46)
+                          :A (v28 / label
+                                  :R (v57 / label~e.49)
+                                  :A (v58 / label~e.50)
+                                  :D (v59 / label
+                                          :R (v76 / label~e.51)
+                                          :E (v77 / label
+                                                  :A (v78 / label~e.53)
+                                                  :S (v83 / label~e.52))
+                                          :C v78)
+                                  :S (v60 / label~e.54,56)
+                                  :A (v61 / label~e.55)))
+                  :L (v11 / label~e.47)
+                  :H (v12 / label
+                          :A (v29 / label
+                                  :E (v62 / label~e.58)
+                                  :C (v63 / label~e.59))
+                          :D (v30 / label~e.60)
+                          :P (v31 / label~e.61)
+                          :A (v32 / label~e.62)
+                          :A (v33 / label
+                                  :R (v64 / label~e.63)
+                                  :C (v65 / label~e.65)))
+                  :L (v13 / label~e.66)
+                  :H (v14 / label
+                          :P (v34 / label~e.67)
+                          :A (v35 / label~e.68)
+                          :A (v36 / label
+                                  :E (v66 / label
+                                          :A (v67 / label~e.70)
+                                          :A (v79 / label~e.69))
+                                  :C v67)
+                          :A v32)
+                  :H (v15 / label
+                          :A (v37 / label~e.0)
+                          :S (v38 / label~e.1)
+                          :A (v39 / label
+                                  :C (v68 / label~e.3)
+                                  :E (v69 / label
+                                          :R (v80 / label~e.4)
+                                          :E (v81 / label~e.5)
+                                          :C (v82 / label~e.6)))))))

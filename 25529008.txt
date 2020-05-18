@@ -1,0 +1,53 @@
+# ::id 25529008
+# ::tok Ah , Freund Conseil , Sie haben das Beste bis zuletzt aufgehoben . « » Ja , wackerer Ned « , erwiderte Conseil . » Merken Sie aber , hiermit weiß man nichts , denn die Familien teilen sich in Gattungen , Arten , Varietäten . « »
+# ::alignments 0-1.1.3.1 2-1.1.3.2.1.1 3-1.1.3.2.2 5-1.1.3.3 8-1.1.3.5.2 9-1.1.3.6.1 10-1.1.3.6.2 11-1.1.3.7 15-1.2.1.1.1 17-1.2.1.1.2.1.2 18-1.2.1.1.2.2 21-1.2.6 22-1.2.7 25-1.2.1.2.1 26-1.2.1.2.2 27-1.2.1.3 29-1.2.1.2.3.1 30-1.2.1.2.3.2 31-1.2.1.2.3.3 32-1.2.1.2.3.4 34-1.2.1.4 36-1.2.1.5.1.2 37-1.2.1.5.2 38-1.2.1.5.2 39-1.2.1.5.3.1 40-1.2.1.5.3.2 42-1.2.1.5.3.3 44-1.2.1.5.3.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :P (v4 / label)
+           :A (v5 / label)
+           :A (v6 / label
+                  :G (v10 / label~e.0)
+                  :G (v11 / label
+                          :E (v21 / label
+                                  :S (v34 / label~e.2))
+                          :C (v22 / label~e.3))
+                  :A (v12 / label~e.5)
+                  :A (v13 / label
+                          :C (v23 / label~e.8))
+                  :D (v14 / label
+                          :R (v24 / label~e.9)
+                          :C (v25 / label~e.10))
+                  :P (v15 / label~e.11)))
+    :H (v3 / label
+           :A (v7 / label
+                  :H (v16 / label
+                          :G (v26 / label~e.15)
+                          :G (v27 / label
+                                  :E (v35 / label
+                                          :A (v36 / label~e.18)
+                                          :S (v46 / label~e.17))
+                                  :C v36)
+                          :P v15
+                          :A v23)
+                  :H (v17 / label
+                          :P (v28 / label~e.25)
+                          :A (v29 / label~e.26)
+                          :A (v30 / label
+                                  :A (v37 / label~e.29)
+                                  :S (v38 / label~e.30)
+                                  :A (v39 / label~e.31)
+                                  :D (v40 / label~e.32)))
+                  :L (v18 / label~e.27)
+                  :L (v19 / label~e.34)
+                  :H (v20 / label
+                          :A (v31 / label
+                                  :C (v41 / label~e.36))
+                          :S (v32 / label~e.37,38)
+                          :A (v33 / label
+                                  :R (v42 / label~e.39)
+                                  :C (v43 / label~e.40)
+                                  :C (v44 / label~e.42)
+                                  :C (v45 / label~e.44))))
+           :P (v8 / label~e.21)
+           :A (v9 / label~e.22)))
