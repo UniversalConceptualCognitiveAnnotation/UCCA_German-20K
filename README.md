@@ -1,10 +1,10 @@
 UCCA-Annotated German Corpus
 ============================
-Version 1.0.1 (September 23, 2018)
+Version 1.1 (May 21, 2020)
 ----------------------------------
 
-This bundle contains 367 passages annotated according to the foundational layer of UCCA.
-The total number of tokens in this corpus is 144531.
+This bundle contains 248 passages annotated according to the foundational layer of UCCA.
+The total number of tokens in this corpus is 88716.
 
 
 Corpus:
@@ -20,7 +20,7 @@ Format and Source Code:
 ----------------------
 
 Information about the format of the xml files and source code for reading and manipulating them are
-available at http://www.cs.huji.ac.il/~oabend/ucca.html.
+available at https://universalconceptualcognitiveannotation.github.io
 
 Known Issues:
 -------------
