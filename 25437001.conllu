@@ -1,0 +1,29 @@
+# format = ucca
+# sent_id = 25437001
+# text = Ja , mein Junge . Mach dich fertig , hilf mir , mich fertig machen . In 2 Stunden reisen wir ab . « »
+1	Ja	_	Word	Word	_	0	H	0:H	_
+2	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+3	mein	_	Word	Word	_	4	E	4:E	_
+4	Junge	_	Word	Word	_	1	G	1:G|6:A|10:A	_
+5	.	_	Punctuation	Punctuation	_	6	U	6:U	_
+6	Mach	_	Word	Word	_	1	H	1:H	_
+7	dich	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	fertig	_	Word	Word	_	6	Terminal	6:Terminal	_
+9	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+10	hilf	_	Word	Word	_	1	H	1:H	_
+11	mir	_	Word	Word	_	10	A	10:A	_
+12	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+13	mich	_	Word	Word	_	10	A	10:A	_
+14	fertig	_	Word	Word	_	13	Terminal	13:Terminal	_
+15	machen	_	Word	Word	_	13	Terminal	13:Terminal	_
+16	.	_	Punctuation	Punctuation	_	1	U	1:U	_
+17	In	_	Word	Word	_	19	R	19:R	_
+18	2	_	Word	Word	_	19	Q	19:Q	_
+19	Stunden	_	Word	Word	_	20	T	20:T	_
+20	reisen	_	Word	Word	_	1	H	1:H	_
+21	wir	_	Word	Word	_	20	A	20:A	_
+22	ab	_	Word	Word	_	20	Terminal	20:Terminal	_
+23	.	_	Punctuation	Punctuation	_	20	U	20:U	_
+24	«	_	Punctuation	Punctuation	_	20	U	20:U	_
+25	»	_	Punctuation	Punctuation	_	20	U	20:U	_
+
