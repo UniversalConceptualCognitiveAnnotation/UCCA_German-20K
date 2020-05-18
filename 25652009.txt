@@ -1,0 +1,22 @@
+# ::id 25652009
+# ::tok Die merkwürdige Substanz wurde der Reihe nach dem Mineral- , dem Pflanzen- und dem Tier reich zugezählt .
+# ::alignments 1-1.1.2.2.2 2-1.1.2.3 4-1.1.4 5-1.1.4 6-1.1.4 8-1.1.5.5.2 11-1.1.5.1.2 12-1.1.5.2 14-1.1.5.3.2 15-1.1.5.3.3 16-1.1.6
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v7 / label
+                         :A (v8 / label~e.2)
+                         :S (v13 / label~e.1))
+                  :C v8)
+           :D (v4 / label~e.4,5,6)
+           :A (v5 / label
+                  :C (v9 / label
+                         :C (v14 / label~e.11))
+                  :N (v10 / label~e.12)
+                  :C (v11 / label
+                          :E (v15 / label~e.14)
+                          :C (v16 / label~e.15))
+                  :C (v12 / label
+                          :C (v17 / label~e.8)))
+           :P (v6 / label~e.16)))

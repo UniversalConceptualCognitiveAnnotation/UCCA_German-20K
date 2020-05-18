@@ -1,0 +1,17 @@
+# ::id 25631006
+# ::tok Aber er begnügte sich mit einem Dutzend dieser interessanten Tiere .
+# ::alignments 0-1.1 1-1.2.1 2-1.2.2 3-1.2.2 4-1.2.3.5 5-1.2.3.6 6-1.2.3.6 7-1.2.3.1 8-1.2.3.2.2 9-1.2.3.3
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :A (v4 / label~e.1)
+           :P (v5 / label~e.2,3)
+           :A (v6 / label
+                  :E (v7 / label~e.7)
+                  :E (v8 / label
+                         :A (v9 / label~e.9)
+                         :S (v12 / label~e.8))
+                  :C v9
+                  :R (v10 / label~e.4)
+                  :Q (v11 / label~e.5,6))))

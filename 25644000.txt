@@ -1,0 +1,26 @@
+# ::id 25644000
+# ::tok Am 16 . Januar schien die " Nautilus " , nur einige Meter unter dem Meeres spiegel , ein zu schlafen .
+# ::alignments 0-1.1.6.1 1-1.1.6.2.2 3-1.1.6.2.3 4-1.1.7 7-1.1.8.2 10-1.1.9 11-1.1.10.2.1 12-1.1.10.2.2 13-1.1.10.2.3.1 15-1.1.10.2.3.3 16-1.1.10.2.3.4 18-1.1.11 20-1.1.11
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :T (v3 / label
+                  :R (v9 / label~e.0)
+                  :C (v10 / label
+                          :C (v14 / label~e.1)
+                          :C (v15 / label~e.3)))
+           :G (v4 / label~e.4)
+           :A (v5 / label
+                  :C (v11 / label~e.7))
+           :D (v6 / label~e.10)
+           :A (v7 / label
+                  :S (v12 / label)
+                  :A (v13 / label
+                          :Q (v16 / label~e.11)
+                          :C (v17 / label~e.12)
+                          :E (v18 / label
+                                  :R (v19 / label~e.13)
+                                  :E (v20 / label~e.15)
+                                  :C (v21 / label~e.16)))
+                  :A v11)
+           :P (v8 / label~e.18,20)))

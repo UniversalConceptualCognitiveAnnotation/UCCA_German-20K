@@ -1,0 +1,24 @@
+# ::id 25650022
+# ::tok Es lag nicht allein eine Quetschung , sondern auch eine Erschütterung des Gehirns vor .
+# ::alignments 1-1.1.2 2-1.1.3.1 3-1.1.3.2 5-1.1.4.1.2 7-1.2.1 8-1.2.2 10-1.3.2.1.2 11-1.3.2.2.1 12-1.3.2.2.2 13-1.1.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :S (v5 / label~e.1,13)
+           :D (v6 / label
+                  :C (v11 / label~e.2)
+                  :C (v12 / label~e.3))
+           :A (v7 / label
+                  :P (v13 / label
+                          :C (v16 / label~e.5))))
+    :L (v3 / label
+           :C (v8 / label~e.7)
+           :C (v9 / label~e.8))
+    :H (v4 / label
+           :S v5
+           :A (v10 / label
+                   :P (v14 / label
+                           :C (v17 / label~e.10))
+                   :A (v15 / label
+                           :R (v18 / label~e.11)
+                           :C (v19 / label~e.12)))))

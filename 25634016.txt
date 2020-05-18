@@ -1,0 +1,72 @@
+# ::id 25634016
+# ::tok Einige Anführer trugen als Zierat am Hals einen Halbmond und Halsbänder von rotem und weißem Glas , fast alle waren mit Bogen , Pfeilen und Schilden bewaffnet und trugen an der Schulter eine Art Netz mit runden Steinen , die sie vermittels einer Schleuder geschickt zu werfen verstehen .
+# ::alignments 0-1.1.1.1 1-1.4.2 2-1.1.2 3-1.1.3.1 4-1.1.3.2 5-1.1.4.1 6-1.1.4.2 8-1.1.5.1.1.2 9-1.1.5.1.2 10-1.1.5.1.3 11-1.1.5.2.1 12-1.1.5.2.2.2.2 13-1.1.5.2.2.1 14-1.1.5.2.2.3.2 15-1.1.5.2.3 17-1.2.1.1 18-1.2.1.2 20-1.2.3.1 21-1.2.3.2 23-1.2.3.3 24-1.2.3.4 25-1.2.3.5 26-1.2.4 27-1.3 28-1.4.1 29-1.4.3.1 31-1.4.3.3 33-1.4.4.1.2 34-1.4.4.2 35-1.4.4.3.1 36-1.4.4.3.2.2 37-1.4.4.3.3 39-1.4.4.3.4.2 40-1.4.4.3.4.3 41-1.4.4.3.4.4.1 43-1.4.4.3.4.4.3 44-1.4.4.3.4.5 46-1.4.4.3.4.7 47-1.4.4.3.4.8
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v6 / label
+                  :Q (v18 / label~e.0)
+                  :C (v15 / label~e.1))
+           :P (v7 / label~e.2)
+           :A (v8 / label
+                  :R (v19 / label~e.3)
+                  :C (v20 / label~e.4))
+           :A (v9 / label
+                  :R (v21 / label~e.5)
+                  :C (v22 / label~e.6))
+           :A (v10 / label
+                   :C (v23 / label
+                           :C (v37 / label
+                                   :C (v48 / label~e.8))
+                           :N (v38 / label~e.9)
+                           :C (v39 / label~e.10))
+                   :E (v24 / label
+                           :R (v40 / label~e.11)
+                           :E (v41 / label
+                                   :L (v49 / label~e.13)
+                                   :H (v50 / label
+                                           :A (v42 / label~e.15)
+                                           :S (v59 / label~e.12))
+                                   :H (v51 / label
+                                           :A v42
+                                           :S (v60 / label~e.14)))
+                           :C v42)))
+    :H (v3 / label
+           :A (v11 / label
+                   :E (v25 / label~e.17)
+                   :Q (v26 / label~e.18)
+                   :C v15)
+           :A (v12 / label
+                   :R (v27 / label~e.20)
+                   :C (v28 / label~e.21)
+                   :C (v29 / label~e.23)
+                   :N (v30 / label~e.24)
+                   :C (v31 / label~e.25))
+           :S (v13 / label~e.26))
+    :L (v4 / label~e.27)
+    :H (v5 / label
+           :P (v14 / label~e.28)
+           :A v15
+           :A (v16 / label
+                   :R (v32 / label~e.29)
+                   :C (v33 / label~e.31))
+           :A (v17 / label
+                   :E (v34 / label
+                           :C (v43 / label~e.33))
+                   :C (v35 / label~e.34)
+                   :E (v36 / label
+                           :R (v44 / label~e.35)
+                           :E (v45 / label
+                                   :A (v46 / label~e.37)
+                                   :S (v52 / label~e.36))
+                           :C v46
+                           :E (v47 / label
+                                   :A v46
+                                   :R (v53 / label~e.39)
+                                   :A (v54 / label~e.40)
+                                   :A (v55 / label
+                                           :R (v61 / label~e.41)
+                                           :C (v62 / label~e.43))
+                                   :D (v56 / label~e.44)
+                                   :P (v57 / label~e.46)
+                                   :D (v58 / label~e.47))))))

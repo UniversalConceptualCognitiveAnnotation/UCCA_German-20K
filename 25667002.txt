@@ -1,0 +1,13 @@
+# ::id 25667002
+# ::tok So ging es 5 Tage lang .
+# ::alignments 0-1.1 1-1.2.1 2-1.2.2 3-1.2.3.3 4-1.2.3.4 5-1.2.3.1
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :P (v4 / label~e.1)
+           :A (v5 / label~e.2)
+           :T (v6 / label
+                  :E (v7 / label~e.5)
+                  :Q (v8 / label~e.3)
+                  :C (v9 / label~e.4))))

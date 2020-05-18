@@ -1,0 +1,63 @@
+# ::id 25623000
+# ::tok » Mein Herr hat recht « , sagte Conseil , » und ich schlage vor , drei Plätze in unserem Boot frei zu halten , einen für Obst , einen zweiten für Gemüse und den dritten für Wildbret , wovon ich noch kein Pröbchen gesehen habe . « »
+# ::alignments 1-1.1.1.1.1.1 2-1.1.1.1.1.2 4-1.1.1.1.3 7-1.1.6 8-1.1.7 11-1.1.1.2 12-1.1.1.3.1 13-1.1.1.3.2 14-1.1.1.3.2 16-1.1.1.3.3.1.1 17-1.1.1.4.1.2 18-1.1.1.3.3.2.1 19-1.1.1.3.3.2.2.2 20-1.1.1.3.3.2.3 21-1.1.1.4.3 23-1.1.1.4.3 25-1.1.1.4.1.1 26-1.1.1.4.2.1 27-1.1.1.4.2.2 30-1.1.1.5.1.2 31-1.1.1.5.2.1 32-1.1.1.5.2.2 33-1.1.1.6 35-1.1.1.7.1.2 36-1.1.1.7.2.1 37-1.1.1.7.2.2 39-1.1.1.7.2.3.2 40-1.1.1.7.2.3.3 41-1.1.1.7.2.3.4 42-1.1.1.7.2.3.5.1 43-1.1.1.7.2.3.5.2 44-1.1.1.7.2.3.6
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :H (v6 / label
+                         :A (v13 / label
+                                 :A (v25 / label~e.1)
+                                 :A (v26 / label~e.2))
+                         :S (v14 / label~e.4))
+                  :L (v7 / label~e.11)
+                  :H (v8 / label
+                         :A (v15 / label~e.12)
+                         :P (v16 / label~e.13,14)
+                         :A (v17 / label
+                                 :A (v27 / label
+                                         :Q (v40 / label~e.16)
+                                         :C (v30 / label~e.17))
+                                 :A (v28 / label
+                                         :R (v41 / label~e.18)
+                                         :E (v42 / label
+                                                 :A (v43 / label~e.20)
+                                                 :A (v49 / label~e.19))
+                                         :C v43)
+                                 :S (v20 / label~e.21,23)))
+                  :H (v9 / label
+                         :A (v18 / label
+                                 :Q (v29 / label~e.25)
+                                 :C v30)
+                         :A (v19 / label
+                                 :R (v31 / label~e.26)
+                                 :C (v32 / label~e.27))
+                         :S v20)
+                  :H (v10 / label
+                          :A (v21 / label
+                                  :Q (v33 / label~e.30)
+                                  :C v30)
+                          :A (v22 / label
+                                  :R (v34 / label~e.31)
+                                  :C (v35 / label~e.32))
+                          :S v20)
+                  :L (v11 / label~e.33)
+                  :H (v12 / label
+                          :A (v23 / label
+                                  :Q (v36 / label~e.35)
+                                  :C v30)
+                          :A (v24 / label
+                                  :R (v37 / label~e.36)
+                                  :C (v38 / label~e.37)
+                                  :E (v39 / label
+                                          :A v38
+                                          :R (v44 / label~e.39)
+                                          :A (v45 / label~e.40)
+                                          :D (v46 / label~e.41)
+                                          :A (v47 / label
+                                                  :Q (v50 / label~e.42)
+                                                  :C (v51 / label~e.43))
+                                          :P (v48 / label~e.44)))
+                          :S v20))
+           :P (v4 / label~e.7)
+           :A (v5 / label~e.8)))

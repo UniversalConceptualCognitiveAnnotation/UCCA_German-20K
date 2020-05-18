@@ -1,0 +1,50 @@
+# ::id 25665003
+# ::tok Ich beruhigte mich nicht bei der Annahme , die Conseil befriedigte , der Kommandant der ›Nautilus‹ sei nur einer der verkannten Gelehrten , die den Menschen ihre Gleichgültigkeit mit Verachtung erwidern .
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.2 3-1.1.4 4-1.1.5.1 6-1.1.5.3.5 8-1.1.5.3.1 9-1.1.5.3.2 10-1.1.5.3.3 13-1.1.6.1.1.1.2 14-1.1.6.1.2.1 15-1.1.6.1.2.2 16-1.1.6.2 17-1.1.6.3 18-1.1.6.4.1.1.2 19-1.1.6.4.2.1 20-1.1.6.4.2.2 21-1.1.6.4.2.3 23-1.1.6.4.3.1 25-1.1.6.4.3.2.2 26-1.1.6.4.3.3.1 27-1.1.6.4.3.3.2 28-1.1.6.4.3.4.1 29-1.1.6.4.3.4.2 30-1.1.6.4.3.5
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label~e.0)
+           :P (v4 / label~e.1,2)
+           :D (v5 / label~e.3)
+           :A (v6 / label
+                  :R (v8 / label~e.4)
+                  :C (v9 / label
+                         :P (v15 / label
+                                 :C (v19 / label~e.6)))
+                  :E (v10 / label
+                          :R (v16 / label~e.8)
+                          :A (v17 / label~e.9)
+                          :S (v18 / label~e.10)
+                          :A v19))
+           :A (v7 / label
+                  :A (v11 / label
+                          :C (v20 / label
+                                  :A (v25 / label
+                                          :C (v37 / label~e.13)))
+                          :E (v21 / label
+                                  :R (v26 / label~e.14)
+                                  :C (v27 / label~e.15)))
+                  :S (v12 / label~e.16)
+                  :D (v13 / label~e.17)
+                  :A (v14 / label
+                          :C (v22 / label
+                                  :A (v28 / label
+                                          :C (v31 / label~e.21)
+                                          :Q (v38 / label~e.18)))
+                          :E (v23 / label
+                                  :R (v29 / label~e.19)
+                                  :D (v30 / label~e.20)
+                                  :A v31)
+                          :E (v24 / label
+                                  :R (v32 / label~e.23)
+                                  :A (v33 / label
+                                          :C (v39 / label~e.25))
+                                  :A (v34 / label
+                                          :A (v40 / label~e.26)
+                                          :S (v41 / label~e.27))
+                                  :A (v35 / label
+                                          :R (v42 / label~e.28)
+                                          :S (v43 / label~e.29))
+                                  :P (v36 / label~e.30)
+                                  :A v31)))))

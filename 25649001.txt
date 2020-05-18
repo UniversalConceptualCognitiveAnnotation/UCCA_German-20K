@@ -1,0 +1,12 @@
+# ::id 25649001
+# ::tok War ich wieder frei oder Gefangener ?
+# ::alignments 1-1.1.3 2-1.1.4 3-1.1.1 4-1.2 5-1.3.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :S (v5 / label~e.3)
+           :A (v6 / label~e.1)
+           :D (v7 / label~e.2))
+    :L (v3 / label~e.4)
+    :H (v4 / label
+           :A (v8 / label~e.5)))

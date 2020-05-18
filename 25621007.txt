@@ -1,0 +1,93 @@
+# ::id 25621007
+# ::tok Fleisch ! « rief er wiederholt . » Nun werden wir wieder Fleisch essen , und was für Fleisch ! Echtes Wildbret ! Allerdings wohl kein Brot ! Ich will nicht sagen , ein Fisch gericht sei nicht etwas Gutes , aber man darf des Guten nicht zu viel tun , und ein Stück frisches Wildbret , über glühenden Kohlen auf dem Rost gebraten , gebe eine angenehme Abwechslung unseres Tischs . « »
+# ::alignments 0-1.1.5.7.1 3-1.1.6 4-1.1.7 5-1.1.8 8-1.1.5.8.1 10-1.1.5.8.3 11-1.1.5.8.4 12-1.1.5.8.5 13-1.1.5.8.6 15-1.1.5.9 16-1.1.5.10.1 17-1.1.5.10.1 18-1.1.5.10.2 20-1.1.5.11.1.1 21-1.1.5.11.1.2 23-1.1.5.12.1 24-1.1.5.12.2 25-1.1.5.12.3.1 26-1.1.5.12.3.2 28-1.1.5.13.2 29-1.1.5.13.3 30-1.1.5.13.4 31-1.1.5.13.5 34-1.1.5.13.6.1.2 35-1.1.5.13.6.1.3 36-1.1.5.13.6.2 37-1.1.5.13.6.3 38-1.1.5.13.6.4.1 39-1.1.5.13.6.4.2 41-1.1.5.14 42-1.1.5.15.1 43-1.1.5.15.2 44-1.1.5.15.3.1 45-1.1.5.15.3.2 46-1.1.5.15.4 47-1.1.5.15.5 48-1.1.5.15.5 49-1.1.5.15.6 51-1.1.5.16 53-1.1.5.17.2.2.2 54-1.1.5.17.2.3.2 55-1.1.5.17.2.4 57-1.1.5.17.2.5.2.1 58-1.1.5.17.2.5.2.2.2 59-1.1.5.17.2.5.2.3 60-1.1.5.17.2.5.3.1 62-1.1.5.17.2.5.3.3 63-1.1.5.17.2.5.4 65-1.1.5.17.3 67-1.1.5.17.5 68-1.1.5.17.4.2 69-1.1.5.17.6.4.2 70-1.1.5.17.6.5
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :H (v7 / label
+                         :A (v18 / label~e.0)
+                         :S (v19 / label))
+                  :H (v8 / label
+                         :T (v20 / label~e.8)
+                         :A (v21 / label~e.10)
+                         :D (v22 / label~e.11)
+                         :A (v23 / label~e.12)
+                         :P (v24 / label~e.13))
+                  :L (v9 / label~e.15)
+                  :H (v10 / label
+                          :D (v25 / label~e.16,17)
+                          :A (v26 / label~e.18)
+                          :A v21
+                          :P v24)
+                  :H (v11 / label
+                          :A (v27 / label
+                                  :E (v47 / label~e.20)
+                                  :C (v48 / label~e.21))
+                          :A v21
+                          :P v24)
+                  :H (v12 / label
+                          :G (v28 / label~e.23)
+                          :G (v29 / label~e.24)
+                          :A (v30 / label
+                                  :Q (v49 / label~e.25)
+                                  :C (v50 / label~e.26))
+                          :A v21
+                          :P v24)
+                  :H (v13 / label
+                          :A (v31 / label~e.28)
+                          :D (v32 / label~e.29)
+                          :D (v33 / label~e.30)
+                          :P (v34 / label~e.31)
+                          :A (v35 / label
+                                  :A (v51 / label
+                                          :E (v64 / label~e.34)
+                                          :C (v65 / label~e.35))
+                                  :S (v52 / label~e.36)
+                                  :D (v53 / label~e.37)
+                                  :A (v54 / label
+                                          :A (v66 / label~e.38)
+                                          :S (v67 / label~e.39))))
+                  :L (v14 / label~e.41)
+                  :H (v15 / label
+                          :A (v36 / label~e.42)
+                          :D (v37 / label~e.43)
+                          :A (v38 / label
+                                  :R (v55 / label~e.44)
+                                  :C (v56 / label~e.45))
+                          :D (v39 / label~e.46)
+                          :D (v40 / label~e.47,48)
+                          :P (v41 / label~e.49))
+                  :L (v16 / label~e.51)
+                  :H (v17 / label
+                          :A (v42 / label
+                                  :Q (v57 / label
+                                          :C (v68 / label~e.53))
+                                  :E (v58 / label
+                                          :A (v59 / label~e.55)
+                                          :S (v69 / label~e.54))
+                                  :C v59
+                                  :E (v60 / label
+                                          :A v59
+                                          :A (v70 / label
+                                                  :R (v74 / label~e.57)
+                                                  :E (v75 / label
+                                                          :A (v76 / label~e.59)
+                                                          :S (v79 / label~e.58))
+                                                  :C v76)
+                                          :A (v71 / label
+                                                  :R (v77 / label~e.60)
+                                                  :C (v78 / label~e.62))
+                                          :P (v72 / label~e.63)))
+                          :D (v43 / label~e.65)
+                          :S (v44 / label
+                                  :C (v61 / label~e.68))
+                          :D (v45 / label~e.67)
+                          :A (v46 / label
+                                  :E (v62 / label
+                                          :A (v63 / label~e.70)
+                                          :A (v73 / label~e.69))
+                                  :C v63)))
+           :P (v4 / label~e.3)
+           :A (v5 / label~e.4)
+           :D (v6 / label~e.5)))

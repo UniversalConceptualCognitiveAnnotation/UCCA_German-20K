@@ -1,0 +1,23 @@
+# ::id 25651021
+# ::tok Herr Professor « , sagte er , » belieben Sie heute einen Ausflug unterm Meer mit zu machen ? « »
+# ::alignments 0-1.1.5.1.1 1-1.1.5.1.2.1 4-1.1.6 5-1.1.7 8-1.1.5.2 9-1.1.5.3 10-1.1.5.4 12-1.1.5.5.1.2 13-1.1.5.5.2.1 14-1.1.5.5.2.2 15-1.1.5.6 17-1.1.5.6
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :G (v6 / label
+                         :E (v12 / label~e.0)
+                         :C (v13 / label
+                                 :A (v16 / label~e.1)))
+                  :D (v7 / label~e.8)
+                  :A (v8 / label~e.9)
+                  :T (v9 / label~e.10)
+                  :A (v10 / label
+                          :P (v14 / label
+                                  :C (v17 / label~e.12))
+                          :A (v15 / label
+                                  :R (v18 / label~e.13)
+                                  :C (v19 / label~e.14)))
+                  :P (v11 / label~e.15,17))
+           :P (v4 / label~e.4)
+           :A (v5 / label~e.5)))

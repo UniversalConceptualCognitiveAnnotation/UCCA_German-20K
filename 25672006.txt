@@ -1,0 +1,52 @@
+# ::id 25672006
+# ::tok Der Kapitän warf einen Blick auf die Karte und sagte zu mir : » Die Insel Ceylon ist durch ihre Perlen fischereien berühmt ? Würde es Ihnen angenehm sein , Herr Arronax , eine solche Fischerei zu besuchen ? « » Jawohl , Kapitän . « »
+# ::alignments 1-1.1.1.1.2 2-1.1.2 4-1.1.3.2 5-1.1.4.1 7-1.1.4.3 8-1.2 9-1.3.1 10-1.3.2.1 11-1.3.2.2 15-1.3.3.1.1.2 16-1.3.3.1.1.3 18-1.3.3.1.3.1 19-1.3.3.1.3.2 20-1.3.3.1.3.3.1 21-1.3.3.1.3.3.2 22-1.3.3.1.4 24-1.3.3.2.1 26-1.3.3.2.3 27-1.3.3.2.4 30-1.3.3.2.6.1 31-1.3.3.2.6.2 34-1.3.3.2.7.2 35-1.3.3.2.7.3 37-1.4.2.4 41-1.4.2.2 43-1.4.2.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v6 / label
+                  :A (v16 / label
+                          :C (v28 / label~e.1)))
+           :P (v7 / label~e.2)
+           :A (v8 / label
+                  :C (v17 / label~e.4))
+           :A (v9 / label
+                  :R (v18 / label~e.5)
+                  :C (v19 / label~e.7)))
+    :L (v3 / label~e.8)
+    :H (v4 / label
+           :P (v10 / label~e.9)
+           :A (v11 / label
+                   :R (v20 / label~e.10)
+                   :C (v21 / label~e.11))
+           :A (v12 / label
+                   :H (v22 / label
+                           :A (v29 / label
+                                   :E (v37 / label~e.15)
+                                   :C (v38 / label~e.16))
+                           :A (v30 / label
+                                   :R (v39 / label~e.18)
+                                   :E (v40 / label~e.19)
+                                   :C (v41 / label
+                                           :A (v46 / label~e.20)
+                                           :P (v47 / label~e.21)))
+                           :S (v31 / label~e.22))
+                   :H (v23 / label
+                           :D (v32 / label~e.24)
+                           :A (v33 / label~e.26)
+                           :D (v34 / label~e.27)
+                           :G (v35 / label
+                                   :E (v42 / label~e.30)
+                                   :C (v43 / label~e.31))
+                           :A (v36 / label
+                                   :E (v44 / label~e.34)
+                                   :C (v45 / label~e.35))
+                           :P (v27 / label~e.37))))
+    :H (v5 / label
+           :A (v13 / label)
+           :A (v14 / label
+                   :A (v24 / label)
+                   :G (v25 / label~e.41)
+                   :G (v26 / label~e.43)
+                   :P v27)
+           :P (v15 / label)))

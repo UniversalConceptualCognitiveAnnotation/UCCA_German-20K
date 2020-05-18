@@ -1,0 +1,13 @@
+# ::id 25615009
+# ::tok Hierauf entfernte sich der gute Junge .
+# ::alignments 0-1.1 1-1.2.1 2-1.2.1 4-1.2.2.3.1 5-1.2.2.4
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :P (v4 / label~e.1,2)
+           :A (v5 / label
+                  :E (v6 / label
+                         :S (v8 / label~e.4)
+                         :A (v7 / label~e.5))
+                  :C v7)))

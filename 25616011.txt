@@ -1,0 +1,51 @@
+# ::id 25616011
+# ::tok Die " Nautilus " war also am Eingang der gefährlichsten Enge des ganzen Erd balls , in welche die kühnsten See fahrer kaum zu dringen wagen , worin 1840 die Corvetten Dumont d'Urvilles scheiterten und auf dem Punkt waren , völlig zugrunde zu gehen .
+# ::alignments 2-1.1.1.2 4-1.1.3 5-1.2 6-1.1.4.3 7-1.1.4.1 8-1.1.4.2.1 9-1.1.4.2.2.2 10-1.1.4.2.3 11-1.1.4.2.4.1 12-1.1.4.2.4.2 13-1.1.4.2.4.3 14-1.1.4.2.4.4 16-1.1.4.2.5.1.2 17-1.1.4.2.5.2 19-1.1.4.2.5.3.2 20-1.1.4.2.5.3.1.2 21-1.1.4.2.5.3.1.3 22-1.1.4.2.5.4 24-1.1.4.2.5.6 25-1.1.4.2.5.7 27-1.1.4.2.6.1 28-1.1.4.2.6.2.1 30-1.1.4.2.6.4.6 31-1.1.4.2.6.2.2.3 32-1.1.4.2.6.2.2.3 33-1.1.4.2.6.2.3 34-1.1.4.2.6.3 35-1.1.4.2.6.4.1 36-1.1.4.2.6.4.1 37-1.1.4.2.6.4.1 40-1.1.4.2.6.4.3 41-1.1.4.2.6.4.4 43-1.1.4.2.6.4.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label
+                  :C (v7 / label~e.2))
+           :S (v5 / label~e.4)
+           :A (v6 / label
+                  :C (v8 / label~e.7)
+                  :E (v9 / label
+                         :R (v11 / label~e.8)
+                         :E (v12 / label
+                                 :A (v13 / label~e.10)
+                                 :S (v17 / label~e.9))
+                         :C v13
+                         :E (v14 / label
+                                 :R (v18 / label~e.11)
+                                 :Q (v19 / label~e.12)
+                                 :E (v20 / label~e.13)
+                                 :C (v21 / label~e.14))
+                         :E (v15 / label
+                                 :A (v22 / label
+                                         :C v13
+                                         :R (v32 / label~e.16))
+                                 :R (v23 / label~e.17)
+                                 :A (v24 / label
+                                         :A (v33 / label
+                                                 :E (v42 / label~e.20)
+                                                 :C (v43 / label~e.21))
+                                         :D (v34 / label~e.19))
+                                 :D (v25 / label~e.22)
+                                 :P (v26 / label~e.24)
+                                 :D (v27 / label~e.25))
+                         :E (v16 / label
+                                 :R (v28 / label~e.27)
+                                 :H (v29 / label
+                                         :T (v35 / label~e.28)
+                                         :A (v36 / label
+                                                 :C (v41 / label~e.30)
+                                                 :E (v44 / label~e.31,32))
+                                         :P (v37 / label~e.33))
+                                 :L (v30 / label~e.34)
+                                 :H (v31 / label
+                                         :D (v38 / label~e.35,36,37)
+                                         :D (v39 / label~e.40)
+                                         :P (v40 / label~e.41,43)
+                                         :A v41)))
+                  :R (v10 / label~e.6)))
+    :L (v3 / label~e.5))

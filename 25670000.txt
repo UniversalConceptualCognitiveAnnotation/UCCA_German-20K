@@ -1,0 +1,38 @@
+# ::id 25670000
+# ::tok Um 5 Uhr abends , vor der Dämmerung , die in den Tropen gegenden so kurz ist , wurden wir , Conseil und ich , durch einen merkwürdigen Anblick in Staunen versetzt .
+# ::alignments 0-1.1.1.1 1-1.1.1.2.1 2-1.1.1.2.2 3-1.1.1.3 5-1.1.5.1 7-1.1.5.3.6 9-1.1.5.3.1 10-1.1.5.3.2.1 12-1.1.5.3.2.3 13-1.1.5.3.2.4 14-1.1.5.3.3 15-1.1.5.3.4 19-1.1.8.1 21-1.1.8.2.1 22-1.1.8.2.2 23-1.1.8.2.3 25-1.1.9.1 27-1.1.9.3 28-1.1.9.2.2 29-1.1.10 30-1.1.10 31-1.1.10
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :T (v3 / label
+                  :R (v8 / label~e.0)
+                  :C (v9 / label
+                         :C (v19 / label~e.1)
+                         :C (v20 / label~e.2))
+                  :E (v10 / label~e.3))
+           :A (v4 / label
+                  :R (v11 / label~e.5)
+                  :C (v12 / label
+                          :P (v21 / label
+                                  :C (v26 / label~e.7)))
+                  :E (v13 / label
+                          :R (v22 / label~e.9)
+                          :A (v23 / label
+                                  :R (v31 / label~e.10)
+                                  :E (v32 / label~e.12)
+                                  :C (v33 / label~e.13))
+                          :D (v24 / label~e.14)
+                          :S (v25 / label~e.15)
+                          :A v26))
+           :A (v5 / label
+                  :C (v14 / label~e.19)
+                  :E (v15 / label
+                          :C (v27 / label~e.21)
+                          :N (v28 / label~e.22)
+                          :C (v29 / label~e.23)))
+           :A (v6 / label
+                  :R (v16 / label~e.25)
+                  :S (v17 / label
+                          :C (v30 / label~e.28))
+                  :D (v18 / label~e.27))
+           :P (v7 / label~e.29,30,31)))

@@ -1,0 +1,87 @@
+# ::id 25665000
+# ::tok Der Indische Ozean So verlief also das ganze Leben von Kapitän Nemo im Schoß des unermeßlichen Meeres bis zum Grab in unergründlicher Tiefe , an der stillen Stätte , wohin kein Ungeheuer des Ozeans drang , den letzten Schlummer der Genossen der ›Nautilus‹ zu stören , seiner Freunde , die im Tod wie im Leben fest miteinander verbunden waren ! »
+# ::alignments 1-1.1.2.2 2-1.1.2.2 3-1.2.6 4-1.2.7 7-1.2.1 8-1.2.9.2 9-1.2.2.1 10-1.2.2.2.1 11-1.2.2.3 12-1.2.3.1 13-1.2.3.2 14-1.2.3.3.1 15-1.2.3.3.2.2 16-1.2.3.3.3 17-1.2.4.1 18-1.2.4.2 19-1.2.4.3 20-1.2.4.4.1 21-1.2.4.4.2.2 22-1.2.4.4.3 24-1.2.5.1 26-1.2.5.3.2 27-1.2.5.4 29-1.2.5.5.2 30-1.2.5.5.3.1 31-1.2.5.6.5 32-1.2.5.5.3.3.1 33-1.2.5.5.3.3.2 34-1.2.5.5.4 37-1.2.5.6.1.2 38-1.2.5.6.1.1.2 39-1.2.5.6.2.1 40-1.2.5.6.2.2.1 41-1.2.5.6.2.3.1 42-1.2.5.6.2.3.2 44-1.2.5.6.4 46-1.2.5.6.2.4.1 47-1.2.5.6.2.4.2.1 49-1.2.5.6.2.4.3.2 50-1.2.5.6.2.4.3.3.1.1 51-1.2.5.6.2.4.3.3.1.2 52-1.2.5.6.2.4.3.3.2 53-1.2.5.6.2.4.3.3.3.1 54-1.2.5.6.2.4.3.3.3.2 55-1.2.5.6.2.4.3.4 56-1.2.5.6.2.4.3.5 57-1.2.5.6.2.4.3.6
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :S (v4 / label)
+           :A (v5 / label
+                  :C (v14 / label~e.1,2)))
+    :H (v3 / label
+           :D (v6 / label~e.7)
+           :A (v7 / label
+                  :R (v15 / label~e.9)
+                  :E (v16 / label
+                          :A (v31 / label~e.10))
+                  :C (v17 / label~e.11))
+           :A (v8 / label
+                  :R (v18 / label~e.12)
+                  :C (v19 / label~e.13)
+                  :E (v20 / label
+                          :R (v32 / label~e.14)
+                          :E (v33 / label
+                                  :A (v34 / label~e.16)
+                                  :S (v46 / label~e.15))
+                          :C v34))
+           :A (v9 / label
+                  :R (v21 / label~e.17)
+                  :R (v22 / label~e.18)
+                  :C (v23 / label~e.19)
+                  :E (v24 / label
+                          :R (v35 / label~e.20)
+                          :E (v36 / label
+                                  :A (v37 / label~e.22)
+                                  :S (v47 / label~e.21))
+                          :C v37))
+           :A (v10 / label
+                   :R (v25 / label~e.24)
+                   :E (v26 / label
+                           :A (v27 / label~e.27)
+                           :S (v38 / label~e.26))
+                   :C v27
+                   :E (v28 / label
+                           :A v27
+                           :R (v39 / label~e.29)
+                           :A (v40 / label
+                                   :Q (v48 / label~e.30)
+                                   :C (v45 / label~e.31)
+                                   :E (v49 / label
+                                           :R (v56 / label~e.32)
+                                           :C (v57 / label~e.33)))
+                           :P (v41 / label~e.34))
+                   :E (v29 / label
+                           :A (v42 / label
+                                   :P (v50 / label
+                                           :C (v58 / label~e.38))
+                                   :D (v51 / label~e.37))
+                           :A (v43 / label
+                                   :R (v52 / label~e.39)
+                                   :C (v53 / label
+                                           :A (v59 / label~e.40))
+                                   :E (v54 / label
+                                           :R (v60 / label~e.41)
+                                           :C (v61 / label~e.42))
+                                   :E (v55 / label
+                                           :E (v62 / label~e.46)
+                                           :C (v63 / label
+                                                   :A (v65 / label~e.47))
+                                           :E (v64 / label
+                                                   :A v63
+                                                   :R (v66 / label~e.49)
+                                                   :A (v67 / label
+                                                           :C (v71 / label
+                                                                   :R (v74 / label~e.50)
+                                                                   :C (v75 / label~e.51))
+                                                           :N (v72 / label~e.52)
+                                                           :C (v73 / label
+                                                                   :R (v76 / label~e.53)
+                                                                   :C (v77 / label~e.54)))
+                                                   :D (v68 / label~e.55)
+                                                   :A (v69 / label~e.56)
+                                                   :S (v70 / label~e.57))))
+                           :P (v44 / label~e.44)
+                           :A v45))
+           :D (v11 / label~e.3)
+           :D (v12 / label~e.4)
+           :P (v13 / label
+                   :C (v30 / label~e.8))))

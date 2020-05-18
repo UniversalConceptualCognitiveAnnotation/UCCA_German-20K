@@ -1,0 +1,33 @@
+# ::id 25654012
+# ::tok Der Kapitän mit seinen Leuten war damit beschäftigt , den Kameraden an dieser unzugänglichen Stelle des Meeresgrunds zu bestatten .
+# ::alignments 1-1.1.2.1.1.2 2-1.1.2.2 3-1.1.2.3.1 4-1.1.2.3.2 6-1.1.4.2 7-1.1.5 10-1.1.4.1.1.1.2 11-1.1.4.1.2.1 12-1.1.4.1.2.2 13-1.1.4.1.2.3.2 14-1.1.4.1.2.4 15-1.1.4.1.2.5.1 16-1.1.4.1.2.5.2 18-1.1.4.1.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :C (v6 / label
+                         :A (v11 / label
+                                 :C (v17 / label~e.1)))
+                  :N (v7 / label~e.2)
+                  :C (v8 / label
+                         :E (v12 / label~e.3)
+                         :C (v13 / label~e.4)))
+           :A (v4 / label
+                  :E (v9 / label
+                         :A (v14 / label
+                                 :A (v18 / label
+                                         :C (v24 / label~e.10)))
+                         :A (v15 / label
+                                 :R (v19 / label~e.11)
+                                 :E (v20 / label~e.12)
+                                 :E (v21 / label
+                                         :A (v22 / label~e.14)
+                                         :S (v25 / label~e.13))
+                                 :C v22
+                                 :E (v23 / label
+                                         :R (v26 / label~e.15)
+                                         :C (v27 / label~e.16)))
+                         :P (v16 / label~e.18)
+                         :A (v10 / label~e.6))
+                  :C v10)
+           :P (v5 / label~e.7)))

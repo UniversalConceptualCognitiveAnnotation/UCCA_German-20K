@@ -1,0 +1,34 @@
+# ::id 25643003
+# ::tok Gut « , erwiderte ich , » aber die " Nautilus " ist eine Welt für sich , und die Geheimnisse ihrer Gelehrten gelangen nicht bis auf die Erde . « »
+# ::alignments 0-1.1.5.1.1 3-1.1.6 4-1.1.7 7-1.1.5.2 10-1.1.5.3.1.2 12-1.1.5.3.2 14-1.1.5.3.3.2 15-1.1.5.3.3.3.1 16-1.1.5.3.3.3.2 18-1.1.5.4 20-1.1.5.5.1.1.2 21-1.1.5.5.1.2.1 22-1.1.5.5.1.2.2 23-1.1.5.5.2 24-1.1.5.5.3 25-1.1.5.5.4.1 26-1.1.5.5.4.1 28-1.1.5.5.4.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :H (v6 / label
+                         :S (v11 / label~e.0))
+                  :L (v7 / label~e.7)
+                  :H (v8 / label
+                         :A (v12 / label
+                                 :C (v19 / label~e.10))
+                         :S (v13 / label~e.12)
+                         :A (v14 / label
+                                 :C (v20 / label~e.14)
+                                 :E (v21 / label
+                                         :R (v26 / label~e.15)
+                                         :C (v27 / label~e.16))))
+                  :L (v9 / label~e.18)
+                  :H (v10 / label
+                          :A (v15 / label
+                                  :S (v22 / label
+                                          :C (v28 / label~e.20))
+                                  :A (v23 / label
+                                          :R (v29 / label~e.21)
+                                          :A (v30 / label~e.22)))
+                          :P (v16 / label~e.23)
+                          :D (v17 / label~e.24)
+                          :A (v18 / label
+                                  :R (v24 / label~e.25,26)
+                                  :C (v25 / label~e.28))))
+           :P (v4 / label~e.3)
+           :A (v5 / label~e.4)))

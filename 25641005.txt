@@ -1,0 +1,22 @@
+# ::id 25641005
+# ::tok Diese Insel mit einem Flächeninhalt von 1.625 Quadratlieue wird von Rad-jahs beherrscht .
+# ::alignments 0-1.1.2.1 1-1.1.2.2 2-1.1.2.3.2 4-1.1.2.3.3.2 5-1.1.2.3.4.1 6-1.1.2.3.4.2 7-1.1.2.3.4.3 9-1.1.4.1 10-1.1.4.2 11-1.1.5
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v6 / label~e.0)
+                  :C (v7 / label~e.1)
+                  :E (v8 / label
+                         :A v7
+                         :R (v11 / label~e.2)
+                         :S (v12 / label
+                                 :C (v14 / label~e.4))
+                         :A (v13 / label
+                                 :R (v15 / label~e.5)
+                                 :Q (v16 / label~e.6)
+                                 :C (v17 / label~e.7))))
+           :A (v4 / label
+                  :R (v9 / label~e.9)
+                  :C (v10 / label~e.10))
+           :S (v5 / label~e.11)))

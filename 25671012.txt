@@ -1,0 +1,80 @@
+# ::id 25671012
+# ::tok Nein , lieber Junge ; diese weiße Farbe , die dir auffällt , rührt nur von Myriaden Infusions tierchen her , eine Art Leucht würmchen , die farblos sind und wie Gallerte aussehen , haardünn und nicht länger als 1 / 5 Millimeter . Manche dieser Tierchen hängen meilenweit miteinander zusammen . « » Meilenweit « , rief Conseil aus . »
+# ::alignments 0-1.1.3.1.4 2-1.1.3.1.5.1.2 3-1.1.3.1.5.2 5-1.1.3.2.1.1 6-1.1.3.2.1.2.2 7-1.1.3.2.1.3 9-1.1.3.2.1.4.2 10-1.1.3.2.1.4.3 11-1.1.3.2.1.4.4 13-1.1.3.2.2 14-1.1.3.2.3 15-1.1.3.2.4.1 16-1.1.3.2.4.2 17-1.1.3.2.4.3 18-1.1.3.2.4.4 19-1.1.3.2.2 22-1.1.3.2.4.5.1.2 23-1.1.3.2.4.5.2 24-1.1.3.2.4.5.3 26-1.1.3.2.4.6.1.2 27-1.1.3.2.4.6.1.3 29-1.1.3.2.4.6.2 30-1.1.3.2.4.6.3.2 31-1.1.3.2.4.6.3.3 32-1.1.3.2.4.6.3.4 34-1.1.3.2.4.6.4.2 35-1.1.3.2.4.6.5 36-1.1.3.2.4.6.6.2 37-1.1.3.2.4.6.6.3 38-1.1.3.2.4.6.6.4.1 39-1.1.3.2.4.6.6.4.2 41-1.1.3.2.4.6.6.4.2 42-1.1.3.2.4.6.6.4.3 44-1.1.3.3.1.1 45-1.1.3.3.1.2 46-1.2.1.3 47-1.2.1.2 48-1.1.3.3.3 49-1.1.3.3.4 50-1.2.1.2 54-1.2.1.1 57-1.2.2 58-1.2.3 59-1.2.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :P (v4 / label)
+           :A (v5 / label)
+           :A (v6 / label
+                  :H (v10 / label
+                          :A (v16 / label)
+                          :P (v17 / label)
+                          :G (v18 / label~e.0)
+                          :G (v19 / label
+                                  :E (v27 / label
+                                          :A (v28 / label~e.3)
+                                          :S (v41 / label~e.2))
+                                  :C v28))
+                  :H (v11 / label
+                          :A (v20 / label
+                                  :E (v29 / label~e.5)
+                                  :E (v30 / label
+                                          :A (v31 / label~e.7)
+                                          :S (v42 / label~e.6))
+                                  :C v31
+                                  :E (v32 / label
+                                          :A v31
+                                          :R (v43 / label~e.9)
+                                          :A (v44 / label~e.10)
+                                          :P (v45 / label~e.11)))
+                          :P (v21 / label~e.13,19)
+                          :D (v22 / label~e.14)
+                          :A (v23 / label
+                                  :R (v33 / label~e.15)
+                                  :Q (v34 / label~e.16)
+                                  :E (v35 / label~e.17)
+                                  :C (v36 / label~e.18)
+                                  :E (v37 / label
+                                          :E (v46 / label
+                                                  :C (v55 / label~e.22))
+                                          :E (v47 / label~e.23)
+                                          :C (v48 / label~e.24))
+                                  :E (v38 / label
+                                          :H (v49 / label
+                                                  :A v36
+                                                  :R (v56 / label~e.26)
+                                                  :S (v57 / label~e.27))
+                                          :L (v50 / label~e.29)
+                                          :H (v51 / label
+                                                  :A v36
+                                                  :R (v58 / label~e.30)
+                                                  :A (v59 / label~e.31)
+                                                  :P (v60 / label~e.32))
+                                          :H (v52 / label
+                                                  :A v36
+                                                  :S (v61 / label~e.34))
+                                          :L (v53 / label~e.35)
+                                          :H (v54 / label
+                                                  :A v36
+                                                  :D (v62 / label~e.36)
+                                                  :S (v63 / label~e.37)
+                                                  :A (v64 / label
+                                                          :R (v65 / label~e.38)
+                                                          :Q (v66 / label~e.39,41)
+                                                          :C (v67 / label~e.42))))))
+                  :H (v12 / label
+                          :A (v24 / label
+                                  :E (v39 / label~e.44)
+                                  :E (v40 / label~e.45)
+                                  :C (v15 / label~e.46))
+                          :S (v14 / label~e.47,50)
+                          :D (v25 / label~e.48)
+                          :A (v26 / label~e.49))))
+    :H (v3 / label
+           :A (v7 / label
+                  :D (v13 / label~e.54)
+                  :S v14
+                  :A v15)
+           :P (v8 / label~e.57,59)
+           :A (v9 / label~e.58)))

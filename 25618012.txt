@@ -1,0 +1,37 @@
+# ::id 25618012
+# ::tok Aber ein Zwischenfall « , entgegnete ich , » der Sie vielleicht nötigen wird , wieder ein Bewohner des Landes zu werden , das Sie fliehen . «
+# ::alignments 0-1.1.5.1 2-1.1.5.2.2.2.7 5-1.1.6 6-1.1.7 9-1.1.5.2.2.2.1 10-1.1.5.2.2.2.2 11-1.1.5.2.2.2.3 12-1.1.5.2.2.2.4 15-1.1.5.2.2.2.6.2 17-1.1.5.2.2.2.6.3.1.2 18-1.1.5.2.2.2.6.4.1 19-1.1.5.2.2.2.6.4.2 21-1.1.5.2.2.2.6.6 23-1.1.5.2.2.2.6.4.3.2 24-1.1.5.2.2.2.6.4.3.3 25-1.1.5.2.2.2.6.4.3.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :L (v6 / label~e.0)
+                  :H (v7 / label
+                         :S (v8 / label)
+                         :A (v9 / label
+                                :C (v10 / label
+                                        :P (v12 / label
+                                                :C (v18 / label~e.2)))
+                                :E (v11 / label
+                                        :R (v13 / label~e.9)
+                                        :A (v14 / label~e.10)
+                                        :G (v15 / label~e.11)
+                                        :P (v16 / label~e.12)
+                                        :A (v17 / label
+                                                :A v14
+                                                :D (v19 / label~e.15)
+                                                :A (v20 / label
+                                                        :A (v23 / label
+                                                                :C (v27 / label~e.17)))
+                                                :A (v21 / label
+                                                        :R (v24 / label~e.18)
+                                                        :C (v25 / label~e.19)
+                                                        :E (v26 / label
+                                                                :A v25
+                                                                :R (v28 / label~e.23)
+                                                                :A (v29 / label~e.24)
+                                                                :P (v30 / label~e.25)))
+                                                :P (v22 / label~e.21))
+                                        :A v18))))
+           :P (v4 / label~e.5)
+           :A (v5 / label~e.6)))

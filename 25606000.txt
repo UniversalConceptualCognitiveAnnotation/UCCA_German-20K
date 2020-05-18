@@ -1,0 +1,28 @@
+# ::id 25606000
+# ::tok Vanikoro Dieser fürchterliche Anblick war das Vorspiel zu Katastrophen , denen die " Nautilus " auf ihrer Fahrt begegnen sollte .
+# ::alignments 0-1.1 1-1.2.1.1.1 2-1.2.1.2 3-1.2.1.1.2 6-1.2.3.2 7-1.2.4.4 8-1.2.4.1 10-1.2.4.2.2 13-1.2.4.2.3.2 15-1.2.4.2.4.1 16-1.2.4.2.4.2 17-1.2.4.2.4.3 18-1.2.4.2.5 19-1.2.4.2.6
+# ::format ucca
+(v1 / label
+    :H (v2 / label~e.0)
+    :H (v3 / label
+           :A (v4 / label
+                  :P (v7 / label
+                         :E (v13 / label~e.1)
+                         :C (v14 / label~e.3))
+                  :D (v8 / label~e.2))
+           :P (v5 / label
+                  :C (v9 / label~e.6))
+           :A (v6 / label
+                  :C (v10 / label~e.8)
+                  :E (v11 / label
+                          :A v10
+                          :R (v15 / label~e.10)
+                          :A (v16 / label
+                                  :C (v20 / label~e.13))
+                          :A (v17 / label
+                                  :R (v21 / label~e.15)
+                                  :A (v22 / label~e.16)
+                                  :P (v23 / label~e.17))
+                          :P (v18 / label~e.18)
+                          :D (v19 / label~e.19))
+                  :R (v12 / label~e.7))))

@@ -1,0 +1,14 @@
+# ::id 25605003
+# ::tok Schauen Sie doch , mein Herr . «
+# ::alignments 0-1.1.3.4 1-1.1.3.5 4-1.1.3.2.1 5-1.1.3.2.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :P (v3 / label)
+           :A (v4 / label)
+           :A (v5 / label
+                  :G (v6 / label
+                         :A (v9 / label~e.4)
+                         :A (v10 / label~e.5))
+                  :P (v7 / label~e.0)
+                  :A (v8 / label~e.1))))
