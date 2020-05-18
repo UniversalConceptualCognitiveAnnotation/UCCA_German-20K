@@ -1,0 +1,38 @@
+#BOS 25665002
+Stets	Word	--	Terminal	500
+dasselbe	Word	--	Terminal	501
+Mißtrauen	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+das	Word	--	Terminal	504
+wilde	Word	--	Terminal	505
+,	Punctuation	--	Terminal	506
+unversöhnliche	Word	--	Terminal	507
+,	Punctuation	--	Terminal	508
+gegen	Word	--	Terminal	509
+die	Word	--	Terminal	510
+menschliche	Word	--	Terminal	511
+Gesellschaft	Word	--	Terminal	512
+!	Punctuation	--	Terminal	513
+#500	FN	--	T	520
+#501	FN	--	D	520
+#502	FN	--	S	520	C*	514
+#503	PNCT	--	U	514
+#504	FN	--	F	514
+#505	FN	--	C	515
+#506	PNCT	--	U	515
+#507	FN	--	C	515
+#508	PNCT	--	U	521
+#509	FN	--	R	517
+#510	FN	--	F	516
+#511	FN	--	D	517
+#512	FN	--	C	516
+#513	PNCT	--	U	516
+#514	FN	--	S	519
+#515	FN	--	D	519
+#516	FN	--	A	517
+#517	FN	--	A	520
+#518	FN	--	A	520
+#519	FN	--	H	521
+#520	FN	--	H	521
+#521	FN	--	--	0
+#EOS 25665002

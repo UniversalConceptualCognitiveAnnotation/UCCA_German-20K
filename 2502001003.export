@@ -1,0 +1,39 @@
+#BOS 2502001003
+Es	Word	--	Terminal	500
+war	Word	--	Terminal	501
+ein	Word	--	Terminal	502
+volltönender	Word	--	Terminal	503
+,	Punctuation	--	Terminal	504
+harmonischer	Word	--	Terminal	505
+,	Punctuation	--	Terminal	506
+biegsamer	Word	--	Terminal	507
+Dialekt	Word	--	Terminal	508
+mit	Word	--	Terminal	509
+sehr	Word	--	Terminal	510
+verschiedenartiger	Word	--	Terminal	511
+Betonung	Word	--	Terminal	512
+.	Punctuation	--	Terminal	513
+#500	FN	--	F	521
+#501	FN	--	S	521
+#502	FN	--	F	520
+#503	FN	--	S	514
+#504	PNCT	--	U	519
+#505	FN	--	S	515
+#506	PNCT	--	U	519
+#507	FN	--	S	516
+#508	FN	--	C	520	A*	514	A*	515	A*	516
+#509	FN	--	R	518
+#510	FN	--	D	517
+#511	FN	--	S	517
+#512	FN	--	C	518	A*	517
+#513	PNCT	--	U	518
+#514	FN	--	H	519
+#515	FN	--	H	519
+#516	FN	--	H	519
+#517	FN	--	E	518
+#518	FN	--	E	520
+#519	FN	--	E	520
+#520	FN	--	A	521
+#521	FN	--	H	522
+#522	FN	--	--	0
+#EOS 2502001003

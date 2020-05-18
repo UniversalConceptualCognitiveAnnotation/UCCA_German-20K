@@ -1,0 +1,38 @@
+#BOS 25410001
+Die	Word	--	Terminal	500
+Enten	Word	--	Terminal	501
+bekamen	Word	--	Terminal	502
+eine	Word	--	Terminal	503
+hübsche	Word	--	Terminal	504
+Gelegenheit	Word	--	Terminal	505
+,	Punctuation	--	Terminal	506
+Eier	Word	--	Terminal	507
+in	Word	--	Terminal	508
+allen	Word	--	Terminal	509
+Farben	Word	--	Terminal	510
+zu	Word	--	Terminal	511
+legen	Word	--	Terminal	512
+.	Punctuation	--	Terminal	513
+#500	FN	--	F	514
+#501	FN	--	C	514	A*	519
+#502	FN	--	P	520
+#503	FN	--	F	516
+#504	FN	--	S	515
+#505	FN	--	C	516	A*	515
+#506	PNCT	--	U	520
+#507	FN	--	C	518
+#508	FN	--	R	517
+#509	FN	--	E	517
+#510	FN	--	C	517
+#511	FN	--	F	519
+#512	FN	--	P	519
+#513	PNCT	--	U	519
+#514	FN	--	A	520
+#515	FN	--	E	516
+#516	FN	--	A	520
+#517	FN	--	E	518
+#518	FN	--	A	519
+#519	FN	--	A	520
+#520	FN	--	H	521
+#521	FN	--	--	0
+#EOS 25410001
