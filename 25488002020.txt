@@ -1,0 +1,12 @@
+# ::id 25488002020
+# ::tok Nur ein Ereignis tritt mir klar hervor .
+# ::alignments 0-1.1.2 2-1.1.3.1 3-1.1.4 4-1.1.5 5-1.1.6 6-1.1.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :D (v3 / label~e.0)
+           :A (v4 / label
+                  :C (v8 / label~e.2))
+           :P (v5 / label~e.3,6)
+           :A (v6 / label~e.4)
+           :D (v7 / label~e.5)))

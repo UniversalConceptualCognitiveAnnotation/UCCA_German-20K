@@ -1,0 +1,32 @@
+# ::id 25464005
+# ::tok Nichts was einem riesenhaften Narwal , einem unterseeischen Inselchen , einer schweifenden Klippe , noch sonst etwas Übernatürlichem geglichen hätte .
+# ::alignments 0-1.1.2 1-1.1.3.9 3-1.1.3.10.2.2 4-1.1.3.10.3 7-1.1.3.11.2.2 8-1.1.3.11.3 11-1.1.3.1.2.2 12-1.1.3.1.3 14-1.1.3.2.1 15-1.1.3.2.2 16-1.1.3.2.3 17-1.1.3.2.4 18-1.1.3.3 19-1.1.3.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :S (v3 / label)
+           :D (v4 / label~e.0)
+           :A (v5 / label
+                  :A (v6 / label
+                         :E (v13 / label
+                                 :A (v14 / label~e.12)
+                                 :P (v23 / label~e.11))
+                         :C v14)
+                  :A (v7 / label
+                         :R (v15 / label~e.14)
+                         :D (v16 / label~e.15)
+                         :A (v17 / label~e.16)
+                         :S (v18 / label~e.17))
+                  :S (v8 / label~e.18)
+                  :D (v9 / label~e.19)
+                  :R (v10 / label~e.1)
+                  :A (v11 / label
+                          :E (v19 / label
+                                  :A (v20 / label~e.4)
+                                  :S (v24 / label~e.3))
+                          :C v20)
+                  :A (v12 / label
+                          :E (v21 / label
+                                  :A (v22 / label~e.8)
+                                  :S (v25 / label~e.7))
+                          :C v22))))

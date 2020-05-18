@@ -1,0 +1,11 @@
+# ::id 25431002
+# ::tok Es entstand die äußerste Aufregung .
+# ::alignments 1-1.1.2 3-1.1.3.2 4-1.1.3.1.1
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :P (v3 / label~e.1)
+           :A (v4 / label
+                  :P (v5 / label
+                         :C (v7 / label~e.4))
+                  :D (v6 / label~e.3))))

@@ -1,0 +1,62 @@
+# ::id 25494005
+# ::tok Ein verhaltenes Lächeln auf den Lippen , fuhr der Kommandant in ruhigerem Ton fort : » Herr Arronax , Sie werden wohl nicht zu behaupten wagen , dass Ihre Fregatte nicht ebensogut ein unterseeisches Boot verfolgt und kanoniert habe wie ein Ungeheuer ? «
+# ::alignments 1-1.1.2 2-1.1.1.2 3-1.1.3.1 5-1.1.3.3 7-1.2.4 9-1.1.4.1.2 10-1.2.6.1 11-1.2.6.2.2 12-1.2.6.3 13-1.2.4 16-1.2.1.1.1 17-1.2.1.1.2 19-1.2.1.2 21-1.2.1.4 22-1.2.1.5 24-1.2.1.7 25-1.2.1.8 27-1.2.1.9.1 28-1.2.1.9.5.1.1.2 29-1.2.1.9.4.2 30-1.2.1.9.5.2.1 31-1.2.1.9.5.2.2 33-1.2.1.9.5.3.2.2 34-1.2.1.9.5.3.3 35-1.2.1.9.4.1 36-1.2.1.9.2 37-1.2.1.9.6.1 39-1.2.1.9.3 41-1.2.1.9.4.3.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :P (v4 / label
+                  :C (v11 / label~e.2))
+           :D (v5 / label~e.1)
+           :A (v6 / label
+                  :R (v12 / label~e.3)
+                  :C (v13 / label~e.5))
+           :A (v7 / label
+                  :A (v14 / label
+                          :C (v25 / label~e.9))))
+    :H (v3 / label
+           :A (v8 / label
+                  :G (v15 / label
+                          :E (v26 / label~e.16)
+                          :C (v27 / label~e.17))
+                  :A (v16 / label~e.19)
+                  :G (v17 / label~e.21)
+                  :D (v18 / label~e.22)
+                  :P (v19 / label~e.24)
+                  :D (v20 / label~e.25)
+                  :A (v21 / label
+                          :R (v28 / label~e.27)
+                          :L (v29 / label~e.36)
+                          :L (v30 / label~e.39)
+                          :H (v31 / label
+                                  :P (v35 / label~e.35)
+                                  :A (v36 / label~e.29)
+                                  :A (v37 / label
+                                          :C (v42 / label~e.41)))
+                          :H (v32 / label
+                                  :A (v38 / label
+                                          :E (v43 / label
+                                                  :A v36
+                                                  :A (v48 / label~e.28))
+                                          :C v36)
+                                  :D (v39 / label
+                                          :E (v44 / label~e.30)
+                                          :C (v45 / label~e.31))
+                                  :A (v40 / label
+                                          :E (v46 / label
+                                                  :A (v47 / label~e.34)
+                                                  :S (v49 / label~e.33))
+                                          :C v47)
+                                  :P v35)
+                          :H (v33 / label
+                                  :P (v41 / label~e.37)
+                                  :A v38
+                                  :D v39
+                                  :A v40)))
+           :P (v9 / label~e.7,13)
+           :A v7
+           :A (v10 / label
+                   :R (v22 / label~e.10)
+                   :E (v23 / label
+                           :A (v24 / label~e.12)
+                           :S (v34 / label~e.11))
+                   :C v24)))

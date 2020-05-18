@@ -1,0 +1,25 @@
+# ::id 25475001
+# ::tok Aber um ihm nah zu kommen « , sagte der Kommandant , werd' ich ein Walfisch boot Ihnen zur Verfügung stellen müssen ? « »
+# ::alignments 0-1.1.4.1 1-1.1.4.2 2-1.1.4.3.2 3-1.1.4.3.3 5-1.1.4.3.3 8-1.1.5 10-1.1.6.1.2 13-1.1.4.4.2 15-1.1.4.4.3.2 16-1.1.4.4.3.3 17-1.1.4.4.4 18-1.1.4.4.5 19-1.1.4.4.5 20-1.1.4.4.5 21-1.1.4.4.6
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :L (v6 / label~e.0)
+                  :L (v7 / label~e.1)
+                  :H (v8 / label
+                         :A (v11 / label)
+                         :A (v12 / label~e.2)
+                         :P (v13 / label~e.3,5))
+                  :H (v9 / label
+                         :A (v14 / label~e.13)
+                         :A (v15 / label
+                                 :E (v20 / label~e.15)
+                                 :C (v21 / label~e.16))
+                         :A (v16 / label~e.17)
+                         :P (v17 / label~e.18,19,20)
+                         :D (v18 / label~e.21)))
+           :P (v4 / label~e.8)
+           :A (v5 / label
+                  :A (v10 / label
+                          :C (v19 / label~e.10)))))

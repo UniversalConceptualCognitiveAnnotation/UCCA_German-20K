@@ -1,0 +1,33 @@
+# ::id 25408000
+# ::tok Eine schweifende Klippe Ein seltsames Ereignis , ein unerklärtes , und eine unerklärbare Natur erscheinung , die sich im Jahre 1866 begab , ist ohne Zweifel noch unvergessen .
+# ::alignments 1-1.1.2.2 2-1.1.3 4-1.2.3.1.2 5-1.2.3.1.1.2 8-1.2.3.1.3.2 10-1.2.3.2 12-1.2.3.3.2 13-1.2.3.3.3 14-1.2.3.3.1.2 16-1.2.3.3.4 17-1.2.3.3.5 18-1.2.3.3.6.1 19-1.2.3.3.6.2 20-1.2.3.3.6.3 21-1.2.3.3.5 24-1.2.5 25-1.2.5 26-1.2.6 27-1.2.7
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :E (v4 / label
+                  :A (v5 / label~e.2)
+                  :S (v10 / label~e.1))
+           :C v5)
+    :H (v3 / label
+           :A (v6 / label
+                  :C (v11 / label
+                          :P (v14 / label
+                                  :C (v23 / label~e.5))
+                          :D (v15 / label~e.4)
+                          :D (v16 / label
+                                  :C (v24 / label~e.8)))
+                  :N (v12 / label~e.10)
+                  :C (v13 / label
+                          :P (v17 / label
+                                  :C (v25 / label~e.14))
+                          :D (v18 / label~e.12)
+                          :D (v19 / label~e.13)
+                          :R (v20 / label~e.16)
+                          :D (v21 / label~e.17,21)
+                          :T (v22 / label
+                                  :R (v26 / label~e.18)
+                                  :E (v27 / label~e.19)
+                                  :C (v28 / label~e.20))))
+           :D (v7 / label~e.24,25)
+           :D (v8 / label~e.26)
+           :S (v9 / label~e.27)))

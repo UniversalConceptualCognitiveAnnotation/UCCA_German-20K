@@ -1,0 +1,13 @@
+# ::id 25488000012
+# ::tok Jetzt hielt ich mich für verloren . »
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3 3-1.1.4 4-1.1.5.1 5-1.1.5.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :T (v3 / label~e.0)
+           :D (v4 / label~e.1)
+           :A (v5 / label~e.2)
+           :A (v6 / label~e.3)
+           :S (v7 / label
+                  :R (v8 / label~e.4)
+                  :C (v9 / label~e.5))))

@@ -1,0 +1,20 @@
+# ::id 25482002
+# ::tok Nun ! Ich gestehe , ich wäre schon zufrieden es zu riskieren . «
+# ::alignments 2-1.1.3.6 3-1.1.3.1 5-1.1.3.2.1 6-1.1.3.2.2 7-1.1.3.2.3 8-1.1.3.2.4 9-1.1.3.2.5.2 11-1.1.3.2.5.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :P (v3 / label)
+           :A (v4 / label)
+           :A (v5 / label
+                  :P (v6 / label~e.3)
+                  :A (v7 / label
+                         :A (v9 / label~e.5)
+                         :D (v10 / label~e.6)
+                         :D (v11 / label~e.7)
+                         :S (v12 / label~e.8)
+                         :A (v13 / label
+                                 :A v9
+                                 :A (v14 / label~e.9)
+                                 :P (v15 / label~e.11)))
+                  :A (v8 / label~e.2))))

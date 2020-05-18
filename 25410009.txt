@@ -1,0 +1,75 @@
+# ::id 25410009
+# ::tok Die geistreichen Schriftsteller parodierten ein von den Gegnern des Ungeheuers zitiertes Wort Linné ' s , indem sie behaupteten , » die Natur schaffe keine Dummköpfe « , und beschworen ihre Zeitgenossen , nicht die Natur Lügen zu strafen , indem sie die Existenz des Kraken , der Seeschlangen , des » Moby-Dick « und andere Hirngespinste irrsinniger Seeleute gelten ließen .
+# ::alignments 1-1.1.1.2 2-1.1.1.1.2 3-1.1.2 5-1.1.3.4.2.1 7-1.1.3.4.2.2.2 8-1.1.3.4.2.3.1 9-1.1.3.4.2.3.2 10-1.1.3.4.3 11-1.1.3.2 12-1.1.3.3.1 14-1.1.3.3.2 16-1.2 17-1.3.1 18-1.3.2 22-1.3.3.1.2 23-1.3.3.2 24-1.3.3.3.1 25-1.3.3.3.2 28-1.4 29-1.5.1 30-1.5.2.1 31-1.5.2.2 33-1.5.3.2 35-1.5.3.3.2 36-1.5.3.4 37-1.5.3.4 38-1.5.3.4 40-1.6 41-1.7.2 43-1.7.3.1.2 44-1.7.3.2.1.1 45-1.7.3.2.1.2 47-1.7.3.2.2.1 48-1.7.3.2.2.2 50-1.7.3.2.3.1 52-1.7.3.2.3.2 54-1.7.3.2.4 55-1.7.3.2.5.1 56-1.7.3.2.5.2 57-1.7.3.2.5.3.1 58-1.7.3.2.5.3.2 59-1.7.4 60-1.7.5
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v9 / label
+                  :A (v22 / label
+                          :C (v38 / label~e.2))
+                  :D (v23 / label~e.1))
+           :P (v10 / label~e.3)
+           :A (v11 / label
+                   :C (v24 / label~e.11)
+                   :E (v25 / label
+                           :C (v39 / label~e.12)
+                           :R (v40 / label~e.14))
+                   :E (v26 / label
+                           :A v24
+                           :A (v41 / label
+                                   :R (v53 / label~e.5)
+                                   :A (v54 / label
+                                           :C (v65 / label~e.7))
+                                   :A (v55 / label
+                                           :R (v66 / label~e.8)
+                                           :C (v67 / label~e.9)))
+                           :P (v42 / label~e.10))))
+    :L (v3 / label~e.16)
+    :H (v4 / label
+           :A (v12 / label~e.17)
+           :P (v13 / label~e.18)
+           :A (v14 / label
+                   :A (v27 / label
+                           :C (v43 / label~e.22))
+                   :P (v28 / label~e.23)
+                   :A (v29 / label
+                           :Q (v44 / label~e.24)
+                           :C (v45 / label~e.25))))
+    :L (v5 / label~e.28)
+    :H (v6 / label
+           :P (v15 / label~e.29)
+           :A (v16 / label
+                   :A (v30 / label~e.30)
+                   :A (v31 / label~e.31))
+           :A (v17 / label
+                   :A (v32 / label)
+                   :D (v33 / label~e.33)
+                   :A (v34 / label
+                           :C (v46 / label~e.35))
+                   :P (v35 / label~e.36,37,38))
+           :A v12)
+    :L (v7 / label~e.40)
+    :H (v8 / label
+           :A (v18 / label~e.41)
+           :A (v19 / label
+                   :S (v36 / label
+                           :C (v47 / label~e.43))
+                   :A (v37 / label
+                           :C (v48 / label
+                                   :R (v56 / label~e.44)
+                                   :C (v57 / label~e.45))
+                           :C (v49 / label
+                                   :R (v58 / label~e.47)
+                                   :C (v59 / label~e.48))
+                           :C (v50 / label
+                                   :R (v60 / label~e.50)
+                                   :C (v61 / label~e.52))
+                           :N (v51 / label~e.54)
+                           :C (v52 / label
+                                   :D (v62 / label~e.55)
+                                   :C (v63 / label~e.56)
+                                   :E (v64 / label
+                                           :D (v68 / label~e.57)
+                                           :A (v69 / label~e.58)))))
+           :S (v20 / label~e.59)
+           :D (v21 / label~e.60)))

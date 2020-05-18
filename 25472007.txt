@@ -1,0 +1,20 @@
+# ::id 25472007
+# ::tok Jeden Augenblick konnte ein Zusammenstoß stattfinden , der uns vernichtet hätte .
+# ::alignments 0-1.1.2.1 1-1.1.2.2 2-1.1.3 4-1.1.4.1.1 5-1.1.5 7-1.1.4.2.2 8-1.1.4.2.3 9-1.1.4.2.4 10-1.1.4.2.5
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :T (v3 / label
+                  :Q (v7 / label~e.0)
+                  :C (v8 / label~e.1))
+           :D (v4 / label~e.2)
+           :A (v5 / label
+                  :C (v9 / label
+                         :P (v11 / label~e.4))
+                  :E (v10 / label
+                          :A v9
+                          :R (v12 / label~e.7)
+                          :A (v13 / label~e.8)
+                          :P (v14 / label~e.9)
+                          :D (v15 / label~e.10)))
+           :P (v6 / label~e.5)))

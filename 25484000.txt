@@ -1,0 +1,40 @@
+# ::id 25484000
+# ::tok » Ah ! « sagte er , » das Tier fährt schneller als die ›Abraham Lincoln‹ ! Nun , wir wollen sehen , ob es sich ihren Spitz kugeln entziehen wird . Meister , Mannschaft an das Geschütz vorne ! «
+# ::alignments 4-1.1.6 5-1.1.7 9-1.1.5.1.2.2 10-1.1.5.1.3 11-1.1.5.1.4 12-1.1.5.2 14-1.1.5.3.1.2 15-1.1.5.3.1.2 17-1.1.5.4 19-1.1.5.5.1 20-1.1.5.5.2 21-1.1.5.5.3 23-1.1.5.5.4.1 24-1.1.5.5.4.2 25-1.1.5.5.4.3 26-1.1.5.5.4.4.1 27-1.1.5.5.4.4.2 28-1.1.5.5.4.4.3 29-1.1.5.5.4.3 32-1.1.5.6.2 34-1.1.5.6.3 35-1.1.5.6.4.1 37-1.1.5.6.4.3 38-1.1.5.6.5
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :H (v6 / label
+                         :A (v12 / label
+                                 :C (v25 / label~e.9))
+                         :P (v13 / label~e.10)
+                         :D (v14 / label~e.11))
+                  :L (v7 / label~e.12)
+                  :H (v8 / label
+                         :A (v15 / label
+                                 :C (v26 / label~e.14,15))
+                         :P v13)
+                  :L (v9 / label~e.17)
+                  :H (v10 / label
+                          :A (v16 / label~e.19)
+                          :D (v17 / label~e.20)
+                          :P (v18 / label~e.21)
+                          :A (v19 / label
+                                  :R (v27 / label~e.23)
+                                  :A (v28 / label~e.24)
+                                  :P (v29 / label~e.25,29)
+                                  :A (v30 / label
+                                          :R (v33 / label~e.26)
+                                          :E (v34 / label~e.27)
+                                          :C (v35 / label~e.28))))
+                  :H (v11 / label
+                          :P (v20 / label)
+                          :G (v21 / label~e.32)
+                          :A (v22 / label~e.34)
+                          :A (v23 / label
+                                  :R (v31 / label~e.35)
+                                  :C (v32 / label~e.37))
+                          :D (v24 / label~e.38)))
+           :P (v4 / label~e.4)
+           :A (v5 / label~e.5)))

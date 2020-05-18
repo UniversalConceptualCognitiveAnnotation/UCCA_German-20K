@@ -1,0 +1,22 @@
+# ::id 25428001
+# ::tok Die Lösung , die ich vorschlug , ließ übrigens der Phantasie freien Spielraum .
+# ::alignments 1-1.1.2.2 3-1.1.2.3.2 4-1.1.2.3.3 5-1.1.2.3.4 7-1.1.3 8-1.1.4 10-1.1.5.2 11-1.1.6.1.2 12-1.1.6.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :C (v8 / label~e.1)
+                  :E (v9 / label
+                         :A v8
+                         :R (v13 / label~e.3)
+                         :A (v14 / label~e.4)
+                         :P (v15 / label~e.5)))
+           :P (v4 / label~e.7)
+           :D (v5 / label~e.8)
+           :A (v6 / label
+                  :C (v10 / label~e.10))
+           :A (v7 / label
+                  :E (v11 / label
+                          :A (v12 / label~e.12)
+                          :S (v16 / label~e.11))
+                  :C v12)))

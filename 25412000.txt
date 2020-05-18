@@ -1,0 +1,55 @@
+# ::id 25412000
+# ::tok Am 13 . April 1867 fuhr der Scotia unter 15 12 ° Länge ' und 45 37 Breite ° , ' bei ruhigem Meer und günstigem Wind mit einer Schnelligkeit von dreizehn Knoten und vollkommen regelmäßiger Rad bewegung .
+# ::alignments 0-1.1.1.1 1-1.1.1.2 3-1.1.1.3 4-1.1.1.4 5-1.1.2 7-1.1.3.2 8-1.1.7.1 9-1.1.7.2.1 10-1.1.7.2.2 12-1.1.7.2.3 14-1.1.7.3 15-1.1.7.4.1 16-1.1.7.4.2 17-1.1.7.4.3 21-1.1.8.1 22-1.1.8.2.1.2 23-1.1.8.2.2 24-1.1.8.3 25-1.1.8.4.1.2 26-1.1.8.4.2 27-1.1.9.1.1 29-1.1.9.1.3 30-1.1.9.1.4.1 31-1.1.9.1.4.2 32-1.1.9.1.4.3 33-1.1.9.2 34-1.1.9.3.1.2 35-1.1.9.3.1.3 36-1.1.9.3.2.1 37-1.1.9.3.2.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :T (v3 / label
+                  :R (v9 / label~e.0)
+                  :C (v10 / label~e.1)
+                  :C (v11 / label~e.3)
+                  :C (v12 / label~e.4))
+           :P (v4 / label~e.5)
+           :A (v5 / label
+                  :C (v13 / label~e.7))
+           :A (v6 / label
+                  :R (v14 / label~e.8)
+                  :C (v15 / label
+                          :C (v25 / label~e.9)
+                          :C (v26 / label~e.10)
+                          :E (v27 / label~e.12))
+                  :N (v16 / label~e.14)
+                  :C (v17 / label
+                          :C (v28 / label~e.15)
+                          :C (v29 / label~e.16)
+                          :E (v30 / label~e.17)))
+           :A (v7 / label
+                  :R (v18 / label~e.21)
+                  :C (v19 / label
+                          :E (v31 / label
+                                  :A (v32 / label~e.23)
+                                  :S (v40 / label~e.22))
+                          :C v32)
+                  :N (v20 / label~e.24)
+                  :C (v21 / label
+                          :E (v33 / label
+                                  :A (v34 / label~e.26)
+                                  :S (v41 / label~e.25))
+                          :C v34))
+           :A (v8 / label
+                  :C (v22 / label
+                          :R (v35 / label~e.27)
+                          :C (v36 / label~e.29)
+                          :E (v37 / label
+                                  :R (v42 / label~e.30)
+                                  :Q (v43 / label~e.31)
+                                  :C (v44 / label~e.32)))
+                  :N (v23 / label~e.33)
+                  :C (v24 / label
+                          :E (v38 / label
+                                  :A (v39 / label
+                                          :A (v47 / label~e.36)
+                                          :P (v48 / label~e.37))
+                                  :D (v45 / label~e.34)
+                                  :S (v46 / label~e.35))
+                          :C v39))))

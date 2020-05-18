@@ -1,0 +1,17 @@
+# ::id 25440017
+# ::tok Die Fregatte hätte hundertfach Grund gehabt , den Namen ›Argus‹ zu führen .
+# ::alignments 1-1.1.2.2 3-1.1.4 4-1.1.5 5-1.1.6 8-1.1.7.1.2 9-1.1.7.1.3 11-1.1.7.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :C (v8 / label~e.1))
+           :D (v4 / label~e.3)
+           :A (v5 / label~e.4)
+           :P (v6 / label~e.5)
+           :A (v7 / label
+                  :A (v9 / label
+                         :E (v11 / label~e.8)
+                         :C (v12 / label~e.9))
+                  :P (v10 / label~e.11)
+                  :A v8)))
