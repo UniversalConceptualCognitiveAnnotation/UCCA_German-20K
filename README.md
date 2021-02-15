@@ -1,6 +1,6 @@
 UCCA-Annotated German Corpus
 ============================
-(May 21, 2020)
+Version 2.0 (May 21, 2020)
 ----------------------------------
 
 This bundle contains 248 passages annotated according to the foundational layer of UCCA.
