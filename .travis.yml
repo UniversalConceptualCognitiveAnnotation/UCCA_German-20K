@@ -18,8 +18,7 @@ env:
 jobs:
   include:
     - script: python -m scripts.validate xml --no-linkage
-    - stage: split
-      script:
+    - script:
         - curl $SCRIPTS/split_to_sentences.sh | bash
         - git rm -f 25515002.pickle  # Too long - 386 tokens
     - stage: convert
