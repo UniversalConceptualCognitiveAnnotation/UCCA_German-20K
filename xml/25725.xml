@@ -1734,9 +1734,9 @@
         <attributes />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="R" />
       </edge>
-      <edge toID="1.13" type="E">
+      <edge toID="1.13" type="F">
         <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="E" />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="F" />
       </edge>
       <edge toID="1.14" type="E">
         <attributes />
@@ -4704,13 +4704,10 @@
         <attributes />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="S" />
       </edge>
-      <edge toID="1.294" type="D">
-        <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="D" />
-      </edge>
       <edge toID="1.295" type="A">
         <attributes />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="A" />
+        <category tag="D" />
       </edge>
     </node>
     <node ID="1.293" type="FN">
@@ -4728,9 +4725,13 @@
     <node ID="1.295" type="FN">
       <attributes />
       <extra tree_id="32-3" />
-      <edge toID="0.235" type="Terminal">
+      <edge toID="1.294" type="Q">
         <attributes />
-        <category tag="Terminal" />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="Q" />
+      </edge>
+      <edge toID="1.544" type="C">
+        <attributes />
+        <category tag="C" />
       </edge>
     </node>
     <node ID="1.296" type="FN">
@@ -5781,9 +5782,9 @@
     <node ID="1.395" type="FN">
       <attributes />
       <extra tree_id="48-3-1" />
-      <edge toID="1.396" type="E">
+      <edge toID="1.396" type="F">
         <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="E" />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="F" />
       </edge>
       <edge toID="1.397" type="C">
         <attributes />
@@ -6317,13 +6318,10 @@
         <attributes />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="A" />
       </edge>
-      <edge toID="1.448" type="D">
-        <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="D" />
-      </edge>
       <edge toID="1.449" type="A">
         <attributes />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="A" />
+        <category tag="D" />
       </edge>
       <edge toID="1.455" type="F">
         <attributes />
@@ -6353,13 +6351,13 @@
     <node ID="1.449" type="FN">
       <attributes />
       <extra tree_id="56-3" />
-      <edge toID="1.450" type="P">
+      <edge toID="1.448" type="Q">
         <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="P" />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="Q" />
       </edge>
-      <edge toID="1.451" type="A">
+      <edge toID="1.545" type="C">
         <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="A" />
+        <category tag="C" />
       </edge>
     </node>
     <node ID="1.450" type="FN">
@@ -7156,6 +7154,24 @@
       <edge toID="0.397" type="Terminal">
         <attributes />
         <category tag="Terminal" />
+      </edge>
+    </node>
+    <node ID="1.544" type="FN">
+      <attributes />
+      <edge toID="0.235" type="Terminal">
+        <attributes />
+        <category tag="Terminal" />
+      </edge>
+    </node>
+    <node ID="1.545" type="FN">
+      <attributes />
+      <edge toID="1.450" type="P">
+        <attributes />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="P" />
+      </edge>
+      <edge toID="1.451" type="A">
+        <attributes />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="A" />
       </edge>
     </node>
   </layer>
