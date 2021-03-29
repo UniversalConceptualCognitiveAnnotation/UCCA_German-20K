@@ -1,5 +1,5 @@
 <root annotationID="0" passageID="25777">
-  <attributes annotationID="8944" passageID="2425" remarks="25777" userID="21" />
+  <attributes annotationID="13945" passageID="2425" remarks="25777" userID="14" />
   <layer layerID="0">
     <attributes />
     <node ID="0.1" type="Word">
@@ -2203,7 +2203,7 @@
       <extra tree_id="7-3" />
       <edge toID="1.54" type="Q">
         <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" tag="Q" />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="Q" />
       </edge>
       <edge toID="1.55" type="C">
         <attributes />
@@ -2753,10 +2753,10 @@
     <node ID="1.104" type="FN">
       <attributes />
       <extra tree_id="13-1-1" />
-      <edge toID="1.105" type="A">
+      <edge toID="1.105" type="S">
         <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="A" />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="S" />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="A" />
       </edge>
     </node>
     <node ID="1.105" type="FN">
@@ -3810,10 +3810,10 @@
     <node ID="1.203" type="FN">
       <attributes />
       <extra tree_id="23-3-2" />
-      <edge toID="1.204" type="A">
+      <edge toID="1.204" type="S">
         <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="A" />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="S" />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="A" />
       </edge>
     </node>
     <node ID="1.204" type="FN">
@@ -4707,9 +4707,9 @@
         <attributes />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="F" />
       </edge>
-      <edge toID="1.291" type="P">
+      <edge toID="1.291" type="C">
         <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="P" />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="C" />
       </edge>
       <edge toID="1.292" type="F">
         <attributes />
@@ -4726,7 +4726,7 @@
     </node>
     <node ID="1.291" type="FN">
       <attributes />
-      <extra tree_id="35-4-2" />
+      <extra remarks="Dotan: this was marked P (inside the larger P) so I changed it to C." tree_id="35-4-2" />
       <edge toID="0.241" type="Terminal">
         <attributes />
         <category tag="Terminal" />
@@ -5269,7 +5269,7 @@
       </edge>
       <edge toID="1.341" type="Q">
         <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" tag="Q" />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="Q" />
       </edge>
       <edge toID="1.342" type="C">
         <attributes />
@@ -6063,10 +6063,10 @@
     <node ID="1.412" type="FN">
       <attributes />
       <extra tree_id="50-4-1" />
-      <edge toID="1.413" type="A">
+      <edge toID="1.413" type="S">
         <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="A" />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="S" />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="A" />
       </edge>
     </node>
     <node ID="1.413" type="FN">
